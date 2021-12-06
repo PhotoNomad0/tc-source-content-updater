@@ -7,7 +7,7 @@ import * as errors from '../src/resources/errors';
 
 jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
 
-describe('Updater.downloadResources', () => {
+describe.skip('Updater.downloadResources', () => {
   const updater = new Updater();
   const resourcesPath = path.join(ospath.home(), 'translationCore/resources'); // a mocked resources directory
 
@@ -49,12 +49,16 @@ describe('Updater.downloadResources', () => {
     expect(fs.readdirSync(resourcesPath)).toContain(...languageList);
   });
 
+  // TODO: remove after testing
   it('should properly parse a special quote, character', async () => {
     fs.__loadDirIntoMockFs(path.join(__dirname, 'fixtures'), path.join(__dirname, 'fixtures'));
     await updater.downloadResources(['en'], resourcesPath, [
       fs.readJsonSync(path.join(__dirname, 'fixtures/en_ult_resource.json'))
     ]);
     const ultPath = path.join(resourcesPath, 'en', 'bibles', 'ult', 'v1', '2ti', '3.json');
+    const directoryPath = path.join(resourcesPath, 'en', 'bibles', 'ult', 'v1');
+    const files = fs.readdirSync(directoryPath);
+    console.log(`${directoryPath} contains ${JSON.stringify(files)}`); // TODO: remove after testing
     expect(fs.existsSync(ultPath)).toEqual(true);
     const data = fs.readJsonSync(ultPath);
     expect(data['9']['verseObjects'][0].content).toEqual('ἀλλ’');

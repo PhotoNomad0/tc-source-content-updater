@@ -9,6 +9,7 @@ import semver from 'semver';
 import {getSubdirOfUnzippedResource, unzipResource} from '../src/helpers/resourcesHelpers';
 import {download} from '../src/helpers/downloadHelpers';
 import rimraf from 'rimraf';
+import {makeRequestDetailed} from '../src/helpers/apiHelpers';
 
 // require('os').homedir()
 
@@ -21,7 +22,7 @@ const USER_RESOURCES_PATH = path.join(HOME_DIR, 'translationCore/resources');
 const TRANSLATION_HELPS = 'translationHelps';
 const searchForLangAndBook = `https://git.door43.org/api/v1/repos/search?q=hi%5C_%25%5C_act%5C_book&sort=updated&order=desc&limit=30`;
 
-describe('apiHelpers.getCatalog', () => {
+describe.skip('apiHelpers.getCatalog', () => {
   it('should get the resulting catalog', () => {
     return apiHelpers.getCatalog().then(res => {
       expect(res).toMatchObject({
@@ -42,12 +43,12 @@ describe('apiHelpers.getCatalog', () => {
         }
       }
       console.log(`D43 Catalog flattened has ${csvLines.length} total items`);
-      writeCsv('./CatalogOld.tsv', csvLines);
+      writeCsv('./temp/CatalogOld.tsv', csvLines);
     });
   });
 });
 
-describe('apiHelpers compare pivoted.json with CN', () => {
+describe.skip('apiHelpers compare pivoted.json with CN', () => {
   it('should make a merged CSV', async () => {
     const res = await apiHelpers.getCatalog();
     expect(res).toMatchObject({
@@ -69,7 +70,7 @@ describe('apiHelpers compare pivoted.json with CN', () => {
       }
     }
     console.log(`D43 Catalog flattened has ${csvLines.length} total items`);
-    writeCsv('./CatalogOld.tsv', csvLines);
+    writeCsv('./temp/CatalogOld.tsv', csvLines);
 
     const latestD43Catalog = 'http://git.door43.org/api/catalog/v5?owner=Door43-Catalog&stage=latest';
     const data = await apiHelpers.doMultipartQuery(latestD43Catalog);
@@ -94,13 +95,13 @@ describe('apiHelpers compare pivoted.json with CN', () => {
       }
     }
 
-    writeCsv2('./Catalog-CN-and-Old.tsv', csvLines);
+    writeCsv2('./temp/Catalog-CN-and-Old.tsv', csvLines);
     console.log('done');
 
   }, 10000);
 });
 
-describe('test project', () => {
+describe.skip('test project', () => {
   it('search, download and verify projects in org', async () => {
     // const org = 'India_BCS';
     // const langId = 'hi';
@@ -112,8 +113,8 @@ describe('test project', () => {
     // const langId = '%25'; // match all languages
     const org = null; // all orgs
     const langId = 'es-419';
-    const resourcesPath = './downloads';
-    const outputFolder = './tc_repos';
+    const resourcesPath = './temp/downloads';
+    const outputFolder = './temp/tc_repos';
     let searchUrl = `https://git.door43.org/api/v1/repos/search?q=${langId}%5C_%25%5C_%25%5C_book&sort=id&order=asc&limit=50`;
     if (org) {
       searchUrl += `&owner=${org}`;
@@ -170,7 +171,7 @@ describe('test project', () => {
       },
     };
 
-    const outputFile = path.join(outputFolder, 'orgs', `./${langId}-${org}-repos.json`);
+    const outputFile = path.join(outputFolder, 'orgs', `${langId}-${org}-repos.json`);
     fs.outputJsonSync(outputFile, projectResults);
     console.log(`saved results into ${outputFile}`);
   }, 500000);
@@ -179,7 +180,7 @@ describe('test project', () => {
     const fullName = 'India_BCS/hi_hglt_1ti_book';
     const langId = 'hi';
     const resource = getResource(fullName, langId);
-    const resourcesPath = './downloads';
+    const resourcesPath = './temp/downloads';
     try {
       const results = await downloadAndVerifyProject(resource, resourcesPath, fullName);
       console.log(JSON.stringify(results));
@@ -207,7 +208,7 @@ describe('test project', () => {
   });
 });
 
-describe('test API', () => {
+describe.skip('test API', () => {
   it('test Updater', async () => {
 
     const sourceContentUpdater = new Updater();
@@ -215,7 +216,7 @@ describe('test API', () => {
     await sourceContentUpdater.getLatestResources(localResourceList)
       .then(async (updatedLanguages) => {
         // console.log(sourceContentUpdater.updatedCatalogResources);
-        await sourceContentUpdater.downloadResources(['ru'], './temp');
+        await sourceContentUpdater.downloadResources(['ru'], './temp/updates');
         console.log(updatedLanguages);
       })
       .catch((err) => {
@@ -224,8 +225,8 @@ describe('test API', () => {
   }, 60000);
 });
 
-describe('apiHelpers searching for books', () => {
-  const outputFolder = './tc_repos';
+describe.skip('apiHelpers searching for books', () => {
+  const outputFolder = './temp/tc_repos';
   const bookIds = ['rut', 'jon', 'est', 'ezr', 'neh', 'oba', 'luk', 'eph', '1ti', '2ti', 'tit', 'jas', '1jn', '2jn', '3jn'];
 
   for (const book of bookIds) {
@@ -244,7 +245,7 @@ describe('apiHelpers searching for books', () => {
         }
         langRepos[languageId].push(repo);
       }
-      const outputFile = path.join(outputFolder, `./${resourceId}-repos.json`);
+      const outputFile = path.join(outputFolder, `${resourceId}-repos.json`);
       fs.outputJsonSync(outputFile, langRepos);
     }, 50000);
   }
@@ -283,7 +284,7 @@ describe('apiHelpers searching for books', () => {
   });
 });
 
-describe('apiHelpers.getCatalogCN', () => {
+describe.skip('apiHelpers.getCatalogCN', () => {
   it('should get the CN catalog', async () => {
     const filteredSearch = 'https://git.door43.org/api/catalog/v5/search?subject=Bible%2CAligned%20Bible%2CGreek_New_Testament%2CHebrew_Old_Testament%2CTranslation%20Words%2CTranslation%20Notes%2CTranslation%20Academy&sort=subject&limit=50';
     const unFilteredSearch = 'https://git.door43.org/api/catalog/v5/search?sort=subject&limit=50';
@@ -314,14 +315,14 @@ describe('apiHelpers.getCatalogCN', () => {
     const org = 'Door43-Catalog';
     getOrgItems(orgs, org, csvLines);
     console.log(`D43 Catalog flattened has ${csvLines.length} total items`);
-    writeCsv('./CatalogCN-D43.tsv', csvLines);
+    writeCsv('./temp/CatalogCN-D43.tsv', csvLines);
 
     csvLines = [];
     for (const org of orgList) {
       getOrgItems(orgs, org, csvLines);
     }
     console.log(`Catalog Next flattened has ${csvLines.length} total items`);
-    writeCsv('./CatalogCN.tsv', csvLines);
+    writeCsv('./temp/CatalogCN.tsv', csvLines);
   });
 }, 10000);
 
@@ -506,7 +507,7 @@ function compareVersions(a, b) {
 }
 
 function getResource(fullName, langId) {
-  const outputFolder = './tc_repos';
+  const outputFolder = './temp/tc_repos';
   const dataFolder = path.join(outputFolder, 'orgs');
   const repos = fs.readJsonSync(path.join(dataFolder, 'langRepos.json'));
   const langRepos = repos && repos[langId];
@@ -718,4 +719,37 @@ async function downloadAndVerifyProject(resource, resourcesPath, fullName) {
     };
   }
   return results;
+}
+
+function getUniqueChecks(uniqueChecks, repoPath, repo) {
+  const [, bookId] = book.split('-');
+  if (!uniqueChecks[bookId]) {
+    uniqueChecks[bookId] = {};
+  }
+  const bookChecks = uniqueChecks[bookId];
+  try {
+    // const {response, body} = await makeRequestDetailed(bookUrl); // TODO: get from file
+    const lines = body.split('\n');
+    for (let i = 1, l = lines.length; i < l; i++) {
+      const line = lines[i];
+      if (line) {
+        const fields = line.split('\t');
+        const [bookId, chapter, verse, id, supportRef, origQuote, occurrence, glQuote, occurrenceNote] = fields;
+        if (occurrenceNote && origQuote && supportRef) {
+          const key = `${chapter}-${verse}-${supportRef}`;
+          if (!bookChecks[key]) {
+            bookChecks[key] = 1;
+          } else {
+            bookChecks[key]++;
+          }
+        } else {
+          // console.log(`skipping ${line}`);
+        }
+      }
+    }
+    console.log(`book processed: ${book}`);
+  } catch (e) {
+    console.log(`file ${bookUrl} is not found`, e);
+  }
+  return {i, l};
 }
