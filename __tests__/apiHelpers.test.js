@@ -3,13 +3,16 @@
 import fs from 'fs-extra';
 import path from 'path-extra';
 import os from 'os';
+import semver from 'semver';
+import rimraf from 'rimraf';
+// import nock from 'nock';
+import isEqual from 'deep-equal';
+import _ from 'lodash';
 import * as apiHelpers from '../src/helpers/apiHelpers';
 import Updater from '../src';
-import semver from 'semver';
 import {getSubdirOfUnzippedResource, unzipResource} from '../src/helpers/resourcesHelpers';
 import {download} from '../src/helpers/downloadHelpers';
-import rimraf from 'rimraf';
-import {makeRequestDetailed} from '../src/helpers/apiHelpers';
+import {NT_ORIG_LANG, NT_ORIG_LANG_BIBLE, OT_ORIG_LANG, OT_ORIG_LANG_BIBLE} from '../src/resources/bible';
 
 // require('os').homedir()
 
@@ -21,13 +24,18 @@ const HOME_DIR = os.homedir();
 const USER_RESOURCES_PATH = path.join(HOME_DIR, 'translationCore/resources');
 const TRANSLATION_HELPS = 'translationHelps';
 const searchForLangAndBook = `https://git.door43.org/api/v1/repos/search?q=hi%5C_%25%5C_act%5C_book&sort=updated&order=desc&limit=30`;
+export const QUOTE_MARK = '\u2019';
+
+// // disable nock failed
+// nock.restore();
+// nock.cleanAll();
 
 describe.skip('apiHelpers.getCatalog', () => {
   it('should get the resulting catalog', () => {
-    return apiHelpers.getCatalog().then(res => {
+    return apiHelpers.getCatalog().then((res) => {
       expect(res).toMatchObject({
         catalogs: expect.any(Array),
-        subjects: expect.any(Array)
+        subjects: expect.any(Array),
       });
       const items = res && res.subjects;
       console.log(`D43 Catalog returned ${items.length} total items`);
@@ -53,7 +61,7 @@ describe.skip('apiHelpers compare pivoted.json with CN', () => {
     const res = await apiHelpers.getCatalog();
     expect(res).toMatchObject({
       catalogs: expect.any(Array),
-      subjects: expect.any(Array)
+      subjects: expect.any(Array),
     });
     const items = res && res.subjects;
     console.log(`D43 Catalog returned ${items.length} total items`);
@@ -82,7 +90,7 @@ describe.skip('apiHelpers compare pivoted.json with CN', () => {
       const subject = item.subject;
       const repo = item.name;
       const org = item.owner;
-      const pos = csvLines.findIndex(line => ((line.repo === repo) && (line.org === org)));
+      const pos = csvLines.findIndex((line) => ((line.repo === repo) && (line.org === org)));
       if (pos >= 0) {
         const line = csvLines[pos];
         if (line.category === oldCatalog) {
@@ -97,11 +105,10 @@ describe.skip('apiHelpers compare pivoted.json with CN', () => {
 
     writeCsv2('./temp/Catalog-CN-and-Old.tsv', csvLines);
     console.log('done');
-
   }, 10000);
 });
 
-describe.skip('test project', () => {
+describe('test project', () => {
   it('search, download and verify projects in org', async () => {
     // const org = 'India_BCS';
     // const langId = 'hi';
@@ -112,69 +119,20 @@ describe.skip('test project', () => {
     // const org = 'Amos.Khokhar';
     // const langId = '%25'; // match all languages
     const org = null; // all orgs
-    const langId = 'es-419';
+    const langId = 'hi';
+
+    const checkMigration = true;
     const resourcesPath = './temp/downloads';
     const outputFolder = './temp/tc_repos';
     let searchUrl = `https://git.door43.org/api/v1/repos/search?q=${langId}%5C_%25%5C_%25%5C_book&sort=id&order=asc&limit=50`;
     if (org) {
       searchUrl += `&owner=${org}`;
     }
+    console.log(`Searching for lang ${langId}, org ${org}`);
     const repos = await apiHelpers.doMultipartQuery(searchUrl);
     console.log(`found ${repos.length} projects`);
-    let projectResults = {};
-    for (const project of repos) {
-      const results = await downloadAndVerifyProject(project, resourcesPath, project.full_name);
-      console.log(JSON.stringify(results));
-      projectResults[project.name] = results;
-    }
-
-    const projectNames = Object.keys(projectResults);
-    const waFinished = {};
-    const waNearlyFinished = {};
-    const allFinished = {};
-    const allNearlyFinished = {};
-    for (const projectName of projectNames) {
-      const project = projectResults[projectName];
-      const fullName = project.fullName;
-      let waPercentComplete = 0;
-      let twPercentComplete = 0;
-      let tnPercentComplete = 0;
-      if (project.wA) {
-        waPercentComplete = project.wA.percentCompleted || 0;
-        if (waPercentComplete >= 0.9) {
-          if (waPercentComplete === 1) {
-            waFinished[fullName] = project;
-          } else {
-            waNearlyFinished[fullName] = project;
-          }
-          if (project.checks) {
-            twPercentComplete = project.checks.translationWords && project.checks.translationWords.percentCompleted || 0;
-            tnPercentComplete = project.checks.translationNotes && project.checks.translationNotes.percentCompleted || 0;
-            if (twPercentComplete >= 0.9 && tnPercentComplete >= 0.9) {
-              if (twPercentComplete === 1 && tnPercentComplete === 1) {
-                allFinished[fullName] = project;
-              } else {
-                allNearlyFinished[fullName] = project;
-              }
-            }
-          }
-        }
-      }
-    }
-    projectResults = {
-      ...projectResults,
-      goodProjects: {
-        waFinished,
-        waNearlyFinished,
-        allFinished,
-        allNearlyFinished,
-      },
-    };
-
-    const outputFile = path.join(outputFolder, 'orgs', `${langId}-${org}-repos.json`);
-    fs.outputJsonSync(outputFile, projectResults);
-    console.log(`saved results into ${outputFile}`);
-  }, 500000);
+    await validateProjects(repos, resourcesPath, outputFolder, langId, org, checkMigration);
+  }, 50000000);
 
   it('download and verify project', async () => {
     const fullName = 'India_BCS/hi_hglt_1ti_book';
@@ -183,11 +141,11 @@ describe.skip('test project', () => {
     const resourcesPath = './temp/downloads';
     try {
       const results = await downloadAndVerifyProject(resource, resourcesPath, fullName);
-      console.log(JSON.stringify(results));
+      console.log(results);
     } catch (e) {
       console.log(`Error downloading ${fullName}`, e);
     }
-  },10000);
+  }, 1000000);
 
   it('verify Alignments', async () => {
     const projectsPath = path.join(HOME_DIR, `translationCore/projects`);
@@ -202,7 +160,7 @@ describe.skip('test project', () => {
     const projectsPath = path.join(HOME_DIR, `translationCore/projects`);
     const projects = fs.readdirSync(projectsPath);
     for (const project of projects) {
-      const results = verifyChecks(projectsPath, project);
+      const results = await verifyChecks(projectsPath, project);
       console.log(JSON.stringify(percentCompleted));
     }
   });
@@ -210,19 +168,18 @@ describe.skip('test project', () => {
 
 describe.skip('test API', () => {
   it('test Updater', async () => {
-
     const sourceContentUpdater = new Updater();
     const localResourceList = getLocalResourceList();
     await sourceContentUpdater.getLatestResources(localResourceList)
       .then(async (updatedLanguages) => {
         // console.log(sourceContentUpdater.updatedCatalogResources);
-        await sourceContentUpdater.downloadResources(['ru'], './temp/updates');
+        await sourceContentUpdater.downloadResources(['el-x-koine', 'hbo', 'ru'], './temp/updates');
         console.log(updatedLanguages);
       })
       .catch((err) => {
         console.error('Local Resource List:', err);
       });
-  }, 60000);
+  }, 600000);
 });
 
 describe.skip('apiHelpers searching for books', () => {
@@ -331,13 +288,13 @@ describe.skip('apiHelpers.getCatalogCN', () => {
 //
 
 function addCsvItem(list, org, repo, subject, item) {
-  const itemJson = JSON.stringify(item).replace('\t','\\t');
+  const itemJson = JSON.stringify(item).replace('\t', '\\t');
   list.push({org, repo, subject, resource: itemJson});
   // list.push(`${org}\t${repo}\t${subject}\t${itemJson}`);
 }
 
 function addCsvItem2(list, org, repo, subject, item, category) {
-  const itemJson = JSON.stringify(item).replace('\t','\\t');
+  const itemJson = JSON.stringify(item).replace('\t', '\\t');
   list.push({category, org, repo, subject, resource: itemJson});
   // list.push(`${org}\t${repo}\t${subject}\t${itemJson}`);
 }
@@ -375,7 +332,7 @@ const cleanReaddirSync = (path) => {
 
   if (fs.existsSync(path)) {
     cleanDirectories = fs.readdirSync(path)
-      .filter(file => file !== '.DS_Store');
+      .filter((file) => file !== '.DS_Store');
   } else {
     console.warn(`no such file or directory, ${path}`);
   }
@@ -391,7 +348,7 @@ export const getLocalResourceList = () => {
 
     const localResourceList = [];
     const resourceLanguages = fs.readdirSync(USER_RESOURCES_PATH)
-      .filter(file => path.extname(file) !== '.json' && file !== '.DS_Store');
+      .filter((file) => path.extname(file) !== '.json' && file !== '.DS_Store');
 
     for (let i = 0; i < resourceLanguages.length; i++) {
       const languageId = resourceLanguages[i];
@@ -400,7 +357,7 @@ export const getLocalResourceList = () => {
       const bibleIds = cleanReaddirSync(biblesPath);
       const tHelpsResources = cleanReaddirSync(tHelpsPath);
 
-      bibleIds.forEach(bibleId => {
+      bibleIds.forEach((bibleId) => {
         const bibleIdPath = path.join(biblesPath, bibleId);
         const bibleLatestVersion = getLatestVersion(bibleIdPath);
 
@@ -424,7 +381,7 @@ export const getLocalResourceList = () => {
         }
       });
 
-      tHelpsResources.forEach(tHelpsId => {
+      tHelpsResources.forEach((tHelpsId) => {
         const tHelpResource = path.join(tHelpsPath, tHelpsId);
         const tHelpsLatestVersion = getLatestVersion(tHelpResource);
 
@@ -459,7 +416,7 @@ export const getLocalResourceList = () => {
  * Returns the versioned folder within the directory with the highest value.
  * e.g. `v10` is greater than `v9`
  * @param {string} dir - the directory to read
- * @returns {string} the full path to the latest version directory.
+ * @return {string} the full path to the latest version directory.
  */
 function getLatestVersion(dir) {
   const versions = listVersions(dir);
@@ -474,11 +431,11 @@ function getLatestVersion(dir) {
 /**
  * Returns an array of paths found in the directory filtered and sorted by version
  * @param {string} dir
- * @returns {string[]}
+ * @return {string[]}
  */
 function listVersions(dir) {
   if (fs.pathExistsSync(dir)) {
-    const versionedDirs = fs.readdirSync(dir).filter(file => fs.lstatSync(path.join(dir, file)).isDirectory() &&
+    const versionedDirs = fs.readdirSync(dir).filter((file) => fs.lstatSync(path.join(dir, file)).isDirectory() &&
       file.match(/^v\d/i));
     return versionedDirs.sort((a, b) =>
       -compareVersions(a, b), // do inverted sort
@@ -563,7 +520,7 @@ async function downloadRepo(resource, resourcesPath) {
 
 function getDirJson(indexPath_) {
   if (fs.existsSync(indexPath_)) {
-    return fs.readdirSync(indexPath_).filter(item => path.extname(item) === '.json');
+    return fs.readdirSync(indexPath_).filter((item) => path.extname(item) === '.json');
   }
   return [];
 }
@@ -645,11 +602,27 @@ function verifyAlignments(project, projectsPath) {
   return null;
 }
 
-function verifyChecks(projectsPath, project) {
+async function verifyChecks(projectsPath, project, checkMigration) {
   const projectPath = path.join(projectsPath, project);
+  const [langId, projectId, bookId] = project.split('_');
   let results = null;
+  let origLangResourcePath;
+  let tnResourceGl;
   if (fs.lstatSync(projectPath).isDirectory()) {
-    const [langId, projectId, bookId] = project.split('_');
+    if (checkMigration) {
+      if (fs.existsSync(USER_RESOURCES_PATH)) {
+        origLangResourcePath = await loadOlderOriginalLanguageResource(projectPath, bookId, TRANSLATION_NOTES);
+        if (!origLangResourcePath) {
+          console.error('error downloading original language');
+          checkMigration = false;
+        } else {
+          const {toolsSelectedGLs} = getProjectManifest(projectPath);
+          tnResourceGl = toolsSelectedGLs && toolsSelectedGLs.translationNotes;
+        }
+      } else {
+        console.log(`resource folder not found: ${USER_RESOURCES_PATH}`);
+      }
+    }
     results = {langId, projectId, bookId};
     if (bookId) {
       const projectPath = path.join(projectsPath, project);
@@ -684,6 +657,13 @@ function verifyChecks(projectsPath, project) {
           totalChecks,
         };
         console.log(project + '-' + tool + ': ' + totalChecks + ' totalChecks, ' + completedChecks + ' completedChecks, ' + Math.round(100 * percentCompleted) + '% completed');
+        const stats = getUniqueChecks(projectsPath, project, tool, origLangResourcePath, tnResourceGl);
+        if (stats) {
+          results[tool] = {
+            ...results[tool],
+            stats,
+          };
+        }
       }
     }
   }
@@ -691,7 +671,7 @@ function verifyChecks(projectsPath, project) {
   return results;
 }
 
-async function downloadAndVerifyProject(resource, resourcesPath, fullName) {
+async function downloadAndVerifyProject(resource, resourcesPath, fullName, checkMigration) {
   const project = resource.name;
   let results;
   fs.ensureDirSync(resourcesPath);
@@ -704,7 +684,7 @@ async function downloadAndVerifyProject(resource, resourcesPath, fullName) {
     console.log(filePath);
     const projectsPath = path.join(importFolder, project);
     const wA = verifyAlignments(project, projectsPath);
-    const checks = verifyChecks(projectsPath, project);
+    const checks = await verifyChecks(projectsPath, project, checkMigration);
     results = {
       fullName,
       wA,
@@ -721,35 +701,795 @@ async function downloadAndVerifyProject(resource, resourcesPath, fullName) {
   return results;
 }
 
-function getUniqueChecks(uniqueChecks, repoPath, repo) {
-  const [, bookId] = book.split('-');
-  if (!uniqueChecks[bookId]) {
-    uniqueChecks[bookId] = {};
+/**
+ * array of checks for groupId
+ * @param {Array} resourceData
+ * @param {object} matchRef
+ * @return {number}
+ */
+function getReferenceCount(resourceData, matchRef) {
+  let count = 0;
+
+  for (const resource of resourceData) {
+    if (isEqual(resource.contextId.reference, matchRef)) {
+      count++;
+    }
   }
-  const bookChecks = uniqueChecks[bookId];
-  try {
-    // const {response, body} = await makeRequestDetailed(bookUrl); // TODO: get from file
-    const lines = body.split('\n');
-    for (let i = 1, l = lines.length; i < l; i++) {
-      const line = lines[i];
-      if (line) {
-        const fields = line.split('\t');
-        const [bookId, chapter, verse, id, supportRef, origQuote, occurrence, glQuote, occurrenceNote] = fields;
-        if (occurrenceNote && origQuote && supportRef) {
-          const key = `${chapter}-${verse}-${supportRef}`;
-          if (!bookChecks[key]) {
-            bookChecks[key] = 1;
+  return count;
+}
+
+/**
+ * compares quotes, with fallback to old handling of quote marks
+ * @param projectCheckQuote
+ * @param resourceQuote
+ * @return {*|boolean}
+ */
+export function areQuotesEqual(projectCheckQuote, resourceQuote) {
+  let same = isEqual(projectCheckQuote, resourceQuote);
+
+  if (!same) { // if not exactly the same, check for old quote handling in project quote
+    // a quick sanity check, the old quote would be longer if the quote mark is split out
+    if (Array.isArray(projectCheckQuote) && Array.isArray(resourceQuote) && projectCheckQuote.length > resourceQuote.length) {
+      let index = projectCheckQuote.findIndex(item => (item.word === QUOTE_MARK)); // look for quote mark
+      const quoteMarkFound = index > 1;
+
+      if (quoteMarkFound) { // if quote mark split out, migrate to new format
+        const newQuote = _.cloneDeep(projectCheckQuote);
+        let done = false;
+
+        while (!done) {
+          if (index > 1) {
+            // move quote mark to previous word
+            const previousItem = newQuote[index - 1];
+            previousItem.word += QUOTE_MARK;
+            newQuote.splice(index, 1);
+            index = newQuote.findIndex(item => (item.word === QUOTE_MARK));
           } else {
-            bookChecks[key]++;
+            done = true;
           }
-        } else {
-          // console.log(`skipping ${line}`);
+        }
+
+        same = isEqual(newQuote, resourceQuote);
+      }
+    }
+  }
+  return same;
+}
+
+/**
+ * update old resource data
+ * @param {array} resourceData
+ * @param {String} bookId
+ * @param {Object} data - resource data to update
+ * @return {Object}
+ */
+export function updateCheckingResourceData(resourceData, bookId, data) {
+  let dataModified = false;
+  let updatedCheckId = false;
+  let updatedQuote = false;
+  let matchFound = false;
+  let quotesMatch = false;
+  let resourcePartialMatches = 0;
+  let matchedResource = null;
+  let duplicateMigration = false;
+
+  if (resourceData) {
+    for (const resource of resourceData) {
+      if (data.contextId.groupId === resource.contextId.groupId &&
+        isEqual(data.contextId.reference, resource.contextId.reference) &&
+        data.contextId.occurrence === resource.contextId.occurrence) {
+        if (!areQuotesEqual(data.contextId.quote, resource.contextId.quote)) { // quotes are  not the same
+          if (data.contextId.checkId) {
+            if (data.contextId.checkId === resource.contextId.checkId) {
+              matchFound = true; // found match
+            }
+          } else { // there is not a check ID in this check, so we try empirical methods
+            // if only one check for this verse, then we update presuming that this is just an original language change.
+            // If more than one check in this groupID for this verse, we skip since it would be too easy to change the quote in the wrong check
+            const count = getReferenceCount(resourceData, resource.contextId.reference);
+            matchFound = (count === 1);
+            resourcePartialMatches = count;
+          }
+
+          if (matchFound) {
+            matchedResource = resource;
+            updatedQuote = !isEqual(data.contextId.quote, resource.contextId.quote);
+            // data.contextId.quote = resource.contextId.quote; // update quote
+            // data.contextId.quoteString = resource.contextId.quoteString; // update quoteString
+
+            if (!data.contextId.checkId && resource.contextId.checkId) {
+              // data.contextId.checkId = resource.contextId.checkId; // add check ID
+              updatedCheckId = true;
+            }
+            dataModified = true;
+          }
+        } else { // quotes match
+          quotesMatch = true;
+          if (data.contextId.checkId) {
+            if (data.contextId.checkId === resource.contextId.checkId) {
+              matchFound = true;
+            }
+          } else { // no check id in current check, and quotes are similar
+            matchFound = true;
+
+            // see if there is a checkId to be added
+            if (resource.contextId.checkId) {
+              // data.contextId.checkId = resource.contextId.checkId; // save checkId
+              updatedCheckId = true;
+              dataModified = true;
+            }
+          }
+
+          if (matchFound && !isEqual(data.contextId.quote, resource.contextId.quote)) {
+            // if quotes not exactly the same, update
+            // data.contextId.quote = resource.contextId.quote;
+            // data.contextId.quoteString = resource.contextId.quoteString;
+            dataModified = true;
+            updatedQuote = true;
+          }
+        }
+
+        if (matchFound) {
+          matchedResource = resource;
+          if (resource.matches) {
+            resource.matches++;
+            duplicateMigration = resource.matches;
+            console.log(`duplicate resource found ${JSON.stringify(resource)}: count= ${resource.matches}`);
+          } else {
+            resource.matches = 1;
+          }
+          break;
         }
       }
     }
-    console.log(`book processed: ${book}`);
-  } catch (e) {
-    console.log(`file ${bookUrl} is not found`, e);
+
+    if (!matchFound) {
+      console.warn('updateCheckingResourceData() - resource not found for migration: ' + JSON.stringify(data));
+    }
   }
-  return {i, l};
+  return {
+    dataModified,
+    updatedCheckId,
+    updatedQuote,
+    matchFound,
+    resourcePartialMatches,
+    matchedResource,
+    duplicateMigration,
+    quotesMatch
+  }
+}
+
+/**
+ * get list of folders in resource path
+ * @param {String} resourcePath - path
+ * @return {Array} - list of folders
+ */
+export function getFoldersInResourceFolder(resourcePath) {
+  try {
+    const folders = fs.readdirSync(resourcePath).filter(folder =>
+      fs.lstatSync(path.join(resourcePath, folder)).isDirectory()); // filter out anything not a folder
+    return folders;
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+/**
+ * get list of files in resource path
+ * @param {String} resourcePath - path
+ * @param {String|null} [ext=null] - optional extension to match
+ * @return {Array}
+ */
+export function getFilesInResourcePath(resourcePath, ext=null) {
+  if (fs.lstatSync(resourcePath).isDirectory()) {
+    let files = fs.readdirSync(resourcePath).filter(file => {
+      if (ext) {
+        return path.extname(file) === ext;
+      }
+      return file !== '.DS_Store';
+    }); // filter out .DS_Store
+    return files;
+  }
+  return [];
+}
+
+function getKey_(item) {
+  const key = getKey(
+    item.contextId.reference.checkId,
+    item.contextId.reference.chapter,
+    item.contextId.reference.verse,
+    item.contextId.groupId,
+    item.contextId.occurrence
+  );
+  return key;
+}
+
+/**
+ * update the resources for this file
+ * @param newResourceChecks
+ * @param existingSelections
+ * @param {String} bookId
+ * @param {Boolean} isContext - if true, then data is expected to be a contextId, otherwise it contains a contextId
+ */
+function validateCheckMigrations(existingSelections, newResourceChecks, bookId) {
+  let migrations = {};
+  let unmatched = [];
+  let duplicateMigrations = [];
+  try {
+    const keys = Object.keys(existingSelections);
+    for (const key of keys) {
+      const list = existingSelections[key];
+      for (const item of list) {
+        const groupId = item.contextId && item.contextId.groupId;
+        if (groupId) {
+          const {
+            dataModified,
+            updatedCheckId,
+            updatedQuote,
+            matchFound,
+            resourcePartialMatches,
+            matchedResource,
+            duplicateMigration,
+            quotesMatch
+          } = updateCheckingResourceData(newResourceChecks[groupId], bookId, item);
+          if (item.selections) {
+            const checkKey = getKey_(item);
+            const resourceKey = matchedResource ? getKey_(matchedResource) : '';
+            const selections = item.selections.map((item) => (`${item.text}-${item.occurrence}`)).join(' ');
+            if (!matchFound) {
+              unmatched.push({
+                key: checkKey,
+                selections,
+                resourcePartialMatches,
+              });
+            }
+            if (duplicateMigration) {
+              duplicateMigrations.push({
+                resourceKey,
+                duplicateMigration
+              })
+            }
+            console.log(key);
+            // TODO add warnings to migrations
+            // item.migrationChecks = results;
+          }
+        }
+      }
+    }
+  } catch (e) {
+    console.error('updateResourcesForFile() - migration error for: ' + bookId, e);
+  }
+  return {
+    migrations,
+    duplicateMigrations,
+    unmatched,
+  };
+}
+
+/**
+ * iterate through checking data to make sure it is up to date
+ * @param {String} projectsDir - path to project
+ * @param bookId
+ * @param {String} toolName
+ * @param uniqueChecks
+ * @param helpsPath
+ */
+export function validateMigrations(projectsDir, bookId, toolName, uniqueChecks, helpsPath) {
+  let migrations = {};
+  if (fs.existsSync(helpsPath)) {
+    const groups = getFoldersInResourceFolder(helpsPath);
+    const groupChecks = {};
+
+    for (const group of groups) {
+      // console.log(`validateMigrations() - migrating ${group} to new format`);
+      const bookPath = path.join(helpsPath, group, 'groups', bookId);
+
+      if (fs.existsSync(bookPath)) {
+        const checkFiles = getFilesInResourcePath(bookPath, '.json');
+        for (const checkFile of checkFiles) {
+          const checkPath = path.join(bookPath, checkFile);
+          const checks = fs.readJsonSync(checkPath);
+          const groupId = path.base(checkFile);
+          if (!groupChecks[groupId]) {
+            groupChecks[groupId] = [];
+          }
+          groupChecks[groupId] = groupChecks[groupId].concat(checks);
+        }
+      }
+    }
+    migrations = validateCheckMigrations(uniqueChecks, groupChecks, bookId);
+    console.log('migrateOldCheckingResourceData() - migration done');
+  }
+  return migrations;
+}
+
+/**
+ *
+ * @param checkId
+ * @param chapter
+ * @param verse
+ * @param groupId
+ * @param occurrence
+ * @return {string}
+ */
+function getKey(checkId, chapter, verse, groupId, occurrence) {
+  const key = `${checkId || ''}-${chapter}-${verse}-${groupId}-${occurrence}`;
+  return key;
+}
+
+/**
+ *
+ * @param projectsPath
+ * @param project
+ * @param toolName
+ * @param origLangResourcePath
+ * @param tnResourceGl
+ * @return {{dupes: {}, toolWarnings: string}}
+ */
+function getUniqueChecks(projectsPath, project, toolName, origLangResourcePath, tnResourceGl) {
+  const uniqueChecks = {};
+  const dupes = {};
+  let migrations = {};
+  let toolWarnings = '';
+  const version = path.base(origLangResourcePath);
+  let helpsPath;
+  if (toolName === TRANSLATION_NOTES) {
+    helpsPath = path.join(origLangResourcePath, '../../../..', tnResourceGl, 'translationHelps', TRANSLATION_NOTES);
+    helpsPath = getLatestVersion(helpsPath);
+  } else {
+    helpsPath = path.join(origLangResourcePath, '../../../translationHelps', toolName, version);
+  }
+
+  const [langId, projectId, bookId] = project.split('_');
+  try {
+    const groupDataPath = path.join(projectsPath, project, '.apps/translationCore/index', toolName, bookId);
+    const indexFiles = getDirJson(groupDataPath);
+    for (const indexFile of indexFiles) {
+      const groupData = fs.readJsonSync(path.join(groupDataPath, indexFile));
+      for (const groupItem of groupData) {
+        if (groupItem.contextId) {
+          const {chapter, verse} = groupItem.contextId.reference;
+          const {checkId, groupId, occurrence} = groupItem.contextId;
+          const key = getKey(checkId, chapter, verse, groupId, occurrence);
+          if (!uniqueChecks[key]) {
+            uniqueChecks[key] = [];
+          }
+          uniqueChecks[key].push(groupItem);
+        }
+      }
+    }
+    const keys = Object.keys(uniqueChecks);
+    for (const key_ of keys) {
+      const uniqueCheck = uniqueChecks[key_];
+      if (uniqueCheck.length > 1) {
+        let warnings = '';
+        const selections = uniqueCheck.filter((check) => check.selections);
+        if (selections.length) {
+          if (selections.length < uniqueCheck.length) {
+            const missingSelections = uniqueCheck.length - selections.length;
+            warnings += `Missing ${missingSelections} selections\t`;
+          }
+          if (selections.length > 1) {
+            let dupeSelections = 0;
+            for (let i = 0; i < selections.length - 1; i++) {
+              for (let j = i + 1; j < selections.length; j++) {
+                if (isEqual(selections[i], selections[j])) {
+                  dupeSelections++;
+                }
+              }
+            }
+            if (dupeSelections) {
+              warnings += `${dupeSelections} selections duplicated\t`;
+            }
+          }
+        }
+        if (warnings) {
+          toolWarnings += `${key_} - ${warnings}\n`;
+        }
+        const dupesList = uniqueCheck.map((item) => (Array.isArray(item.selections) ? item.selections.map((item) => (`${item.text}-${item.occurrence}`)).join(' ') : (item.selections || '').toString()));
+        dupes[key_] = {
+          dupesList,
+          warnings,
+        };
+      }
+    }
+    migrations = validateMigrations(projectsPath, bookId, toolName, uniqueChecks, helpsPath);
+  } catch (e) {
+    const message = `error processing ${project}: ${e.toString()}\n`;
+    console.log(message);
+    toolWarnings += message;
+  }
+  console.log(`checks processed: ${project}`);
+  return {
+    dupes,
+    migrations,
+    toolWarnings,
+  };
+}
+
+/**
+ *
+ * @param repos
+ * @param resourcesPath
+ * @param outputFolder
+ * @param langId
+ * @param org
+ * @param checkMigration
+ * @return {Promise<void>}
+ */
+async function validateProjects(repos, resourcesPath, outputFolder, langId, org, checkMigration) {
+  let projectResults = {};
+  const summaryFile = path.join(outputFolder, 'orgs-pre', `${langId}-${org}-repos.json`);
+  if (fs.existsSync(summaryFile)) {
+    const summary = fs.readJsonSync(summaryFile);
+    if (summary && summary.projects) {
+      projectResults = summary.projects;
+    }
+  }
+  for (let i = repos.length - 1; i > 0; i--) {
+    const project = repos[i];
+    if (projectResults[project.full_name]) {
+      if (checkMigration) {
+        if (projectResults[project.full_name].checkMigration) {
+          continue; // skip over if repo already checked migration
+        }
+      } else {
+        continue; // skip over if repo already processed
+      }
+    }
+    console.log(`${i+1} - Loading ${project.full_name}`);
+    const results = await downloadAndVerifyProject(project, resourcesPath, project.full_name, checkMigration);
+    if (results && results.wA && results.checks && (results.wA.warnings || results.checks.translationNotes.stats.toolWarnings || results.checks.translationWords.stats.toolWarnings)) {
+      const projectWarnings = `warnings: WA: ${results.wA.warnings}, TN: ${results.checks.translationNotes.stats.toolWarnings}, TW: ${results.checks.translationWords.stats.toolWarnings}`;
+      console.log(projectWarnings);
+      results.projectWarnings = projectWarnings;
+    }
+    // console.log(JSON.stringify(results));
+    projectResults[project.full_name] = results;
+    const totalProjects = repos.length;
+    const processedProjects = repos.length - i + 1;
+
+    const summary = {
+      processedProjects,
+      totalProjects,
+      projects: projectResults,
+    };
+    fs.outputJsonSync(summaryFile, summary);
+  }
+
+  const projectNames = Object.keys(projectResults);
+  const waFinished = {};
+  const waNearlyFinished = {};
+  const allFinished = {};
+  const allNearlyFinished = {};
+  for (const projectName of projectNames) {
+    try {
+      const project = projectResults[projectName];
+      const fullName = project.fullName;
+      let waPercentComplete = 0;
+      let twPercentComplete = 0;
+      let tnPercentComplete = 0;
+      if (project.wA) {
+        waPercentComplete = project.wA.percentCompleted || 0;
+        if (waPercentComplete >= 0.9) {
+          if (waPercentComplete === 1) {
+            waFinished[fullName] = project;
+          } else {
+            waNearlyFinished[fullName] = project;
+          }
+          if (project.checks) {
+            twPercentComplete = project.checks.translationWords && project.checks.translationWords.percentCompleted || 0;
+            tnPercentComplete = project.checks.translationNotes && project.checks.translationNotes.percentCompleted || 0;
+            if (twPercentComplete >= 0.9 && tnPercentComplete >= 0.9) {
+              if (twPercentComplete === 1 && tnPercentComplete === 1) {
+                allFinished[fullName] = project;
+              } else {
+                allNearlyFinished[fullName] = project;
+              }
+            }
+          }
+        }
+      }
+    } catch (e) {
+      const projectWarnings = `project failed: ${e.toString()}`;
+      console.log(projectWarnings);
+      results.projectWarnings = projectWarnings;
+      // console.log(JSON.stringify(results));
+      if (!projectResults[projectName]) {
+        projectResults[projectName] = {};
+      }
+      projectResults[projectName].projectWarnings = projectWarnings;
+    }
+  }
+  const results = {
+    projectSummaries: projectResults,
+    goodProjects: {
+      waFinished,
+      waNearlyFinished,
+      allFinished,
+      allNearlyFinished,
+    },
+  };
+
+  const outputFile = path.join(outputFolder, 'orgs', `${langId}-${org}-repos.json`);
+  fs.outputJsonSync(outputFile, results);
+  console.log(`saved results into ${outputFile}`);
+}
+
+/**
+ * Returns the versioned folder within the directory with the highest value.
+ * e.g. `v10` is greater than `v9`
+ * @param {Array} versions - list of versions found
+ * @returns {string|null} the latest version found
+ */
+export const getLatestVersion_ = (versions) => {
+  if (versions && (versions.length > 0)) {
+    const sortedVersions = versions.sort((a, b) =>
+      -compareVersions(a, b), // do inverted sort
+    );
+    return sortedVersions[0]; // most recent version will be first
+  } else {
+    return null;
+  }
+};
+
+/**
+ * Search folder for most recent version
+ * @param {string} bibleFolderPath
+ * @return {string} latest version found
+ */
+function getMostRecentVersionInFolder(bibleFolderPath) {
+  const versionNumbers = fs.readdirSync(bibleFolderPath).filter((folder) => folder !== '.DS_Store'); // ex. v9
+  const latestVersion = getLatestVersion_(versionNumbers);
+  return latestVersion;
+}
+
+/**
+ *
+ * @param projectPath
+ * @return {{}|*}
+ */
+export function getProjectManifest(projectPath) {
+  if (fs.existsSync(projectPath)) {
+    return fs.readJsonSync(path.join(projectPath, 'manifest.json'));
+  }
+  return {};
+}
+
+/**
+ * Returns the original language version number needed for tn's group data files.
+ * @param {array} tsvRelations
+ * @param {string} resourceId
+ */
+export function getTsvOLVersion(tsvRelations, resourceId) {
+  try {
+    let tsvOLVersion = null;
+
+    if (tsvRelations) {
+      // Get the query string from the tsv_relation array for given resourceId
+      const query = tsvRelations.find((query) => query.includes(resourceId));
+
+      if (query) {
+        // Get version number from query
+        tsvOLVersion = query.split('?v=')[1];
+      }
+    }
+    return tsvOLVersion;
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+/**
+ * get current Original language resources by tN
+ * @return {null|string}
+ * @param projectPath
+ * @param bookId
+ */
+export function getCurrentOrigLangVersionForTn(projectPath, bookId) {
+  const {bibleId: origLangBibleId} = getOrigLangforBook(bookId);
+  // tn files are generated from a specific version number of the original language resources which are reference as relation
+  const {tsv_relation} = getProjectManifest(projectPath);
+  // Get version number needed by tn's tsv
+  const tsvOLVersion = getTsvOLVersion(tsv_relation, origLangBibleId);
+  return tsvOLVersion;
+}
+
+const TRANSLATION_NOTES = 'translationNotes';
+
+/**
+ * Loads a bible book resource.
+ * @param bibleId
+ * @param bookId
+ * @param languageId
+ * @param version
+ * @return {object}
+ */
+export const loadBookResource = (bibleId, bookId, languageId, version = null) => {
+  try {
+    const bibleFolderPath = path.join(USER_RESOURCES_PATH, languageId, 'bibles', bibleId); // ex. user/NAME/translationCore/resources/en/bibles/ult
+
+    if (fs.existsSync(bibleFolderPath)) {
+      const versionNumbers = fs.readdirSync(bibleFolderPath).filter((folder) => folder !== '.DS_Store'); // ex. v9
+      const versionNumber = version || getLatestVersion(versionNumbers);
+      const bibleVersionPath = path.join(bibleFolderPath, 'v' + versionNumber);
+      const bookPath = path.join(bibleVersionPath, bookId);
+
+      if (fs.existsSync(bookPath)) {
+        return bibleVersionPath;
+      } else {
+        console.warn(`loadBookResource() - Bible path not found: ${bookPath}`);
+      }
+    } else {
+      console.log('loadBookResource() - Directory not found, ' + bibleFolderPath);
+    }
+  } catch (error) {
+    console.error(`loadBookResource() - Failed to load book. Bible: ${bibleId} Book: ${bookId} Language: ${languageId}`, error);
+  }
+  return null;
+};
+
+/**
+ * load a book of the bible into resources
+ * @return {Function}
+ * @param resourceDetails
+ */
+export const loadResource = async (resourceDetails) => {
+  let bibleDataPath = loadBookResource(resourceDetails.resourceId, resourceDetails.bookId, resourceDetails.languageId, resourceDetails.version);
+  if (!bibleDataPath) { // if not found then download
+    const sourceContentUpdater = new Updater();
+    try {
+      console.log(`Downloading resource ${JSON.stringify(resourceDetails)}`);
+      await await sourceContentUpdater.downloadAndProcessResource(resourceDetails, USER_RESOURCES_PATH);
+      bibleDataPath = loadBookResource(resourceDetails.resourceId, resourceDetails.bookId, resourceDetails.languageId, resourceDetails.version);
+    } catch (e) {
+      console.log(`could not download: ${JSON.stringify(resourceDetails)}`, e);
+      bibleDataPath = null;
+    }
+  }
+  return bibleDataPath;
+};
+
+/**
+ * Loads the latest or an older version of the original based on tool requirements
+ * language resource based on the tool & project combo.
+ * @param projectPath
+ * @param bookId
+ * @param toolName
+ */
+export const loadOlderOriginalLanguageResource = async (projectPath, bookId, toolName) => {
+  const {
+    origLangId, origLangBibleId, latestOlVersion, tsvOLVersion,
+  } = getOrigLangVersionInfoForTn(projectPath, bookId);
+
+  // if version of current original language resource if not the one needed by the tn groupdata
+  if (tsvOLVersion && (tsvOLVersion !== latestOlVersion) && toolName === TRANSLATION_NOTES) {
+    // load original language resource that matches version number for tn groupdata
+    console.log(`translationNotes requires original lang ${tsvOLVersion}`);
+    const resourceDetails = {bookId, languageId: origLangId, resourceId: origLangBibleId, version: tsvOLVersion};
+    return await loadResource(resourceDetails);
+  } else {
+    const resourceDetails = {bookId, languageId: origLangId, resourceId: origLangBibleId, version: latestOlVersion};
+    return await loadResource(resourceDetails);
+  }
+};
+
+/**
+ * gets the data that the tool needs
+ * @return {{resourceId, languageId, latestOlVersion, tsvOLVersion: (*|undefined)}}
+ */
+export function getOrigLangVersionInfoForTn(projectPath, bookId) {
+  const {bibleId: origLangBibleId, languageId: origLangId} = getOrigLangforBook(bookId);
+  const bibleFolderPath = path.join(USER_RESOURCES_PATH, origLangId, 'bibles', origLangBibleId);
+  let latestOlVersion = null;
+
+  if (fs.existsSync(bibleFolderPath)) {
+    latestOlVersion = getMostRecentVersionInFolder(bibleFolderPath);
+
+    if (latestOlVersion) {
+      latestOlVersion = latestOlVersion.replace('v', ''); // strip off leading 'v'
+    }
+  }
+
+  const tsvOLVersion = getCurrentOrigLangVersionForTn(projectPath, bookId);
+  return {
+    origLangId, origLangBibleId, latestOlVersion, tsvOLVersion,
+  };
+}
+
+/**
+ * Nested version of the books of the bible object.
+ */
+export const BIBLE_BOOKS = {
+  oldTestament: {
+    'gen': 'Genesis',
+    'exo': 'Exodus',
+    'lev': 'Leviticus',
+    'num': 'Numbers',
+    'deu': 'Deuteronomy',
+    'jos': 'Joshua',
+    'jdg': 'Judges',
+    'rut': 'Ruth',
+    '1sa': '1 Samuel',
+    '2sa': '2 Samuel',
+    '1ki': '1 Kings',
+    '2ki': '2 Kings',
+    '1ch': '1 Chronicles',
+    '2ch': '2 Chronicles',
+    'ezr': 'Ezra',
+    'neh': 'Nehemiah',
+    'est': 'Esther',
+    'job': 'Job',
+    'psa': 'Psalms',
+    'pro': 'Proverbs',
+    'ecc': 'Ecclesiastes',
+    'sng': 'Song of Solomon',
+    'isa': 'Isaiah',
+    'jer': 'Jeremiah',
+    'lam': 'Lamentations',
+    'ezk': 'Ezekiel',
+    'dan': 'Daniel',
+    'hos': 'Hosea',
+    'jol': 'Joel',
+    'amo': 'Amos',
+    'oba': 'Obadiah',
+    'jon': 'Jonah',
+    'mic': 'Micah',
+    'nam': 'Nahum',
+    'hab': 'Habakkuk',
+    'zep': 'Zephaniah',
+    'hag': 'Haggai',
+    'zec': 'Zechariah',
+    'mal': 'Malachi',
+  },
+  newTestament: {
+    'mat': 'Matthew',
+    'mrk': 'Mark',
+    'luk': 'Luke',
+    'jhn': 'John',
+    'act': 'Acts',
+    'rom': 'Romans',
+    '1co': '1 Corinthians',
+    '2co': '2 Corinthians',
+    'gal': 'Galatians',
+    'eph': 'Ephesians',
+    'php': 'Philippians',
+    'col': 'Colossians',
+    '1th': '1 Thessalonians',
+    '2th': '2 Thessalonians',
+    '1ti': '1 Timothy',
+    '2ti': '2 Timothy',
+    'tit': 'Titus',
+    'phm': 'Philemon',
+    'heb': 'Hebrews',
+    'jas': 'James',
+    '1pe': '1 Peter',
+    '2pe': '2 Peter',
+    '1jn': '1 John',
+    '2jn': '2 John',
+    '3jn': '3 John',
+    'jud': 'Jude',
+    'rev': 'Revelation',
+  },
+};
+
+/**
+ * tests if book is a Old Testament book
+ * @param bookId
+ * @return {boolean}
+ */
+export function isOldTestament(bookId) {
+  return bookId in BIBLE_BOOKS.oldTestament;
+}
+
+/**
+ * determine Original Language and Original Language bible for book
+ * @param bookId
+ * @return {{resourceLanguage: string, bibleID: string}}
+ */
+export function getOrigLangforBook(bookId) {
+  const isOT = isOldTestament(bookId);
+  const languageId = (isOT) ? OT_ORIG_LANG : NT_ORIG_LANG;
+  const bibleId = (isOT) ? OT_ORIG_LANG_BIBLE : NT_ORIG_LANG_BIBLE;
+  return {languageId, bibleId};
 }
