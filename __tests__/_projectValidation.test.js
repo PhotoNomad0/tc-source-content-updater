@@ -26,6 +26,15 @@ jest.unmock('../src/helpers/zipFileHelpers');
 const HOME_DIR = os.homedir();
 const USER_RESOURCES_PATH = path.join(HOME_DIR, 'translationCore/resources');
 export const QUOTE_MARK = '\u2019';
+export const DEFAULT_GATEWAY_LANGUAGE = 'en';
+export const ORIGINAL_LANGUAGE = 'originalLanguage';
+export const TARGET_LANGUAGE = 'targetLanguage';
+export const TARGET_BIBLE = 'targetBible';
+export const TRANSLATION_WORDS = 'translationWords';
+export const TRANSLATION_NOTES = 'translationNotes';
+export const TRANSLATION_ACADEMY = 'translationAcademy';
+export const TRANSLATION_HELPS = 'translationHelps';
+export const WORD_ALIGNMENT = 'wordAlignment';
 
 // console.log(process);
 
@@ -44,9 +53,10 @@ describe('test project', () => {
     // const org = 'Amos.Khokhar';
     // const langId = '%25'; // match all languages
     const org = null; // all orgs
-    const langId = 'hi';
+    const langId = 'kn';
 
     const checkMigration = true;
+    const retryFailedDownloads = true;
     const resourcesPath = './temp/downloads';
     const outputFolder = './temp/tc_repos';
     let searchUrl = `https://git.door43.org/api/v1/repos/search?q=${langId}%5C_%25%5C_%25%5C_book&sort=id&order=asc&limit=50`;
@@ -56,7 +66,7 @@ describe('test project', () => {
     console.log(`Searching for lang ${langId}, org ${org}`);
     const repos = await apiHelpers.doMultipartQuery(searchUrl);
     console.log(`found ${repos.length} projects`);
-    await validateProjects(repos, resourcesPath, outputFolder, langId, org, checkMigration);
+    await validateProjects(repos, resourcesPath, outputFolder, langId, org, checkMigration, retryFailedDownloads);
   }, 50000000);
 
   it('summarizeProjects', () => {
@@ -367,20 +377,20 @@ async function verifyChecks(projectsPath, project, checkMigration) {
     results.time_created = projectManifest.time_created;
     results.tc_edit_version = projectManifest.tc_edit_version;
     results.tc_version = projectManifest.tc_version;
-    const tools = ['wordAlignment', 'translationNotes', 'translationWords'];
+    const tools = [WORD_ALIGNMENT, TRANSLATION_NOTES, TRANSLATION_WORDS];
     for (const tool of tools) {
       const toolData = {};
       toolsData[tool] = toolData;
       toolData.SelectedGL = projectManifest.toolsSelectedGLs && projectManifest.toolsSelectedGLs[tool];
       toolData.orig_lang_check_version = projectManifest[`tc_orig_lang_check_version_${tool}`];
-      if (tool === 'translationNotes') {
+      if (tool === TRANSLATION_NOTES) {
         toolData.gl_check_version = projectManifest[`tc_${toolData.SelectedGL}_check_version_translationNotes`];
       }
     }
 
     if (bookId) {
       const projectPath = path.join(projectsPath, project);
-      const tools = ['translationNotes', 'translationWords'];
+      const tools = [TRANSLATION_NOTES, TRANSLATION_WORDS];
       for (const tool of tools) {
         const indexSubPath = '.apps/translationCore/index/' + tool + '/' + bookId;
         const indexPath_ = path.join(projectPath, indexSubPath);
@@ -411,18 +421,26 @@ async function verifyChecks(projectsPath, project, checkMigration) {
           totalChecks,
         };
         console.log(project + '-' + tool + ': ' + totalChecks + ' totalChecks, ' + completedChecks + ' completedChecks, ' + Math.round(100 * percentCompleted) + '% completed');
-        const stats = getUniqueChecks(projectsPath, project, tool, origLangResourcePath, tnResourceGl, checkMigration);
-        if (stats) {
-          results[tool] = {
-            toolData: toolsData[tool],
-            ...results[tool],
-            stats,
-          };
+        let haveResources = origLangResourcePath;
+        if (tool === TRANSLATION_NOTES && !tnResourceGl) {
+          haveResources = false;
+        }
+        if (haveResources) {
+          const stats = getUniqueChecks(projectsPath, project, tool, origLangResourcePath, tnResourceGl, checkMigration);
+          if (stats) {
+            results[tool] = {
+              toolData: toolsData[tool],
+              ...results[tool],
+              stats,
+            };
+          }
+        } else {
+          console.log(`missing resources for ${tool}`);
         }
       }
     }
   }
-  const tool = 'wordAlignment';
+  const tool = WORD_ALIGNMENT;
   results[tool] = {
     toolData: toolsData[tool],
   };
@@ -458,7 +476,13 @@ async function downloadAndVerifyProject(resource, resourcesPath, fullName, check
       checkMigration,
     };
   } catch (e) {
-    const message = `could not download ${resource.full_name}: ${e.toString()}`;
+    const errStr = e.toString();
+    let message = `Could not download ${resource.full_name}: ${errStr}`;
+    if (errStr.indexOf('code 404') > 0) {
+      message = `Empty Repo: ${resource.full_name}: ${errStr}`;
+    } else {
+      console.log('other');
+    }
     console.log(message, e);
     results = {
       fullName,
@@ -787,7 +811,7 @@ export function validateMigrations(projectsDir, bookId, toolName, uniqueChecks, 
  * @return {string}
  */
 function getKey(checkId, chapter, verse, groupId, occurrence) {
-  const key = `${chapter}-${verse}-${groupId}-${checkId || ''}-${occurrence}`;
+  const key = `${groupId}_${chapter}_${verse}_${checkId || ''}_${occurrence}`;
   return key;
 }
 
@@ -950,6 +974,21 @@ function sortObjects(reposLines, sortKey) {
   return sorted;
 }
 
+function getLocalizedGroupId(dupeId, tool, selectedGL) {
+  const groupId = dupeId.split('_')[0];
+  const article = loadArticleData(tool, groupId, selectedGL);
+  let localizedGroupId = groupId;
+  if (article && (article.indexOf('Article Not Found:') <= 0)) {
+    const parts = article.split('#');
+    if ((parts.length > 1) && parts[1]) {
+      localizedGroupId = parts[1].trim();
+    } else {
+      console.log(article);
+    }
+  }
+  return localizedGroupId;
+}
+
 /**
  *
  * @param outputFolder
@@ -995,61 +1034,81 @@ function summarizeProjects(outputFolder, langId, org) {
             repoLine.tc_edit_version = checks.tc_edit_version;
             repoLine.tc_version = checks.tc_version;
             // repoLine.timeCreated = checks.time_created;
-            const tools = {'wordAlignment': 'wa', 'translationWords': 'tw', 'translationNotes': 'tn'};
+            const tools = {[WORD_ALIGNMENT]: 'wa', [TRANSLATION_WORDS]: 'tw', [TRANSLATION_NOTES]: 'tn'};
             for (const tool of Object.keys(tools)) {
               const projectLines = [];
+              let selectedGL = null;
               const toolShort = tools[tool];
               const toolData = checks[tool] && checks[tool].toolData;
               if (toolData) {
-                repoLine[`${toolShort}_gl`] = toolData.SelectedGL;
+                selectedGL = toolData.SelectedGL;
+                repoLine[`${toolShort}_gl`] = selectedGL;
                 const olVersion = toolData.orig_lang_check_version;
                 repoLine[`${toolShort}_orig_lang_check_version`] = olVersion ? 'v' + olVersion : '';
                 repoLine[`${toolShort}_gl_check_version`] = toolData.gl_check_version;
               }
 
-              if (['translationWords', 'translationNotes'].includes(tool)) {
+              if ([TRANSLATION_WORDS, TRANSLATION_NOTES].includes(tool)) {
                 const toolData = checks[tool] && checks[tool].stats;
                 if (toolData) {
+                  let dupesFound = false;
                   const dupeIds = toolData.dupes ? Object.keys(toolData.dupes) : [];
                   if (dupeIds.length) {
+                    dupesFound = true;
                     for (const dupeId of dupeIds) {
                       const dupe = toolData.dupes[dupeId];
+                      const localizedGroupId = getLocalizedGroupId(dupeId, tool, selectedGL);
                       const dupeLine = {
                         reference: dupeId,
+                        localizedGroupId,
                         message: dupe.warnings && dupe.warnings.replace('\t', ' ') || '',
                         selections: JSON.stringify(dupe.dupesList),
                       };
                       projectLines.push(dupeLine);
-                      projectWarning += `duplicate ${toolShort} selections found, `;
                     }
                   }
+                  if (dupesFound) {
+                    projectWarning += `duplicate ${toolShort} selections found, `;
+                  }
+                  dupesFound = false;
                   const migrationData = toolData.migrations;
                   const duplicateMigrations = migrationData && migrationData.duplicateMigrations || [];
                   if (duplicateMigrations && duplicateMigrations.length) {
+                    dupesFound = true;
                     for (const dupe of duplicateMigrations) {
+                      const localizedGroupId = getLocalizedGroupId(dupe.resourceKey, tool, selectedGL);
                       const dupeLine = {
                         reference: dupe.resourceKey,
+                        localizedGroupId,
                         message: `${dupe.duplicateMigration} duplicate migrations`,
                       };
                       projectLines.push(dupeLine);
-                      projectWarning += `duplicate ${toolShort} migrations found, `;
                     }
                   }
+                  if (dupesFound) {
+                    projectWarning += `duplicate ${toolShort} migrations found, `;
+                  }
+                  let unmatchedFound = false;
                   const unmatchedChecks = migrationData && migrationData.unmatched || [];
                   if (unmatchedChecks && unmatchedChecks.length) {
+                    unmatchedFound = true;
                     for (const unmatched of unmatchedChecks) {
                       let message = `unable to migrate selection, no match found for check in new resources`;
                       if (unmatched.resourcePartialMatches) {
                         message = `unable to migrate selection, there are ${unmatched.resourcePartialMatches} similar checks`;
                       }
+                      const localizedGroupId = getLocalizedGroupId(unmatched.key, tool, selectedGL);
                       const line = {
                         reference: unmatched.key,
                         message,
+                        localizedGroupId,
                         selections: unmatched.selections,
                       };
                       projectLines.push(line);
-                      projectWarning += `unmatched ${toolShort} checks found, `;
                     }
+                  }
+                  if (unmatchedFound) {
+                    projectWarning += `unmatched ${toolShort} checks found, `;
                   }
                 }
               }
@@ -1059,6 +1118,10 @@ function summarizeProjects(outputFolder, langId, org) {
                 {
                   key: 'reference',
                   text: 'Reference',
+                },
+                {
+                  key: 'localizedGroupId',
+                  text: 'Localized Group',
                 },
                 {
                   key: `message`,
@@ -1167,56 +1230,65 @@ function summarizeProjects(outputFolder, langId, org) {
  * @param checkMigration
  * @return {Promise<void>}
  */
-async function validateProjects(repos, resourcesPath, outputFolder, langId, org, checkMigration) {
-  let projectResults = {};
+async function validateProjects(repos, resourcesPath, outputFolder, langId, org, checkMigration, retryFailedDownloads) {
+  let projectsResults = {};
   const summaryFile = path.join(outputFolder, 'orgs-pre', `${langId}-${org}-repos.json`);
   if (fs.existsSync(summaryFile)) {
     const summary = fs.readJsonSync(summaryFile);
     if (summary && summary.projects) {
-      projectResults = summary.projects;
+      projectsResults = summary.projects;
     }
   }
   for (let i = repos.length - 1; i > 0; i--) {
     const project = repos[i];
-    if (projectResults[project.full_name]) {
-      if (checkMigration) {
-        if (projectResults[project.full_name].checkMigration) {
-          console.log(`skipping over ${project} already migration checked`);
-          continue; // skip over if repo already checked migration
-        }
+    const projectResults = projectsResults[project.full_name];
+    if (projectResults) {
+      if (retryFailedDownloads && projectResults.ERROR) {
+        delete projectResults.ERROR;
+        delete projectResults.checkMigration;
       } else {
-        console.log(`skipping over ${project} since no migration checking`);
-        continue; // skip over if repo already processed
+        if (checkMigration) {
+          if (projectResults.checkMigration) {
+            console.log(`skipping over ${project} already migration checked`);
+            continue; // skip over if repo already checked migration
+          }
+        } else {
+          console.log(`skipping over ${project} since no migration checking`);
+          continue; // skip over if repo already processed
+        }
       }
     }
     console.log(`${i+1} - Loading ${project.full_name}`);
     const results = await downloadAndVerifyProject(project, resourcesPath, project.full_name, checkMigration);
-    if (results && results.wA && results.checks && (results.wA.warnings || results.checks.translationNotes && (results.checks.translationNotes.stats.toolWarnings || results.checks.translationWords.stats.toolWarnings))) {
-      const projectWarnings = `warnings: WA: ${results.wA.warnings}, TN: ${results.checks.translationNotes.stats.toolWarnings}, TW: ${results.checks.translationWords.stats.toolWarnings}`;
+    const waWarnings = results && results.wA && results.wA.warnings || '';
+    const tnWarnings = results && results.checks && results.checks.translationNotes && results.checks.translationNotes.stats && results.checks.translationNotes.stats.toolWarnings || '';
+    const twWarnings = results && results.checks && results.checks.translationWords && results.checks.translationWords.stats && results.checks.translationWords.stats.toolWarnings || '';
+    if (waWarnings || tnWarnings || twWarnings) {
+      const projectWarnings = `warnings: WA: ${waWarnings}, TN: ${tnWarnings}, TW: ${twWarnings}`;
       console.log(projectWarnings);
       results.projectWarnings = projectWarnings;
     }
     // console.log(JSON.stringify(results));
-    projectResults[project.full_name] = results;
+    projectsResults[project.full_name] = results;
     const totalProjects = repos.length;
     const processedProjects = repos.length - i + 1;
 
     const summary = {
       processedProjects,
       totalProjects,
-      projects: projectResults,
+      projects: projectsResults,
     };
     fs.outputJsonSync(summaryFile, summary);
   }
 
-  const projectNames = Object.keys(projectResults);
+  const projectNames = Object.keys(projectsResults);
   const waFinished = {};
   const waNearlyFinished = {};
   const allFinished = {};
   const allNearlyFinished = {};
   for (const projectName of projectNames) {
     try {
-      const project = projectResults[projectName];
+      const project = projectsResults[projectName];
       const fullName = project.fullName;
       let waPercentComplete = 0;
       let twPercentComplete = 0;
@@ -1247,14 +1319,14 @@ async function validateProjects(repos, resourcesPath, outputFolder, langId, org,
       console.log(`${projectName} - ${projectWarnings}`);
       results.projectWarnings = projectWarnings;
       // console.log(JSON.stringify(results));
-      if (!projectResults[projectName]) {
-        projectResults[projectName] = {};
+      if (!projectsResults[projectName]) {
+        projectsResults[projectName] = {};
       }
-      projectResults[projectName].projectWarnings = projectWarnings;
+      projectsResults[projectName].projectWarnings = projectWarnings;
     }
   }
   const results = {
-    projectSummaries: projectResults,
+    projectSummaries: projectsResults,
     goodProjects: {
       waFinished,
       waNearlyFinished,
@@ -1346,8 +1418,6 @@ export function getCurrentOrigLangVersionForTn(projectPath, bookId) {
   const tsvOLVersion = getTsvOLVersion(tsv_relation, origLangBibleId);
   return tsvOLVersion;
 }
-
-const TRANSLATION_NOTES = 'translationNotes';
 
 /**
  * Loads a bible book resource.
@@ -1545,3 +1615,80 @@ export function getOrigLangforBook(bookId) {
   const bibleId = (isOT) ? OT_ORIG_LANG_BIBLE : NT_ORIG_LANG_BIBLE;
   return {languageId, bibleId};
 }
+
+/**
+ * Get the content of an article from disk
+ * @param {String} resourceType
+ * @param {String} articleId
+ * @param {String} languageId
+ * @param {String} category - Category of the article, e.g. kt, other, translate, etc. Can be blank.
+ * @returns {String} - the content of the article
+ */
+export const loadArticleData = (resourceType, articleId, languageId, category='') => {
+  let articleData = '# Article Not Found: '+articleId+' #\n\nCould not find article for '+articleId;
+  const articleFilePath = findArticleFilePath(resourceType, articleId, languageId, category);
+
+  if (articleFilePath) {
+    articleData = fs.readFileSync(articleFilePath, 'utf8'); // get file from fs
+  }
+  return articleData;
+};
+
+/**
+ * Finds the article file within a resoure type's path, looking at both the given language and default language in all possible category dirs
+ * @param {String} resourceType - e.g. translationWords, translationNotes
+ * @param {String} articleId
+ * @param {String} languageId - languageId will be first checked, and then we'll try the default GL
+ * @param {String} category - the articles category, e.g. other, kt, translate. If blank we'll try to guess it.
+ * @returns {String} - the path to the file, null if doesn't exist
+ * Note: resourceType is coming from a tool name
+ */
+export const findArticleFilePath = (resourceType, articleId, languageId, category='') => {
+  const languageDirs = [];
+
+  if (languageId) {
+    languageDirs.push(languageId);
+  }
+
+  if (languageId !== DEFAULT_GATEWAY_LANGUAGE) {
+    languageDirs.push(DEFAULT_GATEWAY_LANGUAGE);
+  }
+
+  let categories = [];
+
+  if (! category ) {
+    if (resourceType === TRANSLATION_WORDS) {
+      categories = ['kt', 'names', 'other'];
+    } else if (resourceType === TRANSLATION_NOTES || resourceType === TRANSLATION_ACADEMY) {
+      categories = ['translate', 'checking', 'process', 'intro'];
+      resourceType = TRANSLATION_ACADEMY;
+    } else {
+      categories = ['content'];
+    }
+  } else {
+    categories.push(category);
+  }
+
+  const articleFile = articleId + '.md';
+
+  for (let i = 0, len = languageDirs.length; i < len; ++i) {
+    let languageDir = languageDirs[i];
+    let typePath = path.join(USER_RESOURCES_PATH, languageDir, TRANSLATION_HELPS, resourceType);
+    let versionPath = getLatestVersion(typePath) || typePath;
+
+    for (let j = 0, jLen = categories.length; j < jLen; ++j) {
+      let categoryDir = categories[j];
+
+      if (resourceType === TRANSLATION_WORDS) {
+        categoryDir = path.join(categoryDir, 'articles');
+      }
+
+      let articleFilePath = path.join(versionPath, categoryDir, articleFile);
+
+      if (fs.existsSync(articleFilePath)) {
+        return articleFilePath;
+      }
+    }
+  }
+  return null;
+};
