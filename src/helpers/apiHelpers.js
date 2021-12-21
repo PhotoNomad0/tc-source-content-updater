@@ -1,4 +1,8 @@
+import {delay} from './utils';
+
 const request = require('request');
+const DCS_API = 'https://api.door43.org';
+const PIVOTED_CATALOG_PATH = '/v3/subjects/pivoted.json';
 
 /**
  * Performs a get request on the specified url.
@@ -24,6 +28,14 @@ function makeRequest(url) {
       }
     });
   });
+}
+
+/**
+ * Request the catalog.json from DCS API
+ * @return {Object} - Catalog from the DCS API
+ */
+export function getCatalogOld() {
+  return makeRequest(DCS_API + PIVOTED_CATALOG_PATH);
 }
 
 /**
@@ -113,7 +125,7 @@ export async function doMultipartQuery(url) {
  * Request the Door43-Catalog from catalog-next
  * @return {Object} - Catalog from the DCS API
  */
-export async function getCatalog() {
+export async function getD43Catalog() {
   let released;
   let latest;
 
@@ -139,6 +151,57 @@ export async function getCatalog() {
   return released;
 }
 
+async function getSubject(subject, retries=3) {
+  let result_;
+  for (let i = 1; i <= retries; i++) {
+    try {
+      const fetchUrl = `https://git.door43.org/api/catalog/v3?subject=${subject}`;
+      const {result} = await makeJsonRequestDetailed(fetchUrl);
+      result_ = result;
+      break;
+    } catch (e) {
+      if (i >= retries) {
+        throw e;
+      }
+      await delay(500);
+    }
+  }
+  return result_;
+}
+
+export async function getCatalogAllReleases() {
+  let released = [];
+  // const subjectList = ['Bible', 'Aligned Bible', 'Greek New Testament', 'Hebrew Old Testament', 'Translation Words', 'TSV Translation Notes', 'Translation Academy', 'Bible translation comprehension questions'];
+  const subjectList = ['Bible', 'Testament', 'Translation Words', 'TSV Translation Notes', 'Translation Academy', 'Translation Questions'];
+
+  try {
+    for (const subject of subjectList) {
+      const result = await getSubject(subject);
+      let repos = 0;
+      for (const language of result.languages) {
+        const languageId = language.identifier;
+        const resources = language.resources || [];
+        for (const resource of resources) {
+          resource.language = languageId;
+          released.push(resource);
+          repos++;
+        }
+      }
+      console.log(`${subject} has ${repos} items`);
+    }
+    console.log(`released catalog has ${released.length} items`);
+  } catch (e) {
+    console.log('getCatalog() - error getting catalog', e);
+    return [];
+  }
+
+  return released;
+}
+
+export async function getCatalog() {
+  return getCatalogAllReleases();
+}
+
 /**
  * does Catalog next API query to get manifest data
  * @param {string} owner
@@ -149,7 +212,7 @@ export async function getManifestData(owner, repo) {
   const fetchUrl = `https://git.door43.org/api/catalog/v5/entry/${owner}/${repo}/master/metadata`;
   try {
     const {result} = await makeJsonRequestDetailed(fetchUrl);
-    return result && result.dublin_core && result.dublin_core.version;
+    return result;
   } catch (e) {
     console.log('getManifestData() - error getting manifest data', e);
   }
