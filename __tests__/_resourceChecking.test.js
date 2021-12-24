@@ -1,4 +1,4 @@
-// this is just a development playbox
+// these are integration tests used for development, these are skipped
 // for Resource Validation - search, download, and validate projects
 
 import fs from 'fs-extra';
