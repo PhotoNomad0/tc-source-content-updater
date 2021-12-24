@@ -1,0 +1,18 @@
+{
+  "processedProjects": 3,
+  "totalProjects": 3,
+  "projects": {
+    "tc0.8.1/zza_zzz_tit_book": {
+      "fullName": "tc0.8.1/zza_zzz_tit_book",
+      "ERROR": "Empty Repo: tc0.8.1/zza_zzz_tit_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/tc0.8.1/zza_zzz_tit_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2019-04-18T20:47:59Z"
+    },
+    "tc0.8.1/zza_zzzz_tit_book": {
+      "fullName": "tc0.8.1/zza_zzzz_tit_book",
+      "ERROR": "Empty Repo: tc0.8.1/zza_zzzz_tit_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/tc0.8.1/zza_zzzz_tit_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2019-04-18T20:31:04Z"
+    }
+  }
+}

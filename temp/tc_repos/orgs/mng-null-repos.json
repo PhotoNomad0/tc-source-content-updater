@@ -1,0 +1,1359 @@
+{
+  "projectSummaries": {
+    "mnong_2020/mng_mlt_tit_book": {
+      "fullName": "mnong_2020/mng_mlt_tit_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "tit",
+        "time_created": "2020-10-12T13:46:47.881Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15",
+            "gl_check_version": "v36"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_rom_book": {
+      "fullName": "mnong_2020/mng_mlt_rom_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "rom",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "rom",
+        "time_created": "2020-09-18T08:48:24.968Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13",
+            "gl_check_version": "v32"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_rev_book": {
+      "fullName": "mnong_2020/mng_mlt_rev_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "rev",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "rev",
+        "time_created": "2020-09-19T16:15:08.957Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_php_book": {
+      "fullName": "mnong_2020/mng_mlt_php_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "php",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "php",
+        "time_created": "2020-09-19T15:45:46.278Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_phm_book": {
+      "fullName": "mnong_2020/mng_mlt_phm_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "phm",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "phm",
+        "time_created": "2020-09-19T15:58:35.878Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_mrk_book": {
+      "fullName": "mnong_2020/mng_mlt_mrk_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "mrk",
+        "percentCompleted": 0.014749262536873156,
+        "completedVerses": 10,
+        "totalVerses": 678,
+        "unalignedOrig": 11223,
+        "unalignedTarget": 16978
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "mrk",
+        "time_created": "2020-09-19T05:09:03.600Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 665
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2173,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_mat_book": {
+      "fullName": "mnong_2020/mng_mlt_mat_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "mat",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "mat",
+        "time_created": "2020-09-17T01:14:20.307Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.12",
+            "gl_check_version": "v28"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_luk_book": {
+      "fullName": "mnong_2020/mng_mlt_luk_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "luk",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "luk",
+        "time_created": "2020-09-19T05:57:20.706Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_jud_book": {
+      "fullName": "mnong_2020/mng_mlt_jud_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "jud",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "jud",
+        "time_created": "2020-09-19T16:13:42.150Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_jhn_book": {
+      "fullName": "mnong_2020/mng_mlt_jhn_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "jhn",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "jhn",
+        "time_created": "2020-09-18T08:39:52.228Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_jas_book": {
+      "fullName": "mnong_2020/mng_mlt_jas_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "jas",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "jas",
+        "time_created": "2020-09-19T16:02:44.332Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_heb_book": {
+      "fullName": "mnong_2020/mng_mlt_heb_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "heb",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "heb",
+        "time_created": "2020-09-19T16:00:19.711Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_gal_book": {
+      "fullName": "mnong_2020/mng_mlt_gal_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "gal",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "gal",
+        "time_created": "2020-09-19T15:35:16.312Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_eph_book": {
+      "fullName": "mnong_2020/mng_mlt_eph_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "eph",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "eph",
+        "time_created": "2020-09-19T15:44:11.448Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_col_book": {
+      "fullName": "mnong_2020/mng_mlt_col_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "col",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "col",
+        "time_created": "2020-09-19T15:47:37.065Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_act_book": {
+      "fullName": "mnong_2020/mng_mlt_act_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "act",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "act",
+        "time_created": "2020-09-19T15:12:31.052Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_3jn_book": {
+      "fullName": "mnong_2020/mng_mlt_3jn_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "3jn",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "3jn",
+        "time_created": "2020-09-19T16:11:59.537Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_2ti_book": {
+      "fullName": "mnong_2020/mng_mlt_2ti_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2ti",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2ti",
+        "time_created": "2020-09-19T15:55:11.285Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_2th_book": {
+      "fullName": "mnong_2020/mng_mlt_2th_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2th",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2th",
+        "time_created": "2020-09-19T15:51:06.094Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_2pe_book": {
+      "fullName": "mnong_2020/mng_mlt_2pe_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2pe",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2pe",
+        "time_created": "2020-09-19T16:07:41.042Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_2jn_book": {
+      "fullName": "mnong_2020/mng_mlt_2jn_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2jn",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2jn",
+        "time_created": "2020-09-19T16:10:35.162Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13",
+            "gl_check_version": "v32"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_2co_book": {
+      "fullName": "mnong_2020/mng_mlt_2co_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2co",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "2co",
+        "time_created": "2020-09-19T15:30:32.885Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_1ti_book": {
+      "fullName": "mnong_2020/mng_mlt_1ti_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1ti",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1ti",
+        "time_created": "2020-09-19T15:52:31.927Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_1th_book": {
+      "fullName": "mnong_2020/mng_mlt_1th_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1th",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1th",
+        "time_created": "2020-09-19T15:49:11.318Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_1pe_book": {
+      "fullName": "mnong_2020/mng_mlt_1pe_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1pe",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1pe",
+        "time_created": "2020-09-19T16:05:44.762Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    },
+    "mnong_2020/mng_mlt_1jn_book": {
+      "fullName": "mnong_2020/mng_mlt_1jn_book",
+      "wA": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1jn",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mng",
+        "projectId": "mlt",
+        "bookId": "1jn",
+        "time_created": "2020-09-19T16:09:05.613Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-22T12:50:20.216Z"
+    }
+  },
+  "goodProjects": {
+    "waFinished": {},
+    "waNearlyFinished": {},
+    "allFinished": {},
+    "allNearlyFinished": {}
+  }
+}

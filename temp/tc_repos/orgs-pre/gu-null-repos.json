@@ -1,0 +1,2358 @@
+{
+  "processedProjects": 41,
+  "totalProjects": 41,
+  "projects": {
+    "Amos.Khokhar/gu_gglt_luk_book": {
+      "fullName": "Amos.Khokhar/gu_gglt_luk_book",
+      "ERROR": "Empty Repo: Amos.Khokhar/gu_gglt_luk_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/Amos.Khokhar/gu_gglt_luk_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true
+    },
+    "Amos.Khokhar/gu_gglt_1jn_book": {
+      "fullName": "Amos.Khokhar/gu_gglt_1jn_book",
+      "ERROR": "Empty Repo: Amos.Khokhar/gu_gglt_1jn_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/Amos.Khokhar/gu_gglt_1jn_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true
+    },
+    "WilsonJacob/gu_gglt_jas_book": {
+      "fullName": "WilsonJacob/gu_gglt_jas_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "jas",
+        "percentCompleted": 0.9814814814814815,
+        "completedVerses": 106,
+        "totalVerses": 108,
+        "unalignedOrig": 1,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "jas",
+        "time_created": "2021-10-12T09:11:18.367Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.8086642599277978,
+          "completedChecks": 448,
+          "totalChecks": 554,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-metaphor_1_11__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_1_12__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_1_25__1",
+                  "selections": "પોતાના વ્યવહારમાં-1",
+                  "resourcePartialMatches": 3
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-idiom_4_13__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 265,
+          "totalChecks": 267,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-idiom_4_13__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n, TW: "
+    },
+    "BCS_India/gu_ggst_jas_book": {
+      "fullName": "BCS_India/gu_ggst_jas_book",
+      "ERROR": "Empty Repo: BCS_India/gu_ggst_jas_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/BCS_India/gu_ggst_jas_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true
+    },
+    "shojojohn/gu_gglt_jas_book": {
+      "fullName": "shojojohn/gu_gglt_jas_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "jas",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 108,
+        "unalignedOrig": 1741,
+        "unalignedTarget": 2129
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "jas",
+        "time_created": "2021-10-12T09:11:18.367Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.8104693140794224,
+          "completedChecks": 449,
+          "totalChecks": 554,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-metaphor_1_11__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_1_12__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_1_25__1",
+                  "selections": "પોતાના વ્યવહારમાં-1",
+                  "resourcePartialMatches": 3
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.1468682505399568,
+          "completedChecks": 68,
+          "totalChecks": 463,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n, TW: "
+    },
+    "shojojohn/gu_ggst_tit_book": {
+      "fullName": "shojojohn/gu_ggst_tit_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "ggst",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 0,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "ggst",
+        "bookId": "tit",
+        "time_created": "2021-07-13T11:02:49.626Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 0.9880952380952381,
+          "completedChecks": 83,
+          "totalChecks": 84,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-inclusive_1_3__1",
+                  "selections": "આપણો-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_1_4__1",
+                  "selections": "આપણો-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_8__1",
+                  "selections": "આપણા કોઈપણ વિષે-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_10__1",
+                  "selections": "આપણા-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_12__1",
+                  "selections": "આપણને-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "આપણા સ્થાને-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "ઈશ્વર જે રીતે ઈચ્છે છે તે રીતે જીવવાને આપણે સ્વતંત્ર થઈએ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_3__1",
+                  "selections": "આપણે સ્વયં-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_4__1",
+                  "selections": "આપણને-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "આપણને-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "આપણો-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_14__1",
+                  "selections": "આપણા લોકો-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_15__1",
+                  "selections": "અમને-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_15__1",
+                  "selections": "લોકો જો દૃષ્ટ હોય અને ખ્રિસ્ત ઈસુમાં વિશ્વાસ કરતા ના હોય તો તેઓ જે કંઈ કરશે તે ખોટું જ હશે-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 220,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_ggst_3jn_book": {
+      "fullName": "shojojohn/gu_ggst_3jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "ggst",
+        "bookId": "3jn",
+        "percentCompleted": 0.9333333333333333,
+        "completedVerses": 14,
+        "totalVerses": 15,
+        "unalignedOrig": 1,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "ggst",
+        "bookId": "3jn",
+        "time_created": "2021-07-13T11:07:41.893Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 18,
+          "totalChecks": 18,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.7142857142857143,
+          "completedChecks": 45,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": "prosper_1_2__1 - Missing 1 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: , TW: prosper_1_2__1 - Missing 1 selections\t\n"
+    },
+    "shojojohn/gu_gglt_tit_book": {
+      "fullName": "shojojohn/gu_gglt_tit_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 1,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "tit",
+        "time_created": "2021-07-13T10:59:53.940Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 84,
+          "totalChecks": 84,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-inclusive_1_3__1",
+                  "selections": "આપણા-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_1_4__1",
+                  "selections": "આપણા-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_8__1",
+                  "selections": "આપણા-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_10__1",
+                  "selections": "આપણા-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_12__1",
+                  "selections": "આપણે-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "આપણને-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "આપણને-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_3__1",
+                  "selections": "આપણે-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_4__1",
+                  "selections": "આપણા-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "આપણા-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "આપણા-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_14__1",
+                  "selections": "આપણા પોતાનાઓએ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_15__1",
+                  "selections": "આપણ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_15__1",
+                  "selections": "પરંતુ જેઓ ભ્રષ્ટ અને અવિશ્વાસી છે તેઓને માટે કશું શુદ્ધ નથી-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 221,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_gglt_3jn_book": {
+      "fullName": "shojojohn/gu_gglt_3jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "3jn",
+        "percentCompleted": 1,
+        "completedVerses": 15,
+        "totalVerses": 15,
+        "unalignedOrig": 0,
+        "unalignedTarget": 6
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "gglt",
+        "bookId": "3jn",
+        "time_created": "2021-07-13T11:05:50.139Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 0.9,
+          "completedChecks": 18,
+          "totalChecks": 20,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 63,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/gu_irv_jas_book": {
+      "fullName": "BCS_India/gu_irv_jas_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "jas",
+        "percentCompleted": 1,
+        "completedVerses": 113,
+        "totalVerses": 113,
+        "unalignedOrig": 594,
+        "unalignedTarget": 581
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "jas",
+        "time_created": "2020-10-22T05:13:48.029Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 186
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 489,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/gu_irv_jud_book": {
+      "fullName": "BCS_India/gu_irv_jud_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "jud",
+        "percentCompleted": 1,
+        "completedVerses": 26,
+        "totalVerses": 26,
+        "unalignedOrig": 55,
+        "unalignedTarget": 18
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "jud",
+        "time_created": "2020-10-22T04:59:14.807Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 25
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 154,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/gu_irv_2jn_book": {
+      "fullName": "BCS_India/gu_irv_2jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2jn",
+        "percentCompleted": 1,
+        "completedVerses": 14,
+        "totalVerses": 14,
+        "unalignedOrig": 48,
+        "unalignedTarget": 28
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2jn",
+        "time_created": "2020-10-21T10:51:10.512Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 12
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 69,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/gu_irv_1pe_book": {
+      "fullName": "BCS_India/gu_irv_1pe_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "percentCompleted": 1,
+        "completedVerses": 110,
+        "totalVerses": 110,
+        "unalignedOrig": 216,
+        "unalignedTarget": 70
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "time_created": "2020-10-21T09:37:31.853Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 164
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 632,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/gu_irv_phm_book": {
+      "fullName": "BCS_India/gu_irv_phm_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "phm",
+        "percentCompleted": 1,
+        "completedVerses": 26,
+        "totalVerses": 26,
+        "unalignedOrig": 77,
+        "unalignedTarget": 55
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "phm",
+        "time_created": "2020-10-21T09:11:20.058Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 25
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 100,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/gu_irv_2ti_book": {
+      "fullName": "BCS_India/gu_irv_2ti_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "percentCompleted": 1,
+        "completedVerses": 87,
+        "totalVerses": 87,
+        "unalignedOrig": 150,
+        "unalignedTarget": 35
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "time_created": "2020-10-21T06:47:06.783Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 119
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 371,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/gu_irv_1ti_book": {
+      "fullName": "BCS_India/gu_irv_1ti_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "percentCompleted": 1,
+        "completedVerses": 119,
+        "totalVerses": 119,
+        "unalignedOrig": 158,
+        "unalignedTarget": 40
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "time_created": "2020-10-21T05:16:32.461Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 148
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 511,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/gu_irv_tit_book": {
+      "fullName": "India_BCS/gu_irv_tit_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 88,
+        "unalignedTarget": 147
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "tit",
+        "time_created": "2020-01-03T10:27:34.820Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 35
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 244,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_rev_book": {
+      "fullName": "shojojohn/gu_irv_rev_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "rev",
+        "percentCompleted": 1,
+        "completedVerses": 427,
+        "totalVerses": 427,
+        "unalignedOrig": 3165,
+        "unalignedTarget": 1539
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "rev",
+        "time_created": "2019-11-22T07:29:29.184Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 593,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2347,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_php_book": {
+      "fullName": "shojojohn/gu_irv_php_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "php",
+        "percentCompleted": 0.9629629629629629,
+        "completedVerses": 104,
+        "totalVerses": 108,
+        "unalignedOrig": 614,
+        "unalignedTarget": 672
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "php",
+        "time_created": "2019-11-20T11:22:49.271Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 94,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 475,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_heb_book": {
+      "fullName": "shojojohn/gu_irv_heb_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "heb",
+        "percentCompleted": 0.99,
+        "completedVerses": 315,
+        "totalVerses": 316,
+        "unalignedOrig": 1204,
+        "unalignedTarget": 1420
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "heb",
+        "time_created": "2019-11-21T11:34:35.983Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 499,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1416,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_gal_book": {
+      "fullName": "shojojohn/gu_irv_gal_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "gal",
+        "percentCompleted": 1,
+        "completedVerses": 155,
+        "totalVerses": 155,
+        "unalignedOrig": 792,
+        "unalignedTarget": 970
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "gal",
+        "time_created": "2019-11-20T06:57:35.850Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 127,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 718,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_eph_book": {
+      "fullName": "shojojohn/gu_irv_eph_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "eph",
+        "percentCompleted": 0.9751552795031055,
+        "completedVerses": 157,
+        "totalVerses": 161,
+        "unalignedOrig": 1017,
+        "unalignedTarget": 648
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "eph",
+        "time_created": "2019-11-20T09:47:16.077Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 147,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 738,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_col_book": {
+      "fullName": "shojojohn/gu_irv_col_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "col",
+        "percentCompleted": 0.9797979797979798,
+        "completedVerses": 97,
+        "totalVerses": 99,
+        "unalignedOrig": 576,
+        "unalignedTarget": 444
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "col",
+        "time_created": "2019-11-21T05:45:22.932Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 121,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 458,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_2th_book": {
+      "fullName": "shojojohn/gu_irv_2th_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2th",
+        "percentCompleted": 0.9591836734693877,
+        "completedVerses": 47,
+        "totalVerses": 49,
+        "unalignedOrig": 320,
+        "unalignedTarget": 291
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2th",
+        "time_created": "2019-11-21T08:42:38.205Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 50,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 266,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_2pe_book": {
+      "fullName": "shojojohn/gu_irv_2pe_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "percentCompleted": 1,
+        "completedVerses": 64,
+        "totalVerses": 64,
+        "unalignedOrig": 305,
+        "unalignedTarget": 259
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "time_created": "2019-11-21T09:20:40.565Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 334,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_1th_book": {
+      "fullName": "shojojohn/gu_irv_1th_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1th",
+        "percentCompleted": 0.967741935483871,
+        "completedVerses": 90,
+        "totalVerses": 93,
+        "unalignedOrig": 546,
+        "unalignedTarget": 473
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1th",
+        "time_created": "2019-11-21T06:45:44.448Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 450,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_1jn_book": {
+      "fullName": "shojojohn/gu_irv_1jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 110,
+        "totalVerses": 110,
+        "unalignedOrig": 567,
+        "unalignedTarget": 381
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "time_created": "2019-11-21T10:19:27.834Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 135,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 578,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_rom_book": {
+      "fullName": "shojojohn/gu_irv_rom_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "rom",
+        "percentCompleted": 1,
+        "completedVerses": 449,
+        "totalVerses": 449,
+        "unalignedOrig": 1912,
+        "unalignedTarget": 1640
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "rom",
+        "time_created": "2019-10-30T05:03:51.022Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 630,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2184,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_mrk_book": {
+      "fullName": "shojojohn/gu_irv_mrk_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "percentCompleted": 1,
+        "completedVerses": 694,
+        "totalVerses": 694,
+        "unalignedOrig": 3069,
+        "unalignedTarget": 2208
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "time_created": "2019-10-21T09:15:22.982Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 665,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2234,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_mat_book": {
+      "fullName": "shojojohn/gu_irv_mat_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "mat",
+        "percentCompleted": 1,
+        "completedVerses": 1098,
+        "totalVerses": 1098,
+        "unalignedOrig": 5480,
+        "unalignedTarget": 3206
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "mat",
+        "time_created": "2019-10-22T06:16:08.124Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1289,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4093,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_luk_book": {
+      "fullName": "shojojohn/gu_irv_luk_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "luk",
+        "percentCompleted": 1,
+        "completedVerses": 1173,
+        "totalVerses": 1173,
+        "unalignedOrig": 4926,
+        "unalignedTarget": 3697
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "luk",
+        "time_created": "2019-10-23T09:39:11.940Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1287,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4128,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_jhn_book": {
+      "fullName": "shojojohn/gu_irv_jhn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "percentCompleted": 1,
+        "completedVerses": 900,
+        "totalVerses": 900,
+        "unalignedOrig": 3478,
+        "unalignedTarget": 1949
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "time_created": "2019-10-25T09:28:55.083Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 778,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3399,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_act_book": {
+      "fullName": "shojojohn/gu_irv_act_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "act",
+        "percentCompleted": 1,
+        "completedVerses": 1035,
+        "totalVerses": 1035,
+        "unalignedOrig": 4941,
+        "unalignedTarget": 4033
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "act",
+        "time_created": "2019-10-28T09:49:58.025Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1117,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4390,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_2co_book": {
+      "fullName": "shojojohn/gu_irv_2co_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2co",
+        "percentCompleted": 1,
+        "completedVerses": 270,
+        "totalVerses": 270,
+        "unalignedOrig": 1191,
+        "unalignedTarget": 1195
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "2co",
+        "time_created": "2019-10-31T07:26:05.913Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 327,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1099,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_1co_book": {
+      "fullName": "shojojohn/gu_irv_1co_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1co",
+        "percentCompleted": 1,
+        "completedVerses": 453,
+        "totalVerses": 453,
+        "unalignedOrig": 1726,
+        "unalignedTarget": 1781
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "1co",
+        "time_created": "2019-10-30T10:35:03.643Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 368,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1847,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "Vipin_Bhadran/gu_irv_3jn_book": {
+      "fullName": "Vipin_Bhadran/gu_irv_3jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "percentCompleted": 0.375,
+        "completedVerses": 6,
+        "totalVerses": 16,
+        "unalignedOrig": 21,
+        "unalignedTarget": 57
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "time_created": "2019-08-20T08:24:58.929Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "russp41/gu_irv_3jn_book": {
+      "fullName": "russp41/gu_irv_3jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "percentCompleted": 0.5,
+        "completedVerses": 8,
+        "totalVerses": 16,
+        "unalignedOrig": 11,
+        "unalignedTarget": 29
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "time_created": "2019-07-26T13:53:19.119Z",
+        "tc_edit_version": "1.2.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 12
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "russp41/gu_irvb_3jn_book": {
+      "fullName": "russp41/gu_irvb_3jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irvb",
+        "bookId": "3jn",
+        "percentCompleted": 0.375,
+        "completedVerses": 6,
+        "totalVerses": 16,
+        "unalignedOrig": 26,
+        "unalignedTarget": 62
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irvb",
+        "bookId": "3jn",
+        "time_created": "2019-07-26T13:37:51.918Z",
+        "tc_edit_version": "1.2.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 12
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_3jn_book": {
+      "fullName": "shojojohn/gu_irv_3jn_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "percentCompleted": 0.5,
+        "completedVerses": 8,
+        "totalVerses": 16,
+        "unalignedOrig": 11,
+        "unalignedTarget": 29
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "time_created": "2019-05-20T05:59:46.847Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/gu_irv_tit_book": {
+      "fullName": "shojojohn/gu_irv_tit_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "tit",
+        "percentCompleted": 0.6122448979591837,
+        "completedVerses": 30,
+        "totalVerses": 49,
+        "unalignedOrig": 65,
+        "unalignedTarget": 87
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "irv",
+        "bookId": "tit",
+        "time_created": "2019-05-02T05:00:46.687Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    }
+  }
+}

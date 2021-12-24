@@ -1,0 +1,3752 @@
+{
+  "processedProjects": 59,
+  "totalProjects": 59,
+  "projects": {
+    "Nitingudekar_1/mr_mgst_jas_book": {
+      "fullName": "Nitingudekar_1/mr_mgst_jas_book",
+      "ERROR": "Empty Repo: Nitingudekar_1/mr_mgst_jas_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/Nitingudekar_1/mr_mgst_jas_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgst_jas_book": {
+      "fullName": "sunilkasbe/mr_mgst_jas_book",
+      "ERROR": "Empty Repo: sunilkasbe/mr_mgst_jas_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/sunilkasbe/mr_mgst_jas_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true
+    },
+    "sachin_nerlekar/mr_mglt_luk_book": {
+      "fullName": "sachin_nerlekar/mr_mglt_luk_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "luk",
+        "percentCompleted": 0.99,
+        "completedVerses": 1150,
+        "totalVerses": 1151,
+        "unalignedOrig": 68,
+        "unalignedTarget": 71
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "luk",
+        "time_created": "2021-11-03T14:27:49.612Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.9619663648124192,
+          "completedChecks": 3718,
+          "totalChecks": 3865,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-doublenegatives_8_17__1 - Missing 1 selections\t\nfigs-explicit_7_44__1 - Missing 1 selections\t\nfigs-explicit_8_46__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_22__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-explicit_22_37__1 - Missing 1 selections\t\nfigs-hyperbole_16_16__1 - Missing 1 selections\t\nfigs-hypo_12_39__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_36__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_10_30__1 - Missing 1 selections\t\nfigs-metaphor_1_69__1 - Missing 1 selections\t\nfigs-metaphor_2_35__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_10_16__1 - Missing 1 selections\t\nfigs-metaphor_13_35__1 - Missing 1 selections\t\nfigs-metaphor_15_29__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_20_43__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_34__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metaphor_24_32__1 - Missing 1 selections\t\nfigs-metonymy_11_17__1 - Missing 1 selections\t\nfigs-metonymy_11_50__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_1_9__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 3830,
+          "totalChecks": 3847,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": "yeast_13_21__1 - Missing 1 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-doublenegatives_8_17__1 - Missing 1 selections\t\nfigs-explicit_7_44__1 - Missing 1 selections\t\nfigs-explicit_8_46__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_22__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-explicit_22_37__1 - Missing 1 selections\t\nfigs-hyperbole_16_16__1 - Missing 1 selections\t\nfigs-hypo_12_39__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_36__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_10_30__1 - Missing 1 selections\t\nfigs-metaphor_1_69__1 - Missing 1 selections\t\nfigs-metaphor_2_35__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_10_16__1 - Missing 1 selections\t\nfigs-metaphor_13_35__1 - Missing 1 selections\t\nfigs-metaphor_15_29__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_20_43__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_34__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metaphor_24_32__1 - Missing 1 selections\t\nfigs-metonymy_11_17__1 - Missing 1 selections\t\nfigs-metonymy_11_50__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_1_9__1 - Missing 1 selections\t\n, TW: yeast_13_21__1 - Missing 1 selections\t\n"
+    },
+    "sunilkasbe/mr_mgst_1jn_book": {
+      "fullName": "sunilkasbe/mr_mgst_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "1jn",
+        "percentCompleted": 0.99,
+        "completedVerses": 104,
+        "totalVerses": 105,
+        "unalignedOrig": 547,
+        "unalignedTarget": 630
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "1jn",
+        "time_created": "2021-11-11T05:57:43.488Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9370503597122302,
+          "completedChecks": 521,
+          "totalChecks": 556,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-exclusive_1_3__1",
+                  "selections": "आम्ही तुम्हाला घोषणा करतो-1 पाहिलं-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-explicit_1_1__1",
+                  "selections": "आम्ही प्रेषितानी ऐकले जेव्हा त्याने आम्हाला शिकविले.-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_1_7__1",
+                  "selections": "देव आम्हाला क्षमा करील आणि आम्हाला स्वीकारेल, कारण की त्याचा पुत्र येशू आम्हासाठी मरण पावला.-1",
+                  "resourcePartialMatches": 4
+                },
+                {
+                  "key": "figs-metaphor_2_17__1",
+                  "selections": "जी वर्तणूक देवाला आवडत नाही-1 टिकू शकणा-1 नाहीत-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_5_20__1",
+                  "selections": "आपण खर्‍या देवाबरोबर सहभागीतेच जीवन जगावं. आम्ही अश्या खर्‍या देवाबरोबर आणि त्याच्या पुत्राबरोबर एक सहभागीतेच जीवन जगतो, येशू हाच ख्रिस्त.-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_1_8__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_8__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_4__1 - Missing 1 selections\t\nfigs-metonymy_2_14__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 2 selections\t\nwriting-pronouns_2_27__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.9837837837837838,
+          "completedChecks": 546,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": "antichrist_2_18__1 - Missing 1 selections\t\nknow_4_6__1 - Missing 1 selections\t\nteach_2_27__1 - Missing 1 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_1_8__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_8__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_4__1 - Missing 1 selections\t\nfigs-metonymy_2_14__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 2 selections\t\nwriting-pronouns_2_27__1 - Missing 1 selections\t\n, TW: antichrist_2_18__1 - Missing 1 selections\t\nknow_4_6__1 - Missing 1 selections\t\nteach_2_27__1 - Missing 1 selections\t\n"
+    },
+    "sunilkasbe/mr_mglt_luk_book": {
+      "fullName": "sunilkasbe/mr_mglt_luk_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "luk",
+        "percentCompleted": 1,
+        "completedVerses": 1151,
+        "totalVerses": 1151,
+        "unalignedOrig": 90,
+        "unalignedTarget": 99
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "luk",
+        "time_created": "2021-11-03T14:27:49.612Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 3837,
+          "totalChecks": 3865,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_10_30__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_15_29__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_1_9__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 3846,
+          "totalChecks": 3847,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_10_30__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_15_29__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_1_9__1 - Missing 1 selections\t\n, TW: "
+    },
+    "sunilkasbe/mr_mglt_1jn_book": {
+      "fullName": "sunilkasbe/mr_mglt_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 105,
+        "totalVerses": 105,
+        "unalignedOrig": 2,
+        "unalignedTarget": 5
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1jn",
+        "time_created": "2021-10-04T12:24:47.801Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.9106529209621993,
+          "completedChecks": 530,
+          "totalChecks": 582,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-abstractnouns_4_10__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-abstractnouns_5_20__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-idiom_4_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_5__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_10__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_27__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_9__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_14__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_5_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "grammar-connect-condition-fact_4_11__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "writing-pronouns_3_23__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "writing-pronouns_4_17__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-ellipsis_2_2__1",
+                  "selections": "आणि केवळ आपल्यासाठीच नाही, तर संपूर्ण जगासाठी आहे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-ellipsis_4_1__1",
+                  "selections": "देवापासून आहेत किंवा नाही-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-explicit_1_9__1",
+                  "selections": "पण आपण आपली पापे कबुल केली-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-explicit_2_6__1",
+                  "selections": "त्याने तो चालतो तसे चालले पाहिजे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-explicit_2_26__1",
+                  "selections": "जे तुम्हाला बहकवतात-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-explicit_5_10__1",
+                  "selections": "त्याने त्याला लबाड ठरवले आहे-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-explicitinfo_1_1__1",
+                  "selections": "आम्ही डोळ्यांनी पाहिले-1 आमच्या हाताने स्पर्श केला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-genericnoun_4_21__1",
+                  "selections": "जो देवावर प्रिती करतो-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-genericnoun_5_10__1",
+                  "selections": "जो कोणी-1 विश्वास ठेवतो-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-hyperbole_3_18__1",
+                  "selections": "पण शब्दाने नव्हे किंवा जिभेने नव्हे-1 प्रिती करावी-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-idiom_2_18__-1",
+                  "selections": "ही शेवटची घटका आहे-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-idiom_2_24__-1",
+                  "selections": "सुरुवाती-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-idiom_3_17__1",
+                  "selections": "गरजवंत आहे-1 त्याच्यावर दया करीत नाही-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_2_11__1",
+                  "selections": "तो कोठे चालला आहे, कळत नाही,-1",
+                  "resourcePartialMatches": 5
+                },
+                {
+                  "key": "figs-metaphor_2_17__1",
+                  "selections": "जग-1 नाहीशी होत-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_3_17__1",
+                  "selections": "त्याच्या ठायी देवाची प्रिती कशी राहील?-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_5_20__1",
+                  "selections": "आपण त्याचा पुत्र येशू खिस्त याच्या सत्यामध्ये आहोत,-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_2_14__1",
+                  "selections": "देवाच वचन तुमच्या मध्ये राहते-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_5_4__2",
+                  "selections": "जगावर-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-personification_5_7__1",
+                  "selections": "हे-1 साक्षीदार आहेत-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-quotations_5_11__1",
+                  "selections": "देवाने आपल्याला सार्वकालीन जीवन दिले आहे, आणि हे जीवन त्याच्या पुत्रामध्ये आहे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-condition-contrary_2_19__1",
+                  "selections": "कारण जर ते आमच्यातले असते तर ते आमच्यातच राहिले असते-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-condition-fact_2_3__1",
+                  "selections": "यामध्ये आपल्याला कळते की आपण त्याला ओळखतो, जर आपण त्याच्या आज्ञा पाळतो.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-condition-fact_4_12__1",
+                  "selections": "जर आपण एकमेकांवर प्रिती केली, देव आपल्यामध्ये राहतो आणि त्याची प्रिती आपल्याठायी पूर्ण झाली आहे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-exceptions_2_21__1",
+                  "selections": "मी तुम्हाला लिहिले नाही कारण तुम्हाला सत्य माहित नाही-1 तुम्हाला ते कळते-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-exceptions_5_6__1",
+                  "selections": "केवळ पाण्याद्वारेच नव्हे-1 पाणी आणि रक्त याद्वारे आला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-logic-result_3_13__1",
+                  "selections": "तेव्हा आश्चर्य मानू नका-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "translate-unknown_2_18__1",
+                  "selections": "ख्रिस्त विरोधक येत आहे,आणि आता अनेक ख्रिस्तविरोधक आले आहेत-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "writing-pronouns_1_1__1",
+                  "selections": "जीवनाच्या शब्दाबद्दल आहे-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_2_27__1",
+                  "selections": "त्याच्या-1 त्याचा-1 त्याच्यामध्ये-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_5_9__1",
+                  "selections": "ही देवाची साक्ष आहे-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "writing-pronouns_5_13__1",
+                  "selections": "या बाबत-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-explicit_1_1__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 2 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 2 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.9657657657657658,
+          "completedChecks": 536,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": "know_4_6__1 - Missing 1 selections\t\nwalk_2_6__1 - Missing 1 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_1_1__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 2 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 2 selections\t\n, TW: know_4_6__1 - Missing 1 selections\t\nwalk_2_6__1 - Missing 1 selections\t\n"
+    },
+    "Amos.Khokhar/mr_mglt_jas_book": {
+      "fullName": "Amos.Khokhar/mr_mglt_jas_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "jas",
+        "percentCompleted": 1,
+        "completedVerses": 108,
+        "totalVerses": 108,
+        "unalignedOrig": 35,
+        "unalignedTarget": 37
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "jas",
+        "time_created": "2021-10-06T14:29:35.466Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9819494584837545,
+          "completedChecks": 544,
+          "totalChecks": 554,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_1_25__1",
+                  "selections": "काही करतो त्यामध्ये-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "grammar-connect-logic-contrast_3_5__2",
+                  "selections": "तरीही-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-logic-result_4_7__1",
+                  "selections": "म्हणून-1 अधीन रहा-1 म्हणजे-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_1_11__1 - Missing 1 selections\t\nfigs-metaphor_1_12__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\nfigs-possession_5_15__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 463,
+          "totalChecks": 463,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_1_11__1 - Missing 1 selections\t\nfigs-metaphor_1_12__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\nfigs-possession_5_15__1 - Missing 1 selections\t\n, TW: "
+    },
+    "Amos.Khokhar/mr_mglt_1jn_book": {
+      "fullName": "Amos.Khokhar/mr_mglt_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 105,
+        "totalVerses": 105,
+        "unalignedOrig": 46,
+        "unalignedTarget": 56
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1jn",
+        "time_created": "2021-10-04T12:24:47.801Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9766187050359713,
+          "completedChecks": 543,
+          "totalChecks": 556,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-exclusive_1_3__1",
+                  "selections": "जे आम्ही पाहिले-1 घोषित करतो-1 आमच्या सोबत-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-explicit_1_1__1",
+                  "selections": "जे आम्ही ऐकले आहे-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_1_7__1",
+                  "selections": "पुत्र येशूचे रक्त आपल्याला सर्व पापापासून शुद्ध करील.-1",
+                  "resourcePartialMatches": 4
+                },
+                {
+                  "key": "figs-metaphor_2_17__1",
+                  "selections": "जग-1 नाहीशी होत-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_5_20__1",
+                  "selections": "आपण त्याचा पुत्र येशू खिस्त याच्या सत्यामध्ये आहोत,-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 555,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 1 selections\t\n, TW: "
+    },
+    "shojojohn/mr_mgl_eph_book": {
+      "fullName": "shojojohn/mr_mgl_eph_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgl",
+        "bookId": "eph",
+        "percentCompleted": 0.775,
+        "completedVerses": 124,
+        "totalVerses": 160,
+        "unalignedOrig": 191,
+        "unalignedTarget": 241
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgl",
+        "bookId": "eph",
+        "time_created": "2021-11-01T07:43:06.339Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9058441558441559,
+          "completedChecks": 279,
+          "totalChecks": 308,
+          "stats": {
+            "dupes": {
+              "figs-metaphor_4_30__1": {
+                "dupesList": [
+                  "ज्याच्या द्ववारे तुम्ही तारणाच्या दिवसासाठी शिक्का मारलेले आहात.-1",
+                  "ज्याच्या द्ववारे तुम्ही तारणाच्या दिवसासाठी शिक्का मारलेले आहात.-1"
+                ],
+                "warnings": "2 selections duplicated\t"
+              }
+            },
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-explicit_6_12__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_4_30__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-metaphor_6_17__1",
+                  "selections": "तारणाचे शिरस्राण-1 ती घ्या,-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_4_30__1 - 2 selections duplicated\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          },
+          "percentCompleted": 0.6760355029585798,
+          "completedChecks": 457,
+          "totalChecks": 676,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_4_30__1 - 2 selections duplicated\t\n, TW: "
+    },
+    "kiranjagdhane17/mr_mglt_eph_book": {
+      "fullName": "kiranjagdhane17/mr_mglt_eph_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "eph",
+        "percentCompleted": 1,
+        "completedVerses": 155,
+        "totalVerses": 155,
+        "unalignedOrig": 12,
+        "unalignedTarget": 13
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "eph",
+        "time_created": "2021-11-01T03:11:51.941Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 310,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 676,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgl_eph_book": {
+      "fullName": "sunilkasbe/mr_mgl_eph_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgl",
+        "bookId": "eph",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 155,
+        "unalignedOrig": 2416,
+        "unalignedTarget": 2497
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgl",
+        "bookId": "eph",
+        "time_created": "2021-11-01T07:43:06.339Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9806451612903225,
+          "completedChecks": 304,
+          "totalChecks": 310,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_4_13__1",
+                  "selections": "देवाच्या पुत्रावर-1 त्याच्याविषयीचे ज्ञान-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-abstractnouns_6_23__1",
+                  "selections": "बंधूंना-1 शांती लाभो.-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-abstractnouns_6_24__1",
+                  "selections": "कृपा असो.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-activepassive_1_11__1",
+                  "selections": "ज्यात आम्हाला देखील-1 योजनेप्रमाणे नेमले गेलो होतो,-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_1_18__1",
+                  "selections": "त्याच्या वतनाच्या-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_14__1",
+                  "selections": "आपण यापुढे लहान मुलांसारखे नसावे.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_22__1",
+                  "selections": "तुमचा जुना मनुष्य त्यास काढून टाकावा कारण तो तुमच्या पूर्वीच्या आचरणासंबंधी-1",
+                  "resourcePartialMatches": 4
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 457,
+          "totalChecks": 457,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n, TW: "
+    },
+    "sunilkasbe/mr_mglt_eph_book": {
+      "fullName": "sunilkasbe/mr_mglt_eph_book",
+      "ERROR": "Could not download sunilkasbe/mr_mglt_eph_book: TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string. Received null",
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgst_jon_book": {
+      "fullName": "sunilkasbe/mr_mgst_jon_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 48,
+        "totalVerses": 48,
+        "unalignedOrig": 19,
+        "unalignedTarget": 30
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "jon",
+        "time_created": "2021-09-27T14:17:54.233Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9885057471264368,
+          "completedChecks": 86,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 190,
+          "totalChecks": 191,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgst_2ti_book": {
+      "fullName": "sunilkasbe/mr_mgst_2ti_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "2ti",
+        "percentCompleted": 1,
+        "completedVerses": 83,
+        "totalVerses": 83,
+        "unalignedOrig": 59,
+        "unalignedTarget": 45
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "2ti",
+        "time_created": "2021-09-10T12:23:45.198Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 289,
+          "totalChecks": 290,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_2_10__1",
+                  "selections": "मसिहा येशू त्यांना वाचवेल-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "तु पाहिले आहे की मला त्रास होत असतानाही मला शांती आहे-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "आणि मी देवाची सेवा करण्यासाठी सर्वकाही कसे करतो-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "माझ्याप्रमाणे तु देवावर विश्वास ठेवला आहे.-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "तु पाहिले आहे की मला त्रास होत असतानाही मला शांती आहे-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "तु पाहिले आहे की मी देव आणि विश्वासणाऱ्यांवर प्रेम करतो.-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "तु पाहिले आहे की मी खूप कठीण असतानाही देवाची सेवा करत आहे-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-metaphor_4_4__1",
+                  "selections": "ते या शिक्षकांच्या मूर्ख कथा स्विकारून स्वत:ला फसवून घेतील-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_4__1",
+                  "selections": "ते या शिक्षकांच्या मूर्ख कथा स्विकारून स्वत:ला फसवून घेतील-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_1_13__1",
+                  "selections": "संदेश-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 352,
+          "totalChecks": 355,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgst_2jn_book": {
+      "fullName": "sunilkasbe/mr_mgst_2jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "2jn",
+        "percentCompleted": 1,
+        "completedVerses": 13,
+        "totalVerses": 13,
+        "unalignedOrig": 2,
+        "unalignedTarget": 6
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "2jn",
+        "time_created": "2021-09-08T10:53:10.104Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20",
+            "gl_check_version": "v48"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 53,
+          "totalChecks": 53,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          },
+          "percentCompleted": 0.6,
+          "completedChecks": 39,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgst_1ti_book": {
+      "fullName": "sunilkasbe/mr_mgst_1ti_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "1ti",
+        "percentCompleted": 1,
+        "completedVerses": 113,
+        "totalVerses": 113,
+        "unalignedOrig": 9,
+        "unalignedTarget": 39
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "1ti",
+        "time_created": "2021-09-25T09:45:23.667Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 302,
+          "totalChecks": 303,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-metaphor_6_19__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "translate-unknown_5_18__1",
+                  "selections": "बैल धान्याची मळणी करत असताना-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "translate-unknown_5_18__1",
+                  "selections": "बैल धान्याची मळणी करत असताना-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-metonymy_6_3__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 485,
+          "totalChecks": 485,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-metonymy_6_3__1 - Missing 1 selections\t\n, TW: "
+    },
+    "sunilkasbe/mr_mglt_rut_book": {
+      "fullName": "sunilkasbe/mr_mglt_rut_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "rut",
+        "percentCompleted": 1,
+        "completedVerses": 85,
+        "totalVerses": 85,
+        "unalignedOrig": 44,
+        "unalignedTarget": 85
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "rut",
+        "time_created": "2021-06-21T11:45:02.251Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9618320610687023,
+          "completedChecks": 126,
+          "totalChecks": 131,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-synecdoche_1_6__1",
+                  "selections": "अन्न पुरविले आहे-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "writing-politeness_3_9__1",
+                  "selections": "मी आपली महीला दासी रूथ आहे-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.21"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 296,
+          "totalChecks": 296,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.14"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mglt_jon_book": {
+      "fullName": "sunilkasbe/mr_mglt_jon_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 48,
+        "totalVerses": 48,
+        "unalignedOrig": 12,
+        "unalignedTarget": 33
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "jon",
+        "time_created": "2021-06-24T11:38:04.825Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.21",
+            "gl_check_version": "v48"
+          },
+          "percentCompleted": 0.9540229885057471,
+          "completedChecks": 83,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.14"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 188,
+          "totalChecks": 188,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.14"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mglt_2ti_book": {
+      "fullName": "sunilkasbe/mr_mglt_2ti_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "2ti",
+        "percentCompleted": 0.9879518072289156,
+        "completedVerses": 82,
+        "totalVerses": 83,
+        "unalignedOrig": 3,
+        "unalignedTarget": 5
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "2ti",
+        "time_created": "2021-07-02T10:00:18.103Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20",
+            "gl_check_version": "v48"
+          },
+          "percentCompleted": 0.8591065292096219,
+          "completedChecks": 250,
+          "totalChecks": 291,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_2_18__1 - Missing 1 selections\t\nfigs-abstractnouns_3_16__1 - Missing 2 selections\t\nfigs-explicit_1_14__1 - Missing 1 selections\t\nfigs-explicit_2_7__1 - Missing 1 selections\t\nfigs-explicit_4_2__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_10__1 - Missing 1 selections\t\nfigs-metaphor_2_18__1 - Missing 1 selections\t\nfigs-metonymy_1_13__1 - Missing 1 selections\t\ntranslate-names_4_20__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          },
+          "percentCompleted": 0.9751243781094527,
+          "completedChecks": 196,
+          "totalChecks": 201,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_2_18__1 - Missing 1 selections\t\nfigs-abstractnouns_3_16__1 - Missing 2 selections\t\nfigs-explicit_1_14__1 - Missing 1 selections\t\nfigs-explicit_2_7__1 - Missing 1 selections\t\nfigs-explicit_4_2__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_10__1 - Missing 1 selections\t\nfigs-metaphor_2_18__1 - Missing 1 selections\t\nfigs-metonymy_1_13__1 - Missing 1 selections\t\ntranslate-names_4_20__1 - Missing 1 selections\t\n, TW: "
+    },
+    "sunilkasbe/mr_mglt_2jn_book": {
+      "fullName": "sunilkasbe/mr_mglt_2jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "2jn",
+        "percentCompleted": 1,
+        "completedVerses": 13,
+        "totalVerses": 13,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "2jn",
+        "time_created": "2021-07-03T10:34:21.065Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20",
+            "gl_check_version": "v48"
+          },
+          "percentCompleted": 0.8867924528301887,
+          "completedChecks": 47,
+          "totalChecks": 53,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-explicit_1_5__1 - Missing 1 selections\t\nfigs-explicit_1_10__1 - Missing 1 selections\t\nfigs-metaphor_1_1__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 39,
+          "totalChecks": 39,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_1_5__1 - Missing 1 selections\t\nfigs-explicit_1_10__1 - Missing 1 selections\t\nfigs-metaphor_1_1__1 - Missing 1 selections\t\n, TW: "
+    },
+    "sunilkasbe/mr_mglt_1ti_book": {
+      "fullName": "sunilkasbe/mr_mglt_1ti_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1ti",
+        "percentCompleted": 1,
+        "completedVerses": 113,
+        "totalVerses": 113,
+        "unalignedOrig": 0,
+        "unalignedTarget": 7
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1ti",
+        "time_created": "2021-07-01T08:08:01.131Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20",
+            "gl_check_version": "v48"
+          },
+          "percentCompleted": 0.9207920792079208,
+          "completedChecks": 279,
+          "totalChecks": 303,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-metaphor_6_19__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "translate-unknown_5_18__1",
+                  "selections": "मळणीच्या-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_1_19__1 - Missing 1 selections\t\nfigs-abstractnouns_6_6__1 - Missing 1 selections\t\nfigs-explicit_1_13__1 - Missing 1 selections\t\nfigs-explicit_6_13__1 - Missing 2 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_7__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_6_4__1 - Missing 1 selections\t\nfigs-metaphor_6_9__1 - Missing 1 selections\t\nfigs-metaphor_6_10__1 - Missing 1 selections\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\nfigs-personification_5_24__1 - Missing 1 selections\t\ntranslate-unknown_5_18__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          },
+          "percentCompleted": 0.9896907216494846,
+          "completedChecks": 480,
+          "totalChecks": 485,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_1_19__1 - Missing 1 selections\t\nfigs-abstractnouns_6_6__1 - Missing 1 selections\t\nfigs-explicit_1_13__1 - Missing 1 selections\t\nfigs-explicit_6_13__1 - Missing 2 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_7__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_6_4__1 - Missing 1 selections\t\nfigs-metaphor_6_9__1 - Missing 1 selections\t\nfigs-metaphor_6_10__1 - Missing 1 selections\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\nfigs-personification_5_24__1 - Missing 1 selections\t\ntranslate-unknown_5_18__1 - Missing 1 selections\t\n, TW: "
+    },
+    "kiranjagdhane17/mr_mgst_eph_book": {
+      "fullName": "kiranjagdhane17/mr_mgst_eph_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "eph",
+        "percentCompleted": 1,
+        "completedVerses": 155,
+        "totalVerses": 155,
+        "unalignedOrig": 29,
+        "unalignedTarget": 25
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "eph",
+        "time_created": "2021-09-28T07:17:49.674Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9709677419354839,
+          "completedChecks": 301,
+          "totalChecks": 310,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_4_13__1",
+                  "selections": "आपण सर्व मिळून देवाच्या इच्छेप्रमाणे होत-1 वर-1 विश्वास ठेवत एकत्र होण्यात-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-abstractnouns_6_23__1",
+                  "selections": "तुम्हाला एकमेकांवर प्रेम करण्यास-1 सक्षम करील-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-abstractnouns_6_24__1",
+                  "selections": "स्थिरपणे-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-activepassive_1_11__1",
+                  "selections": "त्याने हे खूप पूर्वीच करण्याची योजना केली होती-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_1_18__1",
+                  "selections": "देण्याचे वचन दिले आहे त्या गोष्टी किती-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_14__1",
+                  "selections": "आपण यापुढे लहान मुले अपरिपक्व असतात तसे आध्यात्मिकदृष्ट्या अपरिपक्व राहणार नाही-1 आम्ही-1 नाही-2",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_22__1",
+                  "selections": "तुमच्या शिक्षकांनी तुम्हाला ज्या पद्धतीने जगायचे ते जगणे बंद करायला शिकवले.-1",
+                  "resourcePartialMatches": 4
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 676,
+          "totalChecks": 676,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n, TW: "
+    },
+    "sunilkasbe/mr_mgst_rut_book": {
+      "fullName": "sunilkasbe/mr_mgst_rut_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "rut",
+        "percentCompleted": 1,
+        "completedVerses": 85,
+        "totalVerses": 85,
+        "unalignedOrig": 49,
+        "unalignedTarget": 44
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "rut",
+        "time_created": "2021-09-25T14:26:21.787Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 131,
+          "totalChecks": 131,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-euphemism_2_9__1",
+                  "selections": "तुला त्रास देऊ नये-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-synecdoche_1_6__1",
+                  "selections": "आणि आता इस्रायलमध्ये भरपूर अन्न आहे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-words-phrases_3_12__1",
+                  "selections": "तथापि,-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "writing-politeness_3_9__1",
+                  "selections": "तुमची दासी-1 करून-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 294,
+          "totalChecks": 296,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": "redeem_3_13__1 - Missing 1 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: , TW: redeem_3_13__1 - Missing 1 selections\t\n"
+    },
+    "kiranjagdhane17/mr_mgst_1ti_book": {
+      "fullName": "kiranjagdhane17/mr_mgst_1ti_book",
+      "ERROR": "Empty Repo: kiranjagdhane17/mr_mgst_1ti_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/kiranjagdhane17/mr_mgst_1ti_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true
+    },
+    "kiranjagdhane17/mr_mgs_1ti_book": {
+      "fullName": "kiranjagdhane17/mr_mgs_1ti_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgs",
+        "bookId": "1ti",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 113,
+        "unalignedOrig": 1593,
+        "unalignedTarget": 3440
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgs",
+        "bookId": "1ti",
+        "time_created": "2021-09-25T09:45:23.667Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.8943894389438944,
+          "completedChecks": 271,
+          "totalChecks": 303,
+          "stats": {
+            "dupes": {
+              "figs-metaphor_6_19__1": {
+                "dupesList": [
+                  "देव त्यांना देऊ इच्छित असलेल्या जीवनासाठी-1 तेच खरे जीवन आहे.-1",
+                  "देव त्यांना देऊ इच्छित असलेल्या जीवनासाठी-1 तेच खरे जीवन आहे.-1",
+                  "देव त्यांना देऊ इच्छित असलेल्या जीवनासाठी-1 तेच खरे जीवन आहे.-1"
+                ],
+                "warnings": "2 selections duplicated\t"
+              }
+            },
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-metaphor_6_19__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "translate-unknown_5_18__1",
+                  "selections": "बैल धान्याची मळणी करत असताना-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_1_19__1 - Missing 1 selections\t\nfigs-abstractnouns_6_6__1 - Missing 1 selections\t\nfigs-explicit_1_13__1 - Missing 1 selections\t\nfigs-explicit_6_13__1 - Missing 2 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_7__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_4_6__1 - Missing 2 selections\t\nfigs-metaphor_6_4__1 - Missing 1 selections\t\nfigs-metaphor_6_9__1 - Missing 2 selections\t\nfigs-metaphor_6_19__1 - 2 selections duplicated\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\nfigs-personification_5_24__1 - Missing 1 selections\t\ntranslate-unknown_5_18__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 482,
+          "totalChecks": 485,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_1_19__1 - Missing 1 selections\t\nfigs-abstractnouns_6_6__1 - Missing 1 selections\t\nfigs-explicit_1_13__1 - Missing 1 selections\t\nfigs-explicit_6_13__1 - Missing 2 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_7__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_4_6__1 - Missing 2 selections\t\nfigs-metaphor_6_4__1 - Missing 1 selections\t\nfigs-metaphor_6_9__1 - Missing 2 selections\t\nfigs-metaphor_6_19__1 - 2 selections duplicated\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\nfigs-personification_5_24__1 - Missing 1 selections\t\ntranslate-unknown_5_18__1 - Missing 1 selections\t\n, TW: "
+    },
+    "sunilkasbe/mr_mglt_3jn_book": {
+      "fullName": "sunilkasbe/mr_mglt_3jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "3jn",
+        "percentCompleted": 1,
+        "completedVerses": 16,
+        "totalVerses": 16,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "3jn",
+        "time_created": "2019-09-13T05:43:01.689Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13",
+            "gl_check_version": "v32"
+          },
+          "percentCompleted": 0.8888888888888888,
+          "completedChecks": 16,
+          "totalChecks": 18,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-metonymy_1_13__1",
+                  "selections": "मला शाई व लेखणीने याबरोबर तुला लिहावे असे वाटत नाही.-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 63,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mglt_tit_book": {
+      "fullName": "sunilkasbe/mr_mglt_tit_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 1,
+        "unalignedTarget": 8
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "tit",
+        "time_created": "2020-10-13T05:49:50.076Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13",
+            "gl_check_version": "v32"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 84,
+          "totalChecks": 84,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-inclusive_1_3__1",
+                  "selections": "आपला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_1_4__1",
+                  "selections": "आपला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_8__1",
+                  "selections": "माझ्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_10__1",
+                  "selections": "आपला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_12__1",
+                  "selections": "आम्हाला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "आमच्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "आमच्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_3__1",
+                  "selections": "आम्ही-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_4__1",
+                  "selections": "आपल्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "आपला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "आपला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_14__1",
+                  "selections": "आपल्या स्वत;च्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_15__1",
+                  "selections": "आपल्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_15__1",
+                  "selections": "त्यांना काहीही शुद्ध नाही, परंतु त्यांची मने व त्यांची विवेकबुद्धी दूषित झाली आहे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-logic-result_1_9__1",
+                  "selections": "जेणेकरून-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 222,
+          "totalChecks": 222,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgst_tit_book": {
+      "fullName": "sunilkasbe/mr_mgst_tit_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 7,
+        "unalignedTarget": 24
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "tit",
+        "time_created": "2020-11-06T09:11:08.498Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13",
+            "gl_check_version": "v32"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 84,
+          "totalChecks": 84,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-inclusive_1_3__1",
+                  "selections": "आम्हाला-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_1_4__1",
+                  "selections": "आमचा-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_8__1",
+                  "selections": "आपल्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_10__1",
+                  "selections": "आपल्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_12__1",
+                  "selections": "आपल्याला-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "आमच्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "आपण-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_3__1",
+                  "selections": "आम्ही-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_4__1",
+                  "selections": "आपले-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "आपले-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "आपले-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_14__1",
+                  "selections": "आपले लोक-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_15__1",
+                  "selections": "आमच्या-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_15__1",
+                  "selections": "त्यांनी केलेले सर्व वाईट आहे. अशा लोकांची विचारसरणी उध्वस्त झाली आहे-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-logic-result_1_9__1",
+                  "selections": "अशा प्रकारे-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 222,
+          "totalChecks": 222,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "sunilkasbe/mr_mgst_3jn_book": {
+      "fullName": "sunilkasbe/mr_mgst_3jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "3jn",
+        "percentCompleted": 1,
+        "completedVerses": 15,
+        "totalVerses": 15,
+        "unalignedOrig": 5,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "3jn",
+        "time_created": "2020-11-12T04:47:08.122Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13",
+            "gl_check_version": "v32"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 18,
+          "totalChecks": 18,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-metonymy_1_13__1",
+                  "selections": "पण मला ते पत्रात लिहावेसे वाटत नाही.-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 63,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/mr_irv_col_book": {
+      "fullName": "BCS_India/mr_irv_col_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "col",
+        "percentCompleted": 1,
+        "completedVerses": 100,
+        "totalVerses": 100,
+        "unalignedOrig": 575,
+        "unalignedTarget": 167
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "col",
+        "time_created": "2020-10-19T11:20:17.754Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 121
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 454,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/mr_irv_2ti_book": {
+      "fullName": "BCS_India/mr_irv_2ti_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "percentCompleted": 1,
+        "completedVerses": 87,
+        "totalVerses": 87,
+        "unalignedOrig": 214,
+        "unalignedTarget": 196
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "time_created": "2020-10-19T12:00:38.880Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 119
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 371,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "BCS_India/mr_irv_2pe_book": {
+      "fullName": "BCS_India/mr_irv_2pe_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "percentCompleted": 1,
+        "completedVerses": 64,
+        "totalVerses": 64,
+        "unalignedOrig": 223,
+        "unalignedTarget": 112
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "time_created": "2020-10-20T04:53:30.611Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 329,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/mr_irv_2pe_book": {
+      "fullName": "India_BCS/mr_irv_2pe_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "percentCompleted": 1,
+        "completedVerses": 64,
+        "totalVerses": 64,
+        "unalignedOrig": 223,
+        "unalignedTarget": 112
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "time_created": "2020-10-20T04:53:30.611Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 329,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/mr_irv_tit_book": {
+      "fullName": "India_BCS/mr_irv_tit_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 67,
+        "unalignedTarget": 125
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "tit",
+        "time_created": "2020-01-03T10:47:59.694Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 35
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 244,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/mr_irv_1jn_book": {
+      "fullName": "India_BCS/mr_irv_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 110,
+        "totalVerses": 110,
+        "unalignedOrig": 153,
+        "unalignedTarget": 220
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "time_created": "2020-01-03T11:05:08.712Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 135,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 578,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_rom_book": {
+      "fullName": "shojojohn/mr_irv_rom_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "rom",
+        "percentCompleted": 0.7466666666666667,
+        "completedVerses": 336,
+        "totalVerses": 450,
+        "unalignedOrig": 1323,
+        "unalignedTarget": 283
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "rom",
+        "time_created": "2019-09-13T05:34:20.163Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2184,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_rev_book": {
+      "fullName": "shojojohn/mr_irv_rev_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "rev",
+        "percentCompleted": 0.3060747663551402,
+        "completedVerses": 131,
+        "totalVerses": 428,
+        "unalignedOrig": 2599,
+        "unalignedTarget": 1002
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "rev",
+        "time_created": "2019-09-13T05:44:27.793Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2347,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_phm_book": {
+      "fullName": "shojojohn/mr_irv_phm_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "phm",
+        "percentCompleted": 0.5,
+        "completedVerses": 13,
+        "totalVerses": 26,
+        "unalignedOrig": 95,
+        "unalignedTarget": 48
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "phm",
+        "time_created": "2019-09-13T05:39:41.703Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 100,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_jud_book": {
+      "fullName": "shojojohn/mr_irv_jud_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "jud",
+        "percentCompleted": 0.6538461538461539,
+        "completedVerses": 17,
+        "totalVerses": 26,
+        "unalignedOrig": 115,
+        "unalignedTarget": 33
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "jud",
+        "time_created": "2019-09-13T05:43:44.505Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 155,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_jhn_book": {
+      "fullName": "shojojohn/mr_irv_jhn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "percentCompleted": 0.28634850166481685,
+        "completedVerses": 258,
+        "totalVerses": 901,
+        "unalignedOrig": 3424,
+        "unalignedTarget": 1585
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "time_created": "2019-09-13T05:29:14.158Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3399,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_jas_book": {
+      "fullName": "shojojohn/mr_irv_jas_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "jas",
+        "percentCompleted": 0.07964601769911504,
+        "completedVerses": 9,
+        "totalVerses": 113,
+        "unalignedOrig": 516,
+        "unalignedTarget": 567
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "jas",
+        "time_created": "2019-09-13T05:41:21.245Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 491,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_heb_book": {
+      "fullName": "shojojohn/mr_irv_heb_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "heb",
+        "percentCompleted": 0.08544303797468354,
+        "completedVerses": 27,
+        "totalVerses": 316,
+        "unalignedOrig": 1421,
+        "unalignedTarget": 1861
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "heb",
+        "time_created": "2019-09-13T05:40:28.203Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1416,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_eph_book": {
+      "fullName": "shojojohn/mr_irv_eph_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "eph",
+        "percentCompleted": 0.3067484662576687,
+        "completedVerses": 50,
+        "totalVerses": 163,
+        "unalignedOrig": 631,
+        "unalignedTarget": 412
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "eph",
+        "time_created": "2019-09-13T05:36:37.647Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 738,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_act_book": {
+      "fullName": "shojojohn/mr_irv_act_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "act",
+        "percentCompleted": 0.1476833976833977,
+        "completedVerses": 153,
+        "totalVerses": 1036,
+        "unalignedOrig": 5054,
+        "unalignedTarget": 3469
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "act",
+        "time_created": "2019-09-13T05:32:24.079Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4390,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_3jn_book": {
+      "fullName": "shojojohn/mr_irv_3jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "percentCompleted": 0.75,
+        "completedVerses": 12,
+        "totalVerses": 16,
+        "unalignedOrig": 83,
+        "unalignedTarget": 20
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "3jn",
+        "time_created": "2019-09-13T05:43:01.689Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_2jn_book": {
+      "fullName": "shojojohn/mr_irv_2jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2jn",
+        "percentCompleted": 0.8,
+        "completedVerses": 12,
+        "totalVerses": 15,
+        "unalignedOrig": 93,
+        "unalignedTarget": 58
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2jn",
+        "time_created": "2019-09-13T05:42:03.288Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 69,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_2co_book": {
+      "fullName": "shojojohn/mr_irv_2co_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2co",
+        "percentCompleted": 0.5555555555555556,
+        "completedVerses": 150,
+        "totalVerses": 270,
+        "unalignedOrig": 1386,
+        "unalignedTarget": 524
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2co",
+        "time_created": "2019-09-13T05:35:47.127Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1099,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_1ti_book": {
+      "fullName": "shojojohn/mr_irv_1ti_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "percentCompleted": 0.11764705882352941,
+        "completedVerses": 14,
+        "totalVerses": 119,
+        "unalignedOrig": 380,
+        "unalignedTarget": 593
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "time_created": "2019-09-13T05:38:50.219Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 518,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_1th_book": {
+      "fullName": "shojojohn/mr_irv_1th_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1th",
+        "percentCompleted": 0.7553191489361702,
+        "completedVerses": 71,
+        "totalVerses": 94,
+        "unalignedOrig": 243,
+        "unalignedTarget": 100
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1th",
+        "time_created": "2019-09-13T05:38:07.659Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 450,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_mrk_book": {
+      "fullName": "shojojohn/mr_irv_mrk_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "percentCompleted": 0.16452074391988555,
+        "completedVerses": 115,
+        "totalVerses": 699,
+        "unalignedOrig": 3466,
+        "unalignedTarget": 2199
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "time_created": "2019-08-23T08:30:14.203Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2234,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_mat_book": {
+      "fullName": "shojojohn/mr_irv_mat_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "mat",
+        "percentCompleted": 0.18289353958143767,
+        "completedVerses": 201,
+        "totalVerses": 1099,
+        "unalignedOrig": 4384,
+        "unalignedTarget": 3961
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "mat",
+        "time_created": "2019-08-23T08:28:05.352Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4093,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_php_book": {
+      "fullName": "shojojohn/mr_irv_php_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "php",
+        "percentCompleted": 0.8148148148148148,
+        "completedVerses": 88,
+        "totalVerses": 108,
+        "unalignedOrig": 151,
+        "unalignedTarget": 69
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "php",
+        "time_created": "2019-08-12T05:13:20.595Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 475,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_luk_book": {
+      "fullName": "shojojohn/mr_irv_luk_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "luk",
+        "percentCompleted": 0.09702127659574468,
+        "completedVerses": 114,
+        "totalVerses": 1175,
+        "unalignedOrig": 5376,
+        "unalignedTarget": 4992
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "luk",
+        "time_created": "2019-08-12T05:10:10.500Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4128,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_gal_book": {
+      "fullName": "shojojohn/mr_irv_gal_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "gal",
+        "percentCompleted": 0.8846153846153846,
+        "completedVerses": 138,
+        "totalVerses": 156,
+        "unalignedOrig": 243,
+        "unalignedTarget": 85
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "gal",
+        "time_created": "2019-08-12T05:12:29.563Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 718,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_2th_book": {
+      "fullName": "shojojohn/mr_irv_2th_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2th",
+        "percentCompleted": 0.84,
+        "completedVerses": 42,
+        "totalVerses": 50,
+        "unalignedOrig": 104,
+        "unalignedTarget": 29
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "2th",
+        "time_created": "2019-08-12T05:14:00.731Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 266,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_1pe_book": {
+      "fullName": "shojojohn/mr_irv_1pe_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "percentCompleted": 0.7589285714285714,
+        "completedVerses": 85,
+        "totalVerses": 112,
+        "unalignedOrig": 173,
+        "unalignedTarget": 122
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "time_created": "2019-08-12T05:14:45.055Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 635,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_1co_book": {
+      "fullName": "shojojohn/mr_irv_1co_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1co",
+        "percentCompleted": 0.7814569536423841,
+        "completedVerses": 354,
+        "totalVerses": 453,
+        "unalignedOrig": 887,
+        "unalignedTarget": 287
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1co",
+        "time_created": "2019-08-12T05:11:30.314Z",
+        "tc_edit_version": "1.1.4",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1847,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    },
+    "shojojohn/mr_irv_1jn_book": {
+      "fullName": "shojojohn/mr_irv_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "percentCompleted": 0.7636363636363637,
+        "completedVerses": 84,
+        "totalVerses": 110,
+        "unalignedOrig": 115,
+        "unalignedTarget": 118
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "time_created": "2019-04-29T05:01:51.836Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true
+    }
+  }
+}

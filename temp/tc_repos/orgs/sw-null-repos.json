@@ -1,0 +1,98 @@
+{
+  "projectSummaries": {
+    "tc1.1.4/sw_ulb_luk_book": {
+      "fullName": "tc1.1.4/sw_ulb_luk_book",
+      "wA": {
+        "langId": "sw",
+        "projectId": "ulb",
+        "bookId": "luk",
+        "percentCompleted": 0.004344048653344918,
+        "completedVerses": 5,
+        "totalVerses": 1151,
+        "unalignedOrig": 19406,
+        "unalignedTarget": 19177
+      },
+      "checks": {
+        "langId": "sw",
+        "projectId": "ulb",
+        "bookId": "luk",
+        "time_created": "2019-04-30T15:58:10.252Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4128,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-18T15:06:03Z"
+    },
+    "richmahn/sw_ulb_job_book": {
+      "fullName": "richmahn/sw_ulb_job_book",
+      "wA": {
+        "langId": "sw",
+        "projectId": "ulb",
+        "bookId": "job",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "sw",
+        "projectId": "ulb",
+        "bookId": "job",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-09-20T17:22:21Z"
+    }
+  },
+  "goodProjects": {
+    "waFinished": {},
+    "waNearlyFinished": {},
+    "allFinished": {},
+    "allNearlyFinished": {}
+  }
+}

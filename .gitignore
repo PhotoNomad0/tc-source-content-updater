@@ -63,5 +63,3 @@ typings/
 # IntelliJ config
 .idea
 *.iml
-
-temp

@@ -1,0 +1,191 @@
+{
+  "processedProjects": 5,
+  "totalProjects": 5,
+  "projects": {
+    "pjoakes/en-x-demo1_udbx_tit_book": {
+      "fullName": "pjoakes/en-x-demo1_udbx_tit_book",
+      "wA": {
+        "langId": "en-x-demo1",
+        "projectId": "udbx",
+        "bookId": "tit",
+        "percentCompleted": 0.717391304347826,
+        "completedVerses": 33,
+        "totalVerses": 46,
+        "unalignedOrig": 42,
+        "unalignedTarget": 95
+      },
+      "checks": {
+        "langId": "en-x-demo1",
+        "projectId": "udbx",
+        "bookId": "tit",
+        "time_created": "2018-03-02T17:53:27.178Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 86
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.20"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-07-13T16:23:16Z"
+    },
+    "tc02/en-x-demo1_reg_php_book": {
+      "fullName": "tc02/en-x-demo1_reg_php_book",
+      "wA": {
+        "langId": "en-x-demo1",
+        "projectId": "reg",
+        "bookId": "php",
+        "percentCompleted": 0.028846153846153848,
+        "completedVerses": 3,
+        "totalVerses": 104,
+        "unalignedOrig": 1627,
+        "unalignedTarget": 2258
+      },
+      "checks": {
+        "langId": "en-x-demo1",
+        "projectId": "reg",
+        "bookId": "php",
+        "time_created": "2019-10-22T19:27:11.348Z",
+        "tc_edit_version": "2.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 94,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 475,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-10-22T19:27:47Z"
+    },
+    "ElsyLambert/en-x-demo1_ult_php_book": {
+      "fullName": "ElsyLambert/en-x-demo1_ult_php_book",
+      "ERROR": "Empty Repo: ElsyLambert/en-x-demo1_ult_php_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/ElsyLambert/en-x-demo1_ult_php_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2019-10-10T14:02:48Z"
+    },
+    "ElsyLambert/en-x-demo1_ulb_php_book": {
+      "fullName": "ElsyLambert/en-x-demo1_ulb_php_book",
+      "wA": {
+        "langId": "en-x-demo1",
+        "projectId": "ulb",
+        "bookId": "php",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 100,
+        "unalignedOrig": 1564,
+        "unalignedTarget": 2214
+      },
+      "checks": {
+        "langId": "en-x-demo1",
+        "projectId": "ulb",
+        "bookId": "php",
+        "time_created": "2019-10-09T20:05:23.073Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 94,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 475,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-10-09T20:35:24Z"
+    }
+  }
+}

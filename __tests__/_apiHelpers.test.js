@@ -1,6 +1,8 @@
 // these are integration tests used for development, these are skipped
 // for validating switch to Catalog Next APIs
 
+import fs from 'fs-extra';
+import path from 'path-extra';
 import os from 'os';
 import _ from 'lodash';
 // import nock from 'nock';

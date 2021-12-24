@@ -1,0 +1,96 @@
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+bspidel/ne_bob_luk_book	2021-12-22T12:50:20.216Z	0			0			0									
+hblamtari/ne_glt_1co_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0	en	v26	v0.12	2018-11-30T08:14:09.042Z	2.1.2	7			
+hblamtari/ne_glt_1jn_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		26	en	v26	v0.12	2018-12-27T07:33:17.345Z	2.1.2	7	duplicate tn migrations found, unmatched tn checks found, 		
+hblamtari/ne_glt_1pe_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-07-15T07:51:03.176Z	2.1.2	7			
+hblamtari/ne_glt_1th_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-11T02:38:41.877Z	2.1.2	7			
+hblamtari/ne_glt_1ti_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-11T02:47:39.841Z	2.1.2	7			
+hblamtari/ne_glt_2co_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-30T08:08:38.748Z	2.1.2	7			
+hblamtari/ne_glt_2jn_book	2021-12-22T12:50:20.216Z	100	en		0			0				2018-12-27T07:34:09.284Z	2.1.2	7			
+hblamtari/ne_glt_2pe_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-12-27T07:31:22.093Z	2.1.2	7			
+hblamtari/ne_glt_2th_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-11T02:42:43.166Z	2.1.2	7			
+hblamtari/ne_glt_2ti_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-11T02:44:46.239Z	2.1.2	7			
+hblamtari/ne_glt_3jn_book	2021-12-22T12:50:20.216Z	100	en		0	en		0	en	v28	v0.12	2018-12-27T07:34:57.030Z	2.1.2	7			
+hblamtari/ne_glt_act_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v28	v0.12	2020-07-31T06:09:53.535Z	2.1.2	7			
+hblamtari/ne_glt_col_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-26T10:55:30.064Z	2.1.2	7			
+hblamtari/ne_glt_eph_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T10:54:17.043Z	2.1.2	7			
+hblamtari/ne_glt_gal_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T10:53:36.085Z	2.1.2	7			
+hblamtari/ne_glt_heb_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-07-31T06:07:26.614Z	2.1.2	7			
+hblamtari/ne_glt_jas_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-27T07:55:20.431Z	2.1.2	7			
+hblamtari/ne_glt_jhn_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-03-10T11:30:47.833Z	2.1.2	7			
+hblamtari/ne_glt_jud_book	2021-12-22T12:50:20.216Z	100	en		0			0				2018-11-27T07:53:11.200Z	2.1.2	7			
+hblamtari/ne_glt_luk_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v28	v0.12	2020-07-10T09:46:19.279Z	2.1.2	7			
+hblamtari/ne_glt_mat_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v28	v0.12	2020-07-10T09:42:50.117Z	2.1.2	7			
+hblamtari/ne_glt_mrk_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-03-10T11:26:24.108Z	2.1.2	7			
+hblamtari/ne_glt_phm_book	2021-12-22T12:50:20.216Z	100	en	v0.12	100	en	v0.12	100	en	v26	v0.12	2019-02-01T11:32:06.463Z	2.1.2	7	unmatched tn checks found, 		
+hblamtari/ne_glt_php_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T10:54:58.062Z	2.1.2	7			
+hblamtari/ne_glt_rev_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-08-04T09:55:24.807Z	2.1.2	7			
+hblamtari/ne_glt_rom_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T07:50:32.980Z	2.1.2	7			
+hblamtari/ne_glt_tit_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-27T07:54:18.417Z	2.1.2	7			
+hblamtari/ne_gst_mrk_book	2021-12-22T12:50:20.216Z	99	en	v0.12	0			0				2019-09-19T11:10:29.733Z	2.1.2	7			
+hblamtari/ne_gst_tit_book	2021-12-22T12:50:20.216Z	100	en		0			0				2019-09-19T10:40:11.355Z	2.1.2	7			
+ibibleru/el-x-koine_sttr_1co_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:03:51.757Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_1jn_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:09:14.075Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_1pe_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:09:55.224Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_1th_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:16:25.049Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_1ti_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:12:49.536Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_2co_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:05:30.267Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_2jn_book	2021-12-22T12:50:20.216Z	100	en	v0.13	0			0				2020-10-18T14:22:39.586Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_2pe_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:17:55.154Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_2th_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:18:49.462Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_2ti_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:16:56.420Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_3jn_book	2021-12-22T12:50:20.216Z	100	en	v0.13	0			0				2020-10-18T12:48:10.109Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_act_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T13:38:48.154Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_col_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:14:45.396Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_eph_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:07:15.068Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_gal_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:08:34.036Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_heb_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:04:34.763Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_jas_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:11:19.414Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_jhn_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T13:41:40.573Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_jud_book	2021-12-22T12:50:20.216Z	100	en	v0.13	0			0				2020-10-18T14:20:47.447Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_luk_book	2021-12-22T12:50:20.216Z	0	en	v0.13	0	en	v0.13	0				2020-10-18T13:30:48.661Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_mat_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T13:40:51.249Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_mrk_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T13:42:27.605Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_phm_book	2021-12-22T12:50:20.216Z	100	en	v0.13	0			0				2020-10-18T14:21:28.688Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_php_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T14:13:48.363Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_rev_book	2021-12-22T12:50:20.216Z	0	en		0			0				2020-10-18T13:43:08.326Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_rom_book	2021-12-22T12:50:20.216Z	0	en		0	en		0	en	v32	v0.13	2020-10-18T14:02:41.086Z	3.0.0	7			
+ibibleru/el-x-koine_sttr_tit_book	2021-12-22T12:50:20.216Z	100	en	v0.13	0			0				2020-10-18T14:19:57.118Z	3.0.0	7			
+paulrana/ne_glt_2jn_book	2021-12-22T12:50:20.216Z	100			0			0				2018-12-27T07:34:09.284Z	1.1.4	7			
+paulrana/ne_glt_3jn_book	2021-12-22T12:50:20.216Z	100			0			0				2018-12-27T07:34:57.030Z	1.1.4	7			
+paulrana/ne_glt_act_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v28	v0.12	2020-07-31T06:09:53.535Z	2.1.2	7			
+paulrana/ne_glt_heb_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-07-31T06:07:26.614Z	2.1.2	7			
+paulrana/ne_glt_jhn_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-03-10T11:30:47.833Z	2.1.1	7			
+paulrana/ne_glt_jud_book	2021-12-22T12:50:20.216Z	100			0			0				2018-11-27T07:53:11.200Z	1.1.4	7			
+paulrana/ne_glt_luk_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v28	v0.12	2020-07-10T09:46:19.279Z	2.1.2	7			
+paulrana/ne_glt_mat_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v28	v0.12	2020-07-10T09:42:50.117Z	2.1.2	7			
+paulrana/ne_glt_mrk_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-03-10T11:26:24.108Z	2.1.1	7			
+paulrana/ne_glt_phm_book	2021-12-22T12:50:20.216Z	100			0			0				2019-02-01T11:32:06.463Z	1.1.4	7			
+paulrana/ne_gst_mrk_book	2021-12-22T12:50:20.216Z	99	en	v0.12	0			0				2019-09-19T11:10:29.733Z	2.1.1	7			
+paulrana/ne_gst_tit_book	2021-12-22T12:50:20.216Z	100			0			0				2019-09-19T10:40:11.355Z	1.1.4	7			
+ramadhikary/ne_ult_act_book	2021-12-22T12:50:20.216Z	36	en		0	en		0	en			2018-11-30T08:02:03.692Z	2.0.0	7			
+rameshwar_yadav/ne_glt_heb_book	2021-12-22T12:50:20.216Z	100			0			0				2019-02-01T11:57:37.089Z		7			
+ramyadav/ne_glt_1pe_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-07-15T07:51:03.176Z	2.1.1	7			
+ramyadav/ne_glt_rev_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2020-08-04T09:55:24.807Z	2.1.1	7			
+ramyadav/ne_ulb_phm_book	2021-12-22T12:50:20.216Z	100	en	v0.12	100	en	v0.12	100	en	v26	v0.12	2019-02-01T11:32:06.463Z	2.1.1	7	unmatched tn checks found, 		
+ramyadav/ne_ult_1co_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0	en	v26	v0.12	2018-11-30T08:14:09.042Z	2.1.1	7			
+ramyadav/ne_ult_1jn_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		26	en	v26	v0.12	2018-12-27T07:33:17.345Z	2.1.1	7	duplicate tn migrations found, unmatched tn checks found, 		
+ramyadav/ne_ult_1th_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-11T02:38:41.877Z	2.1.1	7			
+ramyadav/ne_ult_1ti_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-11T02:47:39.841Z	2.1.1	7			
+ramyadav/ne_ult_2co_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-30T08:08:38.748Z	2.1.1	7			
+ramyadav/ne_ult_2jn_book	2021-12-22T12:50:20.216Z	100	en	v0.12	100	en	v0.12	100	en	v26	v0.12	2018-12-27T07:34:09.284Z	2.1.1	7	unmatched tn checks found, 		
+ramyadav/ne_ult_2pe_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-12-27T07:31:22.093Z	2.1.1	7			
+ramyadav/ne_ult_2th_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-11T02:42:43.166Z	2.1.1	7			
+ramyadav/ne_ult_2ti_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-11T02:44:46.239Z	2.1.1	7			
+ramyadav/ne_ult_3jn_book	2021-12-22T12:50:20.216Z	100	en	v0.12	100	en	v0.12	100	en	v26	v0.12	2018-12-27T07:34:57.030Z	2.1.1	7	unmatched tn checks found, 		
+ramyadav/ne_ult_act_book	2021-12-22T12:50:20.216Z	36	en	v0.12	0	en		0	en	v26	v0.12	2018-11-30T08:02:03.692Z	2.1.1	7			
+ramyadav/ne_ult_col_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-26T10:55:30.064Z	2.1.1	7			
+ramyadav/ne_ult_eph_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T10:54:17.043Z	2.1.1	7			
+ramyadav/ne_ult_gal_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T10:53:36.085Z	2.1.1	7			
+ramyadav/ne_ult_jas_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-27T07:55:20.431Z	2.1.1	7			
+ramyadav/ne_ult_php_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T10:54:58.062Z	2.1.1	7			
+ramyadav/ne_ult_rom_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0	en		0	en	v26	v0.12	2018-11-26T07:50:32.980Z	2.1.1	7			
+ramyadav/ne_ult_tit_book	2021-12-22T12:50:20.216Z	100	en	v0.12	0			0				2018-11-27T07:54:18.417Z	2.1.1	7			
+russp41/ne_glt_heb_book	2021-12-22T12:50:20.216Z	100			0			0				2019-02-01T11:57:37.089Z	1.2.0	7			
+russp41/ne_ult_col_book	2021-12-22T12:50:20.216Z	36			0			0				2018-11-26T10:55:30.064Z		7			
+tCore-test-data/ne_ult_act_book	2021-12-22T12:50:20.216Z	99			0			0				2018-11-30T08:02:03.692Z		6			

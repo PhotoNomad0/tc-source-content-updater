@@ -1,0 +1,98 @@
+{
+  "projectSummaries": {
+    "richmahn/zh_ult_tit_book": {
+      "fullName": "richmahn/zh_ult_tit_book",
+      "wA": {
+        "langId": "zh",
+        "projectId": "ult",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "zh",
+        "projectId": "ult",
+        "bookId": "tit",
+        "time_created": "2018-07-31T21:22:49.192Z",
+        "tc_version": 6,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-07-31T21:23:54Z"
+    },
+    "richmahn/zh_ulbb_tit_book": {
+      "fullName": "richmahn/zh_ulbb_tit_book",
+      "wA": {
+        "langId": "zh",
+        "projectId": "ulbb",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "zh",
+        "projectId": "ulbb",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-07-24T23:18:10Z"
+    }
+  },
+  "goodProjects": {
+    "waFinished": {},
+    "waNearlyFinished": {},
+    "allFinished": {},
+    "allNearlyFinished": {}
+  }
+}
