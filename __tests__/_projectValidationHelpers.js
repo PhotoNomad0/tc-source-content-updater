@@ -1123,11 +1123,13 @@ export async function validateProjects(repos, resourcesPath, outputFolder, langI
   }
   for (let i = repos.length - 1; i > 0; i--) {
     const project = repos[i];
+    let doingRetry = false;
     const projectResults = projectsResults[project.full_name];
     if (projectResults) {
       if (retryFailedDownloads && projectResults.ERROR) {
         delete projectResults.ERROR;
         delete projectResults.checkMigration;
+        doingRetry = true;
       } else {
         let modified = projectResults.modified;
         if (!modified) {
@@ -1163,6 +1165,12 @@ export async function validateProjects(repos, resourcesPath, outputFolder, langI
     projectsResults[project.full_name] = results;
     const totalProjects = repos.length;
     const processedProjects = repos.length - i + 1;
+
+    if (doingRetry) {
+      if (!results.ERROR) {
+        console.log(`recovered project ${project.full_name}`);
+      }
+    }
 
     const summary = {
       processedProjects,

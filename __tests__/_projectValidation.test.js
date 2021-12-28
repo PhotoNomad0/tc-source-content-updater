@@ -1,5 +1,5 @@
-// these are integration tests used for development, these are skipped
-// for Project Validation - search, download, and validate projects
+// these are integration tests used for development, these are all normally skipped.
+// these are for tCore Project Validation - search, download, and validate projects
 
 // NOCK_OFF=true node --inspect-brk node_modules/.bin/jest --runInBand -t "search, download and verify projects in org"
 
@@ -43,6 +43,8 @@ describe('test project', () => {
     const list = fs.readJsonSync(path.join(outputFolder, langListFile));
     const langList = list.extraData.langCounts;
     const defaultDate = (new Date(Date.now() - 2*24*60*60*1000)).toJSON();
+    const checkMigration = true;
+    const retryFailedDownloads = true;
     // const dateStr = defaultDate.toJSON(); // 2021-12-18T11:26:31.306Z
     for (const langItem of langList) {
       const langId = langItem.langId;
@@ -50,9 +52,6 @@ describe('test project', () => {
 
         it(`search, download and verify language projects for ${langId}`, async () => {
           const org = null; // all orgs
-
-          const checkMigration = true;
-          const retryFailedDownloads = false;
           const resourcesPath = './temp/downloads';
           let searchUrl = `https://git.door43.org/api/v1/repos/search?q=${langId}%5C_%25%5C_%25%5C_book&sort=id&order=asc&limit=50`;
           if (org) {
