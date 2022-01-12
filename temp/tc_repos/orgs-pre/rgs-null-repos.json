@@ -1,5 +1,5 @@
 {
-  "processedProjects": 27,
+  "processedProjects": 7,
   "totalProjects": 27,
   "projects": {
     "raglay_2021/rgs_rlt_rom_book": {
@@ -68,7 +68,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "raglay_2021/rgs_rlt_1co_book": {
       "fullName": "raglay_2021/rgs_rlt_1co_book",
@@ -116,7 +117,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "raglay_2021/rgs_rlt_tit_book": {
       "fullName": "raglay_2021/rgs_rlt_tit_book",
@@ -124,11 +126,11 @@
         "langId": "rgs",
         "projectId": "rlt",
         "bookId": "tit",
-        "percentCompleted": 0.15217391304347827,
-        "completedVerses": 7,
+        "percentCompleted": 0.34782608695652173,
+        "completedVerses": 16,
         "totalVerses": 46,
-        "unalignedOrig": 547,
-        "unalignedTarget": 1170
+        "unalignedOrig": 429,
+        "unalignedTarget": 891
       },
       "checks": {
         "langId": "rgs",
@@ -153,7 +155,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v49"
+                "glVersion": "v54"
               }
             },
             "toolWarnings": ""
@@ -184,7 +186,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T03:35:58Z"
     },
     "raglay_2021/rgs_rlt_rev_book": {
       "fullName": "raglay_2021/rgs_rlt_rev_book",
@@ -232,7 +235,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "raglay_2021/rgs_rlt_php_book": {
       "fullName": "raglay_2021/rgs_rlt_php_book",
@@ -280,7 +284,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "raglay_2021/rgs_rlt_phm_book": {
       "fullName": "raglay_2021/rgs_rlt_phm_book",
@@ -288,11 +293,11 @@
         "langId": "rgs",
         "projectId": "rlt",
         "bookId": "phm",
-        "percentCompleted": 0,
-        "completedVerses": 0,
+        "percentCompleted": 1,
+        "completedVerses": 25,
         "totalVerses": 25,
-        "unalignedOrig": 338,
-        "unalignedTarget": 660
+        "unalignedOrig": 32,
+        "unalignedTarget": 0
       },
       "checks": {
         "langId": "rgs",
@@ -328,7 +333,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T02:32:40Z"
     },
     "raglay_2021/rgs_rlt_mrk_book": {
       "fullName": "raglay_2021/rgs_rlt_mrk_book",

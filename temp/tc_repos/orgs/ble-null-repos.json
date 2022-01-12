@@ -1,5 +1,138 @@
 {
-  "projectSummaries": {},
+  "projectSummaries": {
+    "ElsyLambert/ble_reg_jdg_book": {
+      "fullName": "ElsyLambert/ble_reg_jdg_book",
+      "wA": {
+        "langId": "ble",
+        "projectId": "reg",
+        "bookId": "jdg",
+        "percentCompleted": 0.5388349514563107,
+        "completedVerses": 333,
+        "totalVerses": 618,
+        "unalignedOrig": 9885,
+        "unalignedTarget": 6816
+      },
+      "checks": {
+        "langId": "ble",
+        "projectId": "reg",
+        "bookId": "jdg",
+        "time_created": "2019-06-25T13:03:15.534Z",
+        "tc_edit_version": "1.2.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1960,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-25T13:59:04Z"
+    },
+    "chuck/ble_jdg_text_reg": {
+      "fullName": "chuck/ble_jdg_text_reg",
+      "wA": {
+        "langId": "ble",
+        "projectId": "jdg",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ble",
+        "projectId": "text",
+        "bookId": "jdg",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-07-24T17:31:06Z"
+    },
+    "chuck/ble_jos_text_reg": {
+      "fullName": "chuck/ble_jos_text_reg",
+      "wA": {
+        "langId": "ble",
+        "projectId": "jos",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ble",
+        "projectId": "text",
+        "bookId": "jos",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-07-24T16:31:58Z"
+    }
+  },
   "goodProjects": {
     "waFinished": {},
     "waNearlyFinished": {},

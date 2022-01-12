@@ -1,4 +1,38 @@
 Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+DevleskoL/rml_3jn_text_reg																Empty Repo: DevleskoL/rml_3jn_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/DevleskoL/rml_3jn_text_reg/archive/master.zip: Download did not succeed, code 404	
+DevleskoL/rml_jon_text_reg		0			0			0									
+DevleskoL/rml_rut_text_reg		0			0			0									
+DevleskoL/rml_tit_text_reg		0			0			0									
+DevleskoM/rml_3jn_text_reg_L1		0			0			0									
+DevleskoM/rml_rut_text_reg		0			0			0									
+DevleskoM/rml_tit_text_reg_L1		0			0			0									
+DevleskoR/rml_3jn_text_reg_L1		0			0			0									
+DevleskoR/rml_rut_text_reg		0			0			0									
+DevleskoR/rml_tit_text_reg		0			0			0									
+DevleskoY/rml_3jn_text_reg_L1		0			0			0									
+DevleskoY/rml_jon_text_reg		0			0			0									
+DevleskoY/rml_rut_text_reg		0			0			0									
+DevleskoY/rml_tit_text_reg		0			0			0									
+rm_ol/rml_3jn_text_reg_L1		0			0			0									
+rm_ol/rml_3jn_text_reg_L_L1		0			0			0									
+rm_ol/rml_3jn_text_reg_M_L1		0			0			0									
+rm_ol/rml_3jn_text_reg_R_L1		0			0			0									
+rm_ol/rml_3jn_text_reg_Y_L1		0			0			0									
 rm_ol/rml_ling_rut_book																Could not download rm_ol/rml_ling_rut_book: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received null	
+rm_ol/rml_rut_text_reg_L1		0			0			0									
+rm_ol/rml_rut_text_reg_L_L1		0			0			0									
+rm_ol/rml_rut_text_reg_M_L1		0			0			0									
+rm_ol/rml_rut_text_reg_R_L1		0			0			0									
+rm_ol/rml_rut_text_reg_Y_L1		0			0			0									
+rm_ol/rml_tit_text_reg_L1		0			0			0									
+rm_ol/rml_tit_text_reg_L1_lingvo		0			0			0									
+rm_ol/rml_tit_text_reg_L_L1		0			0			0									
+rm_ol/rml_tit_text_reg_M_L1		0			0			0									
+rm_ol/rml_tit_text_reg_R_L1		0			0			0									
+rm_ol/rml_tit_text_reg_Y_L1		0			0			0									
+Samuel_Kim/rml_ling_3jn_book																Could not download Samuel_Kim/rml_ling_3jn_book: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received null	
 Samuel_Kim/rml_ling_rut_book																Could not download Samuel_Kim/rml_ling_rut_book: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received null	
 Samuel_Kim/rml_ling_tit_book																Could not download Samuel_Kim/rml_ling_tit_book: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received null	
+Samuel_Kim/rml_rut_text_reg_all		0			0			0									
+Samuel_Kim/rml_tit_text_reg_L1		0			0			0									
+Samuel_Kim/rml_tit_text_reg_L1_lingvo		0			0			0									

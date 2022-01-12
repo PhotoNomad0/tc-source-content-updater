@@ -60,8 +60,8 @@
         "percentCompleted": 1,
         "completedVerses": 405,
         "totalVerses": 405,
-        "unalignedOrig": 2369,
-        "unalignedTarget": 9
+        "unalignedOrig": 2374,
+        "unalignedTarget": 0
       },
       "checks": {
         "langId": "kuf",
@@ -98,7 +98,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T07:07:06Z"
+      "modified": "2022-01-12T06:13:50Z"
     },
     "katu_2021/kuf_ktlt_jud_book": {
       "fullName": "katu_2021/kuf_ktlt_jud_book",
@@ -147,7 +147,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_3jn_book": {
       "fullName": "katu_2021/kuf_ktlt_3jn_book",
@@ -196,7 +196,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_2jn_book": {
       "fullName": "katu_2021/kuf_ktlt_2jn_book",
@@ -245,7 +245,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_1jn_book": {
       "fullName": "katu_2021/kuf_ktlt_1jn_book",
@@ -294,7 +294,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_2pe_book": {
       "fullName": "katu_2021/kuf_ktlt_2pe_book",
@@ -343,7 +343,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_1pe_book": {
       "fullName": "katu_2021/kuf_ktlt_1pe_book",
@@ -392,7 +392,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_jas_book": {
       "fullName": "katu_2021/kuf_ktlt_jas_book",
@@ -400,11 +400,11 @@
         "langId": "kuf",
         "projectId": "ktlt",
         "bookId": "jas",
-        "percentCompleted": 0.9259259259259259,
-        "completedVerses": 100,
+        "percentCompleted": 1,
+        "completedVerses": 108,
         "totalVerses": 108,
-        "unalignedOrig": 310,
-        "unalignedTarget": 77
+        "unalignedOrig": 295,
+        "unalignedTarget": 3
       },
       "checks": {
         "langId": "kuf",
@@ -441,7 +441,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T11:36:34Z"
+      "modified": "2022-01-07T07:21:43Z"
     },
     "katu_2021/kuf_ktlt_heb_book": {
       "fullName": "katu_2021/kuf_ktlt_heb_book",
@@ -490,7 +490,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_phm_book": {
       "fullName": "katu_2021/kuf_ktlt_phm_book",
@@ -539,7 +539,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_tit_book": {
       "fullName": "katu_2021/kuf_ktlt_tit_book",
@@ -588,7 +588,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "modified": "2022-01-11T01:17:31Z"
     },
     "katu_2021/kuf_ktlt_2ti_book": {
       "fullName": "katu_2021/kuf_ktlt_2ti_book",
@@ -637,7 +637,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_1ti_book": {
       "fullName": "katu_2021/kuf_ktlt_1ti_book",
@@ -686,7 +686,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "modified": "2022-01-12T08:52:00Z"
     },
     "katu_2021/kuf_ktlt_2th_book": {
       "fullName": "katu_2021/kuf_ktlt_2th_book",
@@ -735,7 +735,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_1th_book": {
       "fullName": "katu_2021/kuf_ktlt_1th_book",
@@ -784,7 +784,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_col_book": {
       "fullName": "katu_2021/kuf_ktlt_col_book",
@@ -833,7 +833,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_php_book": {
       "fullName": "katu_2021/kuf_ktlt_php_book",
@@ -882,7 +882,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_eph_book": {
       "fullName": "katu_2021/kuf_ktlt_eph_book",
@@ -931,7 +931,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_gal_book": {
       "fullName": "katu_2021/kuf_ktlt_gal_book",
@@ -980,7 +980,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_2co_book": {
       "fullName": "katu_2021/kuf_ktlt_2co_book",
@@ -1029,7 +1029,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_1co_book": {
       "fullName": "katu_2021/kuf_ktlt_1co_book",
@@ -1078,7 +1078,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katu_2021/kuf_ktlt_mat_book": {
       "fullName": "katu_2021/kuf_ktlt_mat_book",
@@ -1089,8 +1089,8 @@
         "percentCompleted": 1,
         "completedVerses": 1071,
         "totalVerses": 1071,
-        "unalignedOrig": 3829,
-        "unalignedTarget": 61
+        "unalignedOrig": 3812,
+        "unalignedTarget": 49
       },
       "checks": {
         "langId": "kuf",
@@ -1127,7 +1127,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T09:51:15Z"
+      "modified": "2022-01-11T09:35:21Z"
     },
     "katu_2021/kuf_ktlt_rom_book": {
       "fullName": "katu_2021/kuf_ktlt_rom_book",

@@ -44,6 +44,270 @@
       },
       "checkMigration": true,
       "modified": "2020-10-12T22:27:45Z"
+    },
+    "tersitzewde/am_2sa_text_reg": {
+      "fullName": "tersitzewde/am_2sa_text_reg",
+      "wA": {
+        "langId": "am",
+        "projectId": "2sa",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "am",
+        "projectId": "text",
+        "bookId": "2sa",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-08-16T08:30:08Z"
+    },
+    "tc02/am_ulb_1co_book": {
+      "fullName": "tc02/am_ulb_1co_book",
+      "ERROR": "Empty Repo: tc02/am_ulb_1co_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/tc02/am_ulb_1co_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2019-04-22T18:55:16Z"
+    },
+    "burje_duro/am_2ch_text_reg": {
+      "fullName": "burje_duro/am_2ch_text_reg",
+      "wA": {
+        "langId": "am",
+        "projectId": "2ch",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "am",
+        "projectId": "text",
+        "bookId": "2ch",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-06-18T14:15:17Z"
+    },
+    "tc01/am_1co_text_reg": {
+      "fullName": "tc01/am_1co_text_reg",
+      "wA": {
+        "langId": "am",
+        "projectId": "1co",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "am",
+        "projectId": "text",
+        "bookId": "1co",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-10-12T22:22:38Z"
+    },
+    "burje_duro/am_ezk_text_reg": {
+      "fullName": "burje_duro/am_ezk_text_reg",
+      "wA": {
+        "langId": "am",
+        "projectId": "ezk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "am",
+        "projectId": "text",
+        "bookId": "ezk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-15T12:58:10Z"
+    },
+    "Getachew_Yohannes/am_jhn_text_reg": {
+      "fullName": "Getachew_Yohannes/am_jhn_text_reg",
+      "wA": {
+        "langId": "am",
+        "projectId": "jhn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "am",
+        "projectId": "text",
+        "bookId": "jhn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-05-16T18:47:44Z"
+    },
+    "Getachew_Yohannes/am_luk_text_reg": {
+      "fullName": "Getachew_Yohannes/am_luk_text_reg",
+      "wA": {
+        "langId": "am",
+        "projectId": "luk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "am",
+        "projectId": "text",
+        "bookId": "luk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-05-16T18:50:42Z"
     }
   },
   "goodProjects": {

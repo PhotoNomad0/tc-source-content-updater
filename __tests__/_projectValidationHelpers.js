@@ -196,6 +196,21 @@ export function verifyAlignments(project, projectsPath) {
 
 /**
  *
+ * @param project
+ * @return {{results: {langId: *, projectId: *, bookId: *}, bookId: *}}
+ */
+function getProjectInfo(project) {
+  if (project.endsWith('_book')) { // if new naming format e.g. `en_ult_mat_book`
+    const [langId, projectId, bookId] = project.split('_');
+    return {langId, projectId, bookId};
+  }
+  // try old naming format e.g. `en_mat_test_reg`
+  const [langId, bookId, projectId] = project.split('_');
+  return {langId, projectId, bookId};
+}
+
+/**
+ *
  * @param projectsPath
  * @param project
  * @param checkMigration
@@ -203,7 +218,7 @@ export function verifyAlignments(project, projectsPath) {
  */
 export async function verifyChecks(projectsPath, project, checkMigration) {
   const projectPath = path.join(projectsPath, project);
-  const [langId, projectId, bookId] = project.split('_');
+  const {bookId, projectId, langId} = getProjectInfo(project);
   const results = {langId, projectId, bookId};
   let origLangResourcePath;
   let tnResourceGl;
@@ -214,7 +229,7 @@ export async function verifyChecks(projectsPath, project, checkMigration) {
       if (fs.existsSync(USER_RESOURCES_PATH)) {
         origLangResourcePath = await loadOlderOriginalLanguageResource(projectPath, bookId, TRANSLATION_NOTES);
         if (!origLangResourcePath) {
-          console.error('error downloading original language');
+          console.error(`error downloading original language for project ${project}`);
           checkMigration = false;
         } else {
           const {toolsSelectedGLs} = projectManifest;
@@ -1126,11 +1141,6 @@ export async function validateProjects(repos, resourcesPath, outputFolder, langI
   for (let i = repos.length - 1; i > 0; i--) {
     const project = repos[i];
     const fullName = project.full_name || '';
-    const [projectLang] = fullName.split('_');
-    if (projectLang !== langId) {
-      console.log(`skipping over ${fullName} because the langId ${projectLang} does not match current ${langId}`);
-      continue;
-    }
 
     let doingRetry = false;
     const projectResults = projectsResults[fullName];
@@ -1372,6 +1382,9 @@ export const loadResource = async (resourceDetails) => {
       console.log(`Downloading resource ${JSON.stringify(resourceDetails)}`);
       await await sourceContentUpdater.downloadAndProcessResource(resourceDetails, USER_RESOURCES_PATH);
       bibleDataPath = loadBookResource(resourceDetails.resourceId, resourceDetails.bookId, resourceDetails.languageId, resourceDetails.version);
+      if (!bibleDataPath) {
+        console.log(`book data not found for: ${JSON.stringify(resourceDetails)}`);
+      }
     } catch (e) {
       console.log(`could not download: ${JSON.stringify(resourceDetails)}`, e);
       bibleDataPath = null;
@@ -1392,7 +1405,7 @@ export const loadOlderOriginalLanguageResource = async (projectPath, bookId, too
     origLangId, origLangBibleId, latestOlVersion, tsvOLVersion,
   } = getOrigLangVersionInfoForTn(projectPath, bookId);
 
-  // if version of current original language resource if not the one needed by the tn groupdata
+  // if version of current original language resource is not the one needed by the tn groupdata
   if (tsvOLVersion && (tsvOLVersion !== latestOlVersion) && toolName === TRANSLATION_NOTES) {
     // load original language resource that matches version number for tn groupdata
     console.log(`translationNotes requires original lang ${tsvOLVersion}`);

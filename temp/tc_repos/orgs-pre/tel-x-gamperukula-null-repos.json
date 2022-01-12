@@ -1,0 +1,1126 @@
+{
+  "processedProjects": 27,
+  "totalProjects": 27,
+  "projects": {
+    "gamperukula/tel-x-gamperukula_reg_tit_book": {
+      "fullName": "gamperukula/tel-x-gamperukula_reg_tit_book",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "reg",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "reg",
+        "bookId": "tit",
+        "time_created": "2021-11-10T12:39:35.762Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-11-10T12:40:24Z"
+    },
+    "gamperukula/tel-x-gamperukula_eph_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_eph_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "eph",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "eph",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-08-31T03:14:52Z"
+    },
+    "gamperukula/tel-x-gamperukula_luk_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_luk_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "luk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "luk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-10-17T08:16:07Z"
+    },
+    "gamperukula/tel-x-gamperukula_mat_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_mat_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "mat",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "mat",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-08-31T03:13:13Z"
+    },
+    "gamperukula/tel-x-gamperukula_2pe_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_2pe_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "2pe",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "2pe",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-25T12:07:01Z"
+    },
+    "gamperukula/tel-x-gamperukula_1pe_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_1pe_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "1pe",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "1pe",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-25T12:06:30Z"
+    },
+    "gamperukula/tel-x-gamperukula_heb_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_heb_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "heb",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "heb",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-25T12:05:50Z"
+    },
+    "gamperukula/tel-x-gamperukula_col_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_col_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "col",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "col",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-20T17:58:20Z"
+    },
+    "gamperukula/tel-x-gamperukula_jas_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_jas_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "jas",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "jas",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-20T17:56:43Z"
+    },
+    "gamperukula/tel-x-gamperukula_rom_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_rom_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "rom",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "rom",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-25T12:05:01Z"
+    },
+    "gamperukula/tel-x-gamperukula_rev_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_rev_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "rev",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "rev",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-22T07:13:00Z"
+    },
+    "gamperukula/tel-x-gamperukula_gal_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_gal_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "gal",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "gal",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-22T05:51:04Z"
+    },
+    "gamperukula/tel-x-gamperukula_php_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_php_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "php",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "php",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-22T05:48:41Z"
+    },
+    "gamperukula/tel-x-gamperukula_mrk_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_mrk_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "mrk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "mrk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-21T13:46:48Z"
+    },
+    "gamperukula/tel-x-gamperukula_jhn_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_jhn_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "jhn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "jhn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-21T13:41:09Z"
+    },
+    "gamperukula/tel-x-gamperukula_phm_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_phm_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "phm",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "phm",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-21T13:39:24Z"
+    },
+    "gamperukula/tel-x-gamperukula_1jn_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_1jn_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "1jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "1jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-21T13:38:47Z"
+    },
+    "gamperukula/tel-x-gamperukula_2jn_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_2jn_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "2jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "2jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-21T13:37:56Z"
+    },
+    "gamperukula/tel-x-gamperukula_3jn_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_3jn_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "3jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "3jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-21T13:37:00Z"
+    },
+    "gamperukula/tel-x-gamperukula_jud_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_jud_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "jud",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "jud",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-21T13:36:21Z"
+    },
+    "gamperukula/tel-x-gamperukula_2co_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_2co_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "2co",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "2co",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-18T08:57:55Z"
+    },
+    "gamperukula/tel-x-gamperukula_1co_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_1co_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "1co",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "1co",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-18T08:57:25Z"
+    },
+    "gamperukula/tel-x-gamperukula_2ti_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_2ti_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "2ti",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "2ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-09-07T12:17:00Z"
+    },
+    "gamperukula/tel-x-gamperukula_1ti_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_1ti_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "1ti",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "1ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-09-07T12:16:26Z"
+    },
+    "gamperukula/tel-x-gamperukula_2th_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_2th_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "2th",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "2th",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-09-07T11:59:06Z"
+    },
+    "gamperukula/tel-x-gamperukula_1th_text_reg": {
+      "fullName": "gamperukula/tel-x-gamperukula_1th_text_reg",
+      "wA": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "1th",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "tel-x-gamperukula",
+        "projectId": "text",
+        "bookId": "1th",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-09-07T11:58:37Z"
+    }
+  }
+}

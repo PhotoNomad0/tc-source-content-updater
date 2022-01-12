@@ -1,5 +1,350 @@
 {
-  "projectSummaries": {},
+  "projectSummaries": {
+    "Natasa/rmr-x-bsa_jos_text_reg": {
+      "fullName": "Natasa/rmr-x-bsa_jos_text_reg",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "jos",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "text",
+        "bookId": "jos",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-09-02T18:31:05Z"
+    },
+    "rmr-x-bsa/rmr-x-bsa_jos_text_reg": {
+      "fullName": "rmr-x-bsa/rmr-x-bsa_jos_text_reg",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "jos",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "text",
+        "bookId": "jos",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-15T12:52:20Z"
+    },
+    "toddlprice/rmr-x-bsa_ulb_tit_book": {
+      "fullName": "toddlprice/rmr-x-bsa_ulb_tit_book",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "ulb",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "ulb",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-08-20T07:46:15Z"
+    },
+    "toddlprice/rmr-x-bsa_jos_text_reg": {
+      "fullName": "toddlprice/rmr-x-bsa_jos_text_reg",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "jos",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "text",
+        "bookId": "jos",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-04-07T19:38:14Z"
+    },
+    "Nedeljko/rmr-x-bsa_jos_text_reg": {
+      "fullName": "Nedeljko/rmr-x-bsa_jos_text_reg",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "jos",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "text",
+        "bookId": "jos",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-06-16T10:45:43Z"
+    },
+    "toddlprice/rmr-x-bsa_gen_text_reg": {
+      "fullName": "toddlprice/rmr-x-bsa_gen_text_reg",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "gen",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "text",
+        "bookId": "gen",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-07-03T15:42:33Z"
+    },
+    "toddlprice/rmr-x-bsa_heb_text_reg": {
+      "fullName": "toddlprice/rmr-x-bsa_heb_text_reg",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "heb",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "text",
+        "bookId": "heb",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-04-13T09:01:50Z"
+    },
+    "Natasa/rmr-x-bsa_heb_text_reg": {
+      "fullName": "Natasa/rmr-x-bsa_heb_text_reg",
+      "wA": {
+        "langId": "rmr-x-bsa",
+        "projectId": "heb",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmr-x-bsa",
+        "projectId": "text",
+        "bookId": "heb",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-04-10T18:19:02Z"
+    }
+  },
   "goodProjects": {
     "waFinished": {},
     "waNearlyFinished": {},

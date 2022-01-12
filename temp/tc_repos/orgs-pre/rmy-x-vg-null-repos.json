@@ -1,0 +1,479 @@
+{
+  "processedProjects": 12,
+  "totalProjects": 12,
+  "projects": {
+    "toddlprice/rmy-x-vg_num_text_reg": {
+      "fullName": "toddlprice/rmy-x-vg_num_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "num",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "num",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-04-17T07:22:00Z"
+    },
+    "romastandarddemo/rmy-x-vg_num_text_reg": {
+      "fullName": "romastandarddemo/rmy-x-vg_num_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "num",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "num",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-03-15T18:06:22Z"
+    },
+    "joy-rbtt/rmy-x-vg_lev_text_reg": {
+      "fullName": "joy-rbtt/rmy-x-vg_lev_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "lev",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "lev",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-11-15T21:58:24Z"
+    },
+    "joy-rbtt/rmy-x-vg_exo_text_reg": {
+      "fullName": "joy-rbtt/rmy-x-vg_exo_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "exo",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "exo",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-11-15T21:52:57Z"
+    },
+    "romastandarddemo/rmy-x-vg_ulb_mat_book": {
+      "fullName": "romastandarddemo/rmy-x-vg_ulb_mat_book",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "ulb",
+        "bookId": "mat",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "ulb",
+        "bookId": "mat",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-10-10T16:18:44Z"
+    },
+    "toddlprice/rmy-x-vg_lev_text_reg": {
+      "fullName": "toddlprice/rmy-x-vg_lev_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "lev",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "lev",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-12-07T13:56:47Z"
+    },
+    "romastandarddemo/rmy-x-vg_lev_text_reg": {
+      "fullName": "romastandarddemo/rmy-x-vg_lev_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "lev",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "lev",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-09-11T16:18:49Z"
+    },
+    "toddlprice/rmy-x-vg_exo_text_reg": {
+      "fullName": "toddlprice/rmy-x-vg_exo_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "exo",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "exo",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-11-29T11:37:55Z"
+    },
+    "romastandarddemo/rmy-x-vg_exo_text_reg": {
+      "fullName": "romastandarddemo/rmy-x-vg_exo_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "exo",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "exo",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-08-31T20:24:04Z"
+    },
+    "biljananikolic/rmy-x-vg_mrk_text_reg": {
+      "fullName": "biljananikolic/rmy-x-vg_mrk_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "mrk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "mrk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2016-11-09T07:28:39Z"
+    },
+    "toddlprice/rmy-x-vg_mrk_text_reg": {
+      "fullName": "toddlprice/rmy-x-vg_mrk_text_reg",
+      "wA": {
+        "langId": "rmy-x-vg",
+        "projectId": "mrk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rmy-x-vg",
+        "projectId": "text",
+        "bookId": "mrk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0.03747534516765286,
+          "completedChecks": 38,
+          "totalChecks": 1014,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-12-04T21:08:35Z"
+    }
+  }
+}

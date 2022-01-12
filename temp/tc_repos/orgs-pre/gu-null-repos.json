@@ -1,6 +1,6 @@
 {
-  "processedProjects": 5,
-  "totalProjects": 41,
+  "processedProjects": 47,
+  "totalProjects": 47,
   "projects": {
     "Amos.Khokhar/gu_gglt_luk_book": {
       "fullName": "Amos.Khokhar/gu_gglt_luk_book",
@@ -97,7 +97,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-idiom_4_13__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_ggst_jas_book": {
       "fullName": "BCS_India/gu_ggst_jas_book",
@@ -186,7 +186,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_ggst_tit_book": {
       "fullName": "shojojohn/gu_ggst_tit_book",
@@ -325,7 +326,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_ggst_3jn_book": {
       "fullName": "shojojohn/gu_ggst_3jn_book",
@@ -394,7 +396,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: , TW: prosper_1_2__1 - Missing 1 selections\t\n"
+      "projectWarnings": "warnings: WA: , TN: , TW: prosper_1_2__1 - Missing 1 selections\t\n",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_gglt_tit_book": {
       "fullName": "shojojohn/gu_gglt_tit_book",
@@ -532,7 +535,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_gglt_3jn_book": {
       "fullName": "shojojohn/gu_gglt_3jn_book",
@@ -600,7 +604,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_irv_jas_book": {
       "fullName": "BCS_India/gu_irv_jas_book",
@@ -648,7 +653,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_irv_jud_book": {
       "fullName": "BCS_India/gu_irv_jud_book",
@@ -696,7 +702,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_irv_2jn_book": {
       "fullName": "BCS_India/gu_irv_2jn_book",
@@ -744,7 +751,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_irv_1pe_book": {
       "fullName": "BCS_India/gu_irv_1pe_book",
@@ -792,7 +800,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_irv_phm_book": {
       "fullName": "BCS_India/gu_irv_phm_book",
@@ -840,7 +849,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_irv_2ti_book": {
       "fullName": "BCS_India/gu_irv_2ti_book",
@@ -888,7 +898,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/gu_irv_1ti_book": {
       "fullName": "BCS_India/gu_irv_1ti_book",
@@ -936,7 +947,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/gu_irv_tit_book": {
       "fullName": "India_BCS/gu_irv_tit_book",
@@ -983,7 +995,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_rev_book": {
       "fullName": "shojojohn/gu_irv_rev_book",
@@ -1047,7 +1060,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_php_book": {
       "fullName": "shojojohn/gu_irv_php_book",
@@ -1111,7 +1125,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_heb_book": {
       "fullName": "shojojohn/gu_irv_heb_book",
@@ -1175,7 +1190,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_gal_book": {
       "fullName": "shojojohn/gu_irv_gal_book",
@@ -1239,7 +1255,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_eph_book": {
       "fullName": "shojojohn/gu_irv_eph_book",
@@ -1301,7 +1318,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_col_book": {
       "fullName": "shojojohn/gu_irv_col_book",
@@ -1365,7 +1383,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_2th_book": {
       "fullName": "shojojohn/gu_irv_2th_book",
@@ -1429,7 +1448,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_2pe_book": {
       "fullName": "shojojohn/gu_irv_2pe_book",
@@ -1493,7 +1513,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_1th_book": {
       "fullName": "shojojohn/gu_irv_1th_book",
@@ -1557,7 +1578,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_1jn_book": {
       "fullName": "shojojohn/gu_irv_1jn_book",
@@ -1621,7 +1643,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_rom_book": {
       "fullName": "shojojohn/gu_irv_rom_book",
@@ -1685,7 +1708,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_mrk_book": {
       "fullName": "shojojohn/gu_irv_mrk_book",
@@ -1749,7 +1773,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_mat_book": {
       "fullName": "shojojohn/gu_irv_mat_book",
@@ -1813,7 +1838,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_luk_book": {
       "fullName": "shojojohn/gu_irv_luk_book",
@@ -1877,7 +1903,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_jhn_book": {
       "fullName": "shojojohn/gu_irv_jhn_book",
@@ -1941,7 +1968,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_act_book": {
       "fullName": "shojojohn/gu_irv_act_book",
@@ -2005,7 +2033,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_2co_book": {
       "fullName": "shojojohn/gu_irv_2co_book",
@@ -2069,7 +2098,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_1co_book": {
       "fullName": "shojojohn/gu_irv_1co_book",
@@ -2133,7 +2163,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Vipin_Bhadran/gu_irv_3jn_book": {
       "fullName": "Vipin_Bhadran/gu_irv_3jn_book",
@@ -2178,7 +2209,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "russp41/gu_irv_3jn_book": {
       "fullName": "russp41/gu_irv_3jn_book",
@@ -2223,7 +2255,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "russp41/gu_irvb_3jn_book": {
       "fullName": "russp41/gu_irvb_3jn_book",
@@ -2268,7 +2301,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_3jn_book": {
       "fullName": "shojojohn/gu_irv_3jn_book",
@@ -2312,7 +2346,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/gu_irv_tit_book": {
       "fullName": "shojojohn/gu_irv_tit_book",
@@ -2356,7 +2391,266 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
+    },
+    "photonomad0/gu_reg_mrk_book": {
+      "fullName": "photonomad0/gu_reg_mrk_book",
+      "wA": {
+        "langId": "gu",
+        "projectId": "reg",
+        "bookId": "mrk",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "reg",
+        "bookId": "mrk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-07-18T10:57:50Z"
+    },
+    "qa99/gu_1th_text_reg": {
+      "fullName": "qa99/gu_1th_text_reg",
+      "wA": {
+        "langId": "gu",
+        "projectId": "1th",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "text",
+        "bookId": "1th",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-04-26T22:04:25Z"
+    },
+    "qa98/gu_mat_text_reg": {
+      "fullName": "qa98/gu_mat_text_reg",
+      "wA": {
+        "langId": "gu",
+        "projectId": "mat",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "text",
+        "bookId": "mat",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-04-21T00:52:18Z"
+    },
+    "photonomad0/gu_mrk_text_reg": {
+      "fullName": "photonomad0/gu_mrk_text_reg",
+      "wA": {
+        "langId": "gu",
+        "projectId": "mrk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "text",
+        "bookId": "mrk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-04-19T17:48:51Z"
+    },
+    "photonomad0/gu_mat_text_reg": {
+      "fullName": "photonomad0/gu_mat_text_reg",
+      "wA": {
+        "langId": "gu",
+        "projectId": "mat",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "text",
+        "bookId": "mat",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-04-18T19:08:54Z"
+    },
+    "qa91/gu_mat_text_reg": {
+      "fullName": "qa91/gu_mat_text_reg",
+      "wA": {
+        "langId": "gu",
+        "projectId": "mat",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "gu",
+        "projectId": "text",
+        "bookId": "mat",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-04-12T15:36:15Z"
     }
   }
 }

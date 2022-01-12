@@ -1,5 +1,51 @@
 {
-  "projectSummaries": {},
+  "projectSummaries": {
+    "abelper8/pid_reg_tit_book": {
+      "fullName": "abelper8/pid_reg_tit_book",
+      "wA": {
+        "langId": "pid",
+        "projectId": "reg",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "pid",
+        "projectId": "reg",
+        "bookId": "tit",
+        "time_created": "2021-05-07T22:48:47.843Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-05-07T22:51:23Z"
+    }
+  },
   "goodProjects": {
     "waFinished": {},
     "waNearlyFinished": {},

@@ -1,5 +1,5 @@
 {
-  "processedProjects": 28,
+  "processedProjects": 27,
   "totalProjects": 28,
   "projects": {
     "t_rin_04_2021/kpm_tdt_act_book": {
@@ -48,7 +48,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_rev_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_rev_book",
@@ -96,7 +97,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_jud_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_jud_book",
@@ -144,7 +146,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_3jn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_3jn_book",
@@ -192,7 +195,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_2jn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2jn_book",
@@ -240,7 +244,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_1jn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1jn_book",
@@ -251,8 +256,8 @@
         "percentCompleted": 1,
         "completedVerses": 105,
         "totalVerses": 105,
-        "unalignedOrig": 401,
-        "unalignedTarget": 19
+        "unalignedOrig": 379,
+        "unalignedTarget": 3
       },
       "checks": {
         "langId": "kpm",
@@ -288,7 +293,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T09:27:28Z"
     },
     "t_rin_04_2021/kpm_trlt_2pe_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2pe_book",
@@ -336,7 +342,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_1pe_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1pe_book",
@@ -384,7 +391,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_jas_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_jas_book",
@@ -432,7 +440,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_heb_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_heb_book",
@@ -480,7 +489,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_phm_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_phm_book",
@@ -527,7 +537,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_tit_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_tit_book",
@@ -574,7 +585,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_2ti_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2ti_book",
@@ -621,7 +633,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_1ti_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1ti_book",
@@ -668,7 +681,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_2th_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2th_book",
@@ -676,11 +690,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "2th",
-        "percentCompleted": 0,
-        "completedVerses": 0,
+        "percentCompleted": 1,
+        "completedVerses": 47,
         "totalVerses": 47,
-        "unalignedOrig": 820,
-        "unalignedTarget": 1560
+        "unalignedOrig": 93,
+        "unalignedTarget": 0
       },
       "checks": {
         "langId": "kpm",
@@ -698,7 +712,7 @@
           "toolData": {},
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 262,
+          "totalChecks": 257,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -711,11 +725,13 @@
         },
         "wordAlignment": {
           "toolData": {
-            "SelectedGL": "en"
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T07:57:26Z"
     },
     "t_rin_04_2021/kpm_trlt_1th_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1th_book",
@@ -726,8 +742,8 @@
         "percentCompleted": 1,
         "completedVerses": 89,
         "totalVerses": 89,
-        "unalignedOrig": 265,
-        "unalignedTarget": 0
+        "unalignedOrig": 266,
+        "unalignedTarget": 6
       },
       "checks": {
         "langId": "kpm",
@@ -763,7 +779,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T06:55:21Z"
     },
     "t_rin_04_2021/kpm_trlt_col_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_col_book",
@@ -811,7 +828,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_php_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_php_book",
@@ -858,7 +876,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_eph_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_eph_book",
@@ -906,7 +925,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_gal_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_gal_book",
@@ -953,7 +973,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_2co_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2co_book",
@@ -961,11 +982,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "2co",
-        "percentCompleted": 0.60546875,
-        "completedVerses": 155,
+        "percentCompleted": 0.6484375,
+        "completedVerses": 166,
         "totalVerses": 256,
-        "unalignedOrig": 1803,
-        "unalignedTarget": 2471
+        "unalignedOrig": 1838,
+        "unalignedTarget": 2481
       },
       "checks": {
         "langId": "kpm",
@@ -1001,7 +1022,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T09:29:00Z"
     },
     "t_rin_04_2021/kpm_trlt_1co_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1co_book",
@@ -1009,11 +1031,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "1co",
-        "percentCompleted": 0.9427917620137299,
-        "completedVerses": 412,
+        "percentCompleted": 0.9862700228832952,
+        "completedVerses": 431,
         "totalVerses": 437,
-        "unalignedOrig": 1234,
-        "unalignedTarget": 279
+        "unalignedOrig": 1116,
+        "unalignedTarget": 33
       },
       "checks": {
         "langId": "kpm",
@@ -1049,7 +1071,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T09:25:27Z"
     },
     "t_rin_04_2021/kpm_trlt_rom_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_rom_book",
@@ -1057,11 +1080,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "rom",
-        "percentCompleted": 0.9815242494226328,
-        "completedVerses": 425,
+        "percentCompleted": 0.99,
+        "completedVerses": 432,
         "totalVerses": 433,
-        "unalignedOrig": 1527,
-        "unalignedTarget": 216
+        "unalignedOrig": 1448,
+        "unalignedTarget": 52
       },
       "checks": {
         "langId": "kpm",
@@ -1086,7 +1109,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v49"
+                "glVersion": "v54"
               }
             },
             "toolWarnings": ""
@@ -1116,7 +1139,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T01:00:15Z"
     },
     "t_rin_04_2021/kpm_trlt_mrk_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_mrk_book",
@@ -1163,7 +1187,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_jhn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_jhn_book",
@@ -1211,7 +1236,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "t_rin_04_2021/kpm_trlt_act_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_act_book",
@@ -1219,11 +1245,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "act",
-        "percentCompleted": 0.9860973187686196,
-        "completedVerses": 993,
+        "percentCompleted": 0.9870903674280039,
+        "completedVerses": 994,
         "totalVerses": 1007,
-        "unalignedOrig": 4737,
-        "unalignedTarget": 393
+        "unalignedOrig": 4474,
+        "unalignedTarget": 268
       },
       "checks": {
         "langId": "kpm",
@@ -1259,7 +1285,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "modified": "2022-01-12T09:29:40Z"
     },
     "t_rin_04_2021/kpm_trlt_mat_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_mat_book",

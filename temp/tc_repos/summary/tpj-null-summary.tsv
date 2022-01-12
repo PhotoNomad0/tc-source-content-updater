@@ -1,15 +1,70 @@
 Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
-tc03/tpj_ulb_col_book	2021-12-26T16:00:27.487Z	0			0			0				2018-06-05T17:34:55.305Z		7			
-tcnt/tpj_reg_1co_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:35:24.146Z		1			
-tcnt/tpj_reg_2co_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:35:50.448Z		1			
-tcnt/tpj_reg_2pe_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:43:05.106Z		1			
-tcnt/tpj_reg_heb_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:41:26.091Z		1			
-tcnt/tpj_reg_rev_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:45:58.896Z		1			
-tcnt/tpj_reg_rom_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:34:57.108Z		1			
-tcnt/tpj_ulb_1jn_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:43:38.037Z		1			
-tcnt/tpj_ulb_1ti_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:39:18.349Z		1			
-tcnt/tpj_ulb_2jn_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:44:12.713Z		1			
-tcnt/tpj_ulb_2th_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:38:47.155Z		1			
-tcnt/tpj_ulb_3jn_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:44:47.168Z		1			
-tcnt/tpj_ulb_jas_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:41:56.722Z		1			
-tcnt/tpj_ulb_jud_book	2021-12-26T16:00:27.487Z	0			0			0				2018-04-18T17:45:21.826Z		1			
+aquilesan/tpj_1co_text_reg		0			0			0									
+aquilesan/tpj_1pe_text_reg		0			0			0									
+aquilesan/tpj_heb_text_reg		0			0			0									
+aquilesan/tpj_job_text_reg		0			0			0									
+aquilesan/tpj_rev_text_reg		0			0			0									
+aquilesan/tpj_rom_text_reg		0			0			0									
+aquilesan/tpj_rut_text_reg		0			0			0									
+Daihana/tpj_1pe_text_reg		0			0			0									
+Daihana/tpj_rom_text_reg		0			0			0									
+H3rm38/tpj_job_text_reg		0			0			0									
+luismatias/tpj_1co_text_reg		0			0			0									
+luismatias/tpj_1pe_text_reg		0			0			0									
+luismatias/tpj_2co_text_reg		0			0			0									
+luismatias/tpj_2ti_text_reg		0			0			0									
+luismatias/tpj_act_text_reg		0			0			0									
+luismatias/tpj_heb_text_reg		0			0			0									
+luismatias/tpj_job_text_reg		0			0			0									
+luismatias/tpj_phm_text_reg		0			0			0									
+luismatias/tpj_rev_text_reg		0			0			0									
+luismatias/tpj_rom_text_reg		0			0			0									
+luismatias/tpj_rut_text_reg		0			0			0									
+mitikiwostky/tpj_jhn_text_reg		0			0			0									
+mitikiwostky/tpj_mat_text_reg		0			0			0									
+Norbeldine/tpj_heb_text_reg		0			0			0									
+Norbeldine/tpj_rev_text_reg		0			0			0									
+Rafael/tpj_2co_text_reg		0			0			0									
+Rafael/tpj_rev_text_reg		0			0			0									
+Rafael/tpj_tit_text_reg		0			0			0									
+TAlicea/tpj_heb_text_reg		0			0			0									
+TAlicea/tpj_rev_text_reg		0			0			0									
+tc02/tpj_new_col_book		3			0			0				2018-06-05T17:20:04.198Z		5			
+tc03/tpj_ulb_col_book	2022-01-10T14:37:20.312Z	0			0			0				2018-06-05T17:34:55.305Z		7			
+tcnt/tpj_reg_1co_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:35:24.146Z		1			
+tcnt/tpj_reg_2co_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:35:50.448Z		1			
+tcnt/tpj_reg_2pe_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:43:05.106Z		1			
+tcnt/tpj_reg_heb_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:41:26.091Z		1			
+tcnt/tpj_reg_rev_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:45:58.896Z		1			
+tcnt/tpj_reg_rom_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:34:57.108Z		1			
+tcnt/tpj_ulb_1jn_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:43:38.037Z		1			
+tcnt/tpj_ulb_1ti_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:39:18.349Z		1			
+tcnt/tpj_ulb_2jn_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:44:12.713Z		1			
+tcnt/tpj_ulb_2th_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:38:47.155Z		1			
+tcnt/tpj_ulb_3jn_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:44:47.168Z		1			
+tcnt/tpj_ulb_jas_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:41:56.722Z		1			
+tcnt/tpj_ulb_jud_book	2022-01-10T14:37:20.312Z	0			0			0				2018-04-18T17:45:21.826Z		1			
+vvazq4810/tpj_heb_text_reg		0			0			0									
+vvazq4810/tpj_job_text_reg		0			0			0									
+vvazq4810/tpj_rev_text_reg		0			0			0									
+vvazq4810/tpj_rom_text_reg		0			0			0									
+wendyc/tpj_1co_text_reg		0			0			0									
+wendyc/tpj_1pe_text_reg		0			0			0									
+wendyc/tpj_2co_text_reg		0			0			0									
+wendyc/tpj_2pe_text_reg		0			0			0									
+wendyc/tpj_2ti_text_reg		0			0			0									
+wendyc/tpj_heb_text_reg		0			0			0									
+wendyc/tpj_phm_text_reg		0			0			0									
+wendyc/tpj_rev_text_reg		0			0			0									
+wendyc/tpj_rom_text_reg		0			0			0									
+wendyc/tpj_tit_text_reg		0			0			0									
+Yari/tpj_1co_text_reg		0			0			0									
+Yari/tpj_1pe_text_reg		0			0			0									
+Yari/tpj_2co_text_reg		0			0			0									
+Yari/tpj_2pe_text_reg		0			0			0									
+Yari/tpj_2ti_text_reg		0			0			0									
+Yari/tpj_heb_text_reg		0			0			0									
+Yari/tpj_job_text_reg		0			0			0									
+Yari/tpj_rev_text_reg		0			0			0									
+Yari/tpj_rut_text_reg		0			0			0									
+Yari/tpj_tit_text_reg		0			0			0									

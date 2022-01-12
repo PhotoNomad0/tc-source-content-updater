@@ -1,6 +1,6 @@
 {
   "processedProjects": 3,
-  "totalProjects": 3,
+  "totalProjects": 5,
   "projects": {
     "richmahn/zh_ult_tit_book": {
       "fullName": "richmahn/zh_ult_tit_book",
@@ -89,6 +89,92 @@
       },
       "checkMigration": true,
       "modified": "2018-07-24T23:18:10Z"
+    },
+    "gospelseed/zh_est_text_reg": {
+      "fullName": "gospelseed/zh_est_text_reg",
+      "wA": {
+        "langId": "zh",
+        "projectId": "est",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "zh",
+        "projectId": "text",
+        "bookId": "est",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-10-11T09:04:23Z"
+    },
+    "johnjchou/zh_zep_text_reg": {
+      "fullName": "johnjchou/zh_zep_text_reg",
+      "wA": {
+        "langId": "zh",
+        "projectId": "zep",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "zh",
+        "projectId": "text",
+        "bookId": "zep",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-02-21T05:58:21Z"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "processedProjects": 11,
-  "totalProjects": 72,
+  "processedProjects": 73,
+  "totalProjects": 73,
   "projects": {
     "BCS_India/kn_glt_luk_book": {
       "fullName": "BCS_India/kn_glt_luk_book",
@@ -70,7 +70,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-activepassive_6_37__1 - Missing 2 selections\t\nfigs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-doublenegatives_8_17__1 - Missing 1 selections\t\nfigs-explicit_7_12__1 - Missing 1 selections\t\nfigs-explicit_7_37__1 - Missing 1 selections\t\nfigs-explicit_8_35__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_75__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_2_38__1 - Missing 1 selections\t\nfigs-idiom_6_20__1 - Missing 1 selections\t\nfigs-idiom_7_16__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_66__1 - Missing 1 selections\t\nfigs-metaphor_3_5__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 3 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_11_17__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\nfigs-metonymy_20_47__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-names_6_15__1 - Missing 1 selections\t\ntranslate-names_19_29__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_6_44__1 - Missing 1 selections\t\ntranslate-unknown_6_48__1 - Missing 1 selections\t\nwriting-background_7_12__1 - Missing 1 selections\t\nwriting-pronouns_23_33__1 - Missing 1 selections\t\n, TW: castout_6_42__1 - Missing 2 selections\t\nclothed_5_36__1 - Missing 1 selections\t\ncommand_5_14__1 - Missing 1 selections\t\ndemon_8_29__1 - Missing 1 selections\t\nevil_6_45__1 - Missing 1 selections\t\ngood_6_45__1 - Missing 1 selections\t\nhouse_6_48__1 - Missing 1 selections\t\njesus_8_28__1 - Missing 1 selections\t\njesus_8_35__1 - Missing 1 selections\t\nlike_7_31__1 - Missing 1 selections\t\noil_7_46__1 - Missing 1 selections\t\nteacher_6_40__1 - Missing 1 selections\t\nwine_5_37__1 - Missing 2 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "tCore-test-data/kn_kglt_2jn_book": {
       "fullName": "tCore-test-data/kn_kglt_2jn_book",
@@ -139,7 +139,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "photonomad1/kn_kglt_2jn_book": {
       "fullName": "photonomad1/kn_kglt_2jn_book",
@@ -208,7 +208,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "photonomad1/kn_kglz_2jn_book": {
       "fullName": "photonomad1/kn_kglz_2jn_book",
@@ -277,7 +277,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ghayden/kn_test_2jn_book": {
       "fullName": "ghayden/kn_test_2jn_book",
@@ -346,7 +346,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_glt_1jn_book": {
       "fullName": "BCS_India/kn_glt_1jn_book",
@@ -559,11 +559,11 @@
         "langId": "kn",
         "projectId": "gst",
         "bookId": "luk",
-        "percentCompleted": 0.01998262380538662,
-        "completedVerses": 23,
+        "percentCompleted": 0.43788010425716767,
+        "completedVerses": 504,
         "totalVerses": 1151,
-        "unalignedOrig": 18905,
-        "unalignedTarget": 23811
+        "unalignedOrig": 10696,
+        "unalignedTarget": 13478
       },
       "checks": {
         "langId": "kn",
@@ -578,20 +578,41 @@
             "orig_lang_check_version": "0.22",
             "gl_check_version": "v53"
           },
-          "percentCompleted": 0.9899094437257439,
-          "completedChecks": 3826,
+          "percentCompleted": 0.9366106080206986,
+          "completedChecks": 3620,
           "totalChecks": 3865,
           "stats": {
             "dupes": {},
             "migrations": {
               "migrations": {},
               "duplicateMigrations": [],
-              "unmatched": [],
+              "unmatched": [
+                {
+                  "key": "figs-activepassive_22_22__1",
+                  "selections": "ನನ್ನನ್ನು ವೈರಿಗಳ ಕೈಗೆ ಒಪ್ಪಿಸುವ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-explicit_18_14__1",
+                  "selections": "ಆದರೆ ಫರಿಸಾಯನನ್ನು ಕ್ಷಮಿಸಲಿಲ್ಲ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_20_18__1",
+                  "selections": "ಯಾರಾದರೂ ಅದರೆ-1 ದ್ದರೆ ಅವರನ್ನು ಜಜ್ಜಿ ಹಾಕುತ್ತದೆ”.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "translate-symaction_18_13__1",
+                  "selections": "ಅವನು ತನ್ನ ಎದೆಯನ್ನು ಬಡಿದುಕೊಳ್ಳುತ್ತ-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
               "data": {
-                "glVersion": "v49"
+                "glVersion": "v54"
               }
             },
-            "toolWarnings": "figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-metaphor_1_55__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\n"
+            "toolWarnings": "figs-123person_19_10__1 - Missing 1 selections\t\nfigs-doublenegatives_12_2__1 - Missing 1 selections\t\nfigs-explicit_1_17__1 - Missing 1 selections\t\nfigs-explicit_3_16__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_14__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-explicit_22_52__1 - Missing 1 selections\t\nfigs-hypo_12_39__1 - Missing 1 selections\t\nfigs-idiom_1_13__1 - Missing 1 selections\t\nfigs-idiom_1_39__1 - Missing 1 selections\t\nfigs-idiom_1_76__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 2 selections\t\nfigs-idiom_7_16__1 - Missing 1 selections\t\nfigs-idiom_17_26__1 - Missing 1 selections\t\nfigs-metaphor_1_15__1 - Missing 1 selections\t\nfigs-metaphor_1_44__1 - Missing 1 selections\t\nfigs-metaphor_1_55__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_10_21__1 - Missing 1 selections\t\nfigs-metaphor_15_24__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_19_44__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metaphor_24_38__1 - Missing 1 selections\t\nfigs-metonymy_1_2__1 - Missing 1 selections\t\nfigs-metonymy_1_69__1 - Missing 1 selections\t\nfigs-metonymy_2_38__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\nfigs-metonymy_21_10__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\n"
           }
         },
         "translationWords": {
@@ -599,8 +620,8 @@
             "SelectedGL": "en",
             "orig_lang_check_version": "0.22"
           },
-          "percentCompleted": 0.99,
-          "completedChecks": 3838,
+          "percentCompleted": 0.9685469196776709,
+          "completedChecks": 3726,
           "totalChecks": 3847,
           "stats": {
             "dupes": {},
@@ -609,7 +630,7 @@
                 "glVersion": "v0"
               }
             },
-            "toolWarnings": ""
+            "toolWarnings": "brother_6_42__1 - Missing 2 selections\t\nclothed_5_36__1 - Missing 1 selections\t\nshame_9_26__1 - Missing 1 selections\t\nthorn_8_7__1 - Missing 1 selections\t\nvirgin_1_27__1 - Missing 1 selections\t\n"
           }
         },
         "wordAlignment": {
@@ -620,7 +641,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-metaphor_1_55__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-123person_19_10__1 - Missing 1 selections\t\nfigs-doublenegatives_12_2__1 - Missing 1 selections\t\nfigs-explicit_1_17__1 - Missing 1 selections\t\nfigs-explicit_3_16__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_14__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-explicit_22_52__1 - Missing 1 selections\t\nfigs-hypo_12_39__1 - Missing 1 selections\t\nfigs-idiom_1_13__1 - Missing 1 selections\t\nfigs-idiom_1_39__1 - Missing 1 selections\t\nfigs-idiom_1_76__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 2 selections\t\nfigs-idiom_7_16__1 - Missing 1 selections\t\nfigs-idiom_17_26__1 - Missing 1 selections\t\nfigs-metaphor_1_15__1 - Missing 1 selections\t\nfigs-metaphor_1_44__1 - Missing 1 selections\t\nfigs-metaphor_1_55__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_10_21__1 - Missing 1 selections\t\nfigs-metaphor_15_24__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_19_44__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metaphor_24_38__1 - Missing 1 selections\t\nfigs-metonymy_1_2__1 - Missing 1 selections\t\nfigs-metonymy_1_69__1 - Missing 1 selections\t\nfigs-metonymy_2_38__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\nfigs-metonymy_21_10__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\n, TW: brother_6_42__1 - Missing 2 selections\t\nclothed_5_36__1 - Missing 1 selections\t\nshame_9_26__1 - Missing 1 selections\t\nthorn_8_7__1 - Missing 1 selections\t\nvirgin_1_27__1 - Missing 1 selections\t\n",
+      "modified": "2022-01-11T19:16:36Z"
     },
     "India_BCS/kn_glt_1jn_book": {
       "fullName": "India_BCS/kn_glt_1jn_book",
@@ -688,7 +710,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_glt_jas_book": {
       "fullName": "India_BCS/kn_glt_jas_book",
@@ -773,7 +796,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_1_11__1 - Missing 1 selections\t\nfigs-metaphor_1_12__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\nfigs-possession_5_15__1 - Missing 1 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_1_11__1 - Missing 1 selections\t\nfigs-metaphor_1_12__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\nfigs-possession_5_15__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "uW_test_001/kn_glt_1jn_book": {
       "fullName": "uW_test_001/kn_glt_1jn_book",
@@ -841,7 +865,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kglt_rut_book": {
       "fullName": "India_BCS/kn_kglt_rut_book",
@@ -930,7 +955,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kglt_jon_book": {
       "fullName": "India_BCS/kn_kglt_jon_book",
@@ -998,7 +1024,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kglt_2ti_book": {
       "fullName": "India_BCS/kn_kglt_2ti_book",
@@ -1117,7 +1144,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kglt_2jn_book": {
       "fullName": "India_BCS/kn_kglt_2jn_book",
@@ -1185,7 +1213,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_gst_rut_book": {
       "fullName": "India_BCS/kn_gst_rut_book",
@@ -1253,7 +1282,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_gst_jon_book": {
       "fullName": "India_BCS/kn_gst_jon_book",
@@ -1322,7 +1352,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-metonymy_1_2__1 - Missing 1 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-metonymy_1_2__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_gst_2ti_book": {
       "fullName": "India_BCS/kn_gst_2ti_book",
@@ -1391,7 +1422,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-explicit_1_14__1 - Missing 1 selections\t\nfigs-metonymy_1_13__1 - Missing 1 selections\t\ntranslate-names_4_20__1 - Missing 1 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_1_14__1 - Missing 1 selections\t\nfigs-metonymy_1_13__1 - Missing 1 selections\t\ntranslate-names_4_20__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_gst_2jn_book": {
       "fullName": "India_BCS/kn_gst_2jn_book",
@@ -1459,7 +1491,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/kn_irv_2co_book": {
       "fullName": "shojojohn/kn_irv_2co_book",
@@ -1507,7 +1540,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/kn_irv_1co_book": {
       "fullName": "shojojohn/kn_irv_1co_book",
@@ -1555,7 +1589,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kglt_1ti_book": {
       "fullName": "India_BCS/kn_kglt_1ti_book",
@@ -1652,7 +1687,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kglt_eph_book": {
       "fullName": "India_BCS/kn_kglt_eph_book",
@@ -1736,7 +1772,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kgst_eph_book": {
       "fullName": "India_BCS/kn_kgst_eph_book",
@@ -1820,7 +1857,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_gst_1ti_book": {
       "fullName": "India_BCS/kn_gst_1ti_book",
@@ -1933,7 +1971,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-activepassive_6_1__1 - 2 selections duplicated\t\nfigs-metonymy_6_3__1 - 2 selections duplicated\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-activepassive_6_1__1 - 2 selections duplicated\t\nfigs-metonymy_6_3__1 - 2 selections duplicated\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_2ti_book": {
       "fullName": "BCS_India/kn_irv_2ti_book",
@@ -1981,7 +2020,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_1pe_book": {
       "fullName": "BCS_India/kn_irv_1pe_book",
@@ -2029,7 +2069,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_luk_book": {
       "fullName": "BCS_India/kn_irv_luk_book",
@@ -2077,7 +2118,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_1th_book": {
       "fullName": "BCS_India/kn_irv_1th_book",
@@ -2125,7 +2167,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_rev_book": {
       "fullName": "BCS_India/kn_irv_rev_book",
@@ -2173,7 +2216,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_jud_book": {
       "fullName": "BCS_India/kn_irv_jud_book",
@@ -2221,7 +2265,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_3jn_book": {
       "fullName": "BCS_India/kn_irv_3jn_book",
@@ -2269,7 +2314,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_2jn_book": {
       "fullName": "BCS_India/kn_irv_2jn_book",
@@ -2317,7 +2363,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_jas_book": {
       "fullName": "BCS_India/kn_irv_jas_book",
@@ -2365,7 +2412,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_heb_book": {
       "fullName": "BCS_India/kn_irv_heb_book",
@@ -2413,7 +2461,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_phm_book": {
       "fullName": "BCS_India/kn_irv_phm_book",
@@ -2461,7 +2510,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_2th_book": {
       "fullName": "BCS_India/kn_irv_2th_book",
@@ -2509,7 +2559,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_col_book": {
       "fullName": "BCS_India/kn_irv_col_book",
@@ -2557,7 +2608,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_php_book": {
       "fullName": "BCS_India/kn_irv_php_book",
@@ -2605,7 +2657,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_gal_book": {
       "fullName": "BCS_India/kn_irv_gal_book",
@@ -2653,7 +2706,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_2co_book": {
       "fullName": "BCS_India/kn_irv_2co_book",
@@ -2701,7 +2755,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_1co_book": {
       "fullName": "BCS_India/kn_irv_1co_book",
@@ -2749,7 +2804,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_rom_book": {
       "fullName": "BCS_India/kn_irv_rom_book",
@@ -2816,7 +2872,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_act_book": {
       "fullName": "BCS_India/kn_irv_act_book",
@@ -2864,7 +2921,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_mrk_book": {
       "fullName": "BCS_India/kn_irv_mrk_book",
@@ -2912,7 +2970,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_jhn_book": {
       "fullName": "BCS_India/kn_irv_jhn_book",
@@ -2960,7 +3019,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_mat_book": {
       "fullName": "BCS_India/kn_irv_mat_book",
@@ -3008,7 +3068,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_2pe_book": {
       "fullName": "BCS_India/kn_irv_2pe_book",
@@ -3056,7 +3117,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_1jn_book": {
       "fullName": "BCS_India/kn_irv_1jn_book",
@@ -3104,7 +3166,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/kn_irv_1ti_book": {
       "fullName": "shojojohn/kn_irv_1ti_book",
@@ -3152,7 +3215,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/kn_irv_eph_book": {
       "fullName": "shojojohn/kn_irv_eph_book",
@@ -3200,7 +3264,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_gst_tit_book": {
       "fullName": "India_BCS/kn_gst_tit_book",
@@ -3339,7 +3404,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_gst_3jn_book": {
       "fullName": "India_BCS/kn_gst_3jn_book",
@@ -3407,7 +3473,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kust_3jn_book": {
       "fullName": "India_BCS/kn_kust_3jn_book",
@@ -3455,7 +3522,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kst_tit_book": {
       "fullName": "India_BCS/kn_kst_tit_book",
@@ -3594,7 +3662,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "translationCore-Create-BCS/kn_tw_by_book": {
       "fullName": "translationCore-Create-BCS/kn_tw_by_book",
@@ -3614,7 +3683,8 @@
         "bookId": "by",
         "wordAlignment": {}
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_kglt_3jn_book": {
       "fullName": "India_BCS/kn_kglt_3jn_book",
@@ -3682,7 +3752,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_glt_tit_book": {
       "fullName": "India_BCS/kn_glt_tit_book",
@@ -3821,7 +3892,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_glt_tit_book": {
       "fullName": "BCS_India/kn_glt_tit_book",
@@ -3890,7 +3962,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: , TW: clean_3_5__1 - Missing 1 selections\t\ndiscipline_2_12__1 - Missing 1 selections\t\neternity_3_7__1 - Missing 1 selections\t\ngod_3_8__1 - Missing 1 selections\t\nlike_2_6__1 - Missing 1 selections\t\nselfcontrol_2_6__1 - Missing 1 selections\t\n"
+      "projectWarnings": "warnings: WA: , TN: , TW: clean_3_5__1 - Missing 1 selections\t\ndiscipline_2_12__1 - Missing 1 selections\t\neternity_3_7__1 - Missing 1 selections\t\ngod_3_8__1 - Missing 1 selections\t\nlike_2_6__1 - Missing 1 selections\t\nselfcontrol_2_6__1 - Missing 1 selections\t\n",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "russp41/kn_irvc_tit_book": {
       "fullName": "russp41/kn_irvc_tit_book",
@@ -3937,7 +4010,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/kn_irv_tit_book": {
       "fullName": "India_BCS/kn_irv_tit_book",
@@ -3984,7 +4058,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_irv_tit_book": {
       "fullName": "BCS_India/kn_irv_tit_book",
@@ -4031,7 +4106,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Vipin_Bhadran/kn_iev_tit_book": {
       "fullName": "Vipin_Bhadran/kn_iev_tit_book",
@@ -4078,7 +4154,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/kn_iev_mrk_book": {
       "fullName": "shojojohn/kn_iev_mrk_book",
@@ -4142,7 +4219,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Vipin_Bhadran/kn_irv_tit_book": {
       "fullName": "Vipin_Bhadran/kn_irv_tit_book",
@@ -4189,7 +4267,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/kn_iev_tit_book": {
       "fullName": "shojojohn/kn_iev_tit_book",
@@ -4234,7 +4313,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "russp41/kn_irv_tit_book": {
       "fullName": "russp41/kn_irv_tit_book",
@@ -4279,7 +4359,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/kn_kglt_1jn_book": {
       "fullName": "BCS_India/kn_kglt_1jn_book",
@@ -4371,6 +4452,51 @@
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 1 selections\t\n, TW: ",
       "modified": "2021-12-27T07:40:56Z"
+    },
+    "shojojohn/kn_irv_tit_book": {
+      "fullName": "shojojohn/kn_irv_tit_book",
+      "wA": {
+        "langId": "kn",
+        "projectId": "irv",
+        "bookId": "tit",
+        "percentCompleted": 0.28,
+        "completedVerses": 14,
+        "totalVerses": 50,
+        "unalignedOrig": 271,
+        "unalignedTarget": 207
+      },
+      "checks": {
+        "langId": "kn",
+        "projectId": "irv",
+        "bookId": "tit",
+        "time_created": "2019-06-26T09:39:36.023Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-26T09:42:02Z"
     }
   }
 }

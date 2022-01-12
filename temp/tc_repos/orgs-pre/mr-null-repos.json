@@ -1,6 +1,6 @@
 {
-  "processedProjects": 26,
-  "totalProjects": 60,
+  "processedProjects": 67,
+  "totalProjects": 67,
   "projects": {
     "Nitingudekar_1/mr_mgst_jas_book": {
       "fullName": "Nitingudekar_1/mr_mgst_jas_book",
@@ -82,7 +82,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-doublenegatives_8_17__1 - Missing 1 selections\t\nfigs-explicit_7_44__1 - Missing 1 selections\t\nfigs-explicit_8_46__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_22__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-explicit_22_37__1 - Missing 1 selections\t\nfigs-hyperbole_16_16__1 - Missing 1 selections\t\nfigs-hypo_12_39__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_36__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_10_30__1 - Missing 1 selections\t\nfigs-metaphor_1_69__1 - Missing 1 selections\t\nfigs-metaphor_2_35__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_10_16__1 - Missing 1 selections\t\nfigs-metaphor_13_35__1 - Missing 1 selections\t\nfigs-metaphor_15_29__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_20_43__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_34__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metaphor_24_32__1 - Missing 1 selections\t\nfigs-metonymy_11_17__1 - Missing 1 selections\t\nfigs-metonymy_11_50__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_1_9__1 - Missing 1 selections\t\n, TW: yeast_13_21__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgst_1jn_book": {
       "fullName": "sunilkasbe/mr_mgst_1jn_book",
@@ -178,7 +178,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_1_8__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_8__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_4__1 - Missing 1 selections\t\nfigs-metonymy_2_14__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 2 selections\t\nwriting-pronouns_2_27__1 - Missing 1 selections\t\n, TW: antichrist_2_18__1 - Missing 1 selections\t\nknow_4_6__1 - Missing 1 selections\t\nteach_2_27__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_luk_book": {
       "fullName": "sunilkasbe/mr_mglt_luk_book",
@@ -248,7 +248,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_10_30__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_15_29__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_1_9__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_1jn_book": {
       "fullName": "sunilkasbe/mr_mglt_1jn_book",
@@ -536,7 +536,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-explicit_1_1__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 2 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 2 selections\t\n, TW: know_4_6__1 - Missing 1 selections\t\nwalk_2_6__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Amos.Khokhar/mr_mglt_jas_book": {
       "fullName": "Amos.Khokhar/mr_mglt_jas_book",
@@ -622,7 +622,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_1_11__1 - Missing 1 selections\t\nfigs-metaphor_1_12__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\nfigs-possession_5_15__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Amos.Khokhar/mr_mglt_1jn_book": {
       "fullName": "Amos.Khokhar/mr_mglt_1jn_book",
@@ -718,7 +718,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_mgl_eph_book": {
       "fullName": "shojojohn/mr_mgl_eph_book",
@@ -811,7 +811,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_4_30__1 - 2 selections duplicated\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "kiranjagdhane17/mr_mglt_eph_book": {
       "fullName": "kiranjagdhane17/mr_mglt_eph_book",
@@ -879,7 +879,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgl_eph_book": {
       "fullName": "sunilkasbe/mr_mgl_eph_book",
@@ -985,7 +985,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_eph_book": {
       "fullName": "sunilkasbe/mr_mglt_eph_book",
@@ -1060,7 +1060,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgst_2ti_book": {
       "fullName": "sunilkasbe/mr_mgst_2ti_book",
@@ -1180,7 +1180,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgst_2jn_book": {
       "fullName": "sunilkasbe/mr_mgst_2jn_book",
@@ -1249,7 +1249,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgst_1ti_book": {
       "fullName": "sunilkasbe/mr_mgst_1ti_book",
@@ -1335,7 +1335,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-metonymy_6_3__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_rut_book": {
       "fullName": "sunilkasbe/mr_mglt_rut_book",
@@ -1415,7 +1415,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_jon_book": {
       "fullName": "sunilkasbe/mr_mglt_jon_book",
@@ -1484,7 +1484,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_2ti_book": {
       "fullName": "sunilkasbe/mr_mglt_2ti_book",
@@ -1554,7 +1554,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_2_18__1 - Missing 1 selections\t\nfigs-abstractnouns_3_16__1 - Missing 2 selections\t\nfigs-explicit_1_14__1 - Missing 1 selections\t\nfigs-explicit_2_7__1 - Missing 1 selections\t\nfigs-explicit_4_2__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_10__1 - Missing 1 selections\t\nfigs-metaphor_2_18__1 - Missing 1 selections\t\nfigs-metonymy_1_13__1 - Missing 1 selections\t\ntranslate-names_4_20__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_2jn_book": {
       "fullName": "sunilkasbe/mr_mglt_2jn_book",
@@ -1624,7 +1624,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-explicit_1_5__1 - Missing 1 selections\t\nfigs-explicit_1_10__1 - Missing 1 selections\t\nfigs-metaphor_1_1__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_1ti_book": {
       "fullName": "sunilkasbe/mr_mglt_1ti_book",
@@ -1705,7 +1705,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_1_19__1 - Missing 1 selections\t\nfigs-abstractnouns_6_6__1 - Missing 1 selections\t\nfigs-explicit_1_13__1 - Missing 1 selections\t\nfigs-explicit_6_13__1 - Missing 2 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_7__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_6_4__1 - Missing 1 selections\t\nfigs-metaphor_6_9__1 - Missing 1 selections\t\nfigs-metaphor_6_10__1 - Missing 1 selections\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\nfigs-personification_5_24__1 - Missing 1 selections\t\ntranslate-unknown_5_18__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "kiranjagdhane17/mr_mgst_eph_book": {
       "fullName": "kiranjagdhane17/mr_mgst_eph_book",
@@ -1811,7 +1811,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgst_rut_book": {
       "fullName": "sunilkasbe/mr_mgst_rut_book",
@@ -1902,7 +1902,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: , TW: redeem_3_13__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "kiranjagdhane17/mr_mgst_1ti_book": {
       "fullName": "kiranjagdhane17/mr_mgst_1ti_book",
@@ -1997,7 +1997,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_1_19__1 - Missing 1 selections\t\nfigs-abstractnouns_6_6__1 - Missing 1 selections\t\nfigs-explicit_1_13__1 - Missing 1 selections\t\nfigs-explicit_6_13__1 - Missing 2 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_7__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_4_6__1 - Missing 2 selections\t\nfigs-metaphor_6_4__1 - Missing 1 selections\t\nfigs-metaphor_6_9__1 - Missing 2 selections\t\nfigs-metaphor_6_19__1 - 2 selections duplicated\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\nfigs-personification_5_24__1 - Missing 1 selections\t\ntranslate-unknown_5_18__1 - Missing 1 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_1_19__1 - Missing 1 selections\t\nfigs-abstractnouns_6_6__1 - Missing 1 selections\t\nfigs-explicit_1_13__1 - Missing 1 selections\t\nfigs-explicit_6_13__1 - Missing 2 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_7__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_4_6__1 - Missing 2 selections\t\nfigs-metaphor_6_4__1 - Missing 1 selections\t\nfigs-metaphor_6_9__1 - Missing 2 selections\t\nfigs-metaphor_6_19__1 - 2 selections duplicated\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\nfigs-personification_5_24__1 - Missing 1 selections\t\ntranslate-unknown_5_18__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_3jn_book": {
       "fullName": "sunilkasbe/mr_mglt_3jn_book",
@@ -2071,7 +2072,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mglt_tit_book": {
       "fullName": "sunilkasbe/mr_mglt_tit_book",
@@ -2215,7 +2217,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgst_tit_book": {
       "fullName": "sunilkasbe/mr_mgst_tit_book",
@@ -2359,7 +2362,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "sunilkasbe/mr_mgst_3jn_book": {
       "fullName": "sunilkasbe/mr_mgst_3jn_book",
@@ -2433,7 +2437,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/mr_irv_col_book": {
       "fullName": "BCS_India/mr_irv_col_book",
@@ -2481,7 +2486,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/mr_irv_2ti_book": {
       "fullName": "BCS_India/mr_irv_2ti_book",
@@ -2529,7 +2535,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "BCS_India/mr_irv_2pe_book": {
       "fullName": "BCS_India/mr_irv_2pe_book",
@@ -2577,7 +2584,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/mr_irv_2pe_book": {
       "fullName": "India_BCS/mr_irv_2pe_book",
@@ -2625,7 +2633,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/mr_irv_tit_book": {
       "fullName": "India_BCS/mr_irv_tit_book",
@@ -2672,7 +2681,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/mr_irv_1jn_book": {
       "fullName": "India_BCS/mr_irv_1jn_book",
@@ -2736,7 +2746,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_rom_book": {
       "fullName": "shojojohn/mr_irv_rom_book",
@@ -2781,7 +2792,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_rev_book": {
       "fullName": "shojojohn/mr_irv_rev_book",
@@ -2826,7 +2838,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_phm_book": {
       "fullName": "shojojohn/mr_irv_phm_book",
@@ -2871,7 +2884,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_jud_book": {
       "fullName": "shojojohn/mr_irv_jud_book",
@@ -2916,7 +2930,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_jhn_book": {
       "fullName": "shojojohn/mr_irv_jhn_book",
@@ -2961,7 +2976,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_jas_book": {
       "fullName": "shojojohn/mr_irv_jas_book",
@@ -3006,7 +3022,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_heb_book": {
       "fullName": "shojojohn/mr_irv_heb_book",
@@ -3051,7 +3068,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_eph_book": {
       "fullName": "shojojohn/mr_irv_eph_book",
@@ -3096,7 +3114,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_act_book": {
       "fullName": "shojojohn/mr_irv_act_book",
@@ -3141,7 +3160,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_3jn_book": {
       "fullName": "shojojohn/mr_irv_3jn_book",
@@ -3186,7 +3206,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_2jn_book": {
       "fullName": "shojojohn/mr_irv_2jn_book",
@@ -3231,7 +3252,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_2co_book": {
       "fullName": "shojojohn/mr_irv_2co_book",
@@ -3276,7 +3298,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_1ti_book": {
       "fullName": "shojojohn/mr_irv_1ti_book",
@@ -3321,7 +3344,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_1th_book": {
       "fullName": "shojojohn/mr_irv_1th_book",
@@ -3366,7 +3390,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_mrk_book": {
       "fullName": "shojojohn/mr_irv_mrk_book",
@@ -3411,7 +3436,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_mat_book": {
       "fullName": "shojojohn/mr_irv_mat_book",
@@ -3456,7 +3482,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_php_book": {
       "fullName": "shojojohn/mr_irv_php_book",
@@ -3501,7 +3528,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_luk_book": {
       "fullName": "shojojohn/mr_irv_luk_book",
@@ -3546,7 +3574,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_gal_book": {
       "fullName": "shojojohn/mr_irv_gal_book",
@@ -3591,7 +3620,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_2th_book": {
       "fullName": "shojojohn/mr_irv_2th_book",
@@ -3636,7 +3666,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_1pe_book": {
       "fullName": "shojojohn/mr_irv_1pe_book",
@@ -3681,7 +3712,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_1co_book": {
       "fullName": "shojojohn/mr_irv_1co_book",
@@ -3726,7 +3758,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/mr_irv_1jn_book": {
       "fullName": "shojojohn/mr_irv_1jn_book",
@@ -3770,7 +3803,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Mukesh_Parte/mr_mgst_luk_book": {
       "fullName": "Mukesh_Parte/mr_mgst_luk_book",
@@ -3861,6 +3895,681 @@
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-activepassive_21_6__1 - Missing 1 selections\t\nfigs-activepassive_24_44__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 2 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 2 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-explicit_23_51__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 2 selections\t\nfigs-metaphor_3_5__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 2 selections\t\nfigs-metaphor_8_12__1 - Missing 2 selections\t\nfigs-metaphor_9_39__1 - Missing 1 selections\t\nfigs-metaphor_13_16__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\ntranslate-names_1_5__1 - Missing 1 selections\t\nwriting-background_7_12__1 - Missing 1 selections\t\n, TW: ",
       "modified": "2021-12-28T15:53:44Z"
+    },
+    "sunilkasbe/mr_mgs_1jn_book": {
+      "fullName": "sunilkasbe/mr_mgs_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgs",
+        "bookId": "1jn",
+        "percentCompleted": 0.009523809523809525,
+        "completedVerses": 1,
+        "totalVerses": 105,
+        "unalignedOrig": 1131,
+        "unalignedTarget": 2685
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgs",
+        "bookId": "1jn",
+        "time_created": "2021-11-11T05:57:43.488Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.6718213058419243,
+          "completedChecks": 391,
+          "totalChecks": 582,
+          "stats": {
+            "dupes": {
+              "figs-abstractnouns_5_20__1": {
+                "dupesList": [
+                  "आपल्याला सत्य काय आहे हे समजण्यास सक्षम केले आहे.-1",
+                  "आपल्याला सत्य काय आहे हे समजण्यास सक्षम केले आहे.-1"
+                ],
+                "warnings": "2 selections duplicated\t"
+              }
+            },
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-abstractnouns_5_20__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-idiom_4_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_10__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_27__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_9__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_14__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_5_20__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-explicit_2_19__1",
+                  "selections": "प्रथम स्थानावर ते खरोखर आमच्याशी संबंधित नव्हते.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_1_5__1",
+                  "selections": "चुकीचे करत नाही.-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v54"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_5_20__1 - 2 selections duplicated\t\nfigs-exclusive_1_3__1 - Missing 1 selections\t\nfigs-explicit_1_1__1 - Missing 1 selections\t\nfigs-explicit_2_8__1 - Missing 1 selections\t\nfigs-explicit_4_18__1 - Missing 1 selections\t\nfigs-explicit_5_10__1 - Missing 1 selections\t\nfigs-explicit_5_18__1 - Missing 1 selections\t\nfigs-idiom_2_3__1 - Missing 1 selections\t\nfigs-idiom_3_10__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 2 selections\t\nfigs-idiom_4_17__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 2 selections\t\nfigs-metaphor_2_6__1 - Missing 2 selections\t\nfigs-metaphor_2_9__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 2 selections\t\nfigs-metaphor_2_14__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_17__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 3 selections\t\nfigs-metaphor_4_4__1 - Missing 1 selections\t\nfigs-metaphor_4_16__1 - Missing 1 selections\t\nfigs-metaphor_5_4__1 - Missing 2 selections\t\nfigs-metaphor_5_6__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 2 selections\t\nfigs-metaphor_5_21__1 - Missing 1 selections\t\nfigs-metonymy_2_14__1 - Missing 1 selections\t\nfigs-metonymy_2_16__1 - Missing 2 selections\t\nfigs-metonymy_4_1__1 - Missing 1 selections\t\nfigs-metonymy_4_2__1 - Missing 1 selections\t\nwriting-pronouns_1_1__1 - Missing 1 selections\t\nwriting-pronouns_2_6__1 - Missing 1 selections\t\nwriting-pronouns_2_27__1 - Missing 1 selections\t\nwriting-pronouns_3_23__1 - Missing 1 selections\t\nwriting-pronouns_4_3__1 - Missing 1 selections\t\nwriting-pronouns_4_17__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.5963963963963964,
+          "completedChecks": 331,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": "bornagain_5_18__1 - Missing 1 selections\t\ngod_4_8__1 - Missing 1 selections\t\ngod_5_2__1 - Missing 1 selections\t\nknow_4_6__1 - Missing 1 selections\t\nlife_5_11__1 - Missing 1 selections\t\nlove_2_15__1 - Missing 1 selections\t\nlove_4_8__1 - Missing 1 selections\t\nlove_4_10__1 - Missing 2 selections\t\nlove_4_19__1 - Missing 1 selections\t\nsin_3_4__1 - Missing 1 selections\t\nsin_3_9__1 - Missing 1 selections\t\nsonofgod_5_10__1 - Missing 1 selections\t\nsonofgod_5_20__1 - Missing 1 selections\t\ntestimony_5_9__1 - Missing 2 selections\t\ntrue_5_20__1 - Missing 2 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - 2 selections duplicated\t\nfigs-exclusive_1_3__1 - Missing 1 selections\t\nfigs-explicit_1_1__1 - Missing 1 selections\t\nfigs-explicit_2_8__1 - Missing 1 selections\t\nfigs-explicit_4_18__1 - Missing 1 selections\t\nfigs-explicit_5_10__1 - Missing 1 selections\t\nfigs-explicit_5_18__1 - Missing 1 selections\t\nfigs-idiom_2_3__1 - Missing 1 selections\t\nfigs-idiom_3_10__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 2 selections\t\nfigs-idiom_4_17__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 2 selections\t\nfigs-metaphor_2_6__1 - Missing 2 selections\t\nfigs-metaphor_2_9__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 2 selections\t\nfigs-metaphor_2_14__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_17__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 3 selections\t\nfigs-metaphor_4_4__1 - Missing 1 selections\t\nfigs-metaphor_4_16__1 - Missing 1 selections\t\nfigs-metaphor_5_4__1 - Missing 2 selections\t\nfigs-metaphor_5_6__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 2 selections\t\nfigs-metaphor_5_21__1 - Missing 1 selections\t\nfigs-metonymy_2_14__1 - Missing 1 selections\t\nfigs-metonymy_2_16__1 - Missing 2 selections\t\nfigs-metonymy_4_1__1 - Missing 1 selections\t\nfigs-metonymy_4_2__1 - Missing 1 selections\t\nwriting-pronouns_1_1__1 - Missing 1 selections\t\nwriting-pronouns_2_6__1 - Missing 1 selections\t\nwriting-pronouns_2_27__1 - Missing 1 selections\t\nwriting-pronouns_3_23__1 - Missing 1 selections\t\nwriting-pronouns_4_3__1 - Missing 1 selections\t\nwriting-pronouns_4_17__1 - Missing 1 selections\t\n, TW: bornagain_5_18__1 - Missing 1 selections\t\ngod_4_8__1 - Missing 1 selections\t\ngod_5_2__1 - Missing 1 selections\t\nknow_4_6__1 - Missing 1 selections\t\nlife_5_11__1 - Missing 1 selections\t\nlove_2_15__1 - Missing 1 selections\t\nlove_4_8__1 - Missing 1 selections\t\nlove_4_10__1 - Missing 2 selections\t\nlove_4_19__1 - Missing 1 selections\t\nsin_3_4__1 - Missing 1 selections\t\nsin_3_9__1 - Missing 1 selections\t\nsonofgod_5_10__1 - Missing 1 selections\t\nsonofgod_5_20__1 - Missing 1 selections\t\ntestimony_5_9__1 - Missing 2 selections\t\ntrue_5_20__1 - Missing 2 selections\t\n",
+      "modified": "2022-01-12T12:42:12Z"
+    },
+    "Nitingudekar_1/mr_mgst_1jn_book": {
+      "fullName": "Nitingudekar_1/mr_mgst_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "1jn",
+        "percentCompleted": 0.01904761904761905,
+        "completedVerses": 2,
+        "totalVerses": 105,
+        "unalignedOrig": 1015,
+        "unalignedTarget": 2310
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mgst",
+        "bookId": "1jn",
+        "time_created": "2021-11-11T05:57:43.488Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v53"
+          },
+          "percentCompleted": 0.9766187050359713,
+          "completedChecks": 543,
+          "totalChecks": 556,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-idiom_4_2__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-exclusive_1_3__1",
+                  "selections": "तुम्हाला घोषणा करीत आहोत-1 जे पाहिले-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-explicit_1_1__1",
+                  "selections": "त्याने शिकवल्याप्रमाणे आम्ही प्रेषितांनी त्याचे ऐकले-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-explicit_2_19__1",
+                  "selections": "ते खरोखर आमच्याशी संबंधित नव्हते.-1 ते सर्व आमच्याबरोबर कधीच सामील झाले नाहीत.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-explicit_3_4__1",
+                  "selections": "परंतु प्रत्येकजण जो पाप करत राहतो तो देवाच्या नियमांचे पालन करण्यास नकार देतो, कारण तेच पाप आहे, देवाच्या नियमांचे पालन करण्यास नकार देणे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-extrainfo_1_1__1",
+                  "selections": "वैयक्तिकरित्या पाहिले. आम्ही त्याच्याकडे पाहिले आणि त्याला स्पर्श केला-1 म्हणून आम्ही साक्ष देऊ शकतो की तो खरा मनुष्य होता.}-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-hypo_2_19__1",
+                  "selections": "शेवटी, ते आमच्याबरोबर असते तर ते सोडले नसते.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-hypo_2_24__1",
+                  "selections": "जर तुम्ही असे केले, तर तुम्ही सतत येशू पुत्र आणि देव पिता यांच्यासोबत जीवन विभागून घ्याल.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-hypo_4_12__1",
+                  "selections": "तरीसुद्धा, जर आपण एकमेकांवर प्रेम केले तर हे स्पष्ट होते की देव आपल्यामध्ये राहतो आणि आपण इतरांवर प्रेम करतो जसे तो आपल्यावर करू इच्छितो-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-idiom_2_18__1",
+                  "selections": "मी तुम्हाला हे जाणून घ्यायचे आहे की} येशू पृथ्वीवर परत येण्यापूर्वीची ही वेळ आहे-1 की ती वेळ आहे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-idiom_2_24__1",
+                  "selections": "पहिल्यांदा-1 जगले पाहिजे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-idiom_4_1__1",
+                  "selections": "विचार करा आणि ते देवाकडून आलेले सत्य शिकवत आहेत की नाही हे ठरवा.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-idiom_4_3__1",
+                  "selections": "देवाकडून आलेला संदेश शिकवत नाहीत-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_7__1",
+                  "selections": "देव आपल्याला क्षमा करतो आणि आपला स्वीकार करतो कारण त्याचा पुत्र येशू आपल्यासाठी मरण पावला.-1",
+                  "resourcePartialMatches": 4
+                },
+                {
+                  "key": "figs-metaphor_2_11__1",
+                  "selections": "तो देवाच्या इच्छेप्रमाणे करत नाही.-1",
+                  "resourcePartialMatches": 5
+                },
+                {
+                  "key": "figs-metaphor_3_17__1",
+                  "selections": "समजा आपण त्याच्यासाठी तरतूद करण्यास नकार दिला. म-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_3_17__1",
+                  "selections": "मग हे स्पष्ट होते की आपले देवावर प्रेम नाही.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_2_14__1",
+                  "selections": "तुम्ही सतत देवाच्या आज्ञेचे पालन करत आहात-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-personification_4_4__1",
+                  "selections": "तो त्यांना प्रेरणा देणार्‍या आत्म्यांपेक्षा अधिक सामर्थ्यवान आहे.-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "guidelines-sonofgodprinciples_2_23__1",
+                  "selections": "येशू हा देवाचा पुत्र आहे-1 येशू हा देवाचा पुत्र आहे-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "guidelines-sonofgodprinciples_2_23__1",
+                  "selections": "येशू हा देवाचा पुत्र आहे-1 देव पित्याशी-1 येशू हा देवाचा पुत्र आहे-2 देव पित्यासोब-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "writing-pronouns_1_1__1",
+                  "selections": "इतर काहीही होण्यापूर्वी तो अस्तित्वात होता. त्याने शिकवल्याप्रमाणे आम्ही प्रेषितांनी त्याचे ऐकले. आम्ही त्याला वैयक्तिकरित्या पाहिले. आम्ही त्याच्याकडे पाहिले आणि त्याला स्पर्श केला. {म्हणून आम्ही साक्ष देऊ शकतो की तो खरा मनुष्य होता.}-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_1_5__1",
+                  "selections": "येशू-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_2_27__1",
+                  "selections": "येशू-1 तो-3 येशूसोबत-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_3_23__1",
+                  "selections": "देव आपल्याला काय करण्याची आज्ञा देतो ते मी तुम्हाला सांगतो.-1 होय, देवाने आपल्याला तेच करण्याची आज्ञा दिली आहे.-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v54"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.7837837837837838,
+          "completedChecks": 435,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": "sin_3_4__1 - Missing 1 selections\t\nsin_3_8__1 - Missing 1 selections\t\nsin_3_9__1 - Missing 1 selections\t\nsonofgod_5_10__1 - Missing 1 selections\t\nsonofgod_5_20__1 - Missing 1 selections\t\ntestimony_5_9__1 - Missing 1 selections\t\ntestimony_5_10__1 - Missing 1 selections\t\ntrue_2_8__1 - Missing 1 selections\t\ntrue_5_20__1 - Missing 2 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_6__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_14__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metonymy_4_4__1 - Missing 1 selections\t\nfigs-metonymy_5_4__1 - Missing 1 selections\t\n, TW: sin_3_4__1 - Missing 1 selections\t\nsin_3_8__1 - Missing 1 selections\t\nsin_3_9__1 - Missing 1 selections\t\nsonofgod_5_10__1 - Missing 1 selections\t\nsonofgod_5_20__1 - Missing 1 selections\t\ntestimony_5_9__1 - Missing 1 selections\t\ntestimony_5_10__1 - Missing 1 selections\t\ntrue_2_8__1 - Missing 1 selections\t\ntrue_5_20__1 - Missing 2 selections\t\n",
+      "modified": "2022-01-11T17:32:56Z"
+    },
+    "sachin_nerlekar/mr_mglt_jas_book": {
+      "fullName": "sachin_nerlekar/mr_mglt_jas_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "jas",
+        "percentCompleted": 1,
+        "completedVerses": 108,
+        "totalVerses": 108,
+        "unalignedOrig": 35,
+        "unalignedTarget": 38
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "jas",
+        "time_created": "2021-10-06T14:29:35.466Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.927797833935018,
+          "completedChecks": 514,
+          "totalChecks": 554,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-doublet_1_17__1",
+                  "selections": "प्रत्येक उत्तम देणगी आणि प्रत्येक पूर्ण दान वरून आहे-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-hypo_2_18__1",
+                  "selections": "कृती शिवाय मला तुझा विश्वास दाखव ,आणि मी तुला माझा विश्वास माझ्या कृतीतून दाखवतो.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-quotations_2_18__1",
+                  "selections": "मला तुझा विश्वास दाखव ,आणि मी तुला माझा विश्वास माझ्या कृतीतून दाखवतो.-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v54"
+              }
+            },
+            "toolWarnings": "figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_1_11__1 - Missing 1 selections\t\nfigs-metaphor_1_12__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 3 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_3__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\nfigs-possession_5_15__1 - Missing 1 selections\t\nfigs-rquestion_4_1__1 - Missing 1 selections\t\nfigs-simile_5_3__1 - Missing 1 selections\t\nwriting-pronouns_4_6__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 461,
+          "totalChecks": 463,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-metaphor_1_11__1 - Missing 1 selections\t\nfigs-metaphor_1_12__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 3 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_3__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\nfigs-possession_5_15__1 - Missing 1 selections\t\nfigs-rquestion_4_1__1 - Missing 1 selections\t\nfigs-simile_5_3__1 - Missing 1 selections\t\nwriting-pronouns_4_6__1 - Missing 1 selections\t\n, TW: ",
+      "modified": "2021-12-29T07:22:20Z"
+    },
+    "sachin_nerlekar/mr_mglt_1jn_book": {
+      "fullName": "sachin_nerlekar/mr_mglt_1jn_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 105,
+        "totalVerses": 105,
+        "unalignedOrig": 52,
+        "unalignedTarget": 58
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "mglt",
+        "bookId": "1jn",
+        "time_created": "2021-10-04T12:24:47.801Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.9347079037800687,
+          "completedChecks": 544,
+          "totalChecks": 582,
+          "stats": {
+            "dupes": {
+              "figs-abstractnouns_5_20__1": {
+                "dupesList": [
+                  "आपल्याला समजबुद्धि दिली आहे-1",
+                  "आपल्याला समजबुद्धि दिली आहे-1"
+                ],
+                "warnings": "2 selections duplicated\t"
+              }
+            },
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-abstractnouns_5_20__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-idiom_4_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_10__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_2_27__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_9__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_3_14__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_5_20__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-explicit_2_19__1",
+                  "selections": "ते आम्हच्याकडून नव्हते-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_5_6__1",
+                  "selections": "आत्मा सत्य आहे.-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_1_5__1",
+                  "selections": "त्याच्याठायी-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "writing-pronouns_2_27__1",
+                  "selections": "त्याच्या-1 त्याचा-1 त्याच्यामध्ये-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v54"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_5_20__1 - 2 selections duplicated\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 2 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nwriting-pronouns_3_23__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 555,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - 2 selections duplicated\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 2 selections\t\nfigs-metaphor_2_27__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nwriting-pronouns_3_23__1 - Missing 1 selections\t\n, TW: ",
+      "modified": "2021-12-29T07:12:44Z"
+    },
+    "shojojohn/mr_irv_tit_book": {
+      "fullName": "shojojohn/mr_irv_tit_book",
+      "wA": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "tit",
+        "percentCompleted": 0.6326530612244898,
+        "completedVerses": 31,
+        "totalVerses": 49,
+        "unalignedOrig": 56,
+        "unalignedTarget": 88
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "irv",
+        "bookId": "tit",
+        "time_created": "2019-04-16T04:16:06.262Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-04-16T04:15:10Z"
+    },
+    "sumit/mr_act_text_reg": {
+      "fullName": "sumit/mr_act_text_reg",
+      "wA": {
+        "langId": "mr",
+        "projectId": "act",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "text",
+        "bookId": "act",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2016-08-22T06:52:26Z"
+    },
+    "YogeshPrajapati/mr_act_text_reg": {
+      "fullName": "YogeshPrajapati/mr_act_text_reg",
+      "wA": {
+        "langId": "mr",
+        "projectId": "act",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mr",
+        "projectId": "text",
+        "bookId": "act",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2016-08-17T05:38:27Z"
     }
   }
 }

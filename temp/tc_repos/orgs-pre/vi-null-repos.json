@@ -1,6 +1,6 @@
 {
-  "processedProjects": 17,
-  "totalProjects": 175,
+  "processedProjects": 191,
+  "totalProjects": 191,
   "projects": {
     "man_vgm/vi_vlt_luk_book": {
       "fullName": "man_vgm/vi_vlt_luk_book",
@@ -49,7 +49,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_col_book": {
       "fullName": "man_vgm/vi_vlt_col_book",
@@ -98,7 +98,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_rom_book": {
       "fullName": "man_vgm/vi_vlt_rom_book",
@@ -166,7 +166,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_tit_book": {
       "fullName": "man_vgm/vi_vlt_tit_book",
@@ -235,7 +235,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_jas_book": {
       "fullName": "man_vgm/vi_vlt_jas_book",
@@ -284,7 +284,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vts_exo_book": {
       "fullName": "man_vgm/vi_vts_exo_book",
@@ -335,7 +335,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_exo_book": {
       "fullName": "man_vgm/vi_volt_exo_book",
@@ -387,7 +387,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_jon_book": {
       "fullName": "man_vgm/vi_volt_jon_book",
@@ -453,7 +453,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_num_book": {
       "fullName": "man_vgm/vi_volt_num_book",
@@ -502,7 +502,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_mic_book": {
       "fullName": "man_vgm/vi_volt_mic_book",
@@ -554,7 +554,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_jer_book": {
       "fullName": "man_vgm/vi_volt_jer_book",
@@ -562,11 +562,11 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "jer",
-        "percentCompleted": 0.28812316715542524,
-        "completedVerses": 393,
+        "percentCompleted": 0.4780058651026393,
+        "completedVerses": 652,
         "totalVerses": 1364,
-        "unalignedOrig": 16084,
-        "unalignedTarget": 37142
+        "unalignedOrig": 11888,
+        "unalignedTarget": 27346
       },
       "checks": {
         "langId": "vi",
@@ -605,7 +605,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-27T10:14:38Z"
+      "modified": "2022-01-11T13:51:33Z"
     },
     "man_vgm/vi_volt_hab_book": {
       "fullName": "man_vgm/vi_volt_hab_book",
@@ -655,7 +655,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_deu_book": {
       "fullName": "man_vgm/vi_volt_deu_book",
@@ -706,7 +706,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_2ki_book": {
       "fullName": "man_vgm/vi_volt_2ki_book",
@@ -755,7 +755,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_1ki_book": {
       "fullName": "man_vgm/vi_volt_1ki_book",
@@ -804,7 +804,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_psa_book": {
       "fullName": "man_vgm/vi_volt_psa_book",
@@ -812,11 +812,11 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "psa",
-        "percentCompleted": 0.6651767574156847,
-        "completedVerses": 1637,
+        "percentCompleted": 0.7972368955709062,
+        "completedVerses": 1962,
         "totalVerses": 2461,
-        "unalignedOrig": 6673,
-        "unalignedTarget": 16448
+        "unalignedOrig": 4348,
+        "unalignedTarget": 9388
       },
       "checks": {
         "langId": "vi",
@@ -856,7 +856,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T16:01:20Z"
+      "modified": "2022-01-12T10:43:35Z"
     },
     "man_vgm/vi_vlt_mrk_book": {
       "fullName": "man_vgm/vi_vlt_mrk_book",
@@ -905,7 +905,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-22T12:50:20.216Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_mat_book": {
       "fullName": "man_vgm/vi_vlt_mat_book",
@@ -973,7 +973,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-22T12:50:20.216Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_1ch_book": {
       "fullName": "man_vgm/vi_volt_1ch_book",
@@ -981,18 +981,18 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "1ch",
-        "percentCompleted": 0.06050955414012739,
-        "completedVerses": 57,
+        "percentCompleted": 0.2898089171974522,
+        "completedVerses": 273,
         "totalVerses": 942,
-        "unalignedOrig": 10341,
-        "unalignedTarget": 27445
+        "unalignedOrig": 8296,
+        "unalignedTarget": 22141
       },
       "checks": {
         "langId": "vi",
         "projectId": "volt",
         "bookId": "1ch",
         "time_created": "2020-12-16T08:28:47.558Z",
-        "tc_edit_version": "3.0.1",
+        "tc_edit_version": "3.0.2",
         "tc_version": 7,
         "translationNotes": {
           "percentCompleted": 0,
@@ -1005,7 +1005,7 @@
           },
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 2917,
+          "totalChecks": 0,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -1019,12 +1019,12 @@
         "wordAlignment": {
           "toolData": {
             "SelectedGL": "en",
-            "orig_lang_check_version": "2.1.15"
+            "orig_lang_check_version": "2.1.23"
           }
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-23T01:11:26Z"
+      "modified": "2022-01-12T10:30:26Z"
     },
     "man_vgm/vi_volt_2ch_book": {
       "fullName": "man_vgm/vi_volt_2ch_book",
@@ -1074,7 +1074,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_lev_book": {
       "fullName": "man_vgm/vi_volt_lev_book",
@@ -1122,7 +1123,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_zec_book": {
       "fullName": "man_vgm/vi_volt_zec_book",
@@ -1172,7 +1174,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_zep_book": {
       "fullName": "man_vgm/vi_volt_zep_book",
@@ -1222,7 +1225,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_sng_book": {
       "fullName": "man_vgm/vi_volt_sng_book",
@@ -1272,7 +1276,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_pro_book": {
       "fullName": "man_vgm/vi_volt_pro_book",
@@ -1322,7 +1327,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_mal_book": {
       "fullName": "man_vgm/vi_volt_mal_book",
@@ -1372,7 +1378,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_lam_book": {
       "fullName": "man_vgm/vi_volt_lam_book",
@@ -1422,7 +1429,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_job_book": {
       "fullName": "man_vgm/vi_volt_job_book",
@@ -1472,7 +1480,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_isa_book": {
       "fullName": "man_vgm/vi_volt_isa_book",
@@ -1523,7 +1532,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_hos_book": {
       "fullName": "man_vgm/vi_volt_hos_book",
@@ -1573,7 +1583,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_hag_book": {
       "fullName": "man_vgm/vi_volt_hag_book",
@@ -1623,7 +1634,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_gen_book": {
       "fullName": "man_vgm/vi_volt_gen_book",
@@ -1673,7 +1685,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_ezk_book": {
       "fullName": "man_vgm/vi_volt_ezk_book",
@@ -1723,7 +1736,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_ecc_book": {
       "fullName": "man_vgm/vi_volt_ecc_book",
@@ -1773,7 +1787,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_dan_book": {
       "fullName": "man_vgm/vi_volt_dan_book",
@@ -1823,7 +1838,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_amo_book": {
       "fullName": "man_vgm/vi_volt_amo_book",
@@ -1873,7 +1889,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_2sa_book": {
       "fullName": "man_vgm/vi_volt_2sa_book",
@@ -1923,7 +1940,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_1sa_book": {
       "fullName": "man_vgm/vi_volt_1sa_book",
@@ -1973,7 +1991,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_php_book": {
       "fullName": "man_vgm/vi_vlt_php_book",
@@ -2021,7 +2040,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_2th_book": {
       "fullName": "man_vgm/vi_vlt_2th_book",
@@ -2069,7 +2089,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_oba_book": {
       "fullName": "man_vgm/vi_volt_oba_book",
@@ -2134,7 +2155,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_2ti_book": {
       "fullName": "man_vgm/vi_vlt_2ti_book",
@@ -2182,7 +2204,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_rut_book": {
       "fullName": "man_vgm/vi_volt_rut_book",
@@ -2247,7 +2270,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_neh_book": {
       "fullName": "man_vgm/vi_volt_neh_book",
@@ -2312,7 +2336,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_nam_book": {
       "fullName": "man_vgm/vi_volt_nam_book",
@@ -2360,7 +2385,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_jos_book": {
       "fullName": "man_vgm/vi_volt_jos_book",
@@ -2425,7 +2451,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_jol_book": {
       "fullName": "man_vgm/vi_volt_jol_book",
@@ -2490,7 +2517,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_jdg_book": {
       "fullName": "man_vgm/vi_volt_jdg_book",
@@ -2538,7 +2566,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_ezr_book": {
       "fullName": "man_vgm/vi_volt_ezr_book",
@@ -2603,7 +2632,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_volt_est_book": {
       "fullName": "man_vgm/vi_volt_est_book",
@@ -2668,7 +2698,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_2co_book": {
       "fullName": "man_vgm/vi_vlt_2co_book",
@@ -2716,7 +2747,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_1pe_book": {
       "fullName": "man_vgm/vi_vlt_1pe_book",
@@ -2764,7 +2796,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_1ti_book": {
       "fullName": "man_vgm/vi_vlt_1ti_book",
@@ -2812,7 +2845,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_1co_book": {
       "fullName": "man_vgm/vi_vlt_1co_book",
@@ -2860,7 +2894,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_1th_book": {
       "fullName": "man_vgm/vi_vlt_1th_book",
@@ -2908,7 +2943,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_jud_book": {
       "fullName": "man_vgm/vi_vlt_jud_book",
@@ -2956,7 +2992,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_2pe_book": {
       "fullName": "man_vgm/vi_vlt_2pe_book",
@@ -3004,7 +3041,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_eph_book": {
       "fullName": "man_vgm/vi_vlt_eph_book",
@@ -3052,7 +3090,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vts_col_book": {
       "fullName": "man_vgm/vi_vts_col_book",
@@ -3100,7 +3139,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vts_jon_book": {
       "fullName": "man_vgm/vi_vts_jon_book",
@@ -3165,7 +3205,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_rev_book": {
       "fullName": "man_vgm/vi_vlt_rev_book",
@@ -3213,7 +3254,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_gal_book": {
       "fullName": "man_vgm/vi_vlt_gal_book",
@@ -3261,7 +3303,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_heb_book": {
       "fullName": "man_vgm/vi_vlt_heb_book",
@@ -3309,7 +3352,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_1jn_book": {
       "fullName": "man_vgm/vi_vlt_1jn_book",
@@ -3357,7 +3401,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_2jn_book": {
       "fullName": "man_vgm/vi_vlt_2jn_book",
@@ -3422,7 +3467,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_act_book": {
       "fullName": "man_vgm/vi_vlt_act_book",
@@ -3470,7 +3516,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_jhn_book": {
       "fullName": "man_vgm/vi_vlt_jhn_book",
@@ -3518,7 +3565,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_phm_book": {
       "fullName": "man_vgm/vi_vlt_phm_book",
@@ -3566,7 +3614,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_vlt_3jn_book": {
       "fullName": "man_vgm/vi_vlt_3jn_book",
@@ -3614,7 +3663,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "man_vgm/vi_ult_2jn_book": {
       "fullName": "man_vgm/vi_ult_2jn_book",
@@ -3662,7 +3712,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "HJ/vi_vilt_tit_book": {
       "fullName": "HJ/vi_vilt_tit_book",
@@ -3806,7 +3857,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_vst_tit_book": {
       "fullName": "VGM/vi_vst_tit_book",
@@ -3950,7 +4002,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "HJ/vi_vst_tit_book": {
       "fullName": "HJ/vi_vst_tit_book",
@@ -4094,7 +4147,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "laithienthao/vi_vst_tit_book": {
       "fullName": "laithienthao/vi_vst_tit_book",
@@ -4238,7 +4292,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_vlt_tit_book": {
       "fullName": "VGM/vi_vlt_tit_book",
@@ -4382,7 +4437,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vinhvd749/vi_vst_tit_book": {
       "fullName": "vinhvd749/vi_vst_tit_book",
@@ -4451,7 +4507,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_1_1__1 - Missing 2 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_1_1__1 - Missing 2 selections\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vinhvd749/vi_vlt_tit_book": {
       "fullName": "vinhvd749/vi_vlt_tit_book",
@@ -4519,7 +4576,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "uW_test_001/vi_vgst_tit_book": {
       "fullName": "uW_test_001/vi_vgst_tit_book",
@@ -4566,7 +4624,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "laithienthao/vi_ulbc_tit_book": {
       "fullName": "laithienthao/vi_ulbc_tit_book",
@@ -4636,7 +4695,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ust_rev_book": {
       "fullName": "vi_gl/vi_ust_rev_book",
@@ -4683,7 +4743,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_jud_book": {
       "fullName": "VGM/vi_ust_jud_book",
@@ -4730,7 +4791,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_3jn_book": {
       "fullName": "VGM/vi_ust_3jn_book",
@@ -4777,7 +4839,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_2jn_book": {
       "fullName": "VGM/vi_ust_2jn_book",
@@ -4824,7 +4887,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_1jn_book": {
       "fullName": "VGM/vi_ust_1jn_book",
@@ -4871,7 +4935,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_2pe_book": {
       "fullName": "VGM/vi_ust_2pe_book",
@@ -4918,7 +4983,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_1pe_book": {
       "fullName": "VGM/vi_ust_1pe_book",
@@ -4965,7 +5031,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_jas_book": {
       "fullName": "VGM/vi_ust_jas_book",
@@ -5012,7 +5079,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_heb_book": {
       "fullName": "VGM/vi_ust_heb_book",
@@ -5059,7 +5127,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_phm_book": {
       "fullName": "VGM/vi_ust_phm_book",
@@ -5106,7 +5175,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_2ti_book": {
       "fullName": "VGM/vi_ust_2ti_book",
@@ -5153,7 +5223,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_1ti_book": {
       "fullName": "VGM/vi_ust_1ti_book",
@@ -5200,7 +5271,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_2th_book": {
       "fullName": "VGM/vi_ust_2th_book",
@@ -5247,7 +5319,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_1th_book": {
       "fullName": "VGM/vi_ust_1th_book",
@@ -5294,7 +5367,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_col_book": {
       "fullName": "VGM/vi_ust_col_book",
@@ -5341,7 +5415,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_php_book": {
       "fullName": "VGM/vi_ust_php_book",
@@ -5388,7 +5463,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_eph_book": {
       "fullName": "VGM/vi_ust_eph_book",
@@ -5435,7 +5511,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_rev_book": {
       "fullName": "VGM/vi_ult_rev_book",
@@ -5482,7 +5559,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_jud_book": {
       "fullName": "VGM/vi_ult_jud_book",
@@ -5529,7 +5607,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_3jn_book": {
       "fullName": "VGM/vi_ult_3jn_book",
@@ -5576,7 +5655,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_2jn_book": {
       "fullName": "VGM/vi_ult_2jn_book",
@@ -5623,7 +5703,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_1jn_book": {
       "fullName": "VGM/vi_ult_1jn_book",
@@ -5670,7 +5751,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_2pe_book": {
       "fullName": "VGM/vi_ult_2pe_book",
@@ -5717,7 +5799,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_1pe_book": {
       "fullName": "VGM/vi_ult_1pe_book",
@@ -5764,7 +5847,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_jas_book": {
       "fullName": "VGM/vi_ult_jas_book",
@@ -5811,7 +5895,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_heb_book": {
       "fullName": "VGM/vi_ult_heb_book",
@@ -5859,7 +5944,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_phm_book": {
       "fullName": "VGM/vi_ult_phm_book",
@@ -5906,7 +5992,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_2ti_book": {
       "fullName": "VGM/vi_ult_2ti_book",
@@ -5954,7 +6041,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_1ti_book": {
       "fullName": "VGM/vi_ult_1ti_book",
@@ -6001,7 +6089,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_2th_book": {
       "fullName": "VGM/vi_ult_2th_book",
@@ -6048,7 +6137,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_1th_book": {
       "fullName": "VGM/vi_ult_1th_book",
@@ -6095,7 +6185,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_col_book": {
       "fullName": "VGM/vi_ult_col_book",
@@ -6143,7 +6234,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_php_book": {
       "fullName": "VGM/vi_ult_php_book",
@@ -6190,7 +6282,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_eph_book": {
       "fullName": "VGM/vi_ult_eph_book",
@@ -6237,7 +6330,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_gal_book": {
       "fullName": "VGM/vi_ust_gal_book",
@@ -6284,7 +6378,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_gal_book": {
       "fullName": "VGM/vi_ult_gal_book",
@@ -6331,7 +6426,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_2co_book": {
       "fullName": "VGM/vi_ust_2co_book",
@@ -6378,7 +6474,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_2co_book": {
       "fullName": "VGM/vi_ult_2co_book",
@@ -6426,7 +6523,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_1co_book": {
       "fullName": "VGM/vi_ust_1co_book",
@@ -6473,7 +6571,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_1co_book": {
       "fullName": "VGM/vi_ult_1co_book",
@@ -6521,7 +6620,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_rom_book": {
       "fullName": "VGM/vi_ust_rom_book",
@@ -6587,7 +6687,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_rom_book": {
       "fullName": "VGM/vi_ult_rom_book",
@@ -6653,7 +6754,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_act_book": {
       "fullName": "VGM/vi_ust_act_book",
@@ -6700,7 +6802,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_act_book": {
       "fullName": "VGM/vi_ult_act_book",
@@ -6748,7 +6851,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_jhn_book": {
       "fullName": "VGM/vi_ust_jhn_book",
@@ -6795,7 +6899,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_jhn_book": {
       "fullName": "VGM/vi_ult_jhn_book",
@@ -6842,7 +6947,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_luk_book": {
       "fullName": "VGM/vi_ust_luk_book",
@@ -6889,7 +6995,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_luk_book": {
       "fullName": "VGM/vi_ult_luk_book",
@@ -6937,7 +7044,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_mat_book": {
       "fullName": "VGM/vi_ust_mat_book",
@@ -6984,7 +7092,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_mat_book": {
       "fullName": "VGM/vi_ult_mat_book",
@@ -7052,7 +7161,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ust_mrk_book": {
       "fullName": "VGM/vi_ust_mrk_book",
@@ -7118,7 +7228,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_mrk_book": {
       "fullName": "VGM/vi_ult_mrk_book",
@@ -7165,7 +7276,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ulb_act_book": {
       "fullName": "VGM/vi_ulb_act_book",
@@ -7209,7 +7321,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_reg_1th_book": {
       "fullName": "VGM/vi_reg_1th_book",
@@ -7253,7 +7366,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "laithienthao/vi_ulbt_tit_book": {
       "fullName": "laithienthao/vi_ulbt_tit_book",
@@ -7328,7 +7442,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_reg_php_book": {
       "fullName": "VGM/vi_reg_php_book",
@@ -7372,7 +7487,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_reg_eph_book": {
       "fullName": "VGM/vi_reg_eph_book",
@@ -7416,7 +7532,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_reg_act_book": {
       "fullName": "VGM/vi_reg_act_book",
@@ -7460,7 +7577,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_reg_1pe_book": {
       "fullName": "VGM/vi_reg_1pe_book",
@@ -7527,7 +7645,8 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-activepassive_1_5__1 - Missing 1 selections\t\n, TW: "
+      "projectWarnings": "warnings: WA: , TN: figs-activepassive_1_5__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ult_tit_book": {
       "fullName": "VGM/vi_ult_tit_book",
@@ -7594,7 +7713,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_rev_book": {
       "fullName": "vi_gl/vi_ult_rev_book",
@@ -7637,7 +7757,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_jud_book": {
       "fullName": "vi_gl/vi_ult_jud_book",
@@ -7680,7 +7801,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_3jn_book": {
       "fullName": "vi_gl/vi_ult_3jn_book",
@@ -7723,7 +7845,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_2jn_book": {
       "fullName": "vi_gl/vi_ult_2jn_book",
@@ -7766,7 +7889,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_1jn_book": {
       "fullName": "vi_gl/vi_ult_1jn_book",
@@ -7809,7 +7933,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_2pe_book": {
       "fullName": "vi_gl/vi_ult_2pe_book",
@@ -7852,7 +7977,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_1pe_book": {
       "fullName": "vi_gl/vi_ult_1pe_book",
@@ -7895,7 +8021,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_jas_book": {
       "fullName": "vi_gl/vi_ult_jas_book",
@@ -7938,7 +8065,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_heb_book": {
       "fullName": "vi_gl/vi_ult_heb_book",
@@ -7981,7 +8109,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_phm_book": {
       "fullName": "vi_gl/vi_ult_phm_book",
@@ -8024,7 +8153,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_tit_book": {
       "fullName": "vi_gl/vi_ult_tit_book",
@@ -8067,7 +8197,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_2ti_book": {
       "fullName": "vi_gl/vi_ult_2ti_book",
@@ -8110,7 +8241,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_1ti_book": {
       "fullName": "vi_gl/vi_ult_1ti_book",
@@ -8153,7 +8285,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_2th_book": {
       "fullName": "vi_gl/vi_ult_2th_book",
@@ -8196,7 +8329,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_1th_book": {
       "fullName": "vi_gl/vi_ult_1th_book",
@@ -8239,7 +8373,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_col_book": {
       "fullName": "vi_gl/vi_ult_col_book",
@@ -8282,7 +8417,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_php_book": {
       "fullName": "vi_gl/vi_ult_php_book",
@@ -8325,7 +8461,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_eph_book": {
       "fullName": "vi_gl/vi_ult_eph_book",
@@ -8368,7 +8505,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_gal_book": {
       "fullName": "vi_gl/vi_ult_gal_book",
@@ -8411,7 +8549,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_2co_book": {
       "fullName": "vi_gl/vi_ult_2co_book",
@@ -8454,7 +8593,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_1co_book": {
       "fullName": "vi_gl/vi_ult_1co_book",
@@ -8497,7 +8637,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_rom_book": {
       "fullName": "vi_gl/vi_ult_rom_book",
@@ -8540,7 +8681,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_act_book": {
       "fullName": "vi_gl/vi_ult_act_book",
@@ -8583,7 +8725,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_jhn_book": {
       "fullName": "vi_gl/vi_ult_jhn_book",
@@ -8626,7 +8769,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_luk_book": {
       "fullName": "vi_gl/vi_ult_luk_book",
@@ -8669,7 +8813,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_mrk_book": {
       "fullName": "vi_gl/vi_ult_mrk_book",
@@ -8712,7 +8857,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "vi_gl/vi_ult_mat_book": {
       "fullName": "vi_gl/vi_ult_mat_book",
@@ -8755,7 +8901,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "richmahn/vi_reg_mat_book": {
       "fullName": "richmahn/vi_reg_mat_book",
@@ -8802,7 +8949,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "richmahn/vi_ult_tit_book": {
       "fullName": "richmahn/vi_ult_tit_book",
@@ -8846,7 +8994,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "tc01/vi_ulb_tit_book": {
       "fullName": "tc01/vi_ulb_tit_book",
@@ -8914,7 +9063,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "laithienthao/vi_ulba_tit_book": {
       "fullName": "laithienthao/vi_ulba_tit_book",
@@ -9057,7 +9207,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_reg_jud_book": {
       "fullName": "VGM/vi_reg_jud_book",
@@ -9108,7 +9259,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_ulb_gen_book": {
       "fullName": "VGM/vi_ulb_gen_book",
@@ -9156,7 +9308,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "VGM/vi_reg_lam_book": {
       "fullName": "VGM/vi_reg_lam_book",
@@ -9200,7 +9353,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Joy18/avi_reg_tit_book": {
       "fullName": "Joy18/avi_reg_tit_book",
@@ -9245,6 +9399,737 @@
         }
       },
       "checkMigration": true
+    },
+    "RichUser2/vi_tit_text_reg": {
+      "fullName": "RichUser2/vi_tit_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-09-15T23:43:35Z"
+    },
+    "VGM/vi_rom_text_reg": {
+      "fullName": "VGM/vi_rom_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "rom",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "rom",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-08-21T01:44:43Z"
+    },
+    "VGM/vi_jhn_text_reg": {
+      "fullName": "VGM/vi_jhn_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "jhn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "jhn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-05-14T11:49:07Z"
+    },
+    "VGM/vi_mal_text_reg": {
+      "fullName": "VGM/vi_mal_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "mal",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "mal",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-01-30T02:55:34Z"
+    },
+    "VGM/vi_hab_text_reg": {
+      "fullName": "VGM/vi_hab_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "hab",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "hab",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-01-30T02:53:14Z"
+    },
+    "VGM/vi_amo_text_reg": {
+      "fullName": "VGM/vi_amo_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "amo",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "amo",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-11-30T01:38:53Z"
+    },
+    "VGM/vi_ezk_text_reg": {
+      "fullName": "VGM/vi_ezk_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "ezk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "ezk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-11-30T04:11:41Z"
+    },
+    "VGM/vi_lam_text_reg": {
+      "fullName": "VGM/vi_lam_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "lam",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "lam",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-11-29T09:45:12Z"
+    },
+    "VGM/vi_jos_text_reg": {
+      "fullName": "VGM/vi_jos_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "jos",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "jos",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-11T01:30:39Z"
+    },
+    "VGM/vi_deu_text_reg": {
+      "fullName": "VGM/vi_deu_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "deu",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "deu",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-10T08:01:02Z"
+    },
+    "VGM/vi_lev_text_reg": {
+      "fullName": "VGM/vi_lev_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "lev",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "lev",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-06-15T09:11:03Z"
+    },
+    "VGM/vi_2sa_text_reg": {
+      "fullName": "VGM/vi_2sa_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "2sa",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "2sa",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-10T03:39:20Z"
+    },
+    "VGM/vi_num_text_reg": {
+      "fullName": "VGM/vi_num_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "num",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "num",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-06-15T09:11:26Z"
+    },
+    "VGM/vi_2ki_text_reg": {
+      "fullName": "VGM/vi_2ki_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "2ki",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "2ki",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-10T04:02:24Z"
+    },
+    "VGM/vi_1ki_text_reg": {
+      "fullName": "VGM/vi_1ki_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "1ki",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "1ki",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-09T09:16:06Z"
+    },
+    "VGM/vi_1sa_text_reg": {
+      "fullName": "VGM/vi_1sa_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "1sa",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "1sa",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-10T01:47:20Z"
+    },
+    "VGM/vi_jdg_text_reg": {
+      "fullName": "VGM/vi_jdg_text_reg",
+      "wA": {
+        "langId": "vi",
+        "projectId": "jdg",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "text",
+        "bookId": "jdg",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-09T07:33:10Z"
     }
   }
 }

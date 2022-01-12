@@ -1,6 +1,6 @@
 {
   "processedProjects": 2,
-  "totalProjects": 2,
+  "totalProjects": 3,
   "projects": {
     "Joshua/hal_hlan_gen_book": {
       "fullName": "Joshua/hal_hlan_gen_book",
@@ -46,6 +46,49 @@
       },
       "checkMigration": true,
       "modified": "2020-08-14T03:41:44Z"
+    },
+    "Joshua/hal_gen_text_reg": {
+      "fullName": "Joshua/hal_gen_text_reg",
+      "wA": {
+        "langId": "hal",
+        "projectId": "gen",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "hal",
+        "projectId": "text",
+        "bookId": "gen",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-08-14T03:52:21Z"
     }
   }
 }

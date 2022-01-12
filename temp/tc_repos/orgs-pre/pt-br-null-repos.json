@@ -1,6 +1,6 @@
 {
-  "processedProjects": 3,
-  "totalProjects": 7,
+  "processedProjects": 13,
+  "totalProjects": 13,
   "projects": {
     "abelper8/pt-br_ulb_tit_book": {
       "fullName": "abelper8/pt-br_ulb_tit_book",
@@ -461,6 +461,266 @@
       },
       "checkMigration": true,
       "modified": "2021-12-22T20:22:01Z"
+    },
+    "abelper8/pt-br_3jn_text_reg": {
+      "fullName": "abelper8/pt-br_3jn_text_reg",
+      "wA": {
+        "langId": "pt-br",
+        "projectId": "3jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "pt-br",
+        "projectId": "text",
+        "bookId": "3jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-02T22:35:18Z"
+    },
+    "TOM-88PN_0003.MACHINGA/pt-br_1co_text_reg": {
+      "fullName": "TOM-88PN_0003.MACHINGA/pt-br_1co_text_reg",
+      "wA": {
+        "langId": "pt-br",
+        "projectId": "1co",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "pt-br",
+        "projectId": "text",
+        "bookId": "1co",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-08-27T17:36:04Z"
+    },
+    "TOM-88PN_0003.MACHINGA/pt-br_jhn_text_reg": {
+      "fullName": "TOM-88PN_0003.MACHINGA/pt-br_jhn_text_reg",
+      "wA": {
+        "langId": "pt-br",
+        "projectId": "jhn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "pt-br",
+        "projectId": "text",
+        "bookId": "jhn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-05-27T10:16:24Z"
+    },
+    "VulgataLiber/pt-br_mat_text_reg": {
+      "fullName": "VulgataLiber/pt-br_mat_text_reg",
+      "wA": {
+        "langId": "pt-br",
+        "projectId": "mat",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "pt-br",
+        "projectId": "text",
+        "bookId": "mat",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-02-21T20:33:42Z"
+    },
+    "benjore/pt-br_ulb_1jn_book": {
+      "fullName": "benjore/pt-br_ulb_1jn_book",
+      "wA": {
+        "langId": "pt-br",
+        "projectId": "ulb",
+        "bookId": "1jn",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 105,
+        "unalignedOrig": 2110,
+        "unalignedTarget": 2273
+      },
+      "checks": {
+        "langId": "pt-br",
+        "projectId": "ulb",
+        "bookId": "1jn",
+        "time_created": "2018-10-31T18:49:34.621Z",
+        "tc_version": 6,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0.016055045871559634,
+          "completedChecks": 7,
+          "totalChecks": 436,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-10-31T19:14:14Z"
+    },
+    "tim/pt-br_eph_text_reg": {
+      "fullName": "tim/pt-br_eph_text_reg",
+      "wA": {
+        "langId": "pt-br",
+        "projectId": "eph",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "pt-br",
+        "projectId": "text",
+        "bookId": "eph",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-05-26T12:12:35Z"
     }
   }
 }

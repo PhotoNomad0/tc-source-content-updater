@@ -1,6 +1,6 @@
 {
-  "processedProjects": 5,
-  "totalProjects": 37,
+  "processedProjects": 35,
+  "totalProjects": 35,
   "projects": {
     "rm_ol/rml_ling_rut_book": {
       "fullName": "rm_ol/rml_ling_rut_book",
@@ -72,7 +72,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_heb_book": {
       "fullName": "India_BCS/ml_irv_heb_book",
@@ -120,7 +121,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_eph_book": {
       "fullName": "India_BCS/ml_irv_eph_book",
@@ -168,7 +170,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_col_book": {
       "fullName": "India_BCS/ml_irv_col_book",
@@ -216,7 +219,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_act_book": {
       "fullName": "India_BCS/ml_irv_act_book",
@@ -264,7 +268,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_2co_book": {
       "fullName": "India_BCS/ml_irv_2co_book",
@@ -312,7 +317,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_mrk_book": {
       "fullName": "India_BCS/ml_irv_mrk_book",
@@ -360,7 +366,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_jhn_book": {
       "fullName": "India_BCS/ml_irv_jhn_book",
@@ -408,7 +415,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_2th_book": {
       "fullName": "India_BCS/ml_irv_2th_book",
@@ -456,7 +464,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_rev_book": {
       "fullName": "India_BCS/ml_irv_rev_book",
@@ -504,7 +513,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_jud_book": {
       "fullName": "India_BCS/ml_irv_jud_book",
@@ -552,7 +562,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_1jn_book": {
       "fullName": "India_BCS/ml_irv_1jn_book",
@@ -600,7 +611,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_2pe_book": {
       "fullName": "India_BCS/ml_irv_2pe_book",
@@ -648,7 +660,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_jas_book": {
       "fullName": "India_BCS/ml_irv_jas_book",
@@ -696,7 +709,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_phm_book": {
       "fullName": "India_BCS/ml_irv_phm_book",
@@ -744,7 +758,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_2ti_book": {
       "fullName": "India_BCS/ml_irv_2ti_book",
@@ -792,7 +807,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_1ti_book": {
       "fullName": "India_BCS/ml_irv_1ti_book",
@@ -840,7 +856,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_php_book": {
       "fullName": "India_BCS/ml_irv_php_book",
@@ -888,7 +905,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_1co_book": {
       "fullName": "India_BCS/ml_irv_1co_book",
@@ -936,7 +954,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_rom_book": {
       "fullName": "India_BCS/ml_irv_rom_book",
@@ -1003,7 +1022,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_mat_book": {
       "fullName": "India_BCS/ml_irv_mat_book",
@@ -1051,7 +1071,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Vipin_Bhadran/ml_irv_2co_book": {
       "fullName": "Vipin_Bhadran/ml_irv_2co_book",
@@ -1098,7 +1119,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/ml_irv_2co_book": {
       "fullName": "shojojohn/ml_irv_2co_book",
@@ -1145,7 +1167,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/ml_irv_gal_book": {
       "fullName": "shojojohn/ml_irv_gal_book",
@@ -1209,7 +1232,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/ml_irv_1th_book": {
       "fullName": "shojojohn/ml_irv_1th_book",
@@ -1273,7 +1297,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/ml_irv_1pe_book": {
       "fullName": "shojojohn/ml_irv_1pe_book",
@@ -1337,7 +1362,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_gal_book": {
       "fullName": "India_BCS/ml_irv_gal_book",
@@ -1401,7 +1427,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "India_BCS/ml_irv_tit_book": {
       "fullName": "India_BCS/ml_irv_tit_book",
@@ -1448,7 +1475,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Vipin_Bhadran/ml_irv_2jn_book": {
       "fullName": "Vipin_Bhadran/ml_irv_2jn_book",
@@ -1493,7 +1521,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Vipin_Bhadran/ml_irv_3jn_book": {
       "fullName": "Vipin_Bhadran/ml_irv_3jn_book",
@@ -1538,7 +1567,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/ml_irv_3jn_book": {
       "fullName": "shojojohn/ml_irv_3jn_book",
@@ -1582,7 +1612,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "shojojohn/ml_irv_2jn_book": {
       "fullName": "shojojohn/ml_irv_2jn_book",
@@ -1626,7 +1657,96 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
+    },
+    "shojojohn/ml_irv_tit_book": {
+      "fullName": "shojojohn/ml_irv_tit_book",
+      "wA": {
+        "langId": "ml",
+        "projectId": "irv",
+        "bookId": "tit",
+        "percentCompleted": 0.42857142857142855,
+        "completedVerses": 21,
+        "totalVerses": 49,
+        "unalignedOrig": 204,
+        "unalignedTarget": 108
+      },
+      "checks": {
+        "langId": "ml",
+        "projectId": "irv",
+        "bookId": "tit",
+        "time_created": "2019-05-02T05:01:45.992Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-05-02T05:00:04Z"
+    },
+    "benVar/ml_phm_text_reg": {
+      "fullName": "benVar/ml_phm_text_reg",
+      "wA": {
+        "langId": "ml",
+        "projectId": "phm",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ml",
+        "projectId": "text",
+        "bookId": "phm",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-08-18T06:49:30Z"
     }
   }
 }

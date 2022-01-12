@@ -1,6 +1,6 @@
 {
-  "processedProjects": 96,
-  "totalProjects": 96,
+  "processedProjects": 65,
+  "totalProjects": 70,
   "projects": {
     "ibibleru/el-x-koine_sttr_tit_book": {
       "fullName": "ibibleru/el-x-koine_sttr_tit_book",
@@ -1345,7 +1345,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_glt_rev_book": {
       "fullName": "ramyadav/ne_glt_rev_book",
@@ -1393,7 +1394,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_act_book": {
       "fullName": "hblamtari/ne_glt_act_book",
@@ -1460,7 +1462,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_heb_book": {
       "fullName": "hblamtari/ne_glt_heb_book",
@@ -1508,7 +1511,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_jas_book": {
       "fullName": "hblamtari/ne_glt_jas_book",
@@ -1556,7 +1560,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_2pe_book": {
       "fullName": "hblamtari/ne_glt_2pe_book",
@@ -1604,7 +1609,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_1pe_book": {
       "fullName": "hblamtari/ne_glt_1pe_book",
@@ -1652,7 +1658,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_2th_book": {
       "fullName": "hblamtari/ne_glt_2th_book",
@@ -1700,7 +1707,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_luk_book": {
       "fullName": "hblamtari/ne_glt_luk_book",
@@ -1767,7 +1775,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_luk_book": {
       "fullName": "paulrana/ne_glt_luk_book",
@@ -1834,7 +1843,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_glt_1pe_book": {
       "fullName": "ramyadav/ne_glt_1pe_book",
@@ -1882,7 +1892,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_jas_book": {
       "fullName": "ramyadav/ne_ult_jas_book",
@@ -1930,7 +1941,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_gal_book": {
       "fullName": "hblamtari/ne_glt_gal_book",
@@ -1997,7 +2009,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_mat_book": {
       "fullName": "hblamtari/ne_glt_mat_book",
@@ -2064,7 +2077,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_mat_book": {
       "fullName": "paulrana/ne_glt_mat_book",
@@ -2131,7 +2145,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_act_book": {
       "fullName": "ramyadav/ne_ult_act_book",
@@ -2198,7 +2213,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_2pe_book": {
       "fullName": "ramyadav/ne_ult_2pe_book",
@@ -2246,7 +2262,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_rom_book": {
       "fullName": "hblamtari/ne_glt_rom_book",
@@ -2313,7 +2330,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_jhn_book": {
       "fullName": "hblamtari/ne_glt_jhn_book",
@@ -2361,7 +2379,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_mrk_book": {
       "fullName": "hblamtari/ne_glt_mrk_book",
@@ -2409,7 +2428,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_col_book": {
       "fullName": "hblamtari/ne_glt_col_book",
@@ -2457,7 +2477,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_php_book": {
       "fullName": "hblamtari/ne_glt_php_book",
@@ -2524,7 +2545,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_eph_book": {
       "fullName": "hblamtari/ne_glt_eph_book",
@@ -2591,7 +2613,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_2co_book": {
       "fullName": "hblamtari/ne_glt_2co_book",
@@ -2639,7 +2662,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_1co_book": {
       "fullName": "hblamtari/ne_glt_1co_book",
@@ -2704,7 +2728,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_1th_book": {
       "fullName": "hblamtari/ne_glt_1th_book",
@@ -2771,7 +2796,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_1ti_book": {
       "fullName": "hblamtari/ne_glt_1ti_book",
@@ -2819,7 +2845,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_2ti_book": {
       "fullName": "hblamtari/ne_glt_2ti_book",
@@ -2867,7 +2894,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_tit_book": {
       "fullName": "hblamtari/ne_glt_tit_book",
@@ -2915,7 +2943,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_phm_book": {
       "fullName": "hblamtari/ne_glt_phm_book",
@@ -2994,7 +3023,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_3jn_book": {
       "fullName": "hblamtari/ne_glt_3jn_book",
@@ -3060,7 +3090,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_2jn_book": {
       "fullName": "hblamtari/ne_glt_2jn_book",
@@ -3107,7 +3138,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_1jn_book": {
       "fullName": "hblamtari/ne_glt_1jn_book",
@@ -3234,7 +3266,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_glt_jud_book": {
       "fullName": "hblamtari/ne_glt_jud_book",
@@ -3281,7 +3314,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_gst_tit_book": {
       "fullName": "hblamtari/ne_gst_tit_book",
@@ -3328,7 +3362,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "hblamtari/ne_gst_mrk_book": {
       "fullName": "hblamtari/ne_gst_mrk_book",
@@ -3376,7 +3411,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_mrk_book": {
       "fullName": "paulrana/ne_glt_mrk_book",
@@ -3424,7 +3460,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_jhn_book": {
       "fullName": "paulrana/ne_glt_jhn_book",
@@ -3472,7 +3509,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_gal_book": {
       "fullName": "ramyadav/ne_ult_gal_book",
@@ -3539,7 +3577,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_eph_book": {
       "fullName": "ramyadav/ne_ult_eph_book",
@@ -3606,7 +3645,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_2th_book": {
       "fullName": "ramyadav/ne_ult_2th_book",
@@ -3654,7 +3694,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_2co_book": {
       "fullName": "ramyadav/ne_ult_2co_book",
@@ -3702,7 +3743,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_1co_book": {
       "fullName": "ramyadav/ne_ult_1co_book",
@@ -3767,7 +3809,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_2ti_book": {
       "fullName": "ramyadav/ne_ult_2ti_book",
@@ -3815,7 +3858,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_1ti_book": {
       "fullName": "ramyadav/ne_ult_1ti_book",
@@ -3863,7 +3907,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_gst_mrk_book": {
       "fullName": "paulrana/ne_gst_mrk_book",
@@ -3911,7 +3956,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_1th_book": {
       "fullName": "ramyadav/ne_ult_1th_book",
@@ -3978,7 +4024,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_1jn_book": {
       "fullName": "ramyadav/ne_ult_1jn_book",
@@ -4105,7 +4152,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_2jn_book": {
       "fullName": "ramyadav/ne_ult_2jn_book",
@@ -4189,7 +4237,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ulb_phm_book": {
       "fullName": "ramyadav/ne_ulb_phm_book",
@@ -4268,7 +4317,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_rom_book": {
       "fullName": "ramyadav/ne_ult_rom_book",
@@ -4335,7 +4385,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_tit_book": {
       "fullName": "ramyadav/ne_ult_tit_book",
@@ -4383,7 +4434,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_col_book": {
       "fullName": "ramyadav/ne_ult_col_book",
@@ -4431,7 +4483,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_php_book": {
       "fullName": "ramyadav/ne_ult_php_book",
@@ -4498,7 +4551,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramyadav/ne_ult_3jn_book": {
       "fullName": "ramyadav/ne_ult_3jn_book",
@@ -4572,7 +4626,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_jud_book": {
       "fullName": "paulrana/ne_glt_jud_book",
@@ -4617,7 +4672,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_3jn_book": {
       "fullName": "paulrana/ne_glt_3jn_book",
@@ -4662,7 +4718,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_phm_book": {
       "fullName": "paulrana/ne_glt_phm_book",
@@ -4707,7 +4764,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_2jn_book": {
       "fullName": "paulrana/ne_glt_2jn_book",
@@ -4752,7 +4810,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_heb_book": {
       "fullName": "paulrana/ne_glt_heb_book",
@@ -4800,7 +4859,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_glt_act_book": {
       "fullName": "paulrana/ne_glt_act_book",
@@ -4867,7 +4927,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "paulrana/ne_gst_tit_book": {
       "fullName": "paulrana/ne_gst_tit_book",
@@ -4912,7 +4973,8 @@
           "toolData": {}
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ramadhikary/ne_ult_act_book": {
       "fullName": "ramadhikary/ne_ult_act_book",
@@ -4976,7 +5038,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "russp41/ne_glt_heb_book": {
       "fullName": "russp41/ne_glt_heb_book",
@@ -5196,6 +5259,49 @@
         }
       },
       "checkMigration": true
+    },
+    "SashiKiran/ne_rut_text_reg": {
+      "fullName": "SashiKiran/ne_rut_text_reg",
+      "wA": {
+        "langId": "ne",
+        "projectId": "rut",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ne",
+        "projectId": "text",
+        "bookId": "rut",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-08-02T06:04:37Z"
     }
   }
 }

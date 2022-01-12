@@ -65,8 +65,7 @@
           }
         }
       },
-      "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "checkMigration": true
     },
     "varun/kan-x-palligaru_reg_tit_book": {
       "fullName": "varun/kan-x-palligaru_reg_tit_book",
@@ -133,8 +132,7 @@
           }
         }
       },
-      "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "checkMigration": true
     },
     "Samuel_Kim/ru_rlob_1ti_book_test": {
       "fullName": "Samuel_Kim/ru_rlob_1ti_book_test",
@@ -219,7 +217,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: translate-unknown_5_18__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "richqa/ru_rlob_est_book": {
       "fullName": "richqa/ru_rlob_est_book",
@@ -424,7 +422,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-idiom_9_28__1 - Missing 1 selections\t\n, TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Yuri/ru_rob_2jn_book": {
       "fullName": "Yuri/ru_rob_2jn_book",
@@ -492,7 +490,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "richmahn/ru_rlob_est_book": {
       "fullName": "richmahn/ru_rlob_est_book",
@@ -696,8 +694,7 @@
         }
       },
       "checkMigration": true,
-      "projectWarnings": "warnings: WA: , TN: figs-idiom_9_28__1 - Missing 1 selections\t\n, TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "projectWarnings": "warnings: WA: , TN: figs-idiom_9_28__1 - Missing 1 selections\t\n, TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n"
     },
     "ghayden/ru_rob_est_book": {
       "fullName": "ghayden/ru_rob_est_book",
@@ -772,7 +769,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: , TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ghayden/ru_rlob_est_book": {
       "fullName": "ghayden/ru_rlob_est_book",
@@ -847,7 +844,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: , TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_rob_eph_book": {
       "fullName": "Pro/ru_rob_eph_book",
@@ -910,7 +907,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_hag_book": {
       "fullName": "rob/ru_rob_hag_book",
@@ -960,7 +957,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_heb_book": {
       "fullName": "rob/ru_rob_heb_book",
@@ -1008,7 +1005,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_hos_book": {
       "fullName": "rob/ru_rob_hos_book",
@@ -1058,7 +1055,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_isa_book": {
       "fullName": "rob/ru_rob_isa_book",
@@ -1108,7 +1105,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jas_book": {
       "fullName": "rob/ru_rob_jas_book",
@@ -1156,7 +1153,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jdg_book": {
       "fullName": "rob/ru_rob_jdg_book",
@@ -1204,7 +1201,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jer_book": {
       "fullName": "rob/ru_rob_jer_book",
@@ -1254,7 +1251,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_job_book": {
       "fullName": "rob/ru_rob_job_book",
@@ -1304,7 +1301,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jhn_book": {
       "fullName": "rob/ru_rob_jhn_book",
@@ -1352,7 +1349,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jol_book": {
       "fullName": "rob/ru_rob_jol_book",
@@ -1417,7 +1414,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jon_book": {
       "fullName": "rob/ru_rob_jon_book",
@@ -1465,7 +1462,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jos_book": {
       "fullName": "rob/ru_rob_jos_book",
@@ -1530,7 +1527,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_jud_book": {
       "fullName": "rob/ru_rob_jud_book",
@@ -1578,7 +1575,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_lam_book": {
       "fullName": "rob/ru_rob_lam_book",
@@ -1628,7 +1625,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_lev_book": {
       "fullName": "rob/ru_rob_lev_book",
@@ -1676,7 +1673,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_hab_book": {
       "fullName": "rob/ru_rob_hab_book",
@@ -1726,7 +1723,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_gen_book": {
       "fullName": "rob/ru_rob_gen_book",
@@ -1776,7 +1773,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_gal_book": {
       "fullName": "rob/ru_rob_gal_book",
@@ -1824,7 +1821,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_ezr_book": {
       "fullName": "rob/ru_rob_ezr_book",
@@ -1889,7 +1886,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_ezk_book": {
       "fullName": "rob/ru_rob_ezk_book",
@@ -1939,7 +1936,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_exo_book": {
       "fullName": "rob/ru_rob_exo_book",
@@ -1987,7 +1984,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_est_book": {
       "fullName": "rob/ru_rob_est_book",
@@ -2052,7 +2049,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_eph_book": {
       "fullName": "rob/ru_rob_eph_book",
@@ -2100,7 +2097,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_ecc_book": {
       "fullName": "rob/ru_rob_ecc_book",
@@ -2150,7 +2147,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_deu_book": {
       "fullName": "rob/ru_rob_deu_book",
@@ -2200,7 +2197,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_dan_book": {
       "fullName": "rob/ru_rob_dan_book",
@@ -2250,7 +2247,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_col_book": {
       "fullName": "rob/ru_rob_col_book",
@@ -2298,7 +2295,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_amo_book": {
       "fullName": "rob/ru_rob_amo_book",
@@ -2348,7 +2345,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_act_book": {
       "fullName": "rob/ru_rob_act_book",
@@ -2396,7 +2393,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_3jn_book": {
       "fullName": "rob/ru_rob_3jn_book",
@@ -2444,7 +2441,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1ch_book": {
       "fullName": "rob/ru_rob_1ch_book",
@@ -2494,7 +2491,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1co_book": {
       "fullName": "rob/ru_rob_1co_book",
@@ -2542,7 +2539,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1jn_book": {
       "fullName": "rob/ru_rob_1jn_book",
@@ -2590,7 +2587,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1ki_book": {
       "fullName": "rob/ru_rob_1ki_book",
@@ -2640,7 +2637,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1pe_book": {
       "fullName": "rob/ru_rob_1pe_book",
@@ -2688,7 +2685,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1sa_book": {
       "fullName": "rob/ru_rob_1sa_book",
@@ -2738,7 +2735,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1th_book": {
       "fullName": "rob/ru_rob_1th_book",
@@ -2786,7 +2783,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_1ti_book": {
       "fullName": "rob/ru_rob_1ti_book",
@@ -2834,7 +2831,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2ch_book": {
       "fullName": "rob/ru_rob_2ch_book",
@@ -2884,7 +2881,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2co_book": {
       "fullName": "rob/ru_rob_2co_book",
@@ -2932,7 +2929,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2jn_book": {
       "fullName": "rob/ru_rob_2jn_book",
@@ -2980,7 +2977,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2ki_book": {
       "fullName": "rob/ru_rob_2ki_book",
@@ -3028,7 +3025,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2pe_book": {
       "fullName": "rob/ru_rob_2pe_book",
@@ -3076,7 +3073,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2sa_book": {
       "fullName": "rob/ru_rob_2sa_book",
@@ -3126,7 +3123,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2th_book": {
       "fullName": "rob/ru_rob_2th_book",
@@ -3174,7 +3171,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_rom_book": {
       "fullName": "rob/ru_rob_rom_book",
@@ -3222,7 +3219,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_rev_book": {
       "fullName": "rob/ru_rob_rev_book",
@@ -3270,7 +3267,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_psa_book": {
       "fullName": "rob/ru_rob_psa_book",
@@ -3320,7 +3317,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_pro_book": {
       "fullName": "rob/ru_rob_pro_book",
@@ -3370,7 +3367,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_php_book": {
       "fullName": "rob/ru_rob_php_book",
@@ -3418,7 +3415,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_phm_book": {
       "fullName": "rob/ru_rob_phm_book",
@@ -3466,7 +3463,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_oba_book": {
       "fullName": "rob/ru_rob_oba_book",
@@ -3531,7 +3528,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_num_book": {
       "fullName": "rob/ru_rob_num_book",
@@ -3579,7 +3576,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_neh_book": {
       "fullName": "rob/ru_rob_neh_book",
@@ -3644,7 +3641,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_nam_book": {
       "fullName": "rob/ru_rob_nam_book",
@@ -3692,7 +3689,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_mrk_book": {
       "fullName": "rob/ru_rob_mrk_book",
@@ -3740,7 +3737,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_mic_book": {
       "fullName": "rob/ru_rob_mic_book",
@@ -3790,7 +3787,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_mat_book": {
       "fullName": "rob/ru_rob_mat_book",
@@ -3838,7 +3835,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_mal_book": {
       "fullName": "rob/ru_rob_mal_book",
@@ -3888,7 +3885,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_luk_book": {
       "fullName": "rob/ru_rob_luk_book",
@@ -3936,7 +3933,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_zep_book": {
       "fullName": "rob/ru_rob_zep_book",
@@ -3986,7 +3983,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_zec_book": {
       "fullName": "rob/ru_rob_zec_book",
@@ -4036,7 +4033,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_tit_book": {
       "fullName": "rob/ru_rob_tit_book",
@@ -4084,7 +4081,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_sng_book": {
       "fullName": "rob/ru_rob_sng_book",
@@ -4134,7 +4131,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_rut_book": {
       "fullName": "rob/ru_rob_rut_book",
@@ -4182,7 +4179,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "rob/ru_rob_2ti_book": {
       "fullName": "rob/ru_rob_2ti_book",
@@ -4230,7 +4227,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Yuri/ru_rob_act_book": {
       "fullName": "Yuri/ru_rob_act_book",
@@ -4296,7 +4293,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_ust_jon_book": {
       "fullName": "Anna/ru_ust_jon_book",
@@ -4362,7 +4359,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ru_gl/ru_rob_1ti_book": {
       "fullName": "ru_gl/ru_rob_1ti_book",
@@ -4410,7 +4407,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_vers_tit_book": {
       "fullName": "Anna/ru_vers_tit_book",
@@ -4551,7 +4548,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_2_2__1 - Missing 1 selections\t\nfigs-doublet_1_8__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rsob_tit_book": {
       "fullName": "mkaryakina/ru_rsob_tit_book",
@@ -4706,7 +4703,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rlob_tit_book": {
       "fullName": "mkaryakina/ru_rlob_tit_book",
@@ -4866,7 +4863,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rlob_rut_book": {
       "fullName": "mkaryakina/ru_rlob_rut_book",
@@ -4933,7 +4930,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_ulb_1co_book": {
       "fullName": "Pro/ru_ulb_1co_book",
@@ -4982,7 +4979,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rsob_tit_book": {
       "fullName": "Anna/ru_rsob_tit_book",
@@ -5142,7 +5139,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_ulb_rom_book": {
       "fullName": "Pro/ru_ulb_rom_book",
@@ -5208,7 +5205,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rsob_3jn_book": {
       "fullName": "mkaryakina/ru_rsob_3jn_book",
@@ -5283,7 +5280,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Yuri/ru_yuri_3jn_book": {
       "fullName": "Yuri/ru_yuri_3jn_book",
@@ -5357,7 +5354,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ibibleru/ru_rlob_jon_book": {
       "fullName": "ibibleru/ru_rlob_jon_book",
@@ -5452,7 +5449,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rlob_3jn_book": {
       "fullName": "mkaryakina/ru_rlob_3jn_book",
@@ -5527,7 +5524,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "ibibleru/ru_rlob_rut_book": {
       "fullName": "ibibleru/ru_rlob_rut_book",
@@ -5594,7 +5591,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "elman/ru_rsob_rut_book_old": {
       "fullName": "elman/ru_rsob_rut_book_old",
@@ -5676,7 +5673,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_rlob_3jn_book": {
       "fullName": "Pro/ru_rlob_3jn_book",
@@ -5750,7 +5747,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rso_tit_book": {
       "fullName": "mkaryakina/ru_rso_tit_book",
@@ -5822,7 +5819,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rlo_tit_book": {
       "fullName": "mkaryakina/ru_rlo_tit_book",
@@ -5899,7 +5896,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-doublet_1_8__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_lit_1co_book": {
       "fullName": "Pro/ru_lit_1co_book",
@@ -5967,7 +5964,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Yuri/ru_rsol_tit_book": {
       "fullName": "Yuri/ru_rsol_tit_book",
@@ -6016,7 +6013,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "dimasava/ru_rlob_tit_book": {
       "fullName": "dimasava/ru_rlob_tit_book",
@@ -6082,7 +6079,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_rbl_act_book": {
       "fullName": "Pro/ru_rbl_act_book",
@@ -6147,7 +6144,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "dimasava/ru_rob_rut_book": {
       "fullName": "dimasava/ru_rob_rut_book",
@@ -6213,7 +6210,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: , TW: bethlehem_4_11__1 - Missing 1 selections\t\n",
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "dimasava/ru_rob_jon_book": {
       "fullName": "dimasava/ru_rob_jon_book",
@@ -6276,7 +6273,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_ulb_3jn_book": {
       "fullName": "mkaryakina/ru_ulb_3jn_book",
@@ -6324,7 +6321,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_lit_3jn_book": {
       "fullName": "mkaryakina/ru_lit_3jn_book",
@@ -6391,7 +6388,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rob_jon_book": {
       "fullName": "Anna/ru_rob_jon_book",
@@ -6456,7 +6453,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_lit_rom_book": {
       "fullName": "Pro/ru_lit_rom_book",
@@ -6522,7 +6519,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_lit_eph_book": {
       "fullName": "Pro/ru_lit_eph_book",
@@ -6588,7 +6585,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_lit_3jn_book": {
       "fullName": "Pro/ru_lit_3jn_book",
@@ -6636,7 +6633,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_ulb_3jn_book": {
       "fullName": "Pro/ru_ulb_3jn_book",
@@ -6684,7 +6681,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "dimasava/ru_rob_luk_book": {
       "fullName": "dimasava/ru_rob_luk_book",
@@ -6749,7 +6746,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rob_mrk_book_old": {
       "fullName": "mkaryakina/ru_rob_mrk_book_old",
@@ -6814,7 +6811,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_ulb_mrk_book": {
       "fullName": "mkaryakina/ru_ulb_mrk_book",
@@ -6879,7 +6876,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rbl_mrk_book": {
       "fullName": "mkaryakina/ru_rbl_mrk_book",
@@ -6944,7 +6941,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "dimasava/ru_rob_tit_book": {
       "fullName": "dimasava/ru_rob_tit_book",
@@ -6992,7 +6989,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "dimasava/ru_rob_1th_book": {
       "fullName": "dimasava/ru_rob_1th_book",
@@ -7057,7 +7054,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_lit_luk_book": {
       "fullName": "Pro/ru_lit_luk_book",
@@ -7122,7 +7119,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Yuri/ru_ulb_tit_book": {
       "fullName": "Yuri/ru_ulb_tit_book",
@@ -7170,7 +7167,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_lit_tit_book": {
       "fullName": "Pro/ru_lit_tit_book",
@@ -7218,7 +7215,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anatolii/ru_ulb_mat_book": {
       "fullName": "Anatolii/ru_ulb_mat_book",
@@ -7283,7 +7280,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_ulb_act_book": {
       "fullName": "Pro/ru_ulb_act_book",
@@ -7348,7 +7345,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anatolii/ru_reg_jhn_book": {
       "fullName": "Anatolii/ru_reg_jhn_book",
@@ -7413,7 +7410,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_ulb_luk_book": {
       "fullName": "Pro/ru_ulb_luk_book",
@@ -7478,7 +7475,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "dimasava/ru_ulb_mrk_book": {
       "fullName": "dimasava/ru_ulb_mrk_book",
@@ -7523,7 +7520,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "birch/ru_abc_2jn_book": {
       "fullName": "birch/ru_abc_2jn_book",
@@ -7568,7 +7565,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "birch/ru_abc_tit_book": {
       "fullName": "birch/ru_abc_tit_book",
@@ -7633,7 +7630,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_rob_phm_book": {
       "fullName": "Pro/ru_rob_phm_book",
@@ -7678,7 +7675,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_rlb_phm_book": {
       "fullName": "Pro/ru_rlb_phm_book",
@@ -7723,7 +7720,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rob_2jn_book": {
       "fullName": "Anna/ru_rob_2jn_book",
@@ -7768,7 +7765,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "aleksey.ignashin/ru_rob_2jn_book": {
       "fullName": "aleksey.ignashin/ru_rob_2jn_book",
@@ -7813,7 +7810,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rsb_2jn_book": {
       "fullName": "Anna/ru_rsb_2jn_book",
@@ -7858,7 +7855,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rob_tit_book": {
       "fullName": "Anna/ru_rob_tit_book",
@@ -7903,7 +7900,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rsb_tit_book": {
       "fullName": "Anna/ru_rsb_tit_book",
@@ -7948,7 +7945,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rlb_phm_book": {
       "fullName": "Anna/ru_rlb_phm_book",
@@ -7993,7 +7990,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rsb_phm_book": {
       "fullName": "Anna/ru_rsb_phm_book",
@@ -8038,7 +8035,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anatolii/ru_rsb_tit_book": {
       "fullName": "Anatolii/ru_rsb_tit_book",
@@ -8083,7 +8080,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anna/ru_rob_phm_book": {
       "fullName": "Anna/ru_rob_phm_book",
@@ -8128,7 +8125,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_ulb_tit_book": {
       "fullName": "mkaryakina/ru_ulb_tit_book",
@@ -8173,7 +8170,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Savchak/ru_ulb_mrk_book": {
       "fullName": "Savchak/ru_ulb_mrk_book",
@@ -8218,7 +8215,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rsb_phm_book": {
       "fullName": "mkaryakina/ru_rsb_phm_book",
@@ -8263,7 +8260,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "benjore/ru_rob_tit_book": {
       "fullName": "benjore/ru_rob_tit_book",
@@ -8308,7 +8305,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "jobbyp/ru_ulb_tit_book": {
       "fullName": "jobbyp/ru_ulb_tit_book",
@@ -8353,7 +8350,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anatolii/ru_rob_2jn_book": {
       "fullName": "Anatolii/ru_rob_2jn_book",
@@ -8398,7 +8395,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "aleksey.ignashin/ru_rsb_tit_book": {
       "fullName": "aleksey.ignashin/ru_rsb_tit_book",
@@ -8443,7 +8440,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "benjore/ru_rst_phm_book": {
       "fullName": "benjore/ru_rst_phm_book",
@@ -8488,7 +8485,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "royalsix/ru_rob_phm_book": {
       "fullName": "royalsix/ru_rob_phm_book",
@@ -8534,7 +8531,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Pro/ru_ulb_tit_book": {
       "fullName": "Pro/ru_ulb_tit_book",
@@ -8582,7 +8579,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "mkaryakina/ru_rob_phm_book": {
       "fullName": "mkaryakina/ru_rob_phm_book",
@@ -8627,7 +8624,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "benjore/ru_rob_2jn_book": {
       "fullName": "benjore/ru_rob_2jn_book",
@@ -8672,7 +8669,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "Anatolii/ru_rsb_2jn_book": {
       "fullName": "Anatolii/ru_rsb_2jn_book",
@@ -8717,7 +8714,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "benjore/ru_rsb_2jn_book": {
       "fullName": "benjore/ru_rsb_2jn_book",
@@ -8762,7 +8759,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "benjore/ru_rsb_tit_book": {
       "fullName": "benjore/ru_rsb_tit_book",
@@ -8807,7 +8804,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "jobbyp/ru_ulb_mrk_book": {
       "fullName": "jobbyp/ru_ulb_mrk_book",
@@ -8852,7 +8849,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "pjoakes/ru_ulbb_mrk_book": {
       "fullName": "pjoakes/ru_ulbb_mrk_book",
@@ -8897,7 +8894,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "pjoakes/ru_ulba_mrk_book": {
       "fullName": "pjoakes/ru_ulba_mrk_book",
@@ -8942,7 +8939,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "pjoakes/ru_ult_tit_book": {
       "fullName": "pjoakes/ru_ult_tit_book",
@@ -8987,7 +8984,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "RobH/ru_ustx_mat_book": {
       "fullName": "RobH/ru_ustx_mat_book",
@@ -9032,7 +9029,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "qa99/ru_ulb_jhn_book": {
       "fullName": "qa99/ru_ulb_jhn_book",
@@ -9077,7 +9074,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katalakay/ru_ust_luk_book": {
       "fullName": "katalakay/ru_ust_luk_book",
@@ -9122,7 +9119,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "katalakay/ru_ust_mat_book": {
       "fullName": "katalakay/ru_ust_mat_book",
@@ -9167,7 +9164,1145 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T16:00:27.487Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
+    },
+    "Samuel_Kim/ru_rlob_jud_book": {
+      "fullName": "Samuel_Kim/ru_rlob_jud_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "jud",
+        "percentCompleted": 0.038461538461538464,
+        "completedVerses": 1,
+        "totalVerses": 26,
+        "unalignedOrig": 458,
+        "unalignedTarget": 50
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "jud",
+        "time_created": "2021-08-18T15:15:52.685Z",
+        "tc_edit_version": "3.0.2",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 31
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 143,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-01-11T20:13:13Z"
+    },
+    "Samuel_Kim/ru_rlob_2pe_book": {
+      "fullName": "Samuel_Kim/ru_rlob_2pe_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "2pe",
+        "percentCompleted": 0.078125,
+        "completedVerses": 5,
+        "totalVerses": 64,
+        "unalignedOrig": 1098,
+        "unalignedTarget": 118
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "2pe",
+        "time_created": "2021-08-17T21:11:03.826Z",
+        "tc_edit_version": "3.0.2",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 409
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 315,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-01-11T20:12:48Z"
+    },
+    "Samuel_Kim/ru_rlob_1jn_book": {
+      "fullName": "Samuel_Kim/ru_rlob_1jn_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "1jn",
+        "percentCompleted": 0.9809523809523809,
+        "completedVerses": 103,
+        "totalVerses": 105,
+        "unalignedOrig": 2137,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "1jn",
+        "time_created": "2021-01-08T14:00:47.006Z",
+        "tc_edit_version": "3.0.2",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 582
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-01-11T20:12:10Z"
+    },
+    "ru_gl/ru_jon_text_reg": {
+      "fullName": "ru_gl/ru_jon_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-20T17:21:24Z"
+    },
+    "birch/ru_tit_text_reg": {
+      "fullName": "birch/ru_tit_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-13T16:30:33Z"
+    },
+    "Pro/ru_jon_text_reg": {
+      "fullName": "Pro/ru_jon_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-04-22T16:31:54Z"
+    },
+    "Ofelia/ru_jon_text_reg": {
+      "fullName": "Ofelia/ru_jon_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-04-22T08:30:12Z"
+    },
+    "mkaryakina/ru_jon_text_reg": {
+      "fullName": "mkaryakina/ru_jon_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-04-22T08:23:44Z"
+    },
+    "Ofelia/ru_3jn_text_reg": {
+      "fullName": "Ofelia/ru_3jn_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "3jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "3jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-04-06T16:22:14Z"
+    },
+    "ru_gl/ru_tit_text_reg": {
+      "fullName": "ru_gl/ru_tit_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-02-09T06:10:14Z"
+    },
+    "ru_gl/ru_3jn_text_reg": {
+      "fullName": "ru_gl/ru_3jn_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "3jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "3jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-02-09T06:10:25Z"
+    },
+    "ru_gl/ru_rut_text_reg": {
+      "fullName": "ru_gl/ru_rut_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rut",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "rut",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-02-09T06:10:35Z"
+    },
+    "elman/ru_rut_text_reg": {
+      "fullName": "elman/ru_rut_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rut",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "rut",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-02-05T13:52:04Z"
+    },
+    "soli/ru_rut_text_reg": {
+      "fullName": "soli/ru_rut_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rut",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "rut",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-02-05T13:56:02Z"
+    },
+    "Anna/ru_tit_text_reg": {
+      "fullName": "Anna/ru_tit_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-11-23T11:20:25Z"
+    },
+    "Yuri/ru_tit_text_reg": {
+      "fullName": "Yuri/ru_tit_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-11-19T12:11:15Z"
+    },
+    "soli/ru_2sa_text_reg": {
+      "fullName": "soli/ru_2sa_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "2sa",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "2sa",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-11-02T14:08:09Z"
+    },
+    "rusang/ru_tit_text_reg": {
+      "fullName": "rusang/ru_tit_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2020-11-25T14:43:17Z"
+    },
+    "ru_gl/ru_hab_text_reg": {
+      "fullName": "ru_gl/ru_hab_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "hab",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "hab",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-06T10:15:51Z"
+    },
+    "Anna/ru_hab_text_reg": {
+      "fullName": "Anna/ru_hab_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "hab",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "hab",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-06-06T10:12:27Z"
+    },
+    "dimasava/ru_udb_1ti_book": {
+      "fullName": "dimasava/ru_udb_1ti_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "udb",
+        "bookId": "1ti",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "udb",
+        "bookId": "1ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-10-08T09:15:22Z"
+    },
+    "Anna/ru_est_text_reg": {
+      "fullName": "Anna/ru_est_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "est",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "est",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-10-15T10:13:03Z"
+    },
+    "Anna/ru_jhn_text_reg": {
+      "fullName": "Anna/ru_jhn_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "jhn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "jhn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-02-15T09:43:18Z"
+    },
+    "zakbaku/ru_2co_text_reg": {
+      "fullName": "zakbaku/ru_2co_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "2co",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "2co",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2016-08-01T07:18:25Z"
+    },
+    "zakbaku/ru_phm_text_reg": {
+      "fullName": "zakbaku/ru_phm_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "phm",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "phm",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2016-07-28T10:52:39Z"
+    },
+    "zakbaku/ru_tit_text_reg": {
+      "fullName": "zakbaku/ru_tit_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2016-07-28T10:58:11Z"
     }
   },
   "goodProjects": {
@@ -9255,7 +10390,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: translate-unknown_5_18__1 - Missing 1 selections\t\n, TW: ",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "richqa/ru_rlob_est_book": {
         "fullName": "richqa/ru_rlob_est_book",
@@ -9460,7 +10595,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: figs-idiom_9_28__1 - Missing 1 selections\t\n, TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Yuri/ru_rob_2jn_book": {
         "fullName": "Yuri/ru_rob_2jn_book",
@@ -9528,7 +10663,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "richmahn/ru_rlob_est_book": {
         "fullName": "richmahn/ru_rlob_est_book",
@@ -9732,8 +10867,7 @@
           }
         },
         "checkMigration": true,
-        "projectWarnings": "warnings: WA: , TN: figs-idiom_9_28__1 - Missing 1 selections\t\n, TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "projectWarnings": "warnings: WA: , TN: figs-idiom_9_28__1 - Missing 1 selections\t\n, TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n"
       },
       "ghayden/ru_rob_est_book": {
         "fullName": "ghayden/ru_rob_est_book",
@@ -9808,7 +10942,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: , TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "ghayden/ru_rlob_est_book": {
         "fullName": "ghayden/ru_rlob_est_book",
@@ -9883,7 +11017,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: , TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_rob_eph_book": {
         "fullName": "Pro/ru_rob_eph_book",
@@ -9946,7 +11080,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Yuri/ru_rob_act_book": {
         "fullName": "Yuri/ru_rob_act_book",
@@ -10012,7 +11146,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_vers_tit_book": {
         "fullName": "Anna/ru_vers_tit_book",
@@ -10153,7 +11287,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_2_2__1 - Missing 1 selections\t\nfigs-doublet_1_8__1 - Missing 1 selections\t\n, TW: ",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rlob_tit_book": {
         "fullName": "mkaryakina/ru_rlob_tit_book",
@@ -10313,7 +11447,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rlob_rut_book": {
         "fullName": "mkaryakina/ru_rlob_rut_book",
@@ -10380,7 +11514,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rsob_tit_book": {
         "fullName": "Anna/ru_rsob_tit_book",
@@ -10540,7 +11674,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rsob_3jn_book": {
         "fullName": "mkaryakina/ru_rsob_3jn_book",
@@ -10615,7 +11749,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Yuri/ru_yuri_3jn_book": {
         "fullName": "Yuri/ru_yuri_3jn_book",
@@ -10689,7 +11823,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "ibibleru/ru_rlob_jon_book": {
         "fullName": "ibibleru/ru_rlob_jon_book",
@@ -10784,7 +11918,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rlob_3jn_book": {
         "fullName": "mkaryakina/ru_rlob_3jn_book",
@@ -10859,7 +11993,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "ibibleru/ru_rlob_rut_book": {
         "fullName": "ibibleru/ru_rlob_rut_book",
@@ -10926,7 +12060,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "elman/ru_rsob_rut_book_old": {
         "fullName": "elman/ru_rsob_rut_book_old",
@@ -11008,7 +12142,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_rlob_3jn_book": {
         "fullName": "Pro/ru_rlob_3jn_book",
@@ -11082,7 +12216,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rso_tit_book": {
         "fullName": "mkaryakina/ru_rso_tit_book",
@@ -11154,7 +12288,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rlo_tit_book": {
         "fullName": "mkaryakina/ru_rlo_tit_book",
@@ -11231,7 +12365,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: figs-doublet_1_8__1 - Missing 1 selections\t\n, TW: ",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_lit_1co_book": {
         "fullName": "Pro/ru_lit_1co_book",
@@ -11299,7 +12433,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Yuri/ru_rsol_tit_book": {
         "fullName": "Yuri/ru_rsol_tit_book",
@@ -11348,7 +12482,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "dimasava/ru_rlob_tit_book": {
         "fullName": "dimasava/ru_rlob_tit_book",
@@ -11414,7 +12548,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_rbl_act_book": {
         "fullName": "Pro/ru_rbl_act_book",
@@ -11479,7 +12613,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "dimasava/ru_rob_rut_book": {
         "fullName": "dimasava/ru_rob_rut_book",
@@ -11545,7 +12679,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: , TW: bethlehem_4_11__1 - Missing 1 selections\t\n",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "dimasava/ru_rob_jon_book": {
         "fullName": "dimasava/ru_rob_jon_book",
@@ -11608,7 +12742,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_ulb_3jn_book": {
         "fullName": "mkaryakina/ru_ulb_3jn_book",
@@ -11656,7 +12790,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_lit_3jn_book": {
         "fullName": "mkaryakina/ru_lit_3jn_book",
@@ -11723,7 +12857,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_lit_rom_book": {
         "fullName": "Pro/ru_lit_rom_book",
@@ -11789,7 +12923,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_lit_eph_book": {
         "fullName": "Pro/ru_lit_eph_book",
@@ -11855,7 +12989,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_ulb_3jn_book": {
         "fullName": "Pro/ru_ulb_3jn_book",
@@ -11903,7 +13037,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "dimasava/ru_rob_tit_book": {
         "fullName": "dimasava/ru_rob_tit_book",
@@ -11951,7 +13085,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_lit_luk_book": {
         "fullName": "Pro/ru_lit_luk_book",
@@ -12016,7 +13150,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Yuri/ru_ulb_tit_book": {
         "fullName": "Yuri/ru_ulb_tit_book",
@@ -12064,7 +13198,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_lit_tit_book": {
         "fullName": "Pro/ru_lit_tit_book",
@@ -12112,7 +13246,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anatolii/ru_ulb_mat_book": {
         "fullName": "Anatolii/ru_ulb_mat_book",
@@ -12177,7 +13311,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_ulb_act_book": {
         "fullName": "Pro/ru_ulb_act_book",
@@ -12242,7 +13376,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anatolii/ru_reg_jhn_book": {
         "fullName": "Anatolii/ru_reg_jhn_book",
@@ -12307,7 +13441,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_ulb_luk_book": {
         "fullName": "Pro/ru_ulb_luk_book",
@@ -12372,7 +13506,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "birch/ru_abc_2jn_book": {
         "fullName": "birch/ru_abc_2jn_book",
@@ -12417,7 +13551,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "birch/ru_abc_tit_book": {
         "fullName": "birch/ru_abc_tit_book",
@@ -12482,7 +13616,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rob_2jn_book": {
         "fullName": "Anna/ru_rob_2jn_book",
@@ -12527,7 +13661,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "aleksey.ignashin/ru_rob_2jn_book": {
         "fullName": "aleksey.ignashin/ru_rob_2jn_book",
@@ -12572,7 +13706,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rsb_2jn_book": {
         "fullName": "Anna/ru_rsb_2jn_book",
@@ -12617,7 +13751,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rob_tit_book": {
         "fullName": "Anna/ru_rob_tit_book",
@@ -12662,7 +13796,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rsb_tit_book": {
         "fullName": "Anna/ru_rsb_tit_book",
@@ -12707,7 +13841,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rlb_phm_book": {
         "fullName": "Anna/ru_rlb_phm_book",
@@ -12752,7 +13886,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rsb_phm_book": {
         "fullName": "Anna/ru_rsb_phm_book",
@@ -12797,7 +13931,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anatolii/ru_rsb_tit_book": {
         "fullName": "Anatolii/ru_rsb_tit_book",
@@ -12842,7 +13976,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_rob_phm_book": {
         "fullName": "Anna/ru_rob_phm_book",
@@ -12887,7 +14021,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_ulb_tit_book": {
         "fullName": "mkaryakina/ru_ulb_tit_book",
@@ -12932,7 +14066,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "aleksey.ignashin/ru_rsb_tit_book": {
         "fullName": "aleksey.ignashin/ru_rsb_tit_book",
@@ -12977,7 +14111,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_ulb_tit_book": {
         "fullName": "Pro/ru_ulb_tit_book",
@@ -13025,7 +14159,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       }
     },
     "waNearlyFinished": {
@@ -13182,7 +14316,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_ulb_1co_book": {
         "fullName": "Pro/ru_ulb_1co_book",
@@ -13231,7 +14365,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_ulb_rom_book": {
         "fullName": "Pro/ru_ulb_rom_book",
@@ -13297,7 +14431,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "dimasava/ru_rob_luk_book": {
         "fullName": "dimasava/ru_rob_luk_book",
@@ -13362,7 +14496,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rob_mrk_book_old": {
         "fullName": "mkaryakina/ru_rob_mrk_book_old",
@@ -13427,7 +14561,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_ulb_mrk_book": {
         "fullName": "mkaryakina/ru_ulb_mrk_book",
@@ -13492,7 +14626,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rbl_mrk_book": {
         "fullName": "mkaryakina/ru_rbl_mrk_book",
@@ -13557,7 +14691,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_rob_phm_book": {
         "fullName": "Pro/ru_rob_phm_book",
@@ -13602,7 +14736,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Pro/ru_rlb_phm_book": {
         "fullName": "Pro/ru_rlb_phm_book",
@@ -13647,7 +14781,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rsb_phm_book": {
         "fullName": "mkaryakina/ru_rsb_phm_book",
@@ -13692,7 +14826,58 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
+      },
+      "Samuel_Kim/ru_rlob_1jn_book": {
+        "fullName": "Samuel_Kim/ru_rlob_1jn_book",
+        "wA": {
+          "langId": "ru",
+          "projectId": "rlob",
+          "bookId": "1jn",
+          "percentCompleted": 0.9809523809523809,
+          "completedVerses": 103,
+          "totalVerses": 105,
+          "unalignedOrig": 2137,
+          "unalignedTarget": 2
+        },
+        "checks": {
+          "langId": "ru",
+          "projectId": "rlob",
+          "bookId": "1jn",
+          "time_created": "2021-01-08T14:00:47.006Z",
+          "tc_edit_version": "3.0.2",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 582
+          },
+          "translationWords": {
+            "toolData": {
+              "SelectedGL": "en"
+            },
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 555,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.22"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2022-01-11T20:12:10Z"
       }
     },
     "allFinished": {
@@ -13854,7 +15039,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "mkaryakina/ru_rsob_3jn_book": {
         "fullName": "mkaryakina/ru_rsob_3jn_book",
@@ -13929,7 +15114,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "ibibleru/ru_rlob_jon_book": {
         "fullName": "ibibleru/ru_rlob_jon_book",
@@ -14024,7 +15209,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       }
     },
     "allNearlyFinished": {
@@ -14101,7 +15286,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: , TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "ghayden/ru_rlob_est_book": {
         "fullName": "ghayden/ru_rlob_est_book",
@@ -14176,7 +15361,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: , TW: peoplegroup_3_12__1 - Missing 2 selections\t\npeoplegroup_8_9__1 - Missing 1 selections\t\nprovince_1_22__1 - Missing 2 selections\t\nprovince_3_12__1 - Missing 2 selections\t\nprovince_3_14__1 - Missing 1 selections\t\nprovince_4_3__1 - Missing 1 selections\t\nprovince_8_9__1 - Missing 2 selections\t\nprovince_8_13__1 - Missing 1 selections\t\nprovince_8_17__1 - Missing 1 selections\t\nprovince_9_28__1 - Missing 1 selections\t\n",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       },
       "Anna/ru_vers_tit_book": {
         "fullName": "Anna/ru_vers_tit_book",
@@ -14317,7 +15502,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_2_2__1 - Missing 1 selections\t\nfigs-doublet_1_8__1 - Missing 1 selections\t\n, TW: ",
-        "updated_at": "2021-12-26T16:00:27.487Z"
+        "updated_at": "2022-01-10T14:37:20.312Z"
       }
     }
   }

@@ -69,7 +69,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_mrk_book": {
       "fullName": "cor_2020/cua_clt_mrk_book",
@@ -118,7 +118,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_mat_book": {
       "fullName": "cor_2020/cua_clt_mat_book",
@@ -129,8 +129,8 @@
         "percentCompleted": 1,
         "completedVerses": 1071,
         "totalVerses": 1071,
-        "unalignedOrig": 3698,
-        "unalignedTarget": 815
+        "unalignedOrig": 3696,
+        "unalignedTarget": 817
       },
       "checks": {
         "langId": "cua",
@@ -155,7 +155,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v49"
+                "glVersion": "v54"
               }
             },
             "toolWarnings": ""
@@ -187,7 +187,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "modified": "2022-01-12T09:59:46Z"
     },
     "cor_2020/cua_clt_luk_book": {
       "fullName": "cor_2020/cua_clt_luk_book",
@@ -236,7 +236,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_jhn_book": {
       "fullName": "cor_2020/cua_clt_jhn_book",
@@ -244,11 +244,11 @@
         "langId": "cua",
         "projectId": "clt",
         "bookId": "jhn",
-        "percentCompleted": 0.99,
-        "completedVerses": 878,
+        "percentCompleted": 1,
+        "completedVerses": 879,
         "totalVerses": 879,
-        "unalignedOrig": 3365,
-        "unalignedTarget": 243
+        "unalignedOrig": 3364,
+        "unalignedTarget": 244
       },
       "checks": {
         "langId": "cua",
@@ -285,7 +285,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-21T10:01:05Z"
+      "modified": "2022-01-12T03:59:39Z"
     },
     "cor_2020/cua_clt_tit_book": {
       "fullName": "cor_2020/cua_clt_tit_book",
@@ -297,7 +297,7 @@
         "completedVerses": 46,
         "totalVerses": 46,
         "unalignedOrig": 56,
-        "unalignedTarget": 18
+        "unalignedTarget": 19
       },
       "checks": {
         "langId": "cua",
@@ -322,7 +322,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v49"
+                "glVersion": "v54"
               }
             },
             "toolWarnings": ""
@@ -354,7 +354,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "modified": "2022-01-12T09:26:00Z"
     },
     "cor_2020/cua_clt_rev_book": {
       "fullName": "cor_2020/cua_clt_rev_book",
@@ -365,8 +365,8 @@
         "percentCompleted": 1,
         "completedVerses": 405,
         "totalVerses": 405,
-        "unalignedOrig": 2324,
-        "unalignedTarget": 317
+        "unalignedOrig": 2322,
+        "unalignedTarget": 315
       },
       "checks": {
         "langId": "cua",
@@ -403,7 +403,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T10:05:36Z"
+      "modified": "2022-01-12T10:04:26Z"
     },
     "cor_2020/cua_clt_php_book": {
       "fullName": "cor_2020/cua_clt_php_book",
@@ -452,7 +452,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_phm_book": {
       "fullName": "cor_2020/cua_clt_phm_book",
@@ -501,7 +501,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_jud_book": {
       "fullName": "cor_2020/cua_clt_jud_book",
@@ -550,7 +550,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_jas_book": {
       "fullName": "cor_2020/cua_clt_jas_book",
@@ -599,7 +599,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_heb_book": {
       "fullName": "cor_2020/cua_clt_heb_book",
@@ -648,7 +648,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_gal_book": {
       "fullName": "cor_2020/cua_clt_gal_book",
@@ -697,7 +697,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_eph_book": {
       "fullName": "cor_2020/cua_clt_eph_book",
@@ -746,7 +746,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_col_book": {
       "fullName": "cor_2020/cua_clt_col_book",
@@ -803,11 +803,11 @@
         "langId": "cua",
         "projectId": "clt",
         "bookId": "act",
-        "percentCompleted": 0.9414101290963257,
-        "completedVerses": 948,
+        "percentCompleted": 0.916583912611718,
+        "completedVerses": 923,
         "totalVerses": 1007,
         "unalignedOrig": 3938,
-        "unalignedTarget": 154
+        "unalignedTarget": 180
       },
       "checks": {
         "langId": "cua",
@@ -844,7 +844,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T10:06:00Z"
+      "modified": "2022-01-12T10:04:10Z"
     },
     "cor_2020/cua_clt_3jn_book": {
       "fullName": "cor_2020/cua_clt_3jn_book",
@@ -893,7 +893,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_2ti_book": {
       "fullName": "cor_2020/cua_clt_2ti_book",
@@ -942,7 +942,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_2th_book": {
       "fullName": "cor_2020/cua_clt_2th_book",
@@ -991,7 +991,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_2pe_book": {
       "fullName": "cor_2020/cua_clt_2pe_book",
@@ -1040,7 +1040,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_2jn_book": {
       "fullName": "cor_2020/cua_clt_2jn_book",
@@ -1106,7 +1106,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "updated_at": "2022-01-10T14:37:20.312Z"
     },
     "cor_2020/cua_clt_2co_book": {
       "fullName": "cor_2020/cua_clt_2co_book",
@@ -1117,7 +1117,7 @@
         "percentCompleted": 1,
         "completedVerses": 256,
         "totalVerses": 256,
-        "unalignedOrig": 892,
+        "unalignedOrig": 893,
         "unalignedTarget": 221
       },
       "checks": {
@@ -1155,7 +1155,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2021-12-26T15:48:25.362Z"
+      "modified": "2022-01-12T10:02:38Z"
     },
     "cor_2020/cua_clt_1ti_book": {
       "fullName": "cor_2020/cua_clt_1ti_book",
@@ -1163,11 +1163,11 @@
         "langId": "cua",
         "projectId": "clt",
         "bookId": "1ti",
-        "percentCompleted": 1,
-        "completedVerses": 113,
+        "percentCompleted": 0.99,
+        "completedVerses": 112,
         "totalVerses": 113,
         "unalignedOrig": 184,
-        "unalignedTarget": 78
+        "unalignedTarget": 76
       },
       "checks": {
         "langId": "cua",
@@ -1204,7 +1204,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T05:15:00Z"
+      "modified": "2022-01-03T09:01:55Z"
     },
     "cor_2020/cua_clt_1th_book": {
       "fullName": "cor_2020/cua_clt_1th_book",

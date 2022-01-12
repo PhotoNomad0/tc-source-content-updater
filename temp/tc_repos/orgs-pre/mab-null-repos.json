@@ -1,0 +1,94 @@
+{
+  "processedProjects": 3,
+  "totalProjects": 3,
+  "projects": {
+    "tcnt/mab_reg_mrk_book": {
+      "fullName": "tcnt/mab_reg_mrk_book",
+      "wA": {
+        "langId": "mab",
+        "projectId": "reg",
+        "bookId": "mrk",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mab",
+        "projectId": "reg",
+        "bookId": "mrk",
+        "time_created": "2018-04-18T17:33:04.458Z",
+        "tc_version": 1,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-07-31T02:27:51Z"
+    },
+    "wendyc/mab_mrk_text_reg": {
+      "fullName": "wendyc/mab_mrk_text_reg",
+      "wA": {
+        "langId": "mab",
+        "projectId": "mrk",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "mab",
+        "projectId": "text",
+        "bookId": "mrk",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-04-12T22:11:38Z"
+    }
+  }
+}

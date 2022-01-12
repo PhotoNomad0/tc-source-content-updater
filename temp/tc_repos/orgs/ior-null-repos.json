@@ -1,5 +1,97 @@
 {
-  "projectSummaries": {},
+  "projectSummaries": {
+    "richqa/ior_ulb_2ti_book": {
+      "fullName": "richqa/ior_ulb_2ti_book",
+      "wA": {
+        "langId": "ior",
+        "projectId": "ulb",
+        "bookId": "2ti",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 83,
+        "unalignedOrig": 1235,
+        "unalignedTarget": 1154
+      },
+      "checks": {
+        "langId": "ior",
+        "projectId": "ulb",
+        "bookId": "2ti",
+        "time_created": "2021-10-08T15:55:54.238Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 119
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 356,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-10-12T13:27:01Z"
+    },
+    "burje_duro/ior_2co_text_reg": {
+      "fullName": "burje_duro/ior_2co_text_reg",
+      "wA": {
+        "langId": "ior",
+        "projectId": "2co",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ior",
+        "projectId": "text",
+        "bookId": "2co",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2017-11-27T12:26:00Z"
+    }
+  },
   "goodProjects": {
     "waFinished": {},
     "waNearlyFinished": {},
