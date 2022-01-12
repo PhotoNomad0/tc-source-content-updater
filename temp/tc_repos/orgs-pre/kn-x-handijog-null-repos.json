@@ -1,0 +1,80 @@
+{
+  "processedProjects": 2,
+  "totalProjects": 2,
+  "projects": {
+    "Vvkumar/kn-x-handijog_reg_tit_book": {
+      "fullName": "Vvkumar/kn-x-handijog_reg_tit_book",
+      "wA": {
+        "langId": "kn-x-handijog",
+        "projectId": "reg",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 46,
+        "unalignedOrig": 659,
+        "unalignedTarget": 701
+      },
+      "checks": {
+        "langId": "kn-x-handijog",
+        "projectId": "reg",
+        "bookId": "tit",
+        "time_created": "2021-11-11T14:11:42.433Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "kn",
+            "orig_lang_check_version": "0.8",
+            "gl_check_version": "v33.2"
+          },
+          "percentCompleted": 0.6461538461538462,
+          "completedChecks": 84,
+          "totalChecks": 130,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "grammar-connect-logic-result_1_13__1",
+                  "selections": "ದಾನಿಂಚ-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v33"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "kn",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-02T07:25:44Z"
+    }
+  }
+}

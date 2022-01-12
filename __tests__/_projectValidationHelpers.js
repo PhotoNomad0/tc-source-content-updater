@@ -1109,6 +1109,8 @@ export function summarizeProjects(outputFolder, langId, org) {
  * @param langId
  * @param org
  * @param checkMigration
+ * @param retryFailedDownloads
+ * @param defaultDate
  * @return {Promise<void>}
  */
 export async function validateProjects(repos, resourcesPath, outputFolder, langId, org, checkMigration, retryFailedDownloads, defaultDate=null) {
@@ -1123,8 +1125,15 @@ export async function validateProjects(repos, resourcesPath, outputFolder, langI
   }
   for (let i = repos.length - 1; i > 0; i--) {
     const project = repos[i];
+    const fullName = project.full_name || '';
+    const [projectLang] = fullName.split('_');
+    if (projectLang !== langId) {
+      console.log(`skipping over ${fullName} because the langId ${projectLang} does not match current ${langId}`);
+      continue;
+    }
+
     let doingRetry = false;
-    const projectResults = projectsResults[project.full_name];
+    const projectResults = projectsResults[fullName];
     if (projectResults) {
       if (retryFailedDownloads && projectResults.ERROR) {
         delete projectResults.ERROR;
@@ -1138,20 +1147,20 @@ export async function validateProjects(repos, resourcesPath, outputFolder, langI
         }
         if (project.updated_at > modified) {
           // process updated repo
-          console.log(`repo updated ${project.full_name}`);
+          console.log(`repo updated ${fullName}`);
         } else if (checkMigration) {
           if (projectResults.checkMigration) {
-            console.log(`skipping over ${project} already migration checked`);
+            console.log(`skipping over ${fullName} already migration checked`);
             continue; // skip over if repo already checked migration
           }
         } else {
-          console.log(`skipping over ${project} since we are not doing migration checking`);
+          console.log(`skipping over ${fullName} since we are not doing migration checking`);
           continue; // skip over if repo already processed
         }
       }
     }
-    console.log(`${i+1} - Loading ${project.full_name}`);
-    const results = await downloadAndVerifyProject(project, resourcesPath, project.full_name, checkMigration);
+    console.log(`${i+1} - Loading ${fullName}`);
+    const results = await downloadAndVerifyProject(project, resourcesPath, fullName, checkMigration);
     const waWarnings = results && results.wA && results.wA.warnings || '';
     const tnWarnings = results && results.checks && results.checks.translationNotes && results.checks.translationNotes.stats && results.checks.translationNotes.stats.toolWarnings || '';
     const twWarnings = results && results.checks && results.checks.translationWords && results.checks.translationWords.stats && results.checks.translationWords.stats.toolWarnings || '';
@@ -1162,13 +1171,13 @@ export async function validateProjects(repos, resourcesPath, outputFolder, langI
     }
     // console.log(JSON.stringify(results));
     results.modified = project.updated_at;
-    projectsResults[project.full_name] = results;
+    projectsResults[fullName] = results;
     const totalProjects = repos.length;
     const processedProjects = repos.length - i + 1;
 
     if (doingRetry) {
       if (!results.ERROR) {
-        console.log(`recovered project ${project.full_name}`);
+        console.log(`recovered project ${fullName}`);
       }
     }
 

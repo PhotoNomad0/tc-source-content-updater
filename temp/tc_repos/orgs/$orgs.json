@@ -1,0 +1,496 @@
+{
+  "191210": {},
+  "200303": {},
+  "vi": {
+    "vi_gl": 29,
+    "VGM": 63,
+    "laithienthao": 4,
+    "tc01": 1,
+    "richmahn": 2,
+    "uW_test_001": 1,
+    "vinhvd749": 2,
+    "HJ": 2,
+    "man_vgm": 70
+  },
+  "el": {
+    "photonomad0": 1,
+    "bspidel": 1
+  },
+  "en": {
+    "tc02": 60,
+    "richmahn": 18,
+    "RoyalSix1": 1,
+    "photonomad0": 15,
+    "royalsix": 17,
+    "tc01": 98,
+    "tcnt": 7,
+    "rba": 1,
+    "pjoakes": 45,
+    "qa99": 32,
+    "benjore": 14,
+    "tCore-test-data": 6,
+    "tc0.10.1": 6,
+    "benjamindahl": 1,
+    "klnickell": 4,
+    "katalakay": 58,
+    "RobH": 7,
+    "tc_help": 1,
+    "deferredreward": 6,
+    "joel": 8,
+    "tc0.8.1": 6,
+    "qa98": 1,
+    "jag3773": 4,
+    "ang.west1": 5,
+    "JustinBoothby": 1,
+    "birch": 4,
+    "mtijerina": 3,
+    "dandennison": 1,
+    "Demsin": 2,
+    "tc1.0.2": 2,
+    "tc1.1.2": 2,
+    "tc1.1.3": 2,
+    "ElsyLambert": 35,
+    "TC_SAVE": 15,
+    "dougsmith1977": 1,
+    "laurag": 3,
+    "scottpbayer": 1,
+    "tspan": 10,
+    "jessewharris": 2,
+    "SuzannaSmith": 1,
+    "RichTestOrg": 1,
+    "unfoldingWord": 1,
+    "jduguid": 1,
+    "tcsave": 2,
+    "test_user": 1,
+    "richmahntest": 1,
+    "photonomad1": 23,
+    "dahutchison": 5,
+    "qa1": 3,
+    "qa11": 1,
+    "tc1.1.4": 3,
+    "JackMessarra": 4,
+    "bspidel": 4,
+    "joeldruark": 69,
+    "manny_colon": 5,
+    "christopherrsmith": 18,
+    "avaldizan": 14,
+    "Vipin_Bhadran": 1,
+    "tc03": 3,
+    "avaldizantest": 11,
+    "Aaron.Shryock": 6,
+    "Grant_Ailie": 11,
+    "man_vgm": 1,
+    "vinhvd749": 66,
+    "Samuel_Kim": 1,
+    "ghayden": 9,
+    "richqa": 2,
+    "lrsallee": 21,
+    "MattCarlton": 2,
+    "stephenwunrow": 1,
+    "Ashish25": 1,
+    "kiranjagdhane17": 1,
+    "Pradeep_Kaki": 1,
+    "RixonReji0401": 1,
+    "davisprickett": 2,
+    "TANUJA.G": 1,
+    "sunilkasbe": 1,
+    "Connie": 1
+  },
+  "hi": {
+    "photonomad0": 1,
+    "richmahn": 1,
+    "bspidel": 2,
+    "tc01": 8,
+    "jobbyp": 4,
+    "benjore": 1,
+    "tc_help": 1,
+    "shojojohn": 86,
+    "russp41": 3,
+    "royalsix": 1,
+    "jesse_test": 1,
+    "ElsyLambert": 3,
+    "photonomad1": 1,
+    "BCS_India": 56,
+    "India_BCS": 46,
+    "Vipin_Bhadran": 3,
+    "manny_colon": 3,
+    "joeldruark": 1,
+    "tc02": 1,
+    "tc03": 1,
+    "uW_test_001": 2,
+    "Amos.Khokhar": 12,
+    "Ashish25": 4,
+    "Ashu_07": 2,
+    "Robert7": 1,
+    "RixonReji0401": 1,
+    "tcsingla83": 1,
+    "Shiju_Mammen": 1,
+    "Sibaji.Digal": 1
+  },
+  "fr": {
+    "photonomad0": 3,
+    "tCore-test-data": 3,
+    "tx-manager-test-data": 1,
+    "tc01": 4,
+    "bspidel": 1,
+    "tc0.10.1": 2,
+    "tim": 1,
+    "qa99": 1,
+    "richmahn": 1,
+    "photonomad1": 1,
+    "tc02": 1,
+    "Aaron.Shryock": 2
+  },
+  "gu": {
+    "photonomad0": 1,
+    "shojojohn": 25,
+    "russp41": 2,
+    "Vipin_Bhadran": 1,
+    "India_BCS": 1,
+    "BCS_India": 8,
+    "WilsonJacob": 1,
+    "Amos.Khokhar": 2
+  },
+  "aig": {
+    "photonomad0": 3,
+    "tc01": 1,
+    "joel": 1
+  },
+  "abb": {
+    "photonomad0": 1
+  },
+  "es": {
+    "tc02": 2
+  },
+  "tpj": {
+    "tc02": 1,
+    "tcnt": 13,
+    "tc03": 1
+  },
+  "zh": {
+    "richmahn": 3
+  },
+  "mab": {
+    "tcnt": 1
+  },
+  "hch-x-huicholeste": {
+    "tcnt": 4
+  },
+  "es-419": {
+    "tcnt": 9,
+    "qa99": 1,
+    "tc01": 6,
+    "bspidel": 1,
+    "pjoakes": 3,
+    "photonomad0": 1,
+    "benjore": 1,
+    "tc02": 1,
+    "tc0.8.1": 3,
+    "LarryPinero": 7,
+    "AngelicaReyes": 2,
+    "abelper8": 5,
+    "Connie": 1,
+    "birch": 4,
+    "miguelcordero": 2
+  },
+  "ne": {
+    "bspidel": 2,
+    "russp41": 2,
+    "tCore-test-data": 1,
+    "rameshwar_yadav": 1,
+    "ramadhikary": 1,
+    "paulrana": 12,
+    "ramyadav": 21,
+    "hblamtari": 29
+  },
+  "abu": {
+    "tc01": 1,
+    "qa99": 1
+  },
+  "rmr-x-bsa": {
+    "toddlprice": 1
+  },
+  "sw": {
+    "tc01": 1,
+    "richmahn": 1,
+    "tc1.1.4": 1
+  },
+  "old": {},
+  "bes": {
+    "bspidel": 1
+  },
+  "ku": {
+    "mesopotamia": 1
+  },
+  "ru": {
+    "dimasava": 8,
+    "katalakay": 2,
+    "qa99": 1,
+    "RobH": 1,
+    "pjoakes": 3,
+    "jobbyp": 2,
+    "benjore": 5,
+    "Anatolii": 5,
+    "mkaryakina": 14,
+    "Pro": 17,
+    "royalsix": 1,
+    "aleksey.ignashin": 2,
+    "Savchak": 1,
+    "Anna": 11,
+    "birch": 2,
+    "Yuri": 5,
+    "ibibleru": 2,
+    "ru_gl": 1,
+    "rob": 66,
+    "ghayden": 2,
+    "richmahn": 1,
+    "richqa": 1
+  },
+  "rmy-x-vc": {
+    "biljananikolic": 1,
+    "toddlprice": 2
+  },
+  "rmy-x-vwa": {
+    "sasabakic": 1
+  },
+  "rmy-x-vg": {
+    "romastandarddemo": 1
+  },
+  "atg": {
+    "royalsix": 1
+  },
+  "id": {
+    "russp41": 1,
+    "GeoSun": 1,
+    "richmahn": 1
+  },
+  "pt-br": {
+    "benjore": 2,
+    "abelper8": 3
+  },
+  "aaa": {
+    "bspidel": 1
+  },
+  "hr": {
+    "Serginjo": 1
+  },
+  "avi": {
+    "Joy18": 1
+  },
+  "kfx-x-outerser": {
+    "Shyam": 1
+  },
+  "ory": {
+    "Raju_Abraham": 1,
+    "shojojohn": 4,
+    "manash12d": 10,
+    "Deepak.Nayak": 5,
+    "BCS_India": 1,
+    "Isaac.Jani": 1,
+    "Shyam_G": 1
+  },
+  "ar": {
+    "bspidel": 2,
+    "benjore": 1,
+    "tc01": 4,
+    "birch": 1,
+    "ElsyLambert": 3,
+    "TC_SAVE": 2,
+    "tC_NAV": 43,
+    "tcnav1": 65,
+    "tc02": 1,
+    "qa99": 1,
+    "joel": 1
+  },
+  "en-x-demo1": {
+    "joel.martin": 1,
+    "ElsyLambert": 2,
+    "tc02": 1,
+    "pjoakes": 1
+  },
+  "pa": {
+    "shojojohn": 25,
+    "Vipin_Bhadran": 2,
+    "India_BCS": 3
+  },
+  "as": {
+    "benjore": 1,
+    "shojojohn": 3,
+    "India_BCS": 27
+  },
+  "bn": {
+    "shojojohn": 18,
+    "Vipin_Bhadran": 7,
+    "India_BCS": 9,
+    "BCS_India": 9
+  },
+  "mr": {
+    "shojojohn": 25,
+    "India_BCS": 3,
+    "BCS_India": 3,
+    "sunilkasbe": 20,
+    "kiranjagdhane17": 4,
+    "Amos.Khokhar": 2,
+    "sachin_nerlekar": 1,
+    "Nitingudekar_1": 1
+  },
+  "zza": {
+    "tc01": 1,
+    "tc0.8.1": 2
+  },
+  "am": {
+    "tc02": 1,
+    "tc01": 1
+  },
+  "ml": {
+    "shojojohn": 7,
+    "Vipin_Bhadran": 3,
+    "India_BCS": 23
+  },
+  "aa": {
+    "jag3773": 1,
+    "ElsyLambert": 1,
+    "richmahn": 1,
+    "joel": 1
+  },
+  "aac": {
+    "jesse_test": 3,
+    "manny_colon": 1,
+    "jag3773": 1
+  },
+  "te": {
+    "shojojohn": 5,
+    "India_BCS": 5,
+    "BCS_India": 22,
+    "Pradeep_Kaki": 17,
+    "Bhandari": 1
+  },
+  "ble": {
+    "ElsyLambert": 1
+  },
+  "kn": {
+    "shojojohn": 7,
+    "russp41": 2,
+    "Vipin_Bhadran": 2,
+    "BCS_India": 28,
+    "India_BCS": 21,
+    "translationCore-Create-BCS": 1,
+    "uW_test_001": 1,
+    "Kumar": 1,
+    "TANUJA.G": 1,
+    "Sujata.Patti.": 1,
+    "Rekha": 1,
+    "Bambino": 1,
+    "ghayden": 1,
+    "photonomad1": 2,
+    "tCore-test-data": 1
+  },
+  "OLDen": {
+    "ang.west1": 1
+  },
+  "my": {
+    "konyinyi": 1,
+    "birch": 1,
+    "photonomad1": 1,
+    "photonomad0": 1
+  },
+  "xty": {
+    "ethan.wagoner": 1
+  },
+  "ta": {
+    "shojojohn": 13,
+    "BCS_India": 14
+  },
+  "test": {},
+  "test2": {},
+  "nar": {
+    "lversaw": 1
+  },
+  "ur": {
+    "BCS_India": 17,
+    "India_BCS": 14,
+    "shojojohn": 1
+  },
+  "hal": {
+    "Joshua": 2
+  },
+  "kn-x-handijog": {
+    "russp41": 1,
+    "Vvkumar": 1
+  },
+  "el-x-koine": {
+    "ibibleru": 27
+  },
+  "or": {
+    "India_BCS": 25,
+    "manash12d": 10,
+    "Sibaji.Digal": 4,
+    "Deepak.Nayak": 1,
+    "shojojohn": 1,
+    "BCS_India": 1,
+    "Shyam_G": 1
+  },
+  "nag": {
+    "India_BCS": 25,
+    "shojojohn": 2
+  },
+  "mng": {
+    "mnong_2020": 27
+  },
+  "rgs": {
+    "raglay_2021": 27
+  },
+  "cua": {
+    "cor_2020": 27
+  },
+  "arz": {
+    "nileharvest": 1
+  },
+  "uk": {
+    "Samuel_Kim": 1
+  },
+  "kuf": {
+    "katu_2021": 27
+  },
+  "mse": {
+    "Aaron.Shryock": 1
+  },
+  "pid": {
+    "abelper8": 1
+  },
+  "bdv": {
+    "Raju_Abraham": 1
+  },
+  "swx": {
+    "MarciaSuzuki": 1
+  },
+  "kpm": {
+    "t_rin_04_2021": 28
+  },
+  "rml": {
+    "Samuel_Kim": 3,
+    "rm_ol": 1
+  },
+  "kfi": {
+    "Chandrashekhar": 1
+  },
+  "ior": {
+    "richqa": 1
+  },
+  "yeu": {
+    "shojojohn": 1
+  },
+  "tel-x-gamperukula": {
+    "gamperukula": 1
+  },
+  "kan-x-palligaru": {
+    "varun": 1,
+    "uW_test_001": 1
+  },
+  "en-x-demo2": {
+    "prorlandosantos": 1
+  },
+  "tel-x-thalaboomi": {
+    "ajayvardhan": 1
+  }
+}

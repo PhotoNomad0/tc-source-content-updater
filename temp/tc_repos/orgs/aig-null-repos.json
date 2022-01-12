@@ -1,0 +1,151 @@
+{
+  "projectSummaries": {
+    "joel/aig_old_gal_book": {
+      "fullName": "joel/aig_old_gal_book",
+      "ERROR": "Empty Repo: joel/aig_old_gal_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/joel/aig_old_gal_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2018-12-06T05:46:35Z"
+    },
+    "photonomad0/aig_ultz_gal_book": {
+      "fullName": "photonomad0/aig_ultz_gal_book",
+      "wA": {
+        "langId": "aig",
+        "projectId": "ultz",
+        "bookId": "gal",
+        "percentCompleted": 0.041666666666666664,
+        "completedVerses": 1,
+        "totalVerses": 24,
+        "unalignedOrig": 352,
+        "unalignedTarget": 494
+      },
+      "checks": {
+        "langId": "aig",
+        "projectId": "ultz",
+        "bookId": "gal",
+        "time_created": "2018-06-07T12:47:06.684Z",
+        "tc_version": 6,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-08-24T19:49:54Z"
+    },
+    "tc01/aig_algn_gal_book": {
+      "fullName": "tc01/aig_algn_gal_book",
+      "wA": {
+        "langId": "aig",
+        "projectId": "algn",
+        "bookId": "gal",
+        "percentCompleted": 0.020134228187919462,
+        "completedVerses": 3,
+        "totalVerses": 149,
+        "unalignedOrig": 2170,
+        "unalignedTarget": 3198
+      },
+      "checks": {
+        "langId": "aig",
+        "projectId": "algn",
+        "bookId": "gal",
+        "time_created": "2018-06-07T12:47:06.684Z",
+        "tc_version": 6,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-08-23T19:50:21Z"
+    },
+    "photonomad0/aig_algn_gal_book": {
+      "fullName": "photonomad0/aig_algn_gal_book",
+      "wA": {
+        "langId": "aig",
+        "projectId": "algn",
+        "bookId": "gal",
+        "percentCompleted": 0.041666666666666664,
+        "completedVerses": 1,
+        "totalVerses": 24,
+        "unalignedOrig": 352,
+        "unalignedTarget": 494
+      },
+      "checks": {
+        "langId": "aig",
+        "projectId": "algn",
+        "bookId": "gal",
+        "time_created": "2018-06-07T12:47:06.684Z",
+        "tc_version": 6,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-08-23T13:10:21Z"
+    }
+  },
+  "goodProjects": {
+    "waFinished": {},
+    "waNearlyFinished": {},
+    "allFinished": {},
+    "allNearlyFinished": {}
+  }
+}

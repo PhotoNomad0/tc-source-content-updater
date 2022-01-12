@@ -1,0 +1,2802 @@
+{
+  "processedProjects": 20,
+  "totalProjects": 44,
+  "projects": {
+    "Shyam_G/or_oglt_jas_book": {
+      "fullName": "Shyam_G/or_oglt_jas_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "jas",
+        "percentCompleted": 1,
+        "completedVerses": 108,
+        "totalVerses": 108,
+        "unalignedOrig": 12,
+        "unalignedTarget": 14
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "jas",
+        "time_created": "2021-10-23T16:03:31.939Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.27978339350180503,
+          "completedChecks": 155,
+          "totalChecks": 554,
+          "stats": {
+            "dupes": {
+              "figs-metaphor_1_12__1": {
+                "dupesList": [
+                  "ସେ ଜୀବନରୁପ ମୁକୁଟ ପ୍ରାପ୍ତ ହେବ-1",
+                  "ସେ ଜୀବନରୁପ ମୁକୁଟ ପ୍ରାପ୍ତ ହେବ-1"
+                ],
+                "warnings": "2 selections duplicated\t"
+              }
+            },
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-metaphor_1_11__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_1_12__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_2_18__1 - Missing 1 selections\t\nfigs-abstractnouns_3_14__1 - Missing 1 selections\t\nfigs-activepassive_3_4__1 - Missing 1 selections\t\nfigs-activepassive_3_6__1 - Missing 1 selections\t\nfigs-doublet_1_17__1 - Missing 1 selections\t\nfigs-ellipsis_3_12__1 - Missing 1 selections\t\nfigs-idiom_4_13__1 - Missing 1 selections\t\nfigs-metaphor_1_9__1 - Missing 2 selections\t\nfigs-metaphor_1_12__1 - 2 selections duplicated\t\nfigs-metaphor_1_17__1 - Missing 2 selections\t\nfigs-metaphor_1_27__1 - Missing 1 selections\t\nfigs-metaphor_2_5__1 - Missing 1 selections\t\nfigs-metaphor_3_2__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 5 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_3_17__1 - Missing 1 selections\t\nfigs-metaphor_4_4__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 3 selections\t\nfigs-metaphor_5_3__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 2 selections\t\nfigs-metaphor_5_7__1 - Missing 1 selections\t\nfigs-metaphor_5_9__1 - Missing 2 selections\t\nfigs-metaphor_5_12__1 - Missing 1 selections\t\nfigs-metaphor_5_19__1 - Missing 2 selections\t\nfigs-metaphor_5_20__1 - Missing 2 selections\t\nfigs-personification_1_15__1 - Missing 1 selections\t\nfigs-rquestion_5_13__1 - Missing 1 selections\t\nfigs-simile_5_3__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.9870410367170627,
+          "completedChecks": 457,
+          "totalChecks": 463,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_2_18__1 - Missing 1 selections\t\nfigs-abstractnouns_3_14__1 - Missing 1 selections\t\nfigs-activepassive_3_4__1 - Missing 1 selections\t\nfigs-activepassive_3_6__1 - Missing 1 selections\t\nfigs-doublet_1_17__1 - Missing 1 selections\t\nfigs-ellipsis_3_12__1 - Missing 1 selections\t\nfigs-idiom_4_13__1 - Missing 1 selections\t\nfigs-metaphor_1_9__1 - Missing 2 selections\t\nfigs-metaphor_1_12__1 - 2 selections duplicated\t\nfigs-metaphor_1_17__1 - Missing 2 selections\t\nfigs-metaphor_1_27__1 - Missing 1 selections\t\nfigs-metaphor_2_5__1 - Missing 1 selections\t\nfigs-metaphor_3_2__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 5 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_3_17__1 - Missing 1 selections\t\nfigs-metaphor_4_4__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 3 selections\t\nfigs-metaphor_5_3__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 2 selections\t\nfigs-metaphor_5_7__1 - Missing 1 selections\t\nfigs-metaphor_5_9__1 - Missing 2 selections\t\nfigs-metaphor_5_12__1 - Missing 1 selections\t\nfigs-metaphor_5_19__1 - Missing 2 selections\t\nfigs-metaphor_5_20__1 - Missing 2 selections\t\nfigs-personification_1_15__1 - Missing 1 selections\t\nfigs-rquestion_5_13__1 - Missing 1 selections\t\nfigs-simile_5_3__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "BCS_India/or_gltn_jon_book": {
+      "fullName": "BCS_India/or_gltn_jon_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "gltn",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "gltn",
+        "bookId": "jon",
+        "time_created": "2021-11-15T10:57:31.365Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.10344827586206896,
+          "completedChecks": 9,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 191,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "manash12d/or_glt_jon_book": {
+      "fullName": "manash12d/or_glt_jon_book",
+      "ERROR": "Empty Repo: manash12d/or_glt_jon_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/manash12d/or_glt_jon_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2021-11-16T07:10:59Z"
+    },
+    "manash12d/or_oglt_jon_book": {
+      "fullName": "manash12d/or_oglt_jon_book",
+      "ERROR": "Empty Repo: manash12d/or_oglt_jon_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/manash12d/or_oglt_jon_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2021-11-16T07:04:57Z"
+    },
+    "manash12d/or_gltn_jon_book": {
+      "fullName": "manash12d/or_gltn_jon_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "gltn",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "gltn",
+        "bookId": "jon",
+        "time_created": "2021-11-15T10:57:31.365Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.10344827586206896,
+          "completedChecks": 9,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 191,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "manash12d/or_jglt_jon_book": {
+      "fullName": "manash12d/or_jglt_jon_book",
+      "ERROR": "Empty Repo: manash12d/or_jglt_jon_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/manash12d/or_jglt_jon_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2021-11-15T11:15:31Z"
+    },
+    "manash12d/or_oglt_jas_book": {
+      "fullName": "manash12d/or_oglt_jas_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "jas",
+        "percentCompleted": 0.037037037037037035,
+        "completedVerses": 4,
+        "totalVerses": 108,
+        "unalignedOrig": 1677,
+        "unalignedTarget": 1904
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "jas",
+        "time_created": "2021-10-23T16:03:31.939Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 0.3249097472924188,
+          "completedChecks": 180,
+          "totalChecks": 554,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-metaphor_1_11__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_1_12__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-metaphor_1_9__1 - Missing 1 selections\t\nfigs-metaphor_1_17__1 - Missing 1 selections\t\nfigs-metaphor_2_5__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 4 selections\t\nfigs-metaphor_4_4__1 - Missing 1 selections\t\nfigs-metaphor_4_8__1 - Missing 2 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-metaphor_5_9__1 - Missing 1 selections\t\nfigs-metaphor_5_19__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.980561555075594,
+          "completedChecks": 454,
+          "totalChecks": 463,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-metaphor_1_9__1 - Missing 1 selections\t\nfigs-metaphor_1_17__1 - Missing 1 selections\t\nfigs-metaphor_2_5__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 4 selections\t\nfigs-metaphor_4_4__1 - Missing 1 selections\t\nfigs-metaphor_4_8__1 - Missing 2 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-metaphor_5_9__1 - Missing 1 selections\t\nfigs-metaphor_5_19__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "shojojohn/or_oglt_jon_book": {
+      "fullName": "shojojohn/or_oglt_jon_book",
+      "ERROR": "Empty Repo: shojojohn/or_oglt_jon_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/shojojohn/or_oglt_jon_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2021-11-08T07:28:51Z"
+    },
+    "manash12d/or_oglt_2ti_book": {
+      "fullName": "manash12d/or_oglt_2ti_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "2ti",
+        "percentCompleted": 1,
+        "completedVerses": 83,
+        "totalVerses": 83,
+        "unalignedOrig": 1,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "2ti",
+        "time_created": "2021-11-05T09:18:50.487Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.9862068965517241,
+          "completedChecks": 286,
+          "totalChecks": 290,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_2_10__1",
+                  "selections": "ସେମାନେ-1 ଖ୍ରୀଷ୍ଟ ଯୀଶୁଙ୍କଠାରେ ଥିବା ପରିତ୍ରାଣ ମଧ୍ୟ ପାଇପାରିବେ।-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "ଧୈର୍ଯ୍ୟ-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "ସଙ୍କଳ୍ପ-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "ବିଶ୍ୱାସ-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "ସହିଷ୍ଣୁତା-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "ପ୍ରେମ-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-abstractnouns_3_10__1",
+                  "selections": "ଧୈର୍ଯ୍ୟ-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-metaphor_4_4__1",
+                  "selections": "କଳ୍ପିତ କାହାଣୀଗୁଡ଼ିକ ପ୍ରତି ମନ ଦେବେ।-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_4__1",
+                  "selections": "ଉଭୟ ସେମାନଙ୍କର କର୍ଣ୍ଣ ସତ୍ୟଠାରୁ ଫେରିବେ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_1_13__1",
+                  "selections": "ସବୁ ହିତଜନକ ବାକ୍ୟ-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_3_16__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 355,
+          "totalChecks": 355,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_3_16__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "manash12d/or_oglt_rut_book": {
+      "fullName": "manash12d/or_oglt_rut_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "rut",
+        "percentCompleted": 0.9882352941176471,
+        "completedVerses": 84,
+        "totalVerses": 85,
+        "unalignedOrig": 1,
+        "unalignedTarget": 3
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "rut",
+        "time_created": "2021-07-04T18:08:25.593Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.22",
+            "gl_check_version": "v52"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 131,
+          "totalChecks": 131,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-euphemism_2_9__1",
+                  "selections": "ତୁମ୍ଭକୁ ସ୍ପର୍ଶ ନ କରିବାକୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-synecdoche_1_6__1",
+                  "selections": "ସେମାନଙ୍କୁ ରୁଟି ଦେଇଅଛନ୍ତି-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "grammar-connect-words-phrases_3_12__1",
+                  "selections": "ପୁଣି-1 ଏବେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "writing-politeness_3_9__1",
+                  "selections": "ଆପଣଙ୍କର ଦାସୀ-1 ଆପଣଙ୍କ ଦାସୀ-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 295,
+          "totalChecks": 296,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "manash12d/or_oglt_2jn_book": {
+      "fullName": "manash12d/or_oglt_2jn_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "2jn",
+        "percentCompleted": 1,
+        "completedVerses": 13,
+        "totalVerses": 13,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "2jn",
+        "time_created": "2021-06-23T03:44:59.058Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.21",
+            "gl_check_version": "v52"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 53,
+          "totalChecks": 53,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 65,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.21"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "manash12d/or_oglt_eph_book": {
+      "fullName": "manash12d/or_oglt_eph_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "eph",
+        "percentCompleted": 0.99,
+        "completedVerses": 154,
+        "totalVerses": 155,
+        "unalignedOrig": 30,
+        "unalignedTarget": 36
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "eph",
+        "time_created": "2021-08-01T18:03:17.708Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v52"
+          },
+          "percentCompleted": 0.967741935483871,
+          "completedChecks": 300,
+          "totalChecks": 310,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_4_13__1",
+                  "selections": "ଆମ୍ଭେମାନେ ସମସ୍ତେ ବିଶ୍ୱାସରେ-1 ଏକତା ପ୍ରାପ୍ତ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-abstractnouns_6_23__1",
+                  "selections": "ବିଶ୍ୱାସ ସହିତ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-abstractnouns_6_24__1",
+                  "selections": "ଯେ-1 ଚିରନ୍ତନ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-activepassive_1_11__1",
+                  "selections": "ଆମ୍ଭେମାନେ ପୂର୍ବରୁ ନିରୂପିତ ହେଇଅଛୁ,-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_1_18__1",
+                  "selections": "ତାହାଙ୍କ ଅଧିକାରର-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_14__1",
+                  "selections": "ଦ୍ୱାରା ବିଭିନ୍ନ ଶିକ୍ଷା ରୂପ ବାୟୁରେ ଇତଃସ୍ତତଃ ଚାଳିତ ନ ହେଉ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_22__1",
+                  "selections": "ତୁମ୍ଭେମାନେ ତୁମ୍ଭମାନଙ୍କ ପୁରାତନ ଜୀବନର ଆଚରଣକୁ-1 ପରିତ୍ୟାଗ କରିବା ଉଚିତ-1",
+                  "resourcePartialMatches": 4
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": "figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-activepassive_4_18__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n"
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.985207100591716,
+          "completedChecks": 666,
+          "totalChecks": 676,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 1 selections\t\nfigs-activepassive_4_18__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n, TW: ",
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "Deepak.Nayak/or_oglt_jas_book": {
+      "fullName": "Deepak.Nayak/or_oglt_jas_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "jas",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 108,
+        "unalignedOrig": 1741,
+        "unalignedTarget": 1988
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "jas",
+        "time_created": "2021-10-23T16:03:31.939Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 186,
+          "totalChecks": 186,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [
+                {
+                  "resourceKey": "figs-activepassive_1_13__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-ellipsis_1_10__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metaphor_5_4__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metonymy_1_26__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metonymy_4_8__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-metonymy_5_3__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-nominaladj_4_6__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-personification_1_14__1",
+                  "duplicateMigration": 2
+                },
+                {
+                  "resourceKey": "figs-rquestion_2_6__1",
+                  "duplicateMigration": 2
+                }
+              ],
+              "unmatched": [
+                {
+                  "key": "figs-abstractnouns_2_18__1",
+                  "selections": "ତୁମ୍ଭର ବିଶ୍ୱାସ ଅଛି, ପୁଣି ମୋହର କର୍ମ ଅଛି ।\" କର୍ମ ବିନା ତୁମ୍ଭର ବିଶ୍ୱାସ ମୋତେ ଦେଖାଅ, ଆଉ ମୁଁ କର୍ମ ଦ୍ୱାରା ତୁମ୍ଭକୁ ମୋହର ବିଶ୍ୱାସ ଦେଖାଇବି ।-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-abstractnouns_3_14__1",
+                  "selections": "ସତ୍ୟ ବିରୁଦ୍ଧରେ ଗର୍ବ କର ନାହିଁ ଓ ମିଥ୍ୟା କୁହ ନାହିଁ ।-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-activepassive_1_12__1",
+                  "selections": "ଆପଣା ପ୍ରେମକାରୀମାନଙ୍କୁ ଦେବାକୁ ପ୍ରତିଜ୍ଞା କରିଅଛନ୍ତି ।-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-activepassive_3_4__1",
+                  "selections": "ପ୍ରଚଣ୍ଡ ପବନରେ ଚାଳିତ ହେଲେ ହେଁ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-activepassive_3_6__1",
+                  "selections": "ପ୍ରକୃତିର ଚକ୍ରକୁ ଜ୍ୱଳାଏ, ଓ ନିଜେ ନର୍କରେ ପ୍ରଜ୍ୱଳିତ ହୁଏ ।-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-activepassive_3_9__1",
+                  "selections": "ଈଶ୍ୱରଙ୍କ ସାଦୃଶ୍ୟରେ ସୃଷ୍ଟ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-doublet_1_17__1",
+                  "selections": "ସମସ୍ତ ଉତ୍ତମ ଦାନ ଓ ସମସ୍ତ ସିଦ୍ଧ ବର-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-ellipsis_3_12__1",
+                  "selections": "ଅବା ଦ୍ରାକ୍ଷାଲତା, ଡିମ୍ବିରି ଫଳ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-explicit_1_1__1",
+                  "selections": "ଯାକୁବ, ଈଶ୍ୱରଙ୍କ ଓ ପ୍ରଭୁ ଯୀଶୁଖ୍ରୀଷ୍ଟଙ୍କ ଜଣେ ଦାସ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-explicit_1_21__1",
+                  "selections": "ତୁମ୍ଭମାନଙ୍କ ଆତ୍ମାକୁ ପରିତ୍ରାଣ କରିବା ନିମନ୍ତେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-explicit_2_16__1",
+                  "selections": "ତୃପ୍ତ ହୁଅ,-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-gendernotations_5_12__1",
+                  "selections": "ମୋହର ଭାଇମାନେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-gendernotations_5_19__1",
+                  "selections": "ଭାଇମାନେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-genericnoun_3_1__1",
+                  "selections": "ଅନେକେ-1 ନାହିଁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-hyperbole_4_2__1",
+                  "selections": "ତୁମ୍ଭେମାନେ ବଧ ଓ ଈର୍ଷା କରିଥାଅ, କିନ୍ତୁ ପ୍ରାପ୍ତ ହେବାକୁ ସକ୍ଷମ ହୋଇ ନ ଥାଅ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_1__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1 ପ୍ରଭୁ ଯୀଶୁ ଖ୍ରୀଷ୍ଟଙ୍କଠାରେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_2__1",
+                  "selections": "ଆମ୍ଭେମାନେ ସମସ୍ତେ-1 ଝୁଣ୍ଟିପଡ଼ୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_8__1",
+                  "selections": "ଦ୍ୱିମନା ଲୋକ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_1_9__1",
+                  "selections": "ଆପଣାର ଉନ୍ନତ ଅବସ୍ଥାରେ ଦର୍ପ କରୁ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_1_27__1",
+                  "selections": "ଈଶ୍ୱର ଓ ପିତାଙ୍କ ଛାମୁରେ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_2_5__1",
+                  "selections": "ଅଧିକାରୀ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_2_17__1",
+                  "selections": "ବିଶ୍ୱାସ ନିଜେ, କର୍ମ ବିନା ନିଜେ ମୃତ ଅଟେ ।-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_2_23__1",
+                  "selections": "ତାଙ୍କ ପକ୍ଷରେ ତାହା ଧାର୍ମିକତା ବୋଲି ଗଣିତ ହେଲା,-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_2_25__1",
+                  "selections": "କର୍ମ ଦ୍ୱାରା ଧାର୍ମିକ ଗଣିତ ହେଲେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_2_26__1",
+                  "selections": "କାରଣ ଆତ୍ମା ବିନା ଶରୀର ଯେପରି ମୃତ, ସେହିପରି କର୍ମ ବିନା ବିଶ୍ୱାସ ମଧ୍ୟ ମୃତ ।-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_3_2__1",
+                  "selections": "ଆମ୍ଭେମାନେ-1 ଝୁଣ୍ଟିପଡ଼ୁ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_3_6__1",
+                  "selections": "ଅଧର୍ମର ଜଗତ-1 ଆମ୍ଭମାନଙ୍କ ଅଙ୍ଗମାନଙ୍କ ମଧ୍ୟରେ ଅବସ୍ଥିତ-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-metaphor_3_6__1",
+                  "selections": "ସମସ୍ତ ଶରୀରକୁ କଳଙ୍କିତ କରେ-1",
+                  "resourcePartialMatches": 7
+                },
+                {
+                  "key": "figs-metaphor_3_8__1",
+                  "selections": "କିନ୍ତୁ ଜିହ୍ୱାକୁ କୌଣସି ମନୁଷ୍ୟ ବଶରେ ରଖି ପାରେ ନାହିଁ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_3_8__1",
+                  "selections": "ଅନିଷ୍ଟ ସାଧନରେ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_3_17__1",
+                  "selections": "ଦୟା ଓ ଉତ୍ତମ ଫଳରେ ପରିପୂର୍ଣ୍ଣ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_4_4__1",
+                  "selections": "ହେ ବ୍ୟଭିଚାରିଣୀମାନେ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_4_8__1",
+                  "selections": "ଈଶ୍ୱରଙ୍କର ନିକଟବର୍ତ୍ତୀ ହୁଅ-1",
+                  "resourcePartialMatches": 5
+                },
+                {
+                  "key": "figs-metaphor_4_10__1",
+                  "selections": "ପ୍ରଭୁଙ୍କ ଛାମୁରେ ନତ ହୁଅ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_5_3__1",
+                  "selections": "ଅଗ୍ନି-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_5_5__1",
+                  "selections": "ତୁମ୍ଭେମାନେ ବଧ ଦିନରେ ଆପଣା ଆପଣା ଅନ୍ତଃକରଣକୁ ତୃପ୍ତ କରିଅଛ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_5_7__1",
+                  "selections": "କୃଷକ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metaphor_5_9__1",
+                  "selections": "ବିଚାରକର୍ତ୍ତା ଦ୍ୱାର ନିକଟରେ ଦଣ୍ଡାୟମାନ ହୋଇଅଛନ୍ତି-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_5_16__1",
+                  "selections": "ଧାର୍ମିକ ବ୍ୟକ୍ତିର କାର୍ଯ୍ୟକାରୀ ପ୍ରାର୍ଥନା ଶକ୍ତିଯୁକ୍ତ ଅଟେ ।-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_5_19__1",
+                  "selections": "ତୁମ୍ଭମାନଙ୍କ ମଧ୍ୟରୁ ଯଦି କେହି ସତ୍ୟ ପଥରୁ ଭ୍ରାନ୍ତ ହୁଏ ପୁଣି କେହି ତାହାକୁ ଫେରାଇ ଆଣେ,-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metaphor_5_20__1",
+                  "selections": "ବହୁତ ପାପ ଆଚ୍ଛାଦନ କରେ-1",
+                  "resourcePartialMatches": 3
+                },
+                {
+                  "key": "figs-metonymy_2_16__1",
+                  "selections": "ଆପଣାକୁ ଉଷ୍ମ କର-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_2_22__1",
+                  "selections": "ତୁମ୍ଭେମାନେ ଦେଖ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metonymy_3_14__1",
+                  "selections": "ଯଦି ତୁମ୍ଭେମାନଙ୍କ ହୃଦୟରେ ତିକ୍ତ ଈର୍ଷାଭାବ ଓ ସ୍ୱାର୍ଥପରତା ଥାଏ,-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metonymy_3_15__1",
+                  "selections": "ଏପରି ଜ୍ଞାନ ଉର୍ଦ୍ଧରୁ ଆଗତ ନୁହେଁ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_4_4__1",
+                  "selections": "ଜଗତର ବନ୍ଧୁତା ଈଶ୍ୱରଙ୍କର ଶତ୍ରୁତା-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_4_11__1",
+                  "selections": "ଭାଇମାନେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metonymy_5_5__1",
+                  "selections": "ଆପଣା ଆପଣା ଅନ୍ତଃକରଣ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metonymy_5_7__1",
+                  "selections": "ପ୍ରଭୁଙ୍କ ଆଗମନ ପର୍ଯ୍ୟନ୍ତ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metonymy_5_8__1",
+                  "selections": "ଆପଣା ଆପଣା ହୃଦୟକୁ ସୁସ୍ଥିର କର-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metonymy_5_12__1",
+                  "selections": "ସ୍ୱର୍ଗର ଶପଥ ହେଉ ବା ପୃଥିବୀର ଶପଥ ହେଉ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metonymy_5_18__1",
+                  "selections": "ଫଳ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-parallelism_4_8__1",
+                  "selections": "ହେ ପାପୀମାନେ-1 ତୁମ୍ଭମାନଙ୍କ ହସ୍ତ ଶୁଚି କର-1 ପୁଣି ହେ ଦ୍ୱିମନାମାନେ-1 ତୁମ୍ଭମାନଙ୍କ ହୃଦୟ ଶୁଦ୍ଧ କର-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-personification_1_15__1",
+                  "selections": "ତାହା ପରେ କାମନା, ଗର୍ଭଧାରଣ କରି, ପାପ ପ୍ରସବ କରେ, ପୁଣି ପାପ, ବୃଦ୍ଧି ପାଇ, ମୃତ୍ୟୁକୁ ଜନ୍ମ ଦିଏ ।-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-personification_5_3__1",
+                  "selections": "କଳଙ୍କ ତୁମ୍ଭମାନଙ୍କ ବିରୁଦ୍ଧରେ ସାକ୍ଷ୍ୟ ଦେବ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-rquestion_2_14__1",
+                  "selections": "ଲାଭ କଣ ହେବ, ହେ ମୋହର ଭାଇମାନେ, ଯଦି କେହି ତାହାର ବିଶ୍ୱାସ ଅଛି କହି, କିନ୍ତୁ ତାହାର କର୍ମ ନ ଥାଏ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-rquestion_5_13__1",
+                  "selections": "ତୁମ୍ଭମାନଙ୍କ ମଧ୍ୟରେ କି କେହି ଦୁଃଖଭୋଗ କରୁଅଛି ? ସେ ପ୍ରାର୍ଥନା କରୁ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-rquestion_5_13__1",
+                  "selections": "କେହି କ'ଣ ଆନନ୍ଦିତ ଅଟେ ? ସେ ଗୀତ ଗାନ କରୁ ।-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-simile_1_17__1",
+                  "selections": "ଯାହାଙ୍କଠାରେ କୌଣସି ପରିବର୍ତ୍ତନ ବା ଲେଶମାତ୍ର ବିକାର ନାହିଁ ।-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-simile_1_25__1",
+                  "selections": "ଯେ ସ୍ୱାଧୀନତାର ସିଦ୍ଧ ବ୍ୟବସ୍ଥା ପ୍ରତି ନିରୀକ୍ଷଣ କରେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-simile_5_3__1",
+                  "selections": "ଅଗ୍ନି ପରି ତୁମ୍ଭମାନଙ୍କ ମାଂସ ଗ୍ରାସ କରିବ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-synecdoche_1_1__1",
+                  "selections": "ଦ୍ୱାଦଶ ଗୋଷ୍ଠୀଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-you_2_6__1",
+                  "selections": "କିନ୍ତୁ ତୁମ୍ଭେମାନେ-1 ହତାଦର କରିଅଛ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-you_2_8__1",
+                  "selections": "ତୁମ୍ଭେ-1 ପାଳନ କର-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-you_2_11__1",
+                  "selections": "ଯଦି, ତୁମ୍ଭେ ବ୍ୟଭିଚାର କର ନାହିଁ କିନ୍ତୁ ନରହତ୍ୟା କର-1 ତୁମ୍ଭେ-2 ହୋଇଅଛ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-you_4_7__1",
+                  "selections": "ତୁମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "translate-numbers_5_17__1",
+                  "selections": "ତିନି-1 ଛଅ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "translate-unknown_3_7__1",
+                  "selections": "ସରୀସୃପ-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.9734151329243353,
+          "completedChecks": 476,
+          "totalChecks": 489,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "richqa/ior_ulb_2ti_book": {
+      "fullName": "richqa/ior_ulb_2ti_book",
+      "wA": {
+        "langId": "ior",
+        "projectId": "ulb",
+        "bookId": "2ti",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 83,
+        "unalignedOrig": 1235,
+        "unalignedTarget": 1154
+      },
+      "checks": {
+        "langId": "ior",
+        "projectId": "ulb",
+        "bookId": "2ti",
+        "time_created": "2021-10-08T15:55:54.238Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 119
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 356,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "Sibaji.Digal/or_ogst_tit_book": {
+      "fullName": "Sibaji.Digal/or_ogst_tit_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "ogst",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 4,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "ogst",
+        "bookId": "tit",
+        "time_created": "2021-02-05T12:56:40.155Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.17",
+            "gl_check_version": "v41"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 86,
+          "totalChecks": 86,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-inclusive_1_3__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_1_4__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_8__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_10__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_12__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ ସ୍ଥାନରେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ ସ୍ଥାନରେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_3__1",
+                  "selections": "ଆମ୍ଭେମାନେ ସ୍ୱୟଂ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_4__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_14__1",
+                  "selections": "ଆମ୍ଭର ଲୋକମାନେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_15__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_15__1",
+                  "selections": "ଯଦି ଲୋକମାନେ କଳୁଷିତ ଏବଂ ଖ୍ରୀଷ୍ଟ ଯୀଶୁଙ୍କଠାରେ ବିଶ୍ୱାସ କରନ୍ତି ନାହିଁ, ତେବେ ସେମାନେ ଯାହାସବୁ କରନ୍ତି ତାହା ମନ୍ଦ ଅଟେ-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.17"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 221,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "Sibaji.Digal/or_ogst_3jn_book": {
+      "fullName": "Sibaji.Digal/or_ogst_3jn_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "ogst",
+        "bookId": "3jn",
+        "percentCompleted": 0.9375,
+        "completedVerses": 15,
+        "totalVerses": 16,
+        "unalignedOrig": 0,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "ogst",
+        "bookId": "3jn",
+        "time_created": "2021-02-04T18:53:09.520Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.17",
+            "gl_check_version": "v41"
+          },
+          "percentCompleted": 0.95,
+          "completedChecks": 19,
+          "totalChecks": 20,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 63,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.17"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "Sibaji.Digal/or_oglt_tit_book": {
+      "fullName": "Sibaji.Digal/or_oglt_tit_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 3,
+        "unalignedTarget": 3
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "tit",
+        "time_created": "2021-02-04T17:48:39.882Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.17",
+            "gl_check_version": "v41"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 86,
+          "totalChecks": 86,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-inclusive_1_3__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_1_4__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_8__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_10__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_12__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_2_14__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_3__1",
+                  "selections": "ଆମ୍ଭେମାନେ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_4__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-2",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_6__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_14__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କ ନିଜ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-inclusive_3_15__1",
+                  "selections": "ଆମ୍ଭମାନଙ୍କୁ-1",
+                  "resourcePartialMatches": 0
+                },
+                {
+                  "key": "figs-metaphor_1_15__1",
+                  "selections": "ଯେଉଁମାନେ କଳୁଷିତ ଏବଂ ଅବିଶ୍ୱାସକରନ୍ତି, କିଛି ହିଁ ଶୁଦ୍ଧ ନାହିଁ-1",
+                  "resourcePartialMatches": 0
+                }
+              ],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 221,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "Sibaji.Digal/or_oglt_3jn_book": {
+      "fullName": "Sibaji.Digal/or_oglt_3jn_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "3jn",
+        "percentCompleted": 1,
+        "completedVerses": 16,
+        "totalVerses": 16,
+        "unalignedOrig": 0,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "oglt",
+        "bookId": "3jn",
+        "time_created": "2021-02-04T19:28:37.597Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.17",
+            "gl_check_version": "v41"
+          },
+          "percentCompleted": 0.95,
+          "completedChecks": 19,
+          "totalChecks": 20,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 63,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "manash12d/or_oglt_3jn_book": {
+      "fullName": "manash12d/or_oglt_3jn_book",
+      "ERROR": "Empty Repo: manash12d/or_oglt_3jn_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/manash12d/or_oglt_3jn_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2021-02-09T08:39:10Z"
+    },
+    "India_BCS/or_irv_2th_book": {
+      "fullName": "India_BCS/or_irv_2th_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2th",
+        "percentCompleted": 0.06,
+        "completedVerses": 3,
+        "totalVerses": 50,
+        "unalignedOrig": 323,
+        "unalignedTarget": 263
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2th",
+        "time_created": "2020-12-22T12:44:27.579Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 50
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 262,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_luk_book": {
+      "fullName": "India_BCS/or_irv_luk_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "luk",
+        "percentCompleted": 0.31659574468085105,
+        "completedVerses": 372,
+        "totalVerses": 1175,
+        "unalignedOrig": 4796,
+        "unalignedTarget": 2885
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "luk",
+        "time_created": "2020-12-22T12:32:50.687Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1293
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4088,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_mat_book": {
+      "fullName": "India_BCS/or_irv_mat_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "mat",
+        "percentCompleted": 0.2984531392174704,
+        "completedVerses": 328,
+        "totalVerses": 1099,
+        "unalignedOrig": 4229,
+        "unalignedTarget": 2417
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "mat",
+        "time_created": "2020-12-22T12:24:55.661Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1289
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4054,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_mrk_book": {
+      "fullName": "India_BCS/or_irv_mrk_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "percentCompleted": 0.07348703170028818,
+        "completedVerses": 51,
+        "totalVerses": 694,
+        "unalignedOrig": 5698,
+        "unalignedTarget": 3967
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "time_created": "2020-12-22T12:08:16.749Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 665
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2218,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_jhn_book": {
+      "fullName": "India_BCS/or_irv_jhn_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "percentCompleted": 0.052222222222222225,
+        "completedVerses": 47,
+        "totalVerses": 900,
+        "unalignedOrig": 9248,
+        "unalignedTarget": 7034
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "time_created": "2020-12-22T11:54:14.698Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 778
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3371,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_rev_book": {
+      "fullName": "India_BCS/or_irv_rev_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "rev",
+        "percentCompleted": 0.07962529274004684,
+        "completedVerses": 34,
+        "totalVerses": 427,
+        "unalignedOrig": 5264,
+        "unalignedTarget": 3234
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "rev",
+        "time_created": "2020-12-22T11:40:44.366Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 593
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2334,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_act_book": {
+      "fullName": "India_BCS/or_irv_act_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "act",
+        "percentCompleted": 0.06763285024154589,
+        "completedVerses": 70,
+        "totalVerses": 1035,
+        "unalignedOrig": 9007,
+        "unalignedTarget": 6550
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "act",
+        "time_created": "2020-12-22T11:30:25.792Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1124
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4350,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_rom_book": {
+      "fullName": "India_BCS/or_irv_rom_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "rom",
+        "percentCompleted": 0.08240534521158129,
+        "completedVerses": 37,
+        "totalVerses": 449,
+        "unalignedOrig": 3212,
+        "unalignedTarget": 2475
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "rom",
+        "time_created": "2020-12-22T11:24:40.649Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13",
+            "gl_check_version": "v32"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 631,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2173,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_1co_book": {
+      "fullName": "India_BCS/or_irv_1co_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1co",
+        "percentCompleted": 0.09713024282560706,
+        "completedVerses": 44,
+        "totalVerses": 453,
+        "unalignedOrig": 2948,
+        "unalignedTarget": 2228
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1co",
+        "time_created": "2020-12-22T11:18:11.974Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 368
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1831,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_2co_book": {
+      "fullName": "India_BCS/or_irv_2co_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2co",
+        "percentCompleted": 0.16356877323420074,
+        "completedVerses": 44,
+        "totalVerses": 269,
+        "unalignedOrig": 1640,
+        "unalignedTarget": 1141
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2co",
+        "time_created": "2020-12-22T11:11:24.510Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 327
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1089,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_gal_book": {
+      "fullName": "India_BCS/or_irv_gal_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "gal",
+        "percentCompleted": 0.1935483870967742,
+        "completedVerses": 30,
+        "totalVerses": 155,
+        "unalignedOrig": 724,
+        "unalignedTarget": 502
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "gal",
+        "time_created": "2020-12-22T11:06:31.320Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 127
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 716,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_eph_book": {
+      "fullName": "India_BCS/or_irv_eph_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "eph",
+        "percentCompleted": 0.13043478260869565,
+        "completedVerses": 21,
+        "totalVerses": 161,
+        "unalignedOrig": 1057,
+        "unalignedTarget": 642
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "eph",
+        "time_created": "2020-12-22T10:54:47.452Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 308
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 683,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_phm_book": {
+      "fullName": "India_BCS/or_irv_phm_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "phm",
+        "percentCompleted": 0.18518518518518517,
+        "completedVerses": 5,
+        "totalVerses": 27,
+        "unalignedOrig": 92,
+        "unalignedTarget": 111
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "phm",
+        "time_created": "2020-12-22T10:05:00.147Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 25
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 100,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_jud_book": {
+      "fullName": "India_BCS/or_irv_jud_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "jud",
+        "percentCompleted": 0.19230769230769232,
+        "completedVerses": 5,
+        "totalVerses": 26,
+        "unalignedOrig": 79,
+        "unalignedTarget": 73
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "jud",
+        "time_created": "2020-12-22T09:58:32.628Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 25
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 154,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_2jn_book": {
+      "fullName": "India_BCS/or_irv_2jn_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2jn",
+        "percentCompleted": 0.35714285714285715,
+        "completedVerses": 5,
+        "totalVerses": 14,
+        "unalignedOrig": 61,
+        "unalignedTarget": 25
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2jn",
+        "time_created": "2020-12-22T09:52:27.096Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 12
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 69,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_1jn_book": {
+      "fullName": "India_BCS/or_irv_1jn_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "percentCompleted": 0.21818181818181817,
+        "completedVerses": 24,
+        "totalVerses": 110,
+        "unalignedOrig": 661,
+        "unalignedTarget": 241
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1jn",
+        "time_created": "2020-12-22T09:47:24.664Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 135
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 573,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_2pe_book": {
+      "fullName": "India_BCS/or_irv_2pe_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "percentCompleted": 0.375,
+        "completedVerses": 24,
+        "totalVerses": 64,
+        "unalignedOrig": 262,
+        "unalignedTarget": 127
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2pe",
+        "time_created": "2020-12-22T09:41:15.998Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 329,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_jas_book": {
+      "fullName": "India_BCS/or_irv_jas_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "jas",
+        "percentCompleted": 0.7787610619469026,
+        "completedVerses": 88,
+        "totalVerses": 113,
+        "unalignedOrig": 286,
+        "unalignedTarget": 50
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "jas",
+        "time_created": "2020-12-22T09:37:41.794Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 186
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 489,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_heb_book": {
+      "fullName": "India_BCS/or_irv_heb_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "heb",
+        "percentCompleted": 0.6424050632911392,
+        "completedVerses": 203,
+        "totalVerses": 316,
+        "unalignedOrig": 819,
+        "unalignedTarget": 242
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "heb",
+        "time_created": "2020-12-22T09:32:55.565Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 499
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1401,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_2ti_book": {
+      "fullName": "India_BCS/or_irv_2ti_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "percentCompleted": 0.2413793103448276,
+        "completedVerses": 21,
+        "totalVerses": 87,
+        "unalignedOrig": 247,
+        "unalignedTarget": 230
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "time_created": "2020-12-22T09:28:45.532Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 119
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 371,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_1ti_book": {
+      "fullName": "India_BCS/or_irv_1ti_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "percentCompleted": 0.6722689075630253,
+        "completedVerses": 80,
+        "totalVerses": 119,
+        "unalignedOrig": 348,
+        "unalignedTarget": 216
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "time_created": "2020-12-22T09:21:05.384Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 148
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 511,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_1pe_book": {
+      "fullName": "India_BCS/or_irv_1pe_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "percentCompleted": 0.2909090909090909,
+        "completedVerses": 32,
+        "totalVerses": 110,
+        "unalignedOrig": 390,
+        "unalignedTarget": 323
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "time_created": "2020-12-22T09:12:03.095Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 164
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 632,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_1th_book": {
+      "fullName": "India_BCS/or_irv_1th_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1th",
+        "percentCompleted": 0.20212765957446807,
+        "completedVerses": 19,
+        "totalVerses": 94,
+        "unalignedOrig": 425,
+        "unalignedTarget": 338
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "1th",
+        "time_created": "2020-12-22T08:56:01.618Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 445,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    },
+    "India_BCS/or_irv_col_book": {
+      "fullName": "India_BCS/or_irv_col_book",
+      "wA": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "col",
+        "percentCompleted": 0.18181818181818182,
+        "completedVerses": 18,
+        "totalVerses": 99,
+        "unalignedOrig": 508,
+        "unalignedTarget": 347
+      },
+      "checks": {
+        "langId": "or",
+        "projectId": "irv",
+        "bookId": "col",
+        "time_created": "2020-12-22T08:52:47.816Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 121
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 454,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true
+    }
+  }
+}

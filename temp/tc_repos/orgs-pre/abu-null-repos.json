@@ -1,0 +1,51 @@
+{
+  "processedProjects": 2,
+  "totalProjects": 2,
+  "projects": {
+    "qa99/abu_reg_tit_book": {
+      "fullName": "qa99/abu_reg_tit_book",
+      "wA": {
+        "langId": "abu",
+        "projectId": "reg",
+        "bookId": "tit",
+        "percentCompleted": 0.1875,
+        "completedVerses": 3,
+        "totalVerses": 16,
+        "unalignedOrig": 251,
+        "unalignedTarget": 319
+      },
+      "checks": {
+        "langId": "abu",
+        "projectId": "reg",
+        "bookId": "tit",
+        "time_created": "2018-04-18T14:08:36.516Z",
+        "tc_version": 1,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2018-11-14T17:24:52Z"
+    }
+  }
+}

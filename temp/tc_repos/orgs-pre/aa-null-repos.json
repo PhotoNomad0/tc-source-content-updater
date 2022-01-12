@@ -1,0 +1,167 @@
+{
+  "processedProjects": 2,
+  "totalProjects": 5,
+  "projects": {
+    "joel/aa_reg_gen_book": {
+      "fullName": "joel/aa_reg_gen_book",
+      "ERROR": "Empty Repo: joel/aa_reg_gen_book: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/joel/aa_reg_gen_book/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2021-06-29T23:16:06Z"
+    },
+    "richmahn/aa_reg_mat_book": {
+      "fullName": "richmahn/aa_reg_mat_book",
+      "wA": {
+        "langId": "aa",
+        "projectId": "reg",
+        "bookId": "mat",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "aa",
+        "projectId": "reg",
+        "bookId": "mat",
+        "time_created": "2021-05-13T14:23:09.201Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-05-13T14:23:33Z"
+    },
+    "ElsyLambert/aa_ulb_mat_book": {
+      "fullName": "ElsyLambert/aa_ulb_mat_book",
+      "wA": {
+        "langId": "aa",
+        "projectId": "ulb",
+        "bookId": "mat",
+        "percentCompleted": 1,
+        "completedVerses": 1071,
+        "totalVerses": 1071,
+        "unalignedOrig": 18357,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "aa",
+        "projectId": "ulb",
+        "bookId": "mat",
+        "time_created": "2019-09-10T15:47:21.256Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1289,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v49"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4093,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-09-10T15:52:40Z"
+    },
+    "jag3773/aa_reg_gal_book": {
+      "fullName": "jag3773/aa_reg_gal_book",
+      "wA": {
+        "langId": "aa",
+        "projectId": "reg",
+        "bookId": "gal",
+        "percentCompleted": 0.9865771812080537,
+        "completedVerses": 147,
+        "totalVerses": 149,
+        "unalignedOrig": 2226,
+        "unalignedTarget": 15
+      },
+      "checks": {
+        "langId": "aa",
+        "projectId": "reg",
+        "bookId": "gal",
+        "time_created": "2019-05-28T19:23:20.951Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0.001392757660167131,
+          "completedChecks": 1,
+          "totalChecks": 718,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-05-28T19:24:52Z"
+    }
+  }
+}

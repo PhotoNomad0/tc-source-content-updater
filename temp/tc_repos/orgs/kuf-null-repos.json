@@ -1,0 +1,2560 @@
+{
+  "projectSummaries": {
+    "katu_2021/kuf_ktlt_jhn_book": {
+      "fullName": "katu_2021/kuf_ktlt_jhn_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "jhn",
+        "percentCompleted": 1,
+        "completedVerses": 879,
+        "totalVerses": 879,
+        "unalignedOrig": 3259,
+        "unalignedTarget": 25
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "jhn",
+        "time_created": "2021-12-02T10:21:41.006Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 778
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3352,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-21T03:28:03Z"
+    },
+    "katu_2021/kuf_ktlt_rev_book": {
+      "fullName": "katu_2021/kuf_ktlt_rev_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "rev",
+        "percentCompleted": 1,
+        "completedVerses": 405,
+        "totalVerses": 405,
+        "unalignedOrig": 2369,
+        "unalignedTarget": 9
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "rev",
+        "time_created": "2021-07-19T09:10:33.883Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 593
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2320,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-28T07:07:06Z"
+    },
+    "katu_2021/kuf_ktlt_jud_book": {
+      "fullName": "katu_2021/kuf_ktlt_jud_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "jud",
+        "percentCompleted": 1,
+        "completedVerses": 25,
+        "totalVerses": 25,
+        "unalignedOrig": 55,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "jud",
+        "time_created": "2021-07-19T09:09:37.603Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 25
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 152,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_3jn_book": {
+      "fullName": "katu_2021/kuf_ktlt_3jn_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "3jn",
+        "percentCompleted": 1,
+        "completedVerses": 15,
+        "totalVerses": 15,
+        "unalignedOrig": 24,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "3jn",
+        "time_created": "2021-07-19T09:08:56.341Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 18
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_2jn_book": {
+      "fullName": "katu_2021/kuf_ktlt_2jn_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2jn",
+        "percentCompleted": 1,
+        "completedVerses": 13,
+        "totalVerses": 13,
+        "unalignedOrig": 34,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2jn",
+        "time_created": "2021-07-19T09:08:06.539Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 12
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 68,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_1jn_book": {
+      "fullName": "katu_2021/kuf_ktlt_1jn_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 105,
+        "totalVerses": 105,
+        "unalignedOrig": 367,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1jn",
+        "time_created": "2021-07-19T09:06:56.127Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 135
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 565,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_2pe_book": {
+      "fullName": "katu_2021/kuf_ktlt_2pe_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2pe",
+        "percentCompleted": 1,
+        "completedVerses": 61,
+        "totalVerses": 61,
+        "unalignedOrig": 125,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2pe",
+        "time_created": "2021-07-19T09:06:14.658Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 326,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_1pe_book": {
+      "fullName": "katu_2021/kuf_ktlt_1pe_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1pe",
+        "percentCompleted": 1,
+        "completedVerses": 105,
+        "totalVerses": 105,
+        "unalignedOrig": 223,
+        "unalignedTarget": 4
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1pe",
+        "time_created": "2021-07-19T09:05:33.370Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 164
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 629,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_jas_book": {
+      "fullName": "katu_2021/kuf_ktlt_jas_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "jas",
+        "percentCompleted": 0.9259259259259259,
+        "completedVerses": 100,
+        "totalVerses": 108,
+        "unalignedOrig": 310,
+        "unalignedTarget": 77
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "jas",
+        "time_created": "2021-07-19T09:04:50.676Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 186
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 487,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-28T11:36:34Z"
+    },
+    "katu_2021/kuf_ktlt_heb_book": {
+      "fullName": "katu_2021/kuf_ktlt_heb_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "heb",
+        "percentCompleted": 1,
+        "completedVerses": 303,
+        "totalVerses": 303,
+        "unalignedOrig": 737,
+        "unalignedTarget": 5
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "heb",
+        "time_created": "2021-07-19T09:00:01.080Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 499
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1387,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_phm_book": {
+      "fullName": "katu_2021/kuf_ktlt_phm_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "phm",
+        "percentCompleted": 1,
+        "completedVerses": 25,
+        "totalVerses": 25,
+        "unalignedOrig": 34,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "phm",
+        "time_created": "2021-07-19T08:59:21.723Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 25
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 99,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_tit_book": {
+      "fullName": "katu_2021/kuf_ktlt_tit_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 61,
+        "unalignedTarget": 5
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "tit",
+        "time_created": "2021-07-19T08:57:48.434Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 84
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_2ti_book": {
+      "fullName": "katu_2021/kuf_ktlt_2ti_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2ti",
+        "percentCompleted": 1,
+        "completedVerses": 83,
+        "totalVerses": 83,
+        "unalignedOrig": 174,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2ti",
+        "time_created": "2021-07-19T08:56:41.050Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 270
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 355,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_1ti_book": {
+      "fullName": "katu_2021/kuf_ktlt_1ti_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1ti",
+        "percentCompleted": 1,
+        "completedVerses": 113,
+        "totalVerses": 113,
+        "unalignedOrig": 176,
+        "unalignedTarget": 14
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1ti",
+        "time_created": "2021-07-19T08:55:42.005Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 304
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 485,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_2th_book": {
+      "fullName": "katu_2021/kuf_ktlt_2th_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2th",
+        "percentCompleted": 1,
+        "completedVerses": 47,
+        "totalVerses": 47,
+        "unalignedOrig": 67,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2th",
+        "time_created": "2021-07-19T08:51:39.715Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 50
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 257,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_1th_book": {
+      "fullName": "katu_2021/kuf_ktlt_1th_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1th",
+        "percentCompleted": 1,
+        "completedVerses": 89,
+        "totalVerses": 89,
+        "unalignedOrig": 256,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1th",
+        "time_created": "2021-07-19T08:50:45.396Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 430,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_col_book": {
+      "fullName": "katu_2021/kuf_ktlt_col_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "col",
+        "percentCompleted": 1,
+        "completedVerses": 95,
+        "totalVerses": 95,
+        "unalignedOrig": 260,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "col",
+        "time_created": "2021-07-19T08:50:05.300Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 121
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 446,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_php_book": {
+      "fullName": "katu_2021/kuf_ktlt_php_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "php",
+        "percentCompleted": 1,
+        "completedVerses": 104,
+        "totalVerses": 104,
+        "unalignedOrig": 219,
+        "unalignedTarget": 4
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "php",
+        "time_created": "2021-07-19T08:49:07.409Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 94
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 466,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_eph_book": {
+      "fullName": "katu_2021/kuf_ktlt_eph_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "eph",
+        "percentCompleted": 1,
+        "completedVerses": 155,
+        "totalVerses": 155,
+        "unalignedOrig": 445,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "eph",
+        "time_created": "2021-07-19T08:48:17.238Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 308
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 676,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_gal_book": {
+      "fullName": "katu_2021/kuf_ktlt_gal_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "gal",
+        "percentCompleted": 1,
+        "completedVerses": 149,
+        "totalVerses": 149,
+        "unalignedOrig": 329,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "gal",
+        "time_created": "2021-07-19T08:47:28.894Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 127
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 708,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_2co_book": {
+      "fullName": "katu_2021/kuf_ktlt_2co_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2co",
+        "percentCompleted": 1,
+        "completedVerses": 256,
+        "totalVerses": 256,
+        "unalignedOrig": 832,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "2co",
+        "time_created": "2021-07-19T08:45:45.432Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 327
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1079,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_1co_book": {
+      "fullName": "katu_2021/kuf_ktlt_1co_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1co",
+        "percentCompleted": 1,
+        "completedVerses": 437,
+        "totalVerses": 437,
+        "unalignedOrig": 1126,
+        "unalignedTarget": 6
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "1co",
+        "time_created": "2021-07-19T08:44:14.176Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 368
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1804,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_mat_book": {
+      "fullName": "katu_2021/kuf_ktlt_mat_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "mat",
+        "percentCompleted": 1,
+        "completedVerses": 1071,
+        "totalVerses": 1071,
+        "unalignedOrig": 3829,
+        "unalignedTarget": 61
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "mat",
+        "time_created": "2021-04-14T18:53:55.140Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1289
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4000,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-12-28T09:51:15Z"
+    },
+    "katu_2021/kuf_ktlt_rom_book": {
+      "fullName": "katu_2021/kuf_ktlt_rom_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "rom",
+        "percentCompleted": 1,
+        "completedVerses": 433,
+        "totalVerses": 433,
+        "unalignedOrig": 1427,
+        "unalignedTarget": 18
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "rom",
+        "time_created": "2021-04-14T18:58:46.023Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 631
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2155,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_mrk_book": {
+      "fullName": "katu_2021/kuf_ktlt_mrk_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "mrk",
+        "percentCompleted": 1,
+        "completedVerses": 678,
+        "totalVerses": 678,
+        "unalignedOrig": 2269,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "mrk",
+        "time_created": "2021-04-14T18:55:33.126Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 665
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2173,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    },
+    "katu_2021/kuf_ktlt_luk_book": {
+      "fullName": "katu_2021/kuf_ktlt_luk_book",
+      "wA": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "luk",
+        "percentCompleted": 1,
+        "completedVerses": 1151,
+        "totalVerses": 1151,
+        "unalignedOrig": 4287,
+        "unalignedTarget": 7
+      },
+      "checks": {
+        "langId": "kuf",
+        "projectId": "ktlt",
+        "bookId": "luk",
+        "time_created": "2021-04-14T18:56:18.262Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1299
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3870,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
+      "checkMigration": true,
+      "updated_at": "2021-12-26T16:00:27.487Z"
+    }
+  },
+  "goodProjects": {
+    "waFinished": {
+      "katu_2021/kuf_ktlt_jhn_book": {
+        "fullName": "katu_2021/kuf_ktlt_jhn_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "jhn",
+          "percentCompleted": 1,
+          "completedVerses": 879,
+          "totalVerses": 879,
+          "unalignedOrig": 3259,
+          "unalignedTarget": 25
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "jhn",
+          "time_created": "2021-12-02T10:21:41.006Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 778
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 3352,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2021-12-21T03:28:03Z"
+      },
+      "katu_2021/kuf_ktlt_rev_book": {
+        "fullName": "katu_2021/kuf_ktlt_rev_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "rev",
+          "percentCompleted": 1,
+          "completedVerses": 405,
+          "totalVerses": 405,
+          "unalignedOrig": 2369,
+          "unalignedTarget": 9
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "rev",
+          "time_created": "2021-07-19T09:10:33.883Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 593
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 2320,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2021-12-28T07:07:06Z"
+      },
+      "katu_2021/kuf_ktlt_jud_book": {
+        "fullName": "katu_2021/kuf_ktlt_jud_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "jud",
+          "percentCompleted": 1,
+          "completedVerses": 25,
+          "totalVerses": 25,
+          "unalignedOrig": 55,
+          "unalignedTarget": 0
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "jud",
+          "time_created": "2021-07-19T09:09:37.603Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 25
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 152,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_3jn_book": {
+        "fullName": "katu_2021/kuf_ktlt_3jn_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "3jn",
+          "percentCompleted": 1,
+          "completedVerses": 15,
+          "totalVerses": 15,
+          "unalignedOrig": 24,
+          "unalignedTarget": 0
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "3jn",
+          "time_created": "2021-07-19T09:08:56.341Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 18
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 63,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_2jn_book": {
+        "fullName": "katu_2021/kuf_ktlt_2jn_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2jn",
+          "percentCompleted": 1,
+          "completedVerses": 13,
+          "totalVerses": 13,
+          "unalignedOrig": 34,
+          "unalignedTarget": 1
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2jn",
+          "time_created": "2021-07-19T09:08:06.539Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 12
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 68,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_1jn_book": {
+        "fullName": "katu_2021/kuf_ktlt_1jn_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1jn",
+          "percentCompleted": 1,
+          "completedVerses": 105,
+          "totalVerses": 105,
+          "unalignedOrig": 367,
+          "unalignedTarget": 1
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1jn",
+          "time_created": "2021-07-19T09:06:56.127Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 135
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 565,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_2pe_book": {
+        "fullName": "katu_2021/kuf_ktlt_2pe_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2pe",
+          "percentCompleted": 1,
+          "completedVerses": 61,
+          "totalVerses": 61,
+          "unalignedOrig": 125,
+          "unalignedTarget": 2
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2pe",
+          "time_created": "2021-07-19T09:06:14.658Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 96
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 326,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_1pe_book": {
+        "fullName": "katu_2021/kuf_ktlt_1pe_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1pe",
+          "percentCompleted": 1,
+          "completedVerses": 105,
+          "totalVerses": 105,
+          "unalignedOrig": 223,
+          "unalignedTarget": 4
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1pe",
+          "time_created": "2021-07-19T09:05:33.370Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 164
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 629,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_heb_book": {
+        "fullName": "katu_2021/kuf_ktlt_heb_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "heb",
+          "percentCompleted": 1,
+          "completedVerses": 303,
+          "totalVerses": 303,
+          "unalignedOrig": 737,
+          "unalignedTarget": 5
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "heb",
+          "time_created": "2021-07-19T09:00:01.080Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 499
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1387,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_phm_book": {
+        "fullName": "katu_2021/kuf_ktlt_phm_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "phm",
+          "percentCompleted": 1,
+          "completedVerses": 25,
+          "totalVerses": 25,
+          "unalignedOrig": 34,
+          "unalignedTarget": 1
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "phm",
+          "time_created": "2021-07-19T08:59:21.723Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 25
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 99,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_tit_book": {
+        "fullName": "katu_2021/kuf_ktlt_tit_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "tit",
+          "percentCompleted": 1,
+          "completedVerses": 46,
+          "totalVerses": 46,
+          "unalignedOrig": 61,
+          "unalignedTarget": 5
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "tit",
+          "time_created": "2021-07-19T08:57:48.434Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 84
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 221,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_2ti_book": {
+        "fullName": "katu_2021/kuf_ktlt_2ti_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2ti",
+          "percentCompleted": 1,
+          "completedVerses": 83,
+          "totalVerses": 83,
+          "unalignedOrig": 174,
+          "unalignedTarget": 2
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2ti",
+          "time_created": "2021-07-19T08:56:41.050Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 270
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 355,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_1ti_book": {
+        "fullName": "katu_2021/kuf_ktlt_1ti_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1ti",
+          "percentCompleted": 1,
+          "completedVerses": 113,
+          "totalVerses": 113,
+          "unalignedOrig": 176,
+          "unalignedTarget": 14
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1ti",
+          "time_created": "2021-07-19T08:55:42.005Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 304
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 485,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_2th_book": {
+        "fullName": "katu_2021/kuf_ktlt_2th_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2th",
+          "percentCompleted": 1,
+          "completedVerses": 47,
+          "totalVerses": 47,
+          "unalignedOrig": 67,
+          "unalignedTarget": 0
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2th",
+          "time_created": "2021-07-19T08:51:39.715Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 50
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 257,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_1th_book": {
+        "fullName": "katu_2021/kuf_ktlt_1th_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1th",
+          "percentCompleted": 1,
+          "completedVerses": 89,
+          "totalVerses": 89,
+          "unalignedOrig": 256,
+          "unalignedTarget": 0
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1th",
+          "time_created": "2021-07-19T08:50:45.396Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 96
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 430,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_col_book": {
+        "fullName": "katu_2021/kuf_ktlt_col_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "col",
+          "percentCompleted": 1,
+          "completedVerses": 95,
+          "totalVerses": 95,
+          "unalignedOrig": 260,
+          "unalignedTarget": 1
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "col",
+          "time_created": "2021-07-19T08:50:05.300Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 121
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 446,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_php_book": {
+        "fullName": "katu_2021/kuf_ktlt_php_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "php",
+          "percentCompleted": 1,
+          "completedVerses": 104,
+          "totalVerses": 104,
+          "unalignedOrig": 219,
+          "unalignedTarget": 4
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "php",
+          "time_created": "2021-07-19T08:49:07.409Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 94
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 466,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_eph_book": {
+        "fullName": "katu_2021/kuf_ktlt_eph_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "eph",
+          "percentCompleted": 1,
+          "completedVerses": 155,
+          "totalVerses": 155,
+          "unalignedOrig": 445,
+          "unalignedTarget": 2
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "eph",
+          "time_created": "2021-07-19T08:48:17.238Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 308
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 676,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_gal_book": {
+        "fullName": "katu_2021/kuf_ktlt_gal_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "gal",
+          "percentCompleted": 1,
+          "completedVerses": 149,
+          "totalVerses": 149,
+          "unalignedOrig": 329,
+          "unalignedTarget": 2
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "gal",
+          "time_created": "2021-07-19T08:47:28.894Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 127
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 708,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_2co_book": {
+        "fullName": "katu_2021/kuf_ktlt_2co_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2co",
+          "percentCompleted": 1,
+          "completedVerses": 256,
+          "totalVerses": 256,
+          "unalignedOrig": 832,
+          "unalignedTarget": 1
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "2co",
+          "time_created": "2021-07-19T08:45:45.432Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 327
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1079,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_1co_book": {
+        "fullName": "katu_2021/kuf_ktlt_1co_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1co",
+          "percentCompleted": 1,
+          "completedVerses": 437,
+          "totalVerses": 437,
+          "unalignedOrig": 1126,
+          "unalignedTarget": 6
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "1co",
+          "time_created": "2021-07-19T08:44:14.176Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 368
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1804,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_mat_book": {
+        "fullName": "katu_2021/kuf_ktlt_mat_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "mat",
+          "percentCompleted": 1,
+          "completedVerses": 1071,
+          "totalVerses": 1071,
+          "unalignedOrig": 3829,
+          "unalignedTarget": 61
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "mat",
+          "time_created": "2021-04-14T18:53:55.140Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1289
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 4000,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2021-12-28T09:51:15Z"
+      },
+      "katu_2021/kuf_ktlt_rom_book": {
+        "fullName": "katu_2021/kuf_ktlt_rom_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "rom",
+          "percentCompleted": 1,
+          "completedVerses": 433,
+          "totalVerses": 433,
+          "unalignedOrig": 1427,
+          "unalignedTarget": 18
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "rom",
+          "time_created": "2021-04-14T18:58:46.023Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 631
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 2155,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_mrk_book": {
+        "fullName": "katu_2021/kuf_ktlt_mrk_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "mrk",
+          "percentCompleted": 1,
+          "completedVerses": 678,
+          "totalVerses": 678,
+          "unalignedOrig": 2269,
+          "unalignedTarget": 2
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "mrk",
+          "time_created": "2021-04-14T18:55:33.126Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 665
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 2173,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      },
+      "katu_2021/kuf_ktlt_luk_book": {
+        "fullName": "katu_2021/kuf_ktlt_luk_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "luk",
+          "percentCompleted": 1,
+          "completedVerses": 1151,
+          "totalVerses": 1151,
+          "unalignedOrig": 4287,
+          "unalignedTarget": 7
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "luk",
+          "time_created": "2021-04-14T18:56:18.262Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1299
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 3870,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "updated_at": "2021-12-26T16:00:27.487Z"
+      }
+    },
+    "waNearlyFinished": {
+      "katu_2021/kuf_ktlt_jas_book": {
+        "fullName": "katu_2021/kuf_ktlt_jas_book",
+        "wA": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "jas",
+          "percentCompleted": 0.9259259259259259,
+          "completedVerses": 100,
+          "totalVerses": 108,
+          "unalignedOrig": 310,
+          "unalignedTarget": 77
+        },
+        "checks": {
+          "langId": "kuf",
+          "projectId": "ktlt",
+          "bookId": "jas",
+          "time_created": "2021-07-19T09:04:50.676Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 186
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 487,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2021-12-28T11:36:34Z"
+      }
+    },
+    "allFinished": {},
+    "allNearlyFinished": {}
+  }
+}

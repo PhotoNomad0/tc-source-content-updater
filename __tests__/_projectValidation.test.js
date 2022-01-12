@@ -1,6 +1,11 @@
 // these are integration tests used for development, these are all normally skipped.
 // these are for tCore Project Validation - search, download, and validate projects
 
+// to update status of all the tCore projects
+// NOCK_OFF=true node --inspect-brk node_modules/.bin/jest --runInBand -t "verify lang projects"
+// orgs/langRepos.json is a prioritized list of languages - the first item has the most repos. It is created by test `sort all tC repos`
+// you can't see the console logs of unit tests while they are running, but you can watch `./temp/downloads/imports` to see the repos being checked so you know it is not hanging.
+// results are in folder `./temp/tc_repos/summary`
 // NOCK_OFF=true node --inspect-brk node_modules/.bin/jest --runInBand -t "search, download and verify projects in org"
 
 import fs from 'fs-extra';
@@ -43,6 +48,7 @@ describe('test project', () => {
     const list = fs.readJsonSync(path.join(outputFolder, langListFile));
     const langList = list.extraData.langCounts;
     const defaultDate = (new Date(Date.now() - 2*24*60*60*1000)).toJSON();
+    const searchForOldNameFOrmat = true;
     const checkMigration = true;
     const retryFailedDownloads = true;
     // const dateStr = defaultDate.toJSON(); // 2021-12-18T11:26:31.306Z
@@ -53,7 +59,15 @@ describe('test project', () => {
         it(`search, download and verify language projects for ${langId}`, async () => {
           const org = null; // all orgs
           const resourcesPath = './temp/downloads';
-          let searchUrl = `https://git.door43.org/api/v1/repos/search?q=${langId}%5C_%25%5C_%25%5C_book&sort=id&order=asc&limit=50`;
+          let q = encodeURIComponent(`${langId}_*_*_book`);
+          if (searchForOldNameFOrmat) { // will also pick up tStudio projects
+            q += `,` + encodeURIComponent(`${langId}_*_*_reg`);
+          }
+          // need to escape the `_` because that is a reserved DB search character, and we want to exactly match that character in the search.
+          q = q.replaceAll('_', encodeURIComponent('\\_'));
+          // need to encode * so it makes it all the way to the search engine
+          q = q.replaceAll('*', '%25');
+          let searchUrl = `https://git.door43.org/api/v1/repos/search?q=${q}&sort=id&order=asc&limit=50`;
           if (org) {
             searchUrl += `&owner=${org}`;
           }
