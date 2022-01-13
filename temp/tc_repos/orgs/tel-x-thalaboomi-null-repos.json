@@ -2,7 +2,83 @@
   "projectSummaries": {
     "ajayvardhan/tel-x-thalaboomi_reg_tit_book": {
       "fullName": "ajayvardhan/tel-x-thalaboomi_reg_tit_book",
-      "ERROR": "Could not download ajayvardhan/tel-x-thalaboomi_reg_tit_book: TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string. Received null",
+      "wA": {
+        "langId": "tel-x-thalaboomi",
+        "projectId": "reg",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 46,
+        "unalignedOrig": 659,
+        "unalignedTarget": 744
+      },
+      "checks": {
+        "langId": "tel-x-thalaboomi",
+        "projectId": "reg",
+        "bookId": "tit",
+        "time_created": "2021-11-10T12:05:20.399Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "kn",
+            "orig_lang_check_version": "0.8",
+            "gl_check_version": "v33.2"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 84,
+          "totalChecks": 84,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-hendiadys_2_13__1",
+                  "selections": "ಬಾಗ್ಯಕರಮೈನ ನಿರಿಕ್ಷನಿ-1 ತಿರ್ಗ-1 ಮಹಿಮಮು ಪ್ರತ್ಯಕ್ಷಮೈಹೆಧನ್ನಿ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "figs-metonymy_2_13__1",
+                  "selections": "ಬಾಗ್ಯಕರಮೈನ ನಿರಿಕ್ಷನಿ-1",
+                  "resourcePartialMatches": 2
+                },
+                {
+                  "key": "grammar-connect-logic-result_1_13__1",
+                  "selections": "ಧಾನಿಂಕ-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v47"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
       "checkMigration": true,
       "modified": "2021-11-24T14:16:01Z"
     },

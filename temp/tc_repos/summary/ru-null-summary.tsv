@@ -1,184 +1,184 @@
 Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
-aleksey.ignashin/ru_rob_2jn_book	2022-01-10T14:37:20.312Z	100			1			0				2019-05-14T12:40:11.836Z		7			
-aleksey.ignashin/ru_rsb_tit_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T11:16:01.796Z		7			
-Anatolii/ru_reg_jhn_book	2022-01-10T14:37:20.312Z	100	en		0	en		0	en			2019-08-30T13:01:42.559Z	2.0.0	7			
-Anatolii/ru_rob_2jn_book	2022-01-10T14:37:20.312Z	69			6			0				2019-05-14T12:40:11.836Z		7			
-Anatolii/ru_rsb_2jn_book	2022-01-10T14:37:20.312Z	85			4			0				2019-05-14T12:30:28.225Z		7			
-Anatolii/ru_rsb_tit_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T11:16:01.796Z		7			
-Anatolii/ru_ulb_mat_book	2022-01-10T14:37:20.312Z	100	en		0	en		0	en			2019-10-14T10:30:08.219Z	2.0.0	7			
-Anna/ru_est_text_reg		0			0			0									
-Anna/ru_hab_text_reg		0			0			0									
-Anna/ru_jhn_text_reg		0			0			0									
-Anna/ru_rlb_phm_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-15T10:45:42.866Z		7			
-Anna/ru_rob_2jn_book	2022-01-10T14:37:20.312Z	100			1			0				2019-05-14T12:40:11.836Z		7			
-Anna/ru_rob_jon_book	2022-01-10T14:37:20.312Z	6	en		0	en		0	en			2020-01-30T14:19:45.926Z	2.0.0	7			
-Anna/ru_rob_phm_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T12:40:35.259Z		7			
-Anna/ru_rob_tit_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T12:20:23.897Z		7			
-Anna/ru_rsb_2jn_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T12:30:28.225Z		7			
-Anna/ru_rsb_phm_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-15T03:59:17.869Z		7			
-Anna/ru_rsb_tit_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T11:16:01.796Z		7			
-Anna/ru_rsob_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.12	29	en	v0.12	100	en	v30	v0.12	2020-04-29T07:57:17.462Z	2.1.2	7	unmatched tn checks found, 		
-Anna/ru_tit_text_reg		0			0			0									
-Anna/ru_ust_jon_book	2022-01-10T14:37:20.312Z	0	en	v2.1.15	0			0	en	v36	v2.1.15	2021-02-03T07:55:00.637Z	3.0.1	7			
-Anna/ru_vers_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.14	99	en	v0.15	96	en	v33	v0.14	2019-05-14T12:20:23.897Z	3.0.1	7	unmatched tn checks found, 		
-benjore/ru_rob_2jn_book	2022-01-10T14:37:20.312Z	0			0			0				2019-05-14T13:33:47.220Z		7			
-benjore/ru_rob_tit_book	2022-01-10T14:37:20.312Z	65			0			0				2019-05-14T12:20:23.897Z		7			
-benjore/ru_rsb_2jn_book	2022-01-10T14:37:20.312Z	0			0			0				2019-05-14T12:30:28.225Z		7			
-benjore/ru_rsb_tit_book	2022-01-10T14:37:20.312Z	0			0			0				2019-05-14T11:16:01.796Z		7			
-benjore/ru_rst_phm_book	2022-01-10T14:37:20.312Z	8			0			0				2019-05-15T03:59:17.869Z		7			
-birch/ru_abc_2jn_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T12:30:28.225Z		7			
-birch/ru_abc_tit_book	2022-01-10T14:37:20.312Z	100	en		0	kn		0	en			2019-05-14T11:16:01.796Z	2.0.0	7			
-birch/ru_tit_text_reg		0			0			0									
-dimasava/ru_rlob_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.12	1			0	en	v28	v0.12	2019-05-14T12:20:23.897Z	2.1.2	7			
-dimasava/ru_rob_1th_book	2022-01-10T14:37:20.312Z	7	en		0	en		0	en			2019-05-15T05:52:10.779Z	1.1.4	7			
-dimasava/ru_rob_jon_book	2022-01-10T14:37:20.312Z	100	en		0			0	en			2020-01-30T15:02:09.815Z	2.1.0	7			
-dimasava/ru_rob_luk_book	2022-01-10T14:37:20.312Z	99	en		0	en		0	en			2019-11-25T08:06:48.488Z	2.0.0	7			
-dimasava/ru_rob_rut_book	2022-01-10T14:37:20.312Z	100	en		35	en		0	en			2020-02-01T13:10:20.473Z	2.1.0	7			
-dimasava/ru_rob_tit_book	2022-01-10T14:37:20.312Z	100	en		1			0				2019-11-01T09:00:22.584Z	2.0.0	7			
-dimasava/ru_udb_1ti_book		0			0			0									
-dimasava/ru_ulb_mrk_book	2022-01-10T14:37:20.312Z	3			1			0				2019-05-13T07:43:51.357Z		7			
-elman/ru_rsob_rut_book_old	2022-01-10T14:37:20.312Z	100	en	v2.1.13	0			100	en	v30	v2.1.13	2020-05-06T14:40:43.401Z	2.1.2	7	unmatched tn checks found, 		
-elman/ru_rut_text_reg		0			0			0									
-ghayden/ru_rlob_est_book	2022-01-10T14:37:20.312Z	100	en	v2.1.19	100	en	v2.1.18	99	en	v47	v2.1.19	2021-01-26T23:15:02.767Z	3.0.1	7	duplicate tn migrations found, 		
-ghayden/ru_rob_est_book	2022-01-10T14:37:20.312Z	100	en	v2.1.19	100	en	v2.1.18	99	en	v47	v2.1.19	2021-01-26T23:15:02.767Z	3.0.1	7	duplicate tn migrations found, 		
-ibibleru/ru_rlob_jon_book	2022-01-10T14:37:20.312Z	100	en	v2.1.13	100	en	v2.1.13	100	en	v30	v2.1.13	2020-01-30T15:02:09.815Z	2.1.2	7	unmatched tn checks found, 		
-ibibleru/ru_rlob_rut_book	2022-01-10T14:37:20.312Z	100	en	v2.1.13	100	en	v2.1.13	0	en			2020-02-01T13:10:20.473Z	2.1.2	7			
-jobbyp/ru_ulb_mrk_book	2022-01-10T14:37:20.312Z	3			0			0				2019-05-14T05:44:31.687Z		7			
-jobbyp/ru_ulb_tit_book	2022-01-10T14:37:20.312Z	2			0			0				2019-05-15T10:07:51.897Z		7			
-katalakay/ru_ust_luk_book	2022-01-10T14:37:20.312Z	57			0			0				2018-08-20T20:19:05.636Z		6			
-katalakay/ru_ust_mat_book	2022-01-10T14:37:20.312Z	20			0			0				2018-09-04T06:14:05.049Z		6			
-mkaryakina/ru_jon_text_reg		0			0			0									
-mkaryakina/ru_lit_3jn_book	2022-01-10T14:37:20.312Z	100	en		0	en		0	en	v28	v0.12	2020-01-13T17:10:53.619Z	2.1.2	7			
-mkaryakina/ru_rbl_mrk_book	2022-01-10T14:37:20.312Z	99	en		0	en		0	en			2019-11-08T09:40:44.145Z	2.0.0	7			
-mkaryakina/ru_rlo_tit_book	2022-01-10T14:37:20.312Z	100	en		1			18	en	v28	v0.12	2019-11-01T09:00:22.584Z	2.1.2	7	unmatched tn checks found, 		
-mkaryakina/ru_rlob_3jn_book	2022-01-10T14:37:20.312Z	100	en	v0.12	100	en	v0.12	86	en	v30	v0.12	2020-01-13T17:10:53.619Z	2.1.2	7	unmatched tn checks found, 		
-mkaryakina/ru_rlob_rut_book	2022-01-10T14:37:20.312Z	100	en	v2.1.14	100	en	v2.1.15	0	en			2020-02-01T13:10:20.473Z	3.0.1	7			
-mkaryakina/ru_rlob_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.12	100	en	v0.12	100	en	v30	v0.12	2019-05-14T12:20:23.897Z	2.1.2	7	unmatched tn checks found, 		
-mkaryakina/ru_rob_mrk_book_old	2022-01-10T14:37:20.312Z	99	en		0	en		0	en			2019-09-16T20:56:46.496Z	2.0.0	7			
-mkaryakina/ru_rob_phm_book	2022-01-10T14:37:20.312Z	40			0			0				2019-05-14T12:40:35.259Z		7			
-mkaryakina/ru_rsb_phm_book	2022-01-10T14:37:20.312Z	92			0			0				2019-05-15T03:59:17.869Z		7			
-mkaryakina/ru_rso_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.12	0			1	en	v28	v0.12	2020-04-29T07:57:17.462Z	2.1.2	7	unmatched tn checks found, 		
-mkaryakina/ru_rsob_3jn_book	2022-01-10T14:37:20.312Z	100	en	v0.12	100	en	v0.12	100	en	v30	v0.12	2020-07-11T08:59:41.293Z	2.1.2	7	unmatched tn checks found, 		
-mkaryakina/ru_rsob_tit_book	2022-01-10T14:37:20.312Z	98	en	v0.12	0	en	v0.12	96	en	v30	v0.12	2020-04-29T07:57:17.462Z	2.1.2	7	unmatched tn checks found, 		
-mkaryakina/ru_ulb_3jn_book	2022-01-10T14:37:20.312Z	100	en		0			0				2020-01-13T17:10:53.619Z	2.0.0	7			
-mkaryakina/ru_ulb_mrk_book	2022-01-10T14:37:20.312Z	97	en		0	en		0	en			2019-09-16T20:56:46.496Z	2.0.0	7			
-mkaryakina/ru_ulb_tit_book	2022-01-10T14:37:20.312Z	100			0			0				2019-05-14T12:20:23.897Z		7			
-Ofelia/ru_3jn_text_reg		0			0			0									
-Ofelia/ru_jon_text_reg		0			0			0									
-pjoakes/ru_ulba_mrk_book	2022-01-10T14:37:20.312Z	4			0			0				2019-02-14T21:08:03.167Z		7			
-pjoakes/ru_ulbb_mrk_book	2022-01-10T14:37:20.312Z	6			0			0				2019-02-14T21:08:03.167Z		7			
-pjoakes/ru_ult_tit_book	2022-01-10T14:37:20.312Z	7			0			0				2019-02-13T16:51:31.951Z		7			
-Pro/ru_jon_text_reg		0			0			0									
-Pro/ru_lit_1co_book	2022-01-10T14:37:20.312Z	100	en	v0.14	0	en		0	en	v28	v0.12	2019-10-12T09:01:16.947Z	3.0.1	7			
-Pro/ru_lit_3jn_book	2022-01-10T14:37:20.312Z	87	en		0			0				2020-01-13T17:10:53.619Z	2.0.0	7			
-Pro/ru_lit_eph_book	2022-01-10T14:37:20.312Z	100	en	v0.15	0	en		0	en			2019-10-12T09:43:11.478Z	3.0.1	7			
-Pro/ru_lit_luk_book	2022-01-10T14:37:20.312Z	100	en		0	en		0	en			2019-08-14T11:18:39.937Z	2.0.0	7			
-Pro/ru_lit_rom_book	2022-01-10T14:37:20.312Z	100	en	v0.14	0	en		0	en			2019-10-12T08:51:06.815Z	3.0.1	7			
-Pro/ru_lit_tit_book	2022-01-10T14:37:20.312Z	100	en		1			0				2019-05-14T12:20:23.897Z	2.0.0	7			
-Pro/ru_rbl_act_book	2022-01-10T14:37:20.312Z	100	en		0	en		0	en			2019-08-14T11:21:22.861Z	2.1.0	7			
-Pro/ru_rlb_phm_book	2022-01-10T14:37:20.312Z	96			0			0				2019-05-14T12:40:35.259Z		7			
-Pro/ru_rlob_3jn_book	2022-01-10T14:37:20.312Z	100	en		100	en	v0.12	86	en	v30	v0.12	2020-01-13T17:10:53.619Z	2.1.2	7	unmatched tn checks found, 		
-Pro/ru_rob_eph_book	2022-01-10T14:37:20.312Z	100	en		0			0	en			2019-10-12T09:43:11.478Z	3.0.1	7			
-Pro/ru_rob_phm_book	2022-01-10T14:37:20.312Z	92			2			0				2019-05-15T10:45:42.866Z		7			
-Pro/ru_ulb_1co_book	2022-01-10T14:37:20.312Z	99	en	v0.14	0			0				2020-08-14T17:44:05.974Z	3.0.1	7			
-Pro/ru_ulb_3jn_book	2022-01-10T14:37:20.312Z	100	en		0			0				2020-01-13T17:10:53.619Z	2.0.0	7			
-Pro/ru_ulb_act_book	2022-01-10T14:37:20.312Z	100	en		0	en		0	en			2019-08-14T11:21:22.861Z	2.0.0	7			
-Pro/ru_ulb_luk_book	2022-01-10T14:37:20.312Z	100	en		0	en		0	en			2019-08-14T11:18:39.937Z	2.0.0	7			
-Pro/ru_ulb_rom_book	2022-01-10T14:37:20.312Z	99	en	v0.14	0	en		0	en			2020-01-25T20:33:07.002Z	3.0.1	7			
-Pro/ru_ulb_tit_book	2022-01-10T14:37:20.312Z	100	en		1			0				2019-05-14T12:20:23.897Z	2.0.0	7			
-qa99/ru_ulb_jhn_book	2022-01-10T14:37:20.312Z	0			0			0				2018-12-10T16:02:06.663Z		7			
-richmahn/ru_rlob_est_book		100	en	v2.1.15	100	ru	v2.1.15	87	en	v33	v2.1.15	2021-01-26T23:15:02.767Z	3.0.1	7	duplicate tn migrations found, unmatched tn checks found, 		
-richqa/ru_rlob_est_book	2022-01-10T14:37:20.312Z	100	en	v2.1.15	100	ru	v2.1.15	87	en	v33	v2.1.15	2021-01-26T23:15:02.767Z	3.0.1	7	duplicate tn migrations found, unmatched tn checks found, 		
-rob/ru_rob_1ch_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:19:14.437Z	3.0.1	7			
-rob/ru_rob_1co_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:23:06.650Z	3.0.1	7			
-rob/ru_rob_1jn_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:24:11.015Z	3.0.1	7			
-rob/ru_rob_1ki_book	2022-01-10T14:37:20.312Z	0	en		0	en		0				2020-07-07T18:39:43.851Z	3.0.1	7			
-rob/ru_rob_1pe_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:28:20.685Z	3.0.1	7			
-rob/ru_rob_1sa_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:29:18.580Z	3.0.1	7			
-rob/ru_rob_1th_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:30:36.577Z	3.0.1	7			
-rob/ru_rob_1ti_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:32:05.725Z	3.0.1	7			
-rob/ru_rob_2ch_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:33:37.199Z	3.0.1	7			
-rob/ru_rob_2co_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:35:02.080Z	3.0.1	7			
-rob/ru_rob_2jn_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:59:36.710Z	3.0.1	7			
-rob/ru_rob_2ki_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:02:14.744Z	3.0.1	7			
-rob/ru_rob_2pe_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:56:20.346Z	3.0.1	7			
-rob/ru_rob_2sa_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:03:36.479Z	3.0.1	7			
-rob/ru_rob_2th_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:48:52.027Z	3.0.1	7			
-rob/ru_rob_2ti_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:42:31.609Z	3.0.1	7			
-rob/ru_rob_3jn_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:36:41.033Z	3.0.1	7			
-rob/ru_rob_act_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:04:46.396Z	3.0.1	7			
-rob/ru_rob_amo_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T20:52:49.835Z	3.0.1	7			
-rob/ru_rob_col_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:39:20.817Z	3.0.1	7			
-rob/ru_rob_dan_book	2022-01-10T14:37:20.312Z	1	en		0	hi		0				2021-03-21T21:41:14.571Z	3.0.1	7			
-rob/ru_rob_deu_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:42:52.412Z	3.0.1	7			
-rob/ru_rob_ecc_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:43:48.430Z	3.0.1	7			
-rob/ru_rob_eph_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:44:28.437Z	3.0.1	7			
-rob/ru_rob_est_book	2022-01-10T14:37:20.312Z	0	en		0			0	en	v44	v2.1.17	2021-03-21T21:48:11.000Z	3.0.1	7			
-rob/ru_rob_exo_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:50:04.211Z	3.0.1	7			
-rob/ru_rob_ezk_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:53:10.881Z	3.0.1	7			
-rob/ru_rob_ezr_book	2022-01-10T14:37:20.312Z	0	en		0			0	en	v44	v2.1.17	2021-03-21T21:54:55.037Z	3.0.1	7			
-rob/ru_rob_gal_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:56:20.091Z	3.0.1	7			
-rob/ru_rob_gen_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:57:36.618Z	3.0.1	7			
-rob/ru_rob_hab_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T22:00:18.155Z	3.0.1	7			
-rob/ru_rob_hag_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T22:02:46.445Z	3.0.1	7			
-rob/ru_rob_heb_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T22:03:41.832Z	3.0.1	7			
-rob/ru_rob_hos_book	2022-01-10T14:37:20.312Z	1	en		0	hi		0				2021-03-21T22:06:10.364Z	3.0.1	7			
-rob/ru_rob_isa_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T22:07:35.641Z	3.0.1	7			
-rob/ru_rob_jas_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T22:09:19.900Z	3.0.1	7			
-rob/ru_rob_jdg_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T22:18:34.420Z	3.0.1	7			
-rob/ru_rob_jer_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T21:21:43.412Z	3.0.1	7			
-rob/ru_rob_jhn_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T21:20:30.784Z	3.0.1	7			
-rob/ru_rob_job_book	2022-01-10T14:37:20.312Z	1	en		0	hi		0				2021-03-21T21:16:07.278Z	3.0.1	7			
-rob/ru_rob_jol_book	2022-01-10T14:37:20.312Z	0	en		0			0	en	v44	v2.1.17	2021-03-21T20:35:33.073Z	3.0.1	7			
-rob/ru_rob_jon_book	2022-01-10T14:37:20.312Z	2	en		0			0				2021-03-21T22:19:46.752Z	3.0.1	7			
-rob/ru_rob_jos_book	2022-01-10T14:37:20.312Z	0	en		0			0	en	v44	v2.1.17	2021-03-21T21:13:05.060Z	3.0.1	7			
-rob/ru_rob_jud_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:32:15.027Z	3.0.1	7			
-rob/ru_rob_lam_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T20:28:00.611Z	3.0.1	7			
-rob/ru_rob_lev_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:25:22.965Z	3.0.1	7			
-rob/ru_rob_luk_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:23:35.389Z	3.0.1	7			
-rob/ru_rob_mal_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T20:21:22.670Z	3.0.1	7			
-rob/ru_rob_mat_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:19:43.113Z	3.0.1	7			
-rob/ru_rob_mic_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T20:17:40.334Z	3.0.1	7			
-rob/ru_rob_mrk_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:16:56.930Z	3.0.1	7			
-rob/ru_rob_nam_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:15:31.856Z	3.0.1	7			
-rob/ru_rob_neh_book	2022-01-10T14:37:20.312Z	0	en		0			0	en	v44	v2.1.17	2021-03-21T20:07:52.350Z	3.0.1	7			
-rob/ru_rob_num_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:04:33.880Z	3.0.1	7			
-rob/ru_rob_oba_book	2022-01-10T14:37:20.312Z	0	en		0			0	en	v44	v2.1.17	2021-03-21T20:02:41.889Z	3.0.1	7			
-rob/ru_rob_phm_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T20:01:33.074Z	3.0.1	7			
-rob/ru_rob_php_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T19:59:44.613Z	3.0.1	7			
-rob/ru_rob_pro_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T19:54:11.070Z	3.0.1	7			
-rob/ru_rob_psa_book	2022-01-10T14:37:20.312Z	31	en		0	hi		0				2021-03-21T19:46:15.917Z	3.0.1	7			
-rob/ru_rob_rev_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T19:23:15.916Z	3.0.1	7			
-rob/ru_rob_rom_book	2022-01-10T14:37:20.312Z	1	en		0			0				2021-03-21T19:16:50.950Z	3.0.1	7			
-rob/ru_rob_rut_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-21T19:11:01.073Z	3.0.1	7			
-rob/ru_rob_sng_book	2022-01-10T14:37:20.312Z	2	en		0	hi		0				2021-03-21T19:08:37.320Z	3.0.1	7			
-rob/ru_rob_tit_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-03-22T03:24:11.751Z	3.0.1	7			
-rob/ru_rob_zec_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T19:06:34.919Z	3.0.1	7			
-rob/ru_rob_zep_book	2022-01-10T14:37:20.312Z	0	en		0	hi		0				2021-03-21T19:02:55.921Z	3.0.1	7			
-RobH/ru_ustx_mat_book	2022-01-10T14:37:20.312Z	6			0			0				2018-09-04T06:14:05.049Z		6			
-royalsix/ru_rob_phm_book	2022-01-10T14:37:20.312Z	40			0			0				2019-05-14T12:40:35.259Z	1.1.4	7			
-ru_gl/ru_3jn_text_reg		0			0			0									
-ru_gl/ru_hab_text_reg		0			0			0									
-ru_gl/ru_jon_text_reg		0			0			0									
-ru_gl/ru_rob_1ti_book	2022-01-10T14:37:20.312Z	0	en		0			0				2021-01-26T22:44:29.131Z	3.0.1	7			
-ru_gl/ru_rut_text_reg		0			0			0									
-ru_gl/ru_tit_text_reg		0			0			0									
-rusang/ru_tit_text_reg		0			0			0									
-Samuel_Kim/ru_rlob_1jn_book		98	en	v0.22	0	en		0				2021-01-08T14:00:47.006Z	3.0.2	7			
-Samuel_Kim/ru_rlob_1ti_book_test	2022-01-10T14:37:20.312Z	100	en	v0.17	100	en	v0.17	86	en	v44	v0.18	2021-01-26T22:44:29.131Z	3.0.1	7	duplicate tn migrations found, unmatched tn checks found, 		
-Samuel_Kim/ru_rlob_2pe_book		8	en	v0.22	0			0				2021-08-17T21:11:03.826Z	3.0.2	7			
-Samuel_Kim/ru_rlob_jud_book		4	en	v0.22	0			0				2021-08-18T15:15:52.685Z	3.0.2	7			
-Savchak/ru_ulb_mrk_book	2022-01-10T14:37:20.312Z	3			0			0				2019-05-13T07:44:45.156Z		7			
-soli/ru_2sa_text_reg		0			0			0									
-soli/ru_rut_text_reg		0			0			0									
-uW_test_001/kan-x-palligaru_reg_tit_book		0	en		0	kn	v0.22	54	kn	v33.2	v0.8	2021-11-10T12:41:52.097Z	3.0.1	7			
-varun/kan-x-palligaru_reg_tit_book		0	en		0	kn	v0.22	51	kn	v33.2	v0.8	2021-11-10T12:41:52.097Z	3.0.1	7			
-Yuri/ru_rob_2jn_book	2022-01-10T14:37:20.312Z	100	en	v0.19	0	ru		0	en	v45	v0.19	2021-03-21T20:59:36.710Z	3.0.1	7			
-Yuri/ru_rob_act_book	2022-01-10T14:37:20.312Z	100	en	v0.12	0	en		0	en			2019-08-14T11:21:22.861Z	2.1.2	7			
-Yuri/ru_rsol_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.12	0			0				2020-04-29T07:57:17.462Z	2.1.2	7			
-Yuri/ru_tit_text_reg		0			0			0									
-Yuri/ru_ulb_tit_book	2022-01-10T14:37:20.312Z	100	en		1			0				2019-05-14T12:20:23.897Z	2.0.0	7			
-Yuri/ru_yuri_3jn_book	2022-01-10T14:37:20.312Z	100	en		100	en	v0.12	86	en	v30	v0.12	2020-01-13T17:10:53.619Z	2.1.2	7	unmatched tn checks found, 		
-zakbaku/ru_2co_text_reg		0			0			0									
-zakbaku/ru_phm_text_reg		0			0			0									
-zakbaku/ru_tit_text_reg		0			0			0									
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
+Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	

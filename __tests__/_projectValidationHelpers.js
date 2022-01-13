@@ -799,16 +799,21 @@ export function writeToTsv(reposFormat, reposLines, outputFolder, outputFile) {
   }
   lines.push(line);
   for (const repoline of reposLines) {
-    let line = '';
-    for (const field of reposFormat) {
-      const fieldKey = field.key;
-      let value = repoline[fieldKey];
-      if (typeof(value) === 'object') {
-        value = JSON.stringify(value);
-      } else if ((value !== 0) && !value) {
-        value = '';
+    const lineType = typeof repoline;
+    if (lineType === 'string') {
+      line = repoline;
+    } else {
+      let line = '';
+      for (const field of reposFormat) {
+        const fieldKey = field.key;
+        let value = repoline[fieldKey];
+        if (typeof (value) === 'object') {
+          value = JSON.stringify(value);
+        } else if ((value !== 0) && !value) {
+          value = '';
+        }
+        line += value + '\t';
       }
-      line += value + '\t';
     }
     lines.push(line);
   }
@@ -816,6 +821,20 @@ export function writeToTsv(reposFormat, reposLines, outputFolder, outputFile) {
   const data = lines.join('\n') + '\n';
   fs.writeFileSync(path.join(outputFolder, outputFile), data, 'utf8');
   return data;
+}
+
+/**
+ *
+ * @param inputFile
+ * @return {{header: *, lines: *}}
+ */
+export function readTsv(inputFile) {
+  let data = fs.readFileSync(inputFile, 'utf8') || [];
+  data = data.split('\n');
+  const header = data[0];
+  let lines = data.slice(1);
+  lines = lines.filter(line => (line));
+  return {header, lines};
 }
 
 /**

@@ -9,7 +9,7 @@
         "percentCompleted": 1,
         "completedVerses": 879,
         "totalVerses": 879,
-        "unalignedOrig": 3259,
+        "unalignedOrig": 3257,
         "unalignedTarget": 25
       },
       "checks": {
@@ -47,7 +47,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-21T03:28:03Z"
+      "modified": "2022-01-13T07:06:47Z"
     },
     "katu_2021/kuf_ktlt_rev_book": {
       "fullName": "katu_2021/kuf_ktlt_rev_book",
@@ -145,7 +145,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_3jn_book": {
       "fullName": "katu_2021/kuf_ktlt_3jn_book",
@@ -194,7 +194,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_2jn_book": {
       "fullName": "katu_2021/kuf_ktlt_2jn_book",
@@ -243,7 +243,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_1jn_book": {
       "fullName": "katu_2021/kuf_ktlt_1jn_book",
@@ -292,7 +292,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_2pe_book": {
       "fullName": "katu_2021/kuf_ktlt_2pe_book",
@@ -341,7 +341,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_1pe_book": {
       "fullName": "katu_2021/kuf_ktlt_1pe_book",
@@ -390,7 +390,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_jas_book": {
       "fullName": "katu_2021/kuf_ktlt_jas_book",
@@ -488,7 +488,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_phm_book": {
       "fullName": "katu_2021/kuf_ktlt_phm_book",
@@ -537,7 +537,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_tit_book": {
       "fullName": "katu_2021/kuf_ktlt_tit_book",
@@ -635,7 +635,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_1ti_book": {
       "fullName": "katu_2021/kuf_ktlt_1ti_book",
@@ -684,7 +684,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T08:52:00Z"
+      "modified": "2022-01-13T09:33:08Z"
     },
     "katu_2021/kuf_ktlt_2th_book": {
       "fullName": "katu_2021/kuf_ktlt_2th_book",
@@ -733,7 +733,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_1th_book": {
       "fullName": "katu_2021/kuf_ktlt_1th_book",
@@ -782,7 +782,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_col_book": {
       "fullName": "katu_2021/kuf_ktlt_col_book",
@@ -831,7 +831,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_php_book": {
       "fullName": "katu_2021/kuf_ktlt_php_book",
@@ -880,7 +880,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_eph_book": {
       "fullName": "katu_2021/kuf_ktlt_eph_book",
@@ -929,7 +929,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_gal_book": {
       "fullName": "katu_2021/kuf_ktlt_gal_book",
@@ -978,7 +978,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_2co_book": {
       "fullName": "katu_2021/kuf_ktlt_2co_book",
@@ -1027,7 +1027,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_1co_book": {
       "fullName": "katu_2021/kuf_ktlt_1co_book",
@@ -1076,7 +1076,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_mat_book": {
       "fullName": "katu_2021/kuf_ktlt_mat_book",
@@ -1174,7 +1174,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_mrk_book": {
       "fullName": "katu_2021/kuf_ktlt_mrk_book",
@@ -1223,7 +1223,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "katu_2021/kuf_ktlt_luk_book": {
       "fullName": "katu_2021/kuf_ktlt_luk_book",
@@ -1272,7 +1272,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     }
   },
   "goodProjects": {
@@ -1286,7 +1286,7 @@
           "percentCompleted": 1,
           "completedVerses": 879,
           "totalVerses": 879,
-          "unalignedOrig": 3259,
+          "unalignedOrig": 3257,
           "unalignedTarget": 25
         },
         "checks": {
@@ -1324,7 +1324,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2021-12-21T03:28:03Z"
+        "modified": "2022-01-13T07:06:47Z"
       },
       "katu_2021/kuf_ktlt_rev_book": {
         "fullName": "katu_2021/kuf_ktlt_rev_book",
@@ -1422,7 +1422,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_3jn_book": {
         "fullName": "katu_2021/kuf_ktlt_3jn_book",
@@ -1471,7 +1471,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_2jn_book": {
         "fullName": "katu_2021/kuf_ktlt_2jn_book",
@@ -1520,7 +1520,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_1jn_book": {
         "fullName": "katu_2021/kuf_ktlt_1jn_book",
@@ -1569,7 +1569,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_2pe_book": {
         "fullName": "katu_2021/kuf_ktlt_2pe_book",
@@ -1618,7 +1618,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_1pe_book": {
         "fullName": "katu_2021/kuf_ktlt_1pe_book",
@@ -1667,7 +1667,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_jas_book": {
         "fullName": "katu_2021/kuf_ktlt_jas_book",
@@ -1765,7 +1765,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_phm_book": {
         "fullName": "katu_2021/kuf_ktlt_phm_book",
@@ -1814,7 +1814,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_tit_book": {
         "fullName": "katu_2021/kuf_ktlt_tit_book",
@@ -1912,7 +1912,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_1ti_book": {
         "fullName": "katu_2021/kuf_ktlt_1ti_book",
@@ -1961,7 +1961,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T08:52:00Z"
+        "modified": "2022-01-13T09:33:08Z"
       },
       "katu_2021/kuf_ktlt_2th_book": {
         "fullName": "katu_2021/kuf_ktlt_2th_book",
@@ -2010,7 +2010,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_1th_book": {
         "fullName": "katu_2021/kuf_ktlt_1th_book",
@@ -2059,7 +2059,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_col_book": {
         "fullName": "katu_2021/kuf_ktlt_col_book",
@@ -2108,7 +2108,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_php_book": {
         "fullName": "katu_2021/kuf_ktlt_php_book",
@@ -2157,7 +2157,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_eph_book": {
         "fullName": "katu_2021/kuf_ktlt_eph_book",
@@ -2206,7 +2206,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_gal_book": {
         "fullName": "katu_2021/kuf_ktlt_gal_book",
@@ -2255,7 +2255,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_2co_book": {
         "fullName": "katu_2021/kuf_ktlt_2co_book",
@@ -2304,7 +2304,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_1co_book": {
         "fullName": "katu_2021/kuf_ktlt_1co_book",
@@ -2353,7 +2353,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_mat_book": {
         "fullName": "katu_2021/kuf_ktlt_mat_book",
@@ -2451,7 +2451,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_mrk_book": {
         "fullName": "katu_2021/kuf_ktlt_mrk_book",
@@ -2500,7 +2500,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "katu_2021/kuf_ktlt_luk_book": {
         "fullName": "katu_2021/kuf_ktlt_luk_book",
@@ -2549,7 +2549,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       }
     },
     "waNearlyFinished": {},

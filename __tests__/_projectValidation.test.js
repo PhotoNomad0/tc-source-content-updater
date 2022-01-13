@@ -6,16 +6,20 @@
 // orgs/langRepos.json is a prioritized list of languages - the first item has the most repos. It is created by test `sort all tC repos`
 // you can't see the console logs of unit tests while they are running, but you can watch `./temp/downloads/imports` to see the repos being checked so you know it is not hanging.
 // results are in folder `./temp/tc_repos/summary`
+// to combine all the summaries, run test `combine summaries` which will create two files 'All_tCore_Repos.tsv' and 'Progressed_tCore_Repos.tsv'
+
+
 // NOCK_OFF=true node --inspect-brk node_modules/.bin/jest --runInBand -t "search, download and verify projects in org"
 
 import fs from 'fs-extra';
 import path from 'path-extra';
 import os from 'os';
+import isEqual from 'deep-equal';
 import * as apiHelpers from '../src/helpers/apiHelpers';
 import {
   downloadAndVerifyProject,
   getDirJson,
-  getResource,
+  getResource, readTsv,
   sortObjects,
   sortStringObjects,
   summarizeProjects,
@@ -100,9 +104,60 @@ describe('test project', () => {
         });
       }
     }
+
+    it(`combine summaries`, async () => {
+      const summaryFolder = './temp/tc_repos/summary';
+      let files = fs.readdirSync(summaryFolder)
+        .filter((file) => path.extname(file) === '.tsv' && file.indexOf('-null-') >= 0).sort();
+      let header = null;
+      let allLines = [];
+      let activityLines = [];
+      let projectsFormat;
+      let waDoneIdx;
+      let twDoneIdx;
+      let tnDoneIdx;
+
+      for (const file of files) {
+        const filePath = path.join(summaryFolder, file);
+        const fileData = readTsv(filePath);
+        if (!fileData || !fileData.lines || !fileData.lines.length) {
+          continue; // skip empty data
+        }
+        if (!header) {
+          header = fileData.header;
+          const fields = header.split('\t');
+          projectsFormat = fields.map(item => {
+            const text = item;
+            const key = text.replaceAll(' ', '_');
+            return { key, text };
+          });
+          waDoneIdx = fields.indexOf('wA % Done');
+          twDoneIdx = fields.indexOf('tW % Done');
+          tnDoneIdx = fields.indexOf('tN % Done');
+        } else if (!isEqual(header, fileData.header)) {
+          console.log(`incompatible spreadsheet ${filePath}`);
+          continue;
+        }
+
+        allLines = allLines.concat(...fileData.lines);
+        for (const line of fileData.lines) {
+          const fields = line.split('\t');
+          const waDone = parseInt(fields[waDoneIdx]);
+          const twDone = parseInt(fields[twDoneIdx]);
+          const tnDone = parseInt(fields[tnDoneIdx]);
+          const workDone = waDone || twDone || tnDone;
+          if (workDone) {
+            activityLines.push(line);
+          }
+        }
+      }
+      writeToTsv(projectsFormat, allLines, summaryFolder, 'All_tCore_Repos.tsv');
+      writeToTsv(projectsFormat, activityLines, summaryFolder, 'Progressed_tCore_Repos.tsv');
+      console.log(files);
+    });
   });
 
-  it(`search, download and verify projects in org`, async () => {
+  it.skip(`search, download and verify projects in org`, async () => {
     const outputFolder = './temp/tc_repos';
     // const org = 'India_BCS';
     // const langId = 'hi';

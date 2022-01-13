@@ -43,7 +43,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "miguelcordero/es-419_tpl_rut_book": {
       "fullName": "miguelcordero/es-419_tpl_rut_book",
@@ -128,7 +128,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "abelper8/es-419_tps_tit_book": {
       "fullName": "abelper8/es-419_tps_tit_book",
@@ -197,7 +197,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "miguelcordero/es-419_tps_rut_book": {
       "fullName": "miguelcordero/es-419_tps_rut_book",
@@ -283,7 +283,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: writing-background_4_7__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "AngelicaReyes/es-419_tpl_rut_book": {
       "fullName": "AngelicaReyes/es-419_tpl_rut_book",
@@ -367,7 +367,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "LarryPinero/es-419_tpl_rut_book": {
       "fullName": "LarryPinero/es-419_tpl_rut_book",
@@ -451,7 +451,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "birch/es-419_ulbb_tit_book": {
       "fullName": "birch/es-419_ulbb_tit_book",
@@ -496,7 +496,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "abelper8/es-419_ulb_phm_book": {
       "fullName": "abelper8/es-419_ulb_phm_book",
@@ -565,7 +565,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "birch/es-419_uld_tit_book": {
       "fullName": "birch/es-419_uld_tit_book",
@@ -610,7 +610,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "abelper8/es-419_ulb_tit_book": {
       "fullName": "abelper8/es-419_ulb_tit_book",
@@ -655,7 +655,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "birch/es-419_ulb_tit_book": {
       "fullName": "birch/es-419_ulb_tit_book",
@@ -700,7 +700,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "LarryPinero/es-419_ulb_rut_book": {
       "fullName": "LarryPinero/es-419_ulb_rut_book",
@@ -745,7 +745,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "abelper8/es-419_tpl_phm_book": {
       "fullName": "abelper8/es-419_tpl_phm_book",
@@ -821,7 +821,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "pjoakes/es-419_tps_3jn_book": {
       "fullName": "pjoakes/es-419_tps_3jn_book",
@@ -896,7 +896,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "pjoakes/es-419_tpl_3jn_book": {
       "fullName": "pjoakes/es-419_tpl_3jn_book",
@@ -971,7 +971,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "LarryPinero/es-419_tps_3jn_book": {
       "fullName": "LarryPinero/es-419_tps_3jn_book",
@@ -1046,7 +1046,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "LarryPinero/es-419_tpl_3jn_book": {
       "fullName": "LarryPinero/es-419_tpl_3jn_book",
@@ -1115,7 +1115,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "Connie/es-419_ulb_tit_book": {
       "fullName": "Connie/es-419_ulb_tit_book",
@@ -1158,7 +1158,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "abelper8/es-419_tpl_tit_book": {
       "fullName": "abelper8/es-419_tpl_tit_book",
@@ -1227,7 +1227,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "AngelicaReyes/es-419_udb_tit_book": {
       "fullName": "AngelicaReyes/es-419_udb_tit_book",
@@ -1272,7 +1272,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "LarryPinero/es-419_tpl_tit_book": {
       "fullName": "LarryPinero/es-419_tpl_tit_book",
@@ -1412,7 +1412,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "LarryPinero/es-419_tps_tit_book": {
       "fullName": "LarryPinero/es-419_tps_tit_book",
@@ -1552,7 +1552,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "LarryPinero/es-419_udb_tit_book": {
       "fullName": "LarryPinero/es-419_udb_tit_book",
@@ -1623,7 +1623,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tc01/es-419_ulb_eph_book": {
       "fullName": "tc01/es-419_ulb_eph_book",
@@ -1668,7 +1668,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tc0.8.1/es-419_abcd_tit_book": {
       "fullName": "tc0.8.1/es-419_abcd_tit_book",
@@ -1728,7 +1728,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tc0.8.1/es-419_eigh_tit_book": {
       "fullName": "tc0.8.1/es-419_eigh_tit_book",
@@ -1791,7 +1791,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tc01/es-419_reg_tit_book": {
       "fullName": "tc01/es-419_reg_tit_book",
@@ -1836,7 +1836,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "photonomad0/es-419_reg_luk_book": {
       "fullName": "photonomad0/es-419_reg_luk_book",
@@ -1881,7 +1881,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "pjoakes/es-419_ulb_gal_book": {
       "fullName": "pjoakes/es-419_ulb_gal_book",
@@ -1926,7 +1926,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "bspidel/es-419_ulb_eph_book": {
       "fullName": "bspidel/es-419_ulb_eph_book",
@@ -1971,7 +1971,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tc01/es-419_ulb_tit_book": {
       "fullName": "tc01/es-419_ulb_tit_book",
@@ -2016,7 +2016,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tc01/es-419_ulbb_tit_book": {
       "fullName": "tc01/es-419_ulbb_tit_book",
@@ -2061,7 +2061,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "qa99/es-419_ulb_tit_book": {
       "fullName": "qa99/es-419_ulb_tit_book",
@@ -2106,7 +2106,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_1pe_book": {
       "fullName": "tcnt/es-419_ulb_1pe_book",
@@ -2151,7 +2151,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_1th_book": {
       "fullName": "tcnt/es-419_ulb_1th_book",
@@ -2196,7 +2196,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_col_book": {
       "fullName": "tcnt/es-419_ulb_col_book",
@@ -2241,7 +2241,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_php_book": {
       "fullName": "tcnt/es-419_ulb_php_book",
@@ -2286,7 +2286,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_eph_book": {
       "fullName": "tcnt/es-419_ulb_eph_book",
@@ -2331,7 +2331,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_gal_book": {
       "fullName": "tcnt/es-419_ulb_gal_book",
@@ -2376,7 +2376,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_act_book": {
       "fullName": "tcnt/es-419_ulb_act_book",
@@ -2421,7 +2421,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tcnt/es-419_ulb_jhn_book": {
       "fullName": "tcnt/es-419_ulb_jhn_book",
@@ -2466,7 +2466,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "zuriaraujo/es-419_phm_text_reg": {
       "fullName": "zuriaraujo/es-419_phm_text_reg",
@@ -6841,7 +6841,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "miguelcordero/es-419_tps_rut_book": {
         "fullName": "miguelcordero/es-419_tps_rut_book",
@@ -6927,7 +6927,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: writing-background_4_7__1 - Missing 1 selections\t\n, TW: ",
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "pjoakes/es-419_tps_3jn_book": {
         "fullName": "pjoakes/es-419_tps_3jn_book",
@@ -7002,7 +7002,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "pjoakes/es-419_tpl_3jn_book": {
         "fullName": "pjoakes/es-419_tpl_3jn_book",
@@ -7077,7 +7077,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "LarryPinero/es-419_tps_3jn_book": {
         "fullName": "LarryPinero/es-419_tps_3jn_book",
@@ -7152,7 +7152,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "LarryPinero/es-419_tpl_3jn_book": {
         "fullName": "LarryPinero/es-419_tpl_3jn_book",
@@ -7221,7 +7221,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "abelper8/es-419_tpl_tit_book": {
         "fullName": "abelper8/es-419_tpl_tit_book",
@@ -7290,7 +7290,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "LarryPinero/es-419_tpl_tit_book": {
         "fullName": "LarryPinero/es-419_tpl_tit_book",
@@ -7430,7 +7430,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "LarryPinero/es-419_tps_tit_book": {
         "fullName": "LarryPinero/es-419_tps_tit_book",
@@ -7570,7 +7570,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       }
     },
     "waNearlyFinished": {
@@ -7643,7 +7643,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       }
     },
     "allFinished": {
@@ -7731,7 +7731,7 @@
         },
         "checkMigration": true,
         "projectWarnings": "warnings: WA: , TN: writing-background_4_7__1 - Missing 1 selections\t\n, TW: ",
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "pjoakes/es-419_tps_3jn_book": {
         "fullName": "pjoakes/es-419_tps_3jn_book",
@@ -7806,7 +7806,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "pjoakes/es-419_tpl_3jn_book": {
         "fullName": "pjoakes/es-419_tpl_3jn_book",
@@ -7881,7 +7881,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "LarryPinero/es-419_tps_3jn_book": {
         "fullName": "LarryPinero/es-419_tps_3jn_book",
@@ -7956,7 +7956,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "LarryPinero/es-419_tpl_tit_book": {
         "fullName": "LarryPinero/es-419_tpl_tit_book",
@@ -8096,7 +8096,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "LarryPinero/es-419_tps_tit_book": {
         "fullName": "LarryPinero/es-419_tps_tit_book",
@@ -8236,7 +8236,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       }
     },
     "allNearlyFinished": {
@@ -8307,7 +8307,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       }
     }
   }

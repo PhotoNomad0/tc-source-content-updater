@@ -1,5 +1,5 @@
 {
-  "processedProjects": 191,
+  "processedProjects": 20,
   "totalProjects": 191,
   "projects": {
     "man_vgm/vi_vlt_luk_book": {
@@ -49,7 +49,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_vlt_col_book": {
       "fullName": "man_vgm/vi_vlt_col_book",
@@ -98,7 +98,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_vlt_rom_book": {
       "fullName": "man_vgm/vi_vlt_rom_book",
@@ -166,7 +166,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_vlt_tit_book": {
       "fullName": "man_vgm/vi_vlt_tit_book",
@@ -235,7 +235,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_vlt_jas_book": {
       "fullName": "man_vgm/vi_vlt_jas_book",
@@ -284,7 +284,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_vts_exo_book": {
       "fullName": "man_vgm/vi_vts_exo_book",
@@ -335,7 +335,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_exo_book": {
       "fullName": "man_vgm/vi_volt_exo_book",
@@ -387,7 +387,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_jon_book": {
       "fullName": "man_vgm/vi_volt_jon_book",
@@ -453,7 +453,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_num_book": {
       "fullName": "man_vgm/vi_volt_num_book",
@@ -502,7 +502,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_mic_book": {
       "fullName": "man_vgm/vi_volt_mic_book",
@@ -554,7 +554,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_jer_book": {
       "fullName": "man_vgm/vi_volt_jer_book",
@@ -562,11 +562,11 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "jer",
-        "percentCompleted": 0.4780058651026393,
-        "completedVerses": 652,
+        "percentCompleted": 0.4941348973607038,
+        "completedVerses": 674,
         "totalVerses": 1364,
-        "unalignedOrig": 11888,
-        "unalignedTarget": 27346
+        "unalignedOrig": 11468,
+        "unalignedTarget": 26489
       },
       "checks": {
         "langId": "vi",
@@ -605,7 +605,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-11T13:51:33Z"
+      "modified": "2022-01-12T17:43:24Z"
     },
     "man_vgm/vi_volt_hab_book": {
       "fullName": "man_vgm/vi_volt_hab_book",
@@ -655,7 +655,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_deu_book": {
       "fullName": "man_vgm/vi_volt_deu_book",
@@ -706,7 +706,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_2ki_book": {
       "fullName": "man_vgm/vi_volt_2ki_book",
@@ -755,7 +755,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_1ki_book": {
       "fullName": "man_vgm/vi_volt_1ki_book",
@@ -804,7 +804,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_psa_book": {
       "fullName": "man_vgm/vi_volt_psa_book",
@@ -812,11 +812,11 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "psa",
-        "percentCompleted": 0.7972368955709062,
-        "completedVerses": 1962,
+        "percentCompleted": 0.7984559122308005,
+        "completedVerses": 1965,
         "totalVerses": 2461,
-        "unalignedOrig": 4348,
-        "unalignedTarget": 9388
+        "unalignedOrig": 4324,
+        "unalignedTarget": 9319
       },
       "checks": {
         "langId": "vi",
@@ -856,7 +856,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T10:43:35Z"
+      "modified": "2022-01-13T10:29:00Z"
     },
     "man_vgm/vi_vlt_mrk_book": {
       "fullName": "man_vgm/vi_vlt_mrk_book",
@@ -905,7 +905,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_vlt_mat_book": {
       "fullName": "man_vgm/vi_vlt_mat_book",
@@ -973,7 +973,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "man_vgm/vi_volt_1ch_book": {
       "fullName": "man_vgm/vi_volt_1ch_book",
@@ -981,11 +981,11 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "1ch",
-        "percentCompleted": 0.2898089171974522,
-        "completedVerses": 273,
+        "percentCompleted": 0.3036093418259023,
+        "completedVerses": 286,
         "totalVerses": 942,
-        "unalignedOrig": 8296,
-        "unalignedTarget": 22141
+        "unalignedOrig": 8143,
+        "unalignedTarget": 21735
       },
       "checks": {
         "langId": "vi",
@@ -1024,7 +1024,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T10:30:26Z"
+      "modified": "2022-01-13T10:30:38Z"
     },
     "man_vgm/vi_volt_2ch_book": {
       "fullName": "man_vgm/vi_volt_2ch_book",

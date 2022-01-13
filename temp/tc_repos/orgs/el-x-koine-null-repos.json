@@ -47,7 +47,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_rom_book": {
       "fullName": "ibibleru/el-x-koine_sttr_rom_book",
@@ -114,7 +114,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_rev_book": {
       "fullName": "ibibleru/el-x-koine_sttr_rev_book",
@@ -162,7 +162,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_php_book": {
       "fullName": "ibibleru/el-x-koine_sttr_php_book",
@@ -210,7 +210,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_phm_book": {
       "fullName": "ibibleru/el-x-koine_sttr_phm_book",
@@ -259,7 +259,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_mrk_book": {
       "fullName": "ibibleru/el-x-koine_sttr_mrk_book",
@@ -307,7 +307,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_mat_book": {
       "fullName": "ibibleru/el-x-koine_sttr_mat_book",
@@ -355,7 +355,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_luk_book": {
       "fullName": "ibibleru/el-x-koine_sttr_luk_book",
@@ -407,7 +407,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_jud_book": {
       "fullName": "ibibleru/el-x-koine_sttr_jud_book",
@@ -456,7 +456,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_jhn_book": {
       "fullName": "ibibleru/el-x-koine_sttr_jhn_book",
@@ -504,7 +504,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_jas_book": {
       "fullName": "ibibleru/el-x-koine_sttr_jas_book",
@@ -552,7 +552,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_heb_book": {
       "fullName": "ibibleru/el-x-koine_sttr_heb_book",
@@ -600,7 +600,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_gal_book": {
       "fullName": "ibibleru/el-x-koine_sttr_gal_book",
@@ -648,7 +648,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_eph_book": {
       "fullName": "ibibleru/el-x-koine_sttr_eph_book",
@@ -696,7 +696,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_col_book": {
       "fullName": "ibibleru/el-x-koine_sttr_col_book",
@@ -744,7 +744,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_act_book": {
       "fullName": "ibibleru/el-x-koine_sttr_act_book",
@@ -792,7 +792,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_3jn_book": {
       "fullName": "ibibleru/el-x-koine_sttr_3jn_book",
@@ -841,7 +841,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_2ti_book": {
       "fullName": "ibibleru/el-x-koine_sttr_2ti_book",
@@ -889,7 +889,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_2th_book": {
       "fullName": "ibibleru/el-x-koine_sttr_2th_book",
@@ -937,7 +937,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_2pe_book": {
       "fullName": "ibibleru/el-x-koine_sttr_2pe_book",
@@ -985,7 +985,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_2jn_book": {
       "fullName": "ibibleru/el-x-koine_sttr_2jn_book",
@@ -1034,7 +1034,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_2co_book": {
       "fullName": "ibibleru/el-x-koine_sttr_2co_book",
@@ -1082,7 +1082,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_1ti_book": {
       "fullName": "ibibleru/el-x-koine_sttr_1ti_book",
@@ -1130,7 +1130,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_1th_book": {
       "fullName": "ibibleru/el-x-koine_sttr_1th_book",
@@ -1178,7 +1178,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_1pe_book": {
       "fullName": "ibibleru/el-x-koine_sttr_1pe_book",
@@ -1226,7 +1226,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ibibleru/el-x-koine_sttr_1jn_book": {
       "fullName": "ibibleru/el-x-koine_sttr_1jn_book",
@@ -1274,7 +1274,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     }
   },
   "goodProjects": {
@@ -1326,7 +1326,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "ibibleru/el-x-koine_sttr_phm_book": {
         "fullName": "ibibleru/el-x-koine_sttr_phm_book",
@@ -1375,7 +1375,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "ibibleru/el-x-koine_sttr_jud_book": {
         "fullName": "ibibleru/el-x-koine_sttr_jud_book",
@@ -1424,7 +1424,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "ibibleru/el-x-koine_sttr_3jn_book": {
         "fullName": "ibibleru/el-x-koine_sttr_3jn_book",
@@ -1473,7 +1473,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "ibibleru/el-x-koine_sttr_2jn_book": {
         "fullName": "ibibleru/el-x-koine_sttr_2jn_book",
@@ -1522,7 +1522,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       }
     },
     "waNearlyFinished": {},

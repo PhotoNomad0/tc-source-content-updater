@@ -1,5 +1,5 @@
 {
-  "processedProjects": 26,
+  "processedProjects": 22,
   "totalProjects": 26,
   "projects": {
     "shojojohn/ory_ogst_eph_book": {
@@ -52,7 +52,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: , TW: body_4_16__1 - Missing 1 selections\t\nknow_3_19__1 - Missing 1 selections\t\nlight_5_8__1 - Missing 1 selections\t\nreveal_5_13__1 - Missing 1 selections\t\nwalk_4_17__1 - Missing 1 selections\t\n",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "Shyam_G/ory_oglt_1jn_book": {
       "fullName": "Shyam_G/ory_oglt_1jn_book",
@@ -369,7 +369,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_10__1 - Missing 1 selections\t\nfigs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-activepassive_2_28__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "Deepak.Nayak/ory_oglt_luk_book": {
       "fullName": "Deepak.Nayak/ory_oglt_luk_book",
@@ -438,7 +438,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 1 selections\t\nfigs-metaphor_8_12__1 - Missing 1 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "Isaac.Jani/ory_ogst_jas_book": {
       "fullName": "Isaac.Jani/ory_ogst_jas_book",
@@ -871,7 +871,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-metaphor_3_6__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "manash12d/ory_glto_jon_book": {
       "fullName": "manash12d/ory_glto_jon_book",
@@ -952,7 +952,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "shojojohn/ory_oglt_jon_book": {
       "fullName": "shojojohn/ory_oglt_jon_book",
@@ -1280,7 +1280,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_5_20__1 - Missing 1 selections\t\nfigs-idiom_4_6__1 - Missing 1 selections\t\nfigs-metaphor_1_7__1 - Missing 1 selections\t\nfigs-metaphor_2_10__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 1 selections\t\nfigs-metaphor_3_9__1 - Missing 1 selections\t\nfigs-metaphor_3_24__1 - Missing 1 selections\t\nfigs-metaphor_5_20__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "manash12d/ory_ogst_2jn_book": {
       "fullName": "manash12d/ory_ogst_2jn_book",
@@ -1350,7 +1350,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-metaphor_1_1__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "manash12d/ory_ogst_eph_book": {
       "fullName": "manash12d/ory_ogst_eph_book",
@@ -1451,7 +1451,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-abstractnouns_4_13__1 - Missing 2 selections\t\nfigs-activepassive_4_18__1 - Missing 1 selections\t\nfigs-apostrophe_5_14__1 - Missing 1 selections\t\nfigs-metaphor_5_11__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "manash12d/ory_ogst_1ti_book": {
       "fullName": "manash12d/ory_ogst_1ti_book",
@@ -1532,7 +1532,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-metaphor_6_19__1 - Missing 1 selections\t\nfigs-metonymy_6_3__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "manash12d/ory_ogst_rut_book": {
       "fullName": "manash12d/ory_ogst_rut_book",
@@ -1622,7 +1622,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "Deepak.Nayak/ory_gst_1jn_book": {
       "fullName": "Deepak.Nayak/ory_gst_1jn_book",
@@ -1748,7 +1748,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "manash12d/ory_ogst_jon_book": {
       "fullName": "manash12d/ory_ogst_jon_book",
@@ -1818,7 +1818,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: , TW: joy_4_6__1 - Missing 1 selections\t\n",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "manash12d/ory_oglt_2jn_book": {
       "fullName": "manash12d/ory_oglt_2jn_book",
@@ -1884,7 +1884,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "Deepak.Nayak/ory_ogst_1jn_book": {
       "fullName": "Deepak.Nayak/ory_ogst_1jn_book",

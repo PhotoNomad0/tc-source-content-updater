@@ -1,5 +1,5 @@
 {
-  "processedProjects": 73,
+  "processedProjects": 11,
   "totalProjects": 73,
   "projects": {
     "BCS_India/kn_glt_luk_book": {
@@ -70,7 +70,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-activepassive_6_37__1 - Missing 2 selections\t\nfigs-activepassive_9_8__1 - Missing 1 selections\t\nfigs-doublenegatives_8_17__1 - Missing 1 selections\t\nfigs-explicit_7_12__1 - Missing 1 selections\t\nfigs-explicit_7_37__1 - Missing 1 selections\t\nfigs-explicit_8_35__1 - Missing 1 selections\t\nfigs-explicit_10_14__1 - Missing 1 selections\t\nfigs-explicit_12_28__1 - Missing 1 selections\t\nfigs-explicit_17_24__1 - Missing 1 selections\t\nfigs-explicit_19_38__1 - Missing 1 selections\t\nfigs-explicit_21_34__1 - Missing 1 selections\t\nfigs-idiom_1_7__1 - Missing 1 selections\t\nfigs-idiom_1_75__1 - Missing 1 selections\t\nfigs-idiom_1_79__1 - Missing 1 selections\t\nfigs-idiom_2_36__1 - Missing 1 selections\t\nfigs-idiom_2_38__1 - Missing 1 selections\t\nfigs-idiom_6_20__1 - Missing 1 selections\t\nfigs-idiom_7_16__1 - Missing 1 selections\t\nfigs-metaphor_1_6__1 - Missing 1 selections\t\nfigs-metaphor_1_66__1 - Missing 1 selections\t\nfigs-metaphor_3_5__1 - Missing 1 selections\t\nfigs-metaphor_3_8__1 - Missing 3 selections\t\nfigs-metaphor_16_8__1 - Missing 1 selections\t\nfigs-metaphor_21_14__1 - Missing 1 selections\t\nfigs-metaphor_21_24__1 - Missing 1 selections\t\nfigs-metaphor_21_36__1 - Missing 1 selections\t\nfigs-metonymy_11_17__1 - Missing 1 selections\t\nfigs-metonymy_13_1__1 - Missing 1 selections\t\nfigs-metonymy_15_27__1 - Missing 1 selections\t\nfigs-metonymy_20_47__1 - Missing 1 selections\t\ngrammar-connect-logic-contrast_7_32__1 - Missing 1 selections\t\ntranslate-names_6_15__1 - Missing 1 selections\t\ntranslate-names_19_29__1 - Missing 1 selections\t\ntranslate-symaction_19_36__1 - Missing 1 selections\t\ntranslate-unknown_6_44__1 - Missing 1 selections\t\ntranslate-unknown_6_48__1 - Missing 1 selections\t\nwriting-background_7_12__1 - Missing 1 selections\t\nwriting-pronouns_23_33__1 - Missing 1 selections\t\n, TW: castout_6_42__1 - Missing 2 selections\t\nclothed_5_36__1 - Missing 1 selections\t\ncommand_5_14__1 - Missing 1 selections\t\ndemon_8_29__1 - Missing 1 selections\t\nevil_6_45__1 - Missing 1 selections\t\ngood_6_45__1 - Missing 1 selections\t\nhouse_6_48__1 - Missing 1 selections\t\njesus_8_28__1 - Missing 1 selections\t\njesus_8_35__1 - Missing 1 selections\t\nlike_7_31__1 - Missing 1 selections\t\noil_7_46__1 - Missing 1 selections\t\nteacher_6_40__1 - Missing 1 selections\t\nwine_5_37__1 - Missing 2 selections\t\n",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "tCore-test-data/kn_kglt_2jn_book": {
       "fullName": "tCore-test-data/kn_kglt_2jn_book",
@@ -139,7 +139,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "photonomad1/kn_kglt_2jn_book": {
       "fullName": "photonomad1/kn_kglt_2jn_book",
@@ -208,7 +208,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "photonomad1/kn_kglz_2jn_book": {
       "fullName": "photonomad1/kn_kglz_2jn_book",
@@ -277,7 +277,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "ghayden/kn_test_2jn_book": {
       "fullName": "ghayden/kn_test_2jn_book",
@@ -346,7 +346,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "BCS_India/kn_glt_1jn_book": {
       "fullName": "BCS_India/kn_glt_1jn_book",

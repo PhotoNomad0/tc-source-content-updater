@@ -67,7 +67,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_mrk_book": {
       "fullName": "cor_2020/cua_clt_mrk_book",
@@ -116,7 +116,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_mat_book": {
       "fullName": "cor_2020/cua_clt_mat_book",
@@ -127,8 +127,8 @@
         "percentCompleted": 1,
         "completedVerses": 1071,
         "totalVerses": 1071,
-        "unalignedOrig": 3696,
-        "unalignedTarget": 817
+        "unalignedOrig": 3692,
+        "unalignedTarget": 816
       },
       "checks": {
         "langId": "cua",
@@ -153,7 +153,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v54"
+                "glVersion": "v57"
               }
             },
             "toolWarnings": ""
@@ -185,7 +185,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T09:59:46Z"
+      "modified": "2022-01-13T10:00:58Z"
     },
     "cor_2020/cua_clt_luk_book": {
       "fullName": "cor_2020/cua_clt_luk_book",
@@ -234,7 +234,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_jhn_book": {
       "fullName": "cor_2020/cua_clt_jhn_book",
@@ -401,7 +401,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T10:04:26Z"
+      "modified": "2022-01-13T10:06:13Z"
     },
     "cor_2020/cua_clt_php_book": {
       "fullName": "cor_2020/cua_clt_php_book",
@@ -450,7 +450,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_phm_book": {
       "fullName": "cor_2020/cua_clt_phm_book",
@@ -499,7 +499,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_jud_book": {
       "fullName": "cor_2020/cua_clt_jud_book",
@@ -548,7 +548,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_jas_book": {
       "fullName": "cor_2020/cua_clt_jas_book",
@@ -597,7 +597,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_heb_book": {
       "fullName": "cor_2020/cua_clt_heb_book",
@@ -646,7 +646,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_gal_book": {
       "fullName": "cor_2020/cua_clt_gal_book",
@@ -695,7 +695,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_eph_book": {
       "fullName": "cor_2020/cua_clt_eph_book",
@@ -744,7 +744,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_col_book": {
       "fullName": "cor_2020/cua_clt_col_book",
@@ -801,11 +801,11 @@
         "langId": "cua",
         "projectId": "clt",
         "bookId": "act",
-        "percentCompleted": 0.916583912611718,
-        "completedVerses": 923,
+        "percentCompleted": 0.9116186693147964,
+        "completedVerses": 918,
         "totalVerses": 1007,
-        "unalignedOrig": 3938,
-        "unalignedTarget": 180
+        "unalignedOrig": 3940,
+        "unalignedTarget": 192
       },
       "checks": {
         "langId": "cua",
@@ -842,7 +842,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T10:04:10Z"
+      "modified": "2022-01-13T10:04:09Z"
     },
     "cor_2020/cua_clt_3jn_book": {
       "fullName": "cor_2020/cua_clt_3jn_book",
@@ -891,7 +891,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_2ti_book": {
       "fullName": "cor_2020/cua_clt_2ti_book",
@@ -940,7 +940,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_2th_book": {
       "fullName": "cor_2020/cua_clt_2th_book",
@@ -989,7 +989,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_2pe_book": {
       "fullName": "cor_2020/cua_clt_2pe_book",
@@ -1038,7 +1038,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_2jn_book": {
       "fullName": "cor_2020/cua_clt_2jn_book",
@@ -1104,7 +1104,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_2co_book": {
       "fullName": "cor_2020/cua_clt_2co_book",
@@ -1116,7 +1116,7 @@
         "completedVerses": 256,
         "totalVerses": 256,
         "unalignedOrig": 893,
-        "unalignedTarget": 221
+        "unalignedTarget": 218
       },
       "checks": {
         "langId": "cua",
@@ -1153,7 +1153,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T10:02:38Z"
+      "modified": "2022-01-13T04:01:23Z"
     },
     "cor_2020/cua_clt_1ti_book": {
       "fullName": "cor_2020/cua_clt_1ti_book",
@@ -1251,7 +1251,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_1pe_book": {
       "fullName": "cor_2020/cua_clt_1pe_book",
@@ -1300,7 +1300,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "cor_2020/cua_clt_1jn_book": {
       "fullName": "cor_2020/cua_clt_1jn_book",
@@ -1349,7 +1349,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     }
   },
   "goodProjects": {
@@ -1401,7 +1401,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_mat_book": {
         "fullName": "cor_2020/cua_clt_mat_book",
@@ -1412,8 +1412,8 @@
           "percentCompleted": 1,
           "completedVerses": 1071,
           "totalVerses": 1071,
-          "unalignedOrig": 3696,
-          "unalignedTarget": 817
+          "unalignedOrig": 3692,
+          "unalignedTarget": 816
         },
         "checks": {
           "langId": "cua",
@@ -1438,7 +1438,7 @@
                 "duplicateMigrations": [],
                 "unmatched": [],
                 "data": {
-                  "glVersion": "v54"
+                  "glVersion": "v57"
                 }
               },
               "toolWarnings": ""
@@ -1470,7 +1470,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T09:59:46Z"
+        "modified": "2022-01-13T10:00:58Z"
       },
       "cor_2020/cua_clt_jhn_book": {
         "fullName": "cor_2020/cua_clt_jhn_book",
@@ -1637,7 +1637,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T10:04:26Z"
+        "modified": "2022-01-13T10:06:13Z"
       },
       "cor_2020/cua_clt_php_book": {
         "fullName": "cor_2020/cua_clt_php_book",
@@ -1686,7 +1686,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_phm_book": {
         "fullName": "cor_2020/cua_clt_phm_book",
@@ -1735,7 +1735,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_jud_book": {
         "fullName": "cor_2020/cua_clt_jud_book",
@@ -1784,7 +1784,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_jas_book": {
         "fullName": "cor_2020/cua_clt_jas_book",
@@ -1833,7 +1833,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_eph_book": {
         "fullName": "cor_2020/cua_clt_eph_book",
@@ -1882,7 +1882,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_col_book": {
         "fullName": "cor_2020/cua_clt_col_book",
@@ -1980,7 +1980,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_2ti_book": {
         "fullName": "cor_2020/cua_clt_2ti_book",
@@ -2029,7 +2029,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_2th_book": {
         "fullName": "cor_2020/cua_clt_2th_book",
@@ -2078,7 +2078,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_2pe_book": {
         "fullName": "cor_2020/cua_clt_2pe_book",
@@ -2127,7 +2127,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_2jn_book": {
         "fullName": "cor_2020/cua_clt_2jn_book",
@@ -2193,7 +2193,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_2co_book": {
         "fullName": "cor_2020/cua_clt_2co_book",
@@ -2205,7 +2205,7 @@
           "completedVerses": 256,
           "totalVerses": 256,
           "unalignedOrig": 893,
-          "unalignedTarget": 221
+          "unalignedTarget": 218
         },
         "checks": {
           "langId": "cua",
@@ -2242,7 +2242,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T10:02:38Z"
+        "modified": "2022-01-13T04:01:23Z"
       },
       "cor_2020/cua_clt_1th_book": {
         "fullName": "cor_2020/cua_clt_1th_book",
@@ -2291,7 +2291,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_1pe_book": {
         "fullName": "cor_2020/cua_clt_1pe_book",
@@ -2340,7 +2340,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_1jn_book": {
         "fullName": "cor_2020/cua_clt_1jn_book",
@@ -2389,7 +2389,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       }
     },
     "waNearlyFinished": {
@@ -2440,7 +2440,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-10T14:37:20.312Z"
+        "updated_at": "2022-01-11T15:15:19.768Z"
       },
       "cor_2020/cua_clt_act_book": {
         "fullName": "cor_2020/cua_clt_act_book",
@@ -2448,11 +2448,11 @@
           "langId": "cua",
           "projectId": "clt",
           "bookId": "act",
-          "percentCompleted": 0.916583912611718,
-          "completedVerses": 923,
+          "percentCompleted": 0.9116186693147964,
+          "completedVerses": 918,
           "totalVerses": 1007,
-          "unalignedOrig": 3938,
-          "unalignedTarget": 180
+          "unalignedOrig": 3940,
+          "unalignedTarget": 192
         },
         "checks": {
           "langId": "cua",
@@ -2489,7 +2489,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T10:04:10Z"
+        "modified": "2022-01-13T10:04:09Z"
       },
       "cor_2020/cua_clt_1ti_book": {
         "fullName": "cor_2020/cua_clt_1ti_book",

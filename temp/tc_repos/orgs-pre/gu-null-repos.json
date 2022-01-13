@@ -1,5 +1,5 @@
 {
-  "processedProjects": 47,
+  "processedProjects": 5,
   "totalProjects": 47,
   "projects": {
     "Amos.Khokhar/gu_gglt_luk_book": {
@@ -97,7 +97,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: figs-explicit_2_12__1 - Missing 1 selections\t\nfigs-explicit_5_6__1 - Missing 1 selections\t\nfigs-idiom_4_13__1 - Missing 1 selections\t\nfigs-metaphor_3_6__1 - Missing 2 selections\t\nfigs-metaphor_4_8__1 - Missing 1 selections\t\nfigs-metaphor_5_5__1 - Missing 1 selections\t\nfigs-personification_2_20__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-01-11T15:15:19.768Z"
     },
     "BCS_India/gu_ggst_jas_book": {
       "fullName": "BCS_India/gu_ggst_jas_book",
