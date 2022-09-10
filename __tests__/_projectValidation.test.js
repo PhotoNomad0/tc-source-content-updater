@@ -58,13 +58,15 @@ describe('test project', () => {
     const list = fs.readJsonSync(path.join(outputFolder, langListFile));
     const langList = list.extraData.langCounts;
     const defaultDate = (new Date(Date.now() - 2*24*60*60*1000)).toJSON();
+    const langFilter = ['en'];
     const searchForOldNameFOrmat = true;
     const checkMigration = true;
     const retryFailedDownloads = true;
     // const dateStr = defaultDate.toJSON(); // 2021-12-18T11:26:31.306Z
     for (const langItem of langList) {
       const langId = langItem.langId;
-      if (langItem.count > 0) {
+      const isOK = langFilter && langFilter.length && (langFilter.includes(langId));
+      if (isOK && langItem.count > 0) {
 
         it(`search, download and verify language projects for ${langId}`, async () => {
           const org = null; // all orgs
@@ -193,7 +195,7 @@ describe('test project', () => {
     // const org = 'Amos.Khokhar';
     // const langId = '%25'; // match all languages
     const org = null; // all orgs
-    const langId = 'ar';
+    const langId = 'en';
     const outputFolder = './temp/tc_repos';
     summarizeProjects(outputFolder, langId, org);
   }, 50000000);
@@ -258,7 +260,7 @@ describe.skip('apiHelpers searching for books', () => {
       }
       const outputFile = path.join(outputFolder, `${bookId}-repos.json`);
       fs.outputJsonSync(outputFile, langRepos, JSON_OPTS);
-    }, 50000);
+    }, 500000);
   }
 
   it(`sort all tC repos`, async () => {

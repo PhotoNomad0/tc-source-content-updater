@@ -803,7 +803,7 @@ export function writeToTsv(reposFormat, reposLines, outputFolder, outputFile) {
     if (lineType === 'string') {
       line = repoline;
     } else {
-      let line = '';
+      line = '';
       for (const field of reposFormat) {
         const fieldKey = field.key;
         let value = repoline[fieldKey];
@@ -819,7 +819,9 @@ export function writeToTsv(reposFormat, reposLines, outputFolder, outputFile) {
   }
   fs.ensureDirSync(outputFolder);
   const data = lines.join('\n') + '\n';
-  fs.writeFileSync(path.join(outputFolder, outputFile), data, 'utf8');
+  const filePath = path.join(outputFolder, outputFile);
+  console.log(`saving tsv to ${filePath}`);
+  fs.writeFileSync(filePath, data, 'utf8');
   return data;
 }
 
