@@ -211,12 +211,13 @@ function getProjectInfo(project) {
 
 /**
  *
+ * @param resource
  * @param projectsPath
  * @param project
  * @param checkMigration
  * @return {Promise<null>}
  */
-export async function verifyChecks(projectsPath, project, checkMigration) {
+export async function verifyChecks(resource, projectsPath, project, checkMigration) {
   const projectPath = path.join(projectsPath, project);
   const {bookId, projectId, langId} = getProjectInfo(project);
   const results = {langId, projectId, bookId};
@@ -292,7 +293,7 @@ export async function verifyChecks(projectsPath, project, checkMigration) {
           haveResources = false;
         }
         if (haveResources) {
-          const stats = getUniqueChecks(projectsPath, project, tool, origLangResourcePath, tnResourceGl, checkMigration);
+          const stats = getUniqueChecks(resource, projectsPath, project, tool, origLangResourcePath, tnResourceGl, checkMigration);
           if (stats) {
             results[tool] = {
               toolData: toolsData[tool],
@@ -334,7 +335,7 @@ export async function downloadAndVerifyProject(resource, resourcesPath, fullName
     console.log(filePath);
     const projectsPath = path.join(importFolder, project);
     const wA = verifyAlignments(project, projectsPath);
-    const checks = await verifyChecks(projectsPath, project, checkMigration);
+    const checks = await verifyChecks(resource, projectsPath, project, checkMigration);
     results = {
       fullName,
       wA,
@@ -683,6 +684,7 @@ function getKey(checkId, chapter, verse, groupId, occurrence) {
 
 /**
  *
+ * @param resource
  * @param projectsPath
  * @param project
  * @param toolName
@@ -691,9 +693,10 @@ function getKey(checkId, chapter, verse, groupId, occurrence) {
  * @param checkMigration
  * @return {{dupes: {}, toolWarnings: string}}
  */
-function getUniqueChecks(projectsPath, project, toolName, origLangResourcePath, tnResourceGl, checkMigration) {
+function getUniqueChecks(resource, projectsPath, project, toolName, origLangResourcePath, tnResourceGl, checkMigration) {
   const uniqueChecks = {};
   const dupes = {};
+  const findEllipsis = true;
   let migrations = {};
   const migrationData = {};
   let toolWarnings = '';
@@ -729,19 +732,37 @@ function getUniqueChecks(projectsPath, project, toolName, origLangResourcePath, 
     const keys = Object.keys(uniqueChecks);
     for (const key_ of keys) {
       let dupeSelections = 0;
-      const uniqueCheck = uniqueChecks[key_];
-      if (uniqueCheck.length > 1) {
+      const uniqueCheckArray = uniqueChecks[key_];
+      if (uniqueCheckArray.length > 1) {
         let warnings = '';
-        const selections = uniqueCheck.filter((check) => check.selections);
-        if (selections.length) {
-          if (selections.length < uniqueCheck.length) {
-            const missingSelections = uniqueCheck.length - selections.length;
+        const uniqueCheckArray_ = uniqueCheckArray.filter((check) => check.selections);
+        if (uniqueCheckArray_.length) {
+          if (findEllipsis) {
+            const ELLIPSIS = '\u2026';
+            const THREE_DOTS = '...';
+
+            for (let i = 0; i < uniqueCheckArray_.length; i++) {
+              const uniqueCheck = uniqueCheckArray_[i];
+              const selections = uniqueCheck && uniqueCheck.selections && uniqueCheck.selections.length ? uniqueCheck.selections : [];
+              for (const selection of selections) {
+                const text = selections && selection.text;
+                if (text) {
+                  if ((text.indexOf(ELLIPSIS) >= 0)
+                    || (text.indexOf(THREE_DOTS) >= 0)) {
+                    console.log(`in ${JSON.stringify(resource)} - ${key_} found ellipsis at: `, JSON.stringify(uniqueCheck));
+                  }
+                }
+              }
+            }
+          }
+          if (uniqueCheckArray_.length < uniqueCheckArray.length) {
+            const missingSelections = uniqueCheckArray.length - uniqueCheckArray_.length;
             warnings += `Missing ${missingSelections} selections\t`;
           }
-          if (selections.length > 1) {
-            for (let i = 0; i < selections.length - 1; i++) {
-              for (let j = i + 1; j < selections.length; j++) {
-                if (isEqual(selections[i], selections[j])) {
+          if (uniqueCheckArray_.length > 1) {
+            for (let i = 0; i < uniqueCheckArray_.length - 1; i++) {
+              for (let j = i + 1; j < uniqueCheckArray_.length; j++) {
+                if (isEqual(uniqueCheckArray_[i], uniqueCheckArray_[j])) {
                   dupeSelections++;
                 }
               }
@@ -755,7 +776,7 @@ function getUniqueChecks(projectsPath, project, toolName, origLangResourcePath, 
           toolWarnings += `${key_} - ${warnings}\n`;
         }
         if (dupeSelections) {
-          const dupesList = uniqueCheck.map((item) => (Array.isArray(item.selections) ? item.selections.map((item) => (`${item.text}-${item.occurrence}`)).join(' ') : (item.selections || '').toString()));
+          const dupesList = uniqueCheckArray.map((item) => (Array.isArray(item.selections) ? item.selections.map((item) => (`${item.text}-${item.occurrence}`)).join(' ') : (item.selections || '').toString()));
           dupes[key_] = {
             dupesList,
             warnings,

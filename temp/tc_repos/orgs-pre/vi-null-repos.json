@@ -1,6 +1,6 @@
 {
-  "processedProjects": 20,
-  "totalProjects": 191,
+  "processedProjects": 51,
+  "totalProjects": 189,
   "projects": {
     "man_vgm/vi_vlt_luk_book": {
       "fullName": "man_vgm/vi_vlt_luk_book",
@@ -49,7 +49,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_col_book": {
       "fullName": "man_vgm/vi_vlt_col_book",
@@ -98,7 +98,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_rom_book": {
       "fullName": "man_vgm/vi_vlt_rom_book",
@@ -166,7 +166,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_tit_book": {
       "fullName": "man_vgm/vi_vlt_tit_book",
@@ -235,7 +235,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_jas_book": {
       "fullName": "man_vgm/vi_vlt_jas_book",
@@ -284,7 +284,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vts_exo_book": {
       "fullName": "man_vgm/vi_vts_exo_book",
@@ -335,7 +335,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_exo_book": {
       "fullName": "man_vgm/vi_volt_exo_book",
@@ -387,7 +387,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_jon_book": {
       "fullName": "man_vgm/vi_volt_jon_book",
@@ -453,7 +453,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_num_book": {
       "fullName": "man_vgm/vi_volt_num_book",
@@ -502,7 +502,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_mic_book": {
       "fullName": "man_vgm/vi_volt_mic_book",
@@ -554,7 +554,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_jer_book": {
       "fullName": "man_vgm/vi_volt_jer_book",
@@ -562,11 +562,11 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "jer",
-        "percentCompleted": 0.4941348973607038,
-        "completedVerses": 674,
+        "percentCompleted": 0.9787390029325513,
+        "completedVerses": 1335,
         "totalVerses": 1364,
-        "unalignedOrig": 11468,
-        "unalignedTarget": 26489
+        "unalignedOrig": 380,
+        "unalignedTarget": 951
       },
       "checks": {
         "langId": "vi",
@@ -605,7 +605,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T17:43:24Z"
+      "modified": "2022-03-25T13:01:37Z"
     },
     "man_vgm/vi_volt_hab_book": {
       "fullName": "man_vgm/vi_volt_hab_book",
@@ -655,7 +655,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_deu_book": {
       "fullName": "man_vgm/vi_volt_deu_book",
@@ -706,7 +706,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_2ki_book": {
       "fullName": "man_vgm/vi_volt_2ki_book",
@@ -755,7 +755,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_1ki_book": {
       "fullName": "man_vgm/vi_volt_1ki_book",
@@ -804,7 +804,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_psa_book": {
       "fullName": "man_vgm/vi_volt_psa_book",
@@ -812,11 +812,11 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "psa",
-        "percentCompleted": 0.7984559122308005,
-        "completedVerses": 1965,
+        "percentCompleted": 0.99,
+        "completedVerses": 2449,
         "totalVerses": 2461,
-        "unalignedOrig": 4324,
-        "unalignedTarget": 9319
+        "unalignedOrig": 1369,
+        "unalignedTarget": 205
       },
       "checks": {
         "langId": "vi",
@@ -837,7 +837,7 @@
           },
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 5469,
+          "totalChecks": 0,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -856,7 +856,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T10:29:00Z"
+      "modified": "2022-09-08T10:10:36Z"
     },
     "man_vgm/vi_vlt_mrk_book": {
       "fullName": "man_vgm/vi_vlt_mrk_book",
@@ -905,7 +905,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_mat_book": {
       "fullName": "man_vgm/vi_vlt_mat_book",
@@ -973,7 +973,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_1ch_book": {
       "fullName": "man_vgm/vi_volt_1ch_book",
@@ -981,18 +981,18 @@
         "langId": "vi",
         "projectId": "volt",
         "bookId": "1ch",
-        "percentCompleted": 0.3036093418259023,
-        "completedVerses": 286,
+        "percentCompleted": 0.9670912951167728,
+        "completedVerses": 911,
         "totalVerses": 942,
-        "unalignedOrig": 8143,
-        "unalignedTarget": 21735
+        "unalignedOrig": 708,
+        "unalignedTarget": 2192
       },
       "checks": {
         "langId": "vi",
         "projectId": "volt",
         "bookId": "1ch",
         "time_created": "2020-12-16T08:28:47.558Z",
-        "tc_edit_version": "3.0.2",
+        "tc_edit_version": "3.1.0",
         "tc_version": 7,
         "translationNotes": {
           "percentCompleted": 0,
@@ -1005,7 +1005,7 @@
           },
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 0,
+          "totalChecks": 2917,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -1024,7 +1024,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T10:30:38Z"
+      "modified": "2022-03-09T07:35:58Z"
     },
     "man_vgm/vi_volt_2ch_book": {
       "fullName": "man_vgm/vi_volt_2ch_book",
@@ -2041,7 +2041,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_2th_book": {
       "fullName": "man_vgm/vi_vlt_2th_book",
@@ -2090,7 +2090,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_volt_oba_book": {
       "fullName": "man_vgm/vi_volt_oba_book",
@@ -2797,7 +2797,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_1ti_book": {
       "fullName": "man_vgm/vi_vlt_1ti_book",
@@ -2944,7 +2944,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_jud_book": {
       "fullName": "man_vgm/vi_vlt_jud_book",
@@ -2993,7 +2993,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_2pe_book": {
       "fullName": "man_vgm/vi_vlt_2pe_book",
@@ -3042,7 +3042,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_eph_book": {
       "fullName": "man_vgm/vi_vlt_eph_book",
@@ -3091,7 +3091,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vts_col_book": {
       "fullName": "man_vgm/vi_vts_col_book",
@@ -3402,7 +3402,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_2jn_book": {
       "fullName": "man_vgm/vi_vlt_2jn_book",
@@ -3468,7 +3468,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_act_book": {
       "fullName": "man_vgm/vi_vlt_act_book",
@@ -3615,7 +3615,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_vlt_3jn_book": {
       "fullName": "man_vgm/vi_vlt_3jn_book",
@@ -3664,7 +3664,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-10T14:37:20.312Z"
+      "updated_at": "2022-09-10T11:55:28.919Z"
     },
     "man_vgm/vi_ult_2jn_book": {
       "fullName": "man_vgm/vi_ult_2jn_book",
@@ -10130,6 +10130,1054 @@
       },
       "checkMigration": true,
       "modified": "2017-08-09T07:33:10Z"
+    },
+    "HJ/vi_vlt_php_book": {
+      "fullName": "HJ/vi_vlt_php_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "php",
+        "percentCompleted": 1,
+        "completedVerses": 108,
+        "totalVerses": 108,
+        "unalignedOrig": 194,
+        "unalignedTarget": 70
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "php",
+        "time_created": "2022-07-25T04:22:26.138Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 345
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 445,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-09-07T07:34:31Z"
+    },
+    "HJ/vi_vlt_col_book": {
+      "fullName": "HJ/vi_vlt_col_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "col",
+        "percentCompleted": 1,
+        "completedVerses": 99,
+        "totalVerses": 99,
+        "unalignedOrig": 249,
+        "unalignedTarget": 77
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "col",
+        "time_created": "2022-07-25T04:21:42.412Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 544
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 437,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-29T09:49:12Z"
+    },
+    "HJ/vi_vlt_eph_book": {
+      "fullName": "HJ/vi_vlt_eph_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "eph",
+        "percentCompleted": 1,
+        "completedVerses": 161,
+        "totalVerses": 161,
+        "unalignedOrig": 430,
+        "unalignedTarget": 88
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "eph",
+        "time_created": "2022-07-25T04:23:22.244Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 310
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 676,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-19T09:57:20Z"
+    },
+    "HJ/vi_vlt_1th_book": {
+      "fullName": "HJ/vi_vlt_1th_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "1th",
+        "percentCompleted": 1,
+        "completedVerses": 94,
+        "totalVerses": 94,
+        "unalignedOrig": 205,
+        "unalignedTarget": 45
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "1th",
+        "time_created": "2022-07-25T04:21:02.200Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 463
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 411,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-12T08:46:34Z"
+    },
+    "HJ/vi_vlt_2th_book": {
+      "fullName": "HJ/vi_vlt_2th_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "2th",
+        "percentCompleted": 1,
+        "completedVerses": 50,
+        "totalVerses": 50,
+        "unalignedOrig": 105,
+        "unalignedTarget": 33
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "2th",
+        "time_created": "2022-08-09T08:24:55.471Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "hi",
+            "orig_lang_check_version": "0.27",
+            "gl_check_version": "v28.2"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 50,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v53"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 252,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-10T09:20:29Z"
+    },
+    "HJ/vi_vlt_1pe_book": {
+      "fullName": "HJ/vi_vlt_1pe_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "1pe",
+        "percentCompleted": 1,
+        "completedVerses": 110,
+        "totalVerses": 110,
+        "unalignedOrig": 182,
+        "unalignedTarget": 47
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "1pe",
+        "time_created": "2022-07-22T08:48:14.669Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 472
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 611,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-09T08:24:33Z"
+    },
+    "HJ/vi_vlt_2pe_book": {
+      "fullName": "HJ/vi_vlt_2pe_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "2pe",
+        "percentCompleted": 1,
+        "completedVerses": 64,
+        "totalVerses": 64,
+        "unalignedOrig": 130,
+        "unalignedTarget": 27
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "2pe",
+        "time_created": "2022-07-22T08:47:13.596Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 404
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 315,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-05T04:38:38Z"
+    },
+    "HJ/vi_vlt_tit_book": {
+      "fullName": "HJ/vi_vlt_tit_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 49,
+        "totalVerses": 49,
+        "unalignedOrig": 56,
+        "unalignedTarget": 28
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "tit",
+        "time_created": "2022-07-22T08:52:59.850Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 86
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-04T08:35:34Z"
+    },
+    "HJ/vi_vlt_luk_book": {
+      "fullName": "HJ/vi_vlt_luk_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "luk",
+        "percentCompleted": 0.29531914893617023,
+        "completedVerses": 347,
+        "totalVerses": 1175,
+        "unalignedOrig": 14687,
+        "unalignedTarget": 22133
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "luk",
+        "time_created": "2022-07-25T04:25:08.962Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3872
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3847,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-09-09T10:32:02Z"
+    },
+    "HJ/vi_vlt_jhn_book": {
+      "fullName": "HJ/vi_vlt_jhn_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jhn",
+        "percentCompleted": 1,
+        "completedVerses": 900,
+        "totalVerses": 900,
+        "unalignedOrig": 2736,
+        "unalignedTarget": 33
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jhn",
+        "time_created": "2022-07-25T04:24:23.556Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2418
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3287,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-09-06T02:55:49Z"
+    },
+    "HJ/vi_vlt_1jn_book": {
+      "fullName": "HJ/vi_vlt_1jn_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 110,
+        "totalVerses": 110,
+        "unalignedOrig": 316,
+        "unalignedTarget": 56
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "1jn",
+        "time_created": "2022-07-22T08:43:30.414Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 582
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-04T03:33:46Z"
+    },
+    "HJ/vi_vlt_jas_book": {
+      "fullName": "HJ/vi_vlt_jas_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jas",
+        "percentCompleted": 1,
+        "completedVerses": 113,
+        "totalVerses": 113,
+        "unalignedOrig": 251,
+        "unalignedTarget": 67
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jas",
+        "time_created": "2022-07-22T08:50:34.126Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 554
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 463,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-02T09:31:42Z"
+    },
+    "HJ/vi_vlt_phm_book": {
+      "fullName": "HJ/vi_vlt_phm_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "phm",
+        "percentCompleted": 1,
+        "completedVerses": 26,
+        "totalVerses": 26,
+        "unalignedOrig": 35,
+        "unalignedTarget": 16
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "phm",
+        "time_created": "2022-07-22T08:52:08.768Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 67
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 95,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-02T03:31:24Z"
+    },
+    "HJ/vi_vlt_2jn_book": {
+      "fullName": "HJ/vi_vlt_2jn_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "2jn",
+        "percentCompleted": 1,
+        "completedVerses": 14,
+        "totalVerses": 14,
+        "unalignedOrig": 29,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "2jn",
+        "time_created": "2022-07-22T08:43:00.947Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 53
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-01T06:57:04Z"
+    },
+    "HJ/vi_vlt_jud_book": {
+      "fullName": "HJ/vi_vlt_jud_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jud",
+        "percentCompleted": 1,
+        "completedVerses": 26,
+        "totalVerses": 26,
+        "unalignedOrig": 56,
+        "unalignedTarget": 24
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jud",
+        "time_created": "2022-07-22T08:18:23.675Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 129
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 143,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-04T08:57:39Z"
+    },
+    "HJ/vi_vlt_3jn_book": {
+      "fullName": "HJ/vi_vlt_3jn_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "3jn",
+        "percentCompleted": 1,
+        "completedVerses": 16,
+        "totalVerses": 16,
+        "unalignedOrig": 20,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "3jn",
+        "time_created": "2022-07-22T08:42:11.645Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 20
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.27"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-07-25T09:24:17Z"
+    },
+    "man_vgm/vi_vlt_jdg_book": {
+      "fullName": "man_vgm/vi_vlt_jdg_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jdg",
+        "percentCompleted": 1,
+        "completedVerses": 618,
+        "totalVerses": 618,
+        "unalignedOrig": 440,
+        "unalignedTarget": 11
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jdg",
+        "time_created": "2022-07-07T07:17:16.597Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2437,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-03T09:11:20Z"
+    },
+    "man_vgm/vi_vlt_jos_book": {
+      "fullName": "man_vgm/vi_vlt_jos_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jos",
+        "percentCompleted": 1,
+        "completedVerses": 658,
+        "totalVerses": 658,
+        "unalignedOrig": 487,
+        "unalignedTarget": 4
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jos",
+        "time_created": "2022-06-15T03:19:23.308Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.15",
+            "gl_check_version": "v36"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 592,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v65_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3054,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.25"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-07-07T07:16:14Z"
+    },
+    "man_vgm/vi_vlt_jon_book": {
+      "fullName": "man_vgm/vi_vlt_jon_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 48,
+        "totalVerses": 48,
+        "unalignedOrig": 20,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "jon",
+        "time_created": "2020-11-26T04:57:30.521Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.15",
+            "gl_check_version": "v36"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v65_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 188,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-06-13T03:55:24Z"
+    },
+    "man_vgm/vi_vlt_rut_book": {
+      "fullName": "man_vgm/vi_vlt_rut_book",
+      "wA": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "rut",
+        "percentCompleted": 1,
+        "completedVerses": 85,
+        "totalVerses": 85,
+        "unalignedOrig": 51,
+        "unalignedTarget": 2
+      },
+      "checks": {
+        "langId": "vi",
+        "projectId": "vlt",
+        "bookId": "rut",
+        "time_created": "2022-06-10T07:45:22.647Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.15",
+            "gl_check_version": "v36"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 129,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v65_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 296,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.15"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-06-15T03:19:10Z"
     }
   }
 }

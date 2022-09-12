@@ -6,6 +6,8 @@
 // orgs/langRepos.json is a prioritized list of languages - the first item has the most repos. It is created by test `sort all tC repos`
 // you can't see the console logs of unit tests while they are running, but you can watch `./temp/downloads/imports` to see the repos being checked so you know it is not hanging.
 // results are in folder `./temp/tc_repos/summary`
+
+// to process more limited scope: run test NOCK_OFF=true node --inspect-brk node_modules/.bin/jest --runInBand -t "search, download and verify projects in org"
 // to combine all the summaries, run test `combine summaries` which will create two files 'All_tCore_Repos.tsv' and 'Progressed_tCore_Repos.tsv'
 
 
@@ -65,7 +67,7 @@ describe('test project', () => {
     // const dateStr = defaultDate.toJSON(); // 2021-12-18T11:26:31.306Z
     for (const langItem of langList) {
       const langId = langItem.langId;
-      const isOK = langFilter && langFilter.length && (langFilter.includes(langId));
+      const isOK = !langFilter || (langFilter && langFilter.length && (langFilter.includes(langId)));
       if (isOK && langItem.count > 0) {
 
         it(`search, download and verify language projects for ${langId}`, async () => {
@@ -159,7 +161,7 @@ describe('test project', () => {
     });
   });
 
-  it.skip(`search, download and verify projects in org`, async () => {
+  it(`search, download and verify projects in org`, async () => {
     const outputFolder = './temp/tc_repos';
     // const org = 'India_BCS';
     // const langId = 'hi';
@@ -226,7 +228,7 @@ describe('test project', () => {
     const projectsPath = path.join(HOME_DIR, `translationCore/projects`);
     const projects = fs.readdirSync(projectsPath);
     for (const project of projects) {
-      const results = await verifyChecks(projectsPath, project);
+      const results = await verifyChecks({}, projectsPath, project);
       console.log(JSON.stringify(results));
     }
   });
