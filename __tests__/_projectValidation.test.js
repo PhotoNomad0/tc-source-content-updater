@@ -58,7 +58,7 @@ describe('test project', () => {
     const list = fs.readJsonSync(path.join(outputFolder, langListFile));
     const langList = list.extraData.langCounts;
     const defaultDate = (new Date(Date.now() - 2*24*60*60*1000)).toJSON();
-    const langFilter = ['en'];
+    const langFilter = null; // ['en'];
     const searchForOldNameFOrmat = true;
     const checkMigration = true;
     const retryFailedDownloads = true;
@@ -155,7 +155,7 @@ describe('test project', () => {
       }
       writeToTsv(projectsFormat, allLines, summaryFolder, 'All_tCore_Repos.tsv');
       writeToTsv(projectsFormat, activityLines, summaryFolder, 'Progressed_tCore_Repos.tsv');
-      console.log(files);
+      console.log('Files written:', files);
     });
   });
 
