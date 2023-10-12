@@ -96,7 +96,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_jud_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_jud_book",
@@ -145,7 +145,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_3jn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_3jn_book",
@@ -194,7 +194,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_2jn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2jn_book",
@@ -243,7 +243,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_1jn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1jn_book",
@@ -254,8 +254,8 @@
         "percentCompleted": 1,
         "completedVerses": 105,
         "totalVerses": 105,
-        "unalignedOrig": 370,
-        "unalignedTarget": 3
+        "unalignedOrig": 364,
+        "unalignedTarget": 1
       },
       "checks": {
         "langId": "kpm",
@@ -292,7 +292,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T09:29:48Z"
+      "modified": "2023-09-05T04:08:06Z"
     },
     "t_rin_04_2021/kpm_trlt_2pe_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2pe_book",
@@ -390,7 +390,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_jas_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_jas_book",
@@ -439,7 +439,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_heb_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_heb_book",
@@ -447,11 +447,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "heb",
-        "percentCompleted": 0.99,
-        "completedVerses": 302,
+        "percentCompleted": 1,
+        "completedVerses": 303,
         "totalVerses": 303,
-        "unalignedOrig": 775,
-        "unalignedTarget": 2
+        "unalignedOrig": 756,
+        "unalignedTarget": 0
       },
       "checks": {
         "langId": "kpm",
@@ -488,7 +488,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "modified": "2023-09-20T09:26:19Z"
     },
     "t_rin_04_2021/kpm_trlt_phm_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_phm_book",
@@ -536,7 +536,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_tit_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_tit_book",
@@ -584,7 +584,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_2ti_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2ti_book",
@@ -632,7 +632,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_1ti_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1ti_book",
@@ -680,7 +680,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_2th_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2th_book",
@@ -691,8 +691,8 @@
         "percentCompleted": 1,
         "completedVerses": 47,
         "totalVerses": 47,
-        "unalignedOrig": 93,
-        "unalignedTarget": 0
+        "unalignedOrig": 66,
+        "unalignedTarget": 1
       },
       "checks": {
         "langId": "kpm",
@@ -729,7 +729,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T07:57:26Z"
+      "modified": "2023-02-28T06:43:53Z"
     },
     "t_rin_04_2021/kpm_trlt_1th_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1th_book",
@@ -740,8 +740,8 @@
         "percentCompleted": 1,
         "completedVerses": 89,
         "totalVerses": 89,
-        "unalignedOrig": 266,
-        "unalignedTarget": 6
+        "unalignedOrig": 233,
+        "unalignedTarget": 0
       },
       "checks": {
         "langId": "kpm",
@@ -778,7 +778,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T06:55:21Z"
+      "modified": "2023-02-27T01:50:16Z"
     },
     "t_rin_04_2021/kpm_trlt_col_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_col_book",
@@ -827,7 +827,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_php_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_php_book",
@@ -875,7 +875,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_eph_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_eph_book",
@@ -924,7 +924,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_gal_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_gal_book",
@@ -972,7 +972,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_2co_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_2co_book",
@@ -980,11 +980,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "2co",
-        "percentCompleted": 0.65625,
-        "completedVerses": 168,
+        "percentCompleted": 1,
+        "completedVerses": 256,
         "totalVerses": 256,
-        "unalignedOrig": 1844,
-        "unalignedTarget": 2481
+        "unalignedOrig": 842,
+        "unalignedTarget": 0
       },
       "checks": {
         "langId": "kpm",
@@ -1021,7 +1021,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T12:57:19Z"
+      "modified": "2022-04-21T07:46:08Z"
     },
     "t_rin_04_2021/kpm_trlt_1co_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_1co_book",
@@ -1029,11 +1029,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "1co",
-        "percentCompleted": 0.99,
-        "completedVerses": 433,
+        "percentCompleted": 1,
+        "completedVerses": 437,
         "totalVerses": 437,
-        "unalignedOrig": 1117,
-        "unalignedTarget": 34
+        "unalignedOrig": 1112,
+        "unalignedTarget": 5
       },
       "checks": {
         "langId": "kpm",
@@ -1070,7 +1070,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T08:02:50Z"
+      "modified": "2022-04-12T04:32:20Z"
     },
     "t_rin_04_2021/kpm_trlt_rom_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_rom_book",
@@ -1078,11 +1078,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "rom",
-        "percentCompleted": 0.99,
-        "completedVerses": 432,
+        "percentCompleted": 1,
+        "completedVerses": 433,
         "totalVerses": 433,
-        "unalignedOrig": 1448,
-        "unalignedTarget": 52
+        "unalignedOrig": 1412,
+        "unalignedTarget": 0
       },
       "checks": {
         "langId": "kpm",
@@ -1107,7 +1107,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v54"
+                "glVersion": "v66_Door43-Catalog"
               }
             },
             "toolWarnings": ""
@@ -1138,7 +1138,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T01:00:15Z"
+      "modified": "2023-07-31T09:25:19Z"
     },
     "t_rin_04_2021/kpm_trlt_mrk_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_mrk_book",
@@ -1186,7 +1186,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_jhn_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_jhn_book",
@@ -1235,7 +1235,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "t_rin_04_2021/kpm_trlt_act_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_act_book",
@@ -1243,11 +1243,11 @@
         "langId": "kpm",
         "projectId": "trlt",
         "bookId": "act",
-        "percentCompleted": 0.9880834160873883,
-        "completedVerses": 995,
+        "percentCompleted": 1,
+        "completedVerses": 1007,
         "totalVerses": 1007,
-        "unalignedOrig": 4449,
-        "unalignedTarget": 244
+        "unalignedOrig": 3895,
+        "unalignedTarget": 3
       },
       "checks": {
         "langId": "kpm",
@@ -1284,7 +1284,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T04:33:21Z"
+      "modified": "2023-07-04T04:24:59Z"
     },
     "t_rin_04_2021/kpm_trlt_mat_book": {
       "fullName": "t_rin_04_2021/kpm_trlt_mat_book",
@@ -1332,8 +1332,56 @@
           }
         }
       },
+      "checkMigration": true
+    },
+    "t_rin_04_2021/kpm_trlt_luk_book": {
+      "fullName": "t_rin_04_2021/kpm_trlt_luk_book",
+      "wA": {
+        "langId": "kpm",
+        "projectId": "trlt",
+        "bookId": "luk",
+        "percentCompleted": 1,
+        "completedVerses": 1151,
+        "totalVerses": 1151,
+        "unalignedOrig": 4436,
+        "unalignedTarget": 60
+      },
+      "checks": {
+        "langId": "kpm",
+        "projectId": "trlt",
+        "bookId": "luk",
+        "time_created": "2021-04-14T02:04:40.104Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1299
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3870,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.16"
+          }
+        }
+      },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "modified": "2022-03-03T08:15:55Z"
     }
   },
   "goodProjects": {
@@ -1385,7 +1433,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "t_rin_04_2021/kpm_trlt_3jn_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_3jn_book",
@@ -1434,7 +1482,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "t_rin_04_2021/kpm_trlt_2jn_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_2jn_book",
@@ -1483,7 +1531,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "t_rin_04_2021/kpm_trlt_1jn_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_1jn_book",
@@ -1494,8 +1542,8 @@
           "percentCompleted": 1,
           "completedVerses": 105,
           "totalVerses": 105,
-          "unalignedOrig": 370,
-          "unalignedTarget": 3
+          "unalignedOrig": 364,
+          "unalignedTarget": 1
         },
         "checks": {
           "langId": "kpm",
@@ -1532,7 +1580,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-13T09:29:48Z"
+        "modified": "2023-09-05T04:08:06Z"
       },
       "t_rin_04_2021/kpm_trlt_2pe_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_2pe_book",
@@ -1583,6 +1631,55 @@
         "checkMigration": true,
         "modified": "2022-01-13T09:11:46Z"
       },
+      "t_rin_04_2021/kpm_trlt_heb_book": {
+        "fullName": "t_rin_04_2021/kpm_trlt_heb_book",
+        "wA": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "heb",
+          "percentCompleted": 1,
+          "completedVerses": 303,
+          "totalVerses": 303,
+          "unalignedOrig": 756,
+          "unalignedTarget": 0
+        },
+        "checks": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "heb",
+          "time_created": "2021-07-23T05:09:53.773Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 499
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1387,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2023-09-20T09:26:19Z"
+      },
       "t_rin_04_2021/kpm_trlt_2th_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_2th_book",
         "wA": {
@@ -1592,8 +1689,8 @@
           "percentCompleted": 1,
           "completedVerses": 47,
           "totalVerses": 47,
-          "unalignedOrig": 93,
-          "unalignedTarget": 0
+          "unalignedOrig": 66,
+          "unalignedTarget": 1
         },
         "checks": {
           "langId": "kpm",
@@ -1630,7 +1727,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T07:57:26Z"
+        "modified": "2023-02-28T06:43:53Z"
       },
       "t_rin_04_2021/kpm_trlt_1th_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_1th_book",
@@ -1641,8 +1738,8 @@
           "percentCompleted": 1,
           "completedVerses": 89,
           "totalVerses": 89,
-          "unalignedOrig": 266,
-          "unalignedTarget": 6
+          "unalignedOrig": 233,
+          "unalignedTarget": 0
         },
         "checks": {
           "langId": "kpm",
@@ -1679,7 +1776,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T06:55:21Z"
+        "modified": "2023-02-27T01:50:16Z"
       },
       "t_rin_04_2021/kpm_trlt_eph_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_eph_book",
@@ -1728,7 +1825,271 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
+      },
+      "t_rin_04_2021/kpm_trlt_2co_book": {
+        "fullName": "t_rin_04_2021/kpm_trlt_2co_book",
+        "wA": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "2co",
+          "percentCompleted": 1,
+          "completedVerses": 256,
+          "totalVerses": 256,
+          "unalignedOrig": 842,
+          "unalignedTarget": 0
+        },
+        "checks": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "2co",
+          "time_created": "2021-07-23T04:58:13.651Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 327
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1079,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2022-04-21T07:46:08Z"
+      },
+      "t_rin_04_2021/kpm_trlt_1co_book": {
+        "fullName": "t_rin_04_2021/kpm_trlt_1co_book",
+        "wA": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "1co",
+          "percentCompleted": 1,
+          "completedVerses": 437,
+          "totalVerses": 437,
+          "unalignedOrig": 1112,
+          "unalignedTarget": 5
+        },
+        "checks": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "1co",
+          "time_created": "2021-07-23T04:57:23.755Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 368
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1804,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2022-04-12T04:32:20Z"
+      },
+      "t_rin_04_2021/kpm_trlt_rom_book": {
+        "fullName": "t_rin_04_2021/kpm_trlt_rom_book",
+        "wA": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "rom",
+          "percentCompleted": 1,
+          "completedVerses": 433,
+          "totalVerses": 433,
+          "unalignedOrig": 1412,
+          "unalignedTarget": 0
+        },
+        "checks": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "rom",
+          "time_created": "2021-07-23T04:56:27.586Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.13",
+              "gl_check_version": "v32"
+            },
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 631,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "migrations": {},
+                "duplicateMigrations": [],
+                "unmatched": [],
+                "data": {
+                  "glVersion": "v66_Door43-Catalog"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "translationWords": {
+            "toolData": {
+              "SelectedGL": "en"
+            },
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 2155,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2023-07-31T09:25:19Z"
+      },
+      "t_rin_04_2021/kpm_trlt_act_book": {
+        "fullName": "t_rin_04_2021/kpm_trlt_act_book",
+        "wA": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "act",
+          "percentCompleted": 1,
+          "completedVerses": 1007,
+          "totalVerses": 1007,
+          "unalignedOrig": 3895,
+          "unalignedTarget": 3
+        },
+        "checks": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "act",
+          "time_created": "2021-07-23T04:41:01.564Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1124
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 4264,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2023-07-04T04:24:59Z"
+      },
+      "t_rin_04_2021/kpm_trlt_luk_book": {
+        "fullName": "t_rin_04_2021/kpm_trlt_luk_book",
+        "wA": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "luk",
+          "percentCompleted": 1,
+          "completedVerses": 1151,
+          "totalVerses": 1151,
+          "unalignedOrig": 4436,
+          "unalignedTarget": 60
+        },
+        "checks": {
+          "langId": "kpm",
+          "projectId": "trlt",
+          "bookId": "luk",
+          "time_created": "2021-04-14T02:04:40.104Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 1299
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 3870,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.16"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2022-03-03T08:15:55Z"
       }
     },
     "waNearlyFinished": {
@@ -1779,7 +2140,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "t_rin_04_2021/kpm_trlt_1pe_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_1pe_book",
@@ -1828,7 +2189,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "t_rin_04_2021/kpm_trlt_jas_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_jas_book",
@@ -1877,222 +2238,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
-      },
-      "t_rin_04_2021/kpm_trlt_heb_book": {
-        "fullName": "t_rin_04_2021/kpm_trlt_heb_book",
-        "wA": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "heb",
-          "percentCompleted": 0.99,
-          "completedVerses": 302,
-          "totalVerses": 303,
-          "unalignedOrig": 775,
-          "unalignedTarget": 2
-        },
-        "checks": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "heb",
-          "time_created": "2021-07-23T05:09:53.773Z",
-          "tc_edit_version": "3.0.1",
-          "tc_version": 7,
-          "translationNotes": {
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 499
-          },
-          "translationWords": {
-            "toolData": {},
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 1387,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "data": {
-                  "glVersion": "v0"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "wordAlignment": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
-            }
-          }
-        },
-        "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
-      },
-      "t_rin_04_2021/kpm_trlt_1co_book": {
-        "fullName": "t_rin_04_2021/kpm_trlt_1co_book",
-        "wA": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "1co",
-          "percentCompleted": 0.99,
-          "completedVerses": 433,
-          "totalVerses": 437,
-          "unalignedOrig": 1117,
-          "unalignedTarget": 34
-        },
-        "checks": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "1co",
-          "time_created": "2021-07-23T04:57:23.755Z",
-          "tc_edit_version": "3.0.1",
-          "tc_version": 7,
-          "translationNotes": {
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 368
-          },
-          "translationWords": {
-            "toolData": {},
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 1804,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "data": {
-                  "glVersion": "v0"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "wordAlignment": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
-            }
-          }
-        },
-        "checkMigration": true,
-        "modified": "2022-01-13T08:02:50Z"
-      },
-      "t_rin_04_2021/kpm_trlt_rom_book": {
-        "fullName": "t_rin_04_2021/kpm_trlt_rom_book",
-        "wA": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "rom",
-          "percentCompleted": 0.99,
-          "completedVerses": 432,
-          "totalVerses": 433,
-          "unalignedOrig": 1448,
-          "unalignedTarget": 52
-        },
-        "checks": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "rom",
-          "time_created": "2021-07-23T04:56:27.586Z",
-          "tc_edit_version": "3.0.1",
-          "tc_version": 7,
-          "translationNotes": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.13",
-              "gl_check_version": "v32"
-            },
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 631,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "migrations": {},
-                "duplicateMigrations": [],
-                "unmatched": [],
-                "data": {
-                  "glVersion": "v54"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "translationWords": {
-            "toolData": {
-              "SelectedGL": "en"
-            },
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 2155,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "data": {
-                  "glVersion": "v0"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "wordAlignment": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
-            }
-          }
-        },
-        "checkMigration": true,
-        "modified": "2022-01-12T01:00:15Z"
-      },
-      "t_rin_04_2021/kpm_trlt_act_book": {
-        "fullName": "t_rin_04_2021/kpm_trlt_act_book",
-        "wA": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "act",
-          "percentCompleted": 0.9880834160873883,
-          "completedVerses": 995,
-          "totalVerses": 1007,
-          "unalignedOrig": 4449,
-          "unalignedTarget": 244
-        },
-        "checks": {
-          "langId": "kpm",
-          "projectId": "trlt",
-          "bookId": "act",
-          "time_created": "2021-07-23T04:41:01.564Z",
-          "tc_edit_version": "3.0.1",
-          "tc_version": 7,
-          "translationNotes": {
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 1124
-          },
-          "translationWords": {
-            "toolData": {},
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 4264,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "data": {
-                  "glVersion": "v0"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "wordAlignment": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
-            }
-          }
-        },
-        "checkMigration": true,
-        "modified": "2022-01-13T04:33:21Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "t_rin_04_2021/kpm_trlt_mat_book": {
         "fullName": "t_rin_04_2021/kpm_trlt_mat_book",
@@ -2140,8 +2286,7 @@
             }
           }
         },
-        "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "checkMigration": true
       }
     },
     "allFinished": {},

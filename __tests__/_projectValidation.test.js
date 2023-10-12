@@ -67,6 +67,7 @@ describe('test project', () => {
     // const dateStr = defaultDate.toJSON(); // 2021-12-18T11:26:31.306Z
     for (const langItem of langList) {
       const langId = langItem.langId;
+      console.log(`checking: ${langId}`);
       const isOK = !langFilter || (langFilter && langFilter.length && (langFilter.includes(langId)));
       if (isOK && langItem.count > 0) {
 

@@ -49,6 +49,75 @@
       },
       "checkMigration": true,
       "modified": "2021-04-05T06:57:13Z"
+    },
+    "AndreyParf/uk_ubio_est_book": {
+      "fullName": "AndreyParf/uk_ubio_est_book",
+      "wA": {
+        "langId": "uk",
+        "projectId": "ubio",
+        "bookId": "est",
+        "percentCompleted": 0.10179640718562874,
+        "completedVerses": 17,
+        "totalVerses": 167,
+        "unalignedOrig": 2748,
+        "unalignedTarget": 3949
+      },
+      "checks": {
+        "langId": "uk",
+        "projectId": "ubio",
+        "bookId": "est",
+        "time_created": "2023-09-16T04:49:51.503Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.30",
+            "gl_check_version": "v75_unfoldingWord"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1004,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.30"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1215,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "ru",
+            "orig_lang_check_version": "2.1.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-09-21T11:20:54Z"
     }
   }
 }

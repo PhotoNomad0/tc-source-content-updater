@@ -1,6 +1,6 @@
 {
-  "processedProjects": 2,
-  "totalProjects": 170,
+  "processedProjects": 11,
+  "totalProjects": 179,
   "projects": {
     "uW_test_001/kan-x-palligaru_reg_tit_book": {
       "fullName": "uW_test_001/kan-x-palligaru_reg_tit_book",
@@ -10315,23 +10315,23 @@
         "percentCompleted": 1,
         "completedVerses": 1151,
         "totalVerses": 1151,
-        "unalignedOrig": 3,
-        "unalignedTarget": 2
+        "unalignedOrig": 7,
+        "unalignedTarget": 249
       },
       "checks": {
         "langId": "ru",
         "projectId": "rlob",
         "bookId": "luk",
         "time_created": "2019-08-14T11:18:39.937Z",
-        "tc_edit_version": "3.0.2",
-        "tc_version": 7,
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
         "translationNotes": {
           "toolData": {
             "SelectedGL": "en"
           },
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 3865,
+          "totalChecks": 3866,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -10339,7 +10339,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v65_Door43-Catalog"
+                "glVersion": "v66_Door43-Catalog"
               }
             },
             "toolWarnings": ""
@@ -10347,8 +10347,58 @@
         },
         "translationWords": {
           "toolData": {
-            "SelectedGL": "en"
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
           },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3848,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-04-20T16:02:49Z"
+    },
+    "TimYancev/ru_rlob_luk_book": {
+      "fullName": "TimYancev/ru_rlob_luk_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "luk",
+        "percentCompleted": 0.8493617021276596,
+        "completedVerses": 998,
+        "totalVerses": 1175,
+        "unalignedOrig": 6,
+        "unalignedTarget": 249
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "luk",
+        "time_created": "2023-09-06T19:36:47.828Z",
+        "tc_edit_version": "3.5.1",
+        "tc_version": 8,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3866
+        },
+        "translationWords": {
+          "toolData": {},
           "percentCompleted": 0,
           "completedChecks": 0,
           "totalChecks": 3847,
@@ -10364,13 +10414,514 @@
         },
         "wordAlignment": {
           "toolData": {
-            "SelectedGL": "en",
-            "orig_lang_check_version": "0.22"
+            "SelectedGL": "ru"
           }
         }
       },
       "checkMigration": true,
-      "modified": "2022-02-17T15:35:04Z"
+      "modified": "2023-09-06T19:41:46Z"
+    },
+    "Samuel_Kim/ru_rlob_tit_book": {
+      "fullName": "Samuel_Kim/ru_rlob_tit_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "tit",
+        "time_created": "2019-05-14T12:20:23.897Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 0.7325581395348837,
+          "completedChecks": 63,
+          "totalChecks": 86,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.15"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 220,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-11T13:52:42Z"
+    },
+    "Nadezhda/ru_rlob_phm_book": {
+      "fullName": "Nadezhda/ru_rlob_phm_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "phm",
+        "percentCompleted": 1,
+        "completedVerses": 26,
+        "totalVerses": 26,
+        "unalignedOrig": 0,
+        "unalignedTarget": 1
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "phm",
+        "time_created": "2022-04-01T08:09:03.390Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30",
+            "gl_check_version": "v72_unfoldingWord"
+          },
+          "percentCompleted": 0.9852941176470589,
+          "completedChecks": 67,
+          "totalChecks": 68,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 95,
+          "totalChecks": 95,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-07-21T14:19:45Z"
+    },
+    "TimYancev/ru_rsob_2pe_book": {
+      "fullName": "TimYancev/ru_rsob_2pe_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rsob",
+        "bookId": "2pe",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 61,
+        "unalignedOrig": 1100,
+        "unalignedTarget": 2072
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rsob",
+        "bookId": "2pe",
+        "time_created": "2023-04-20T09:09:45.118Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 404
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 315,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-04-20T09:10:40Z"
+    },
+    "Nadezhda/ru_rost_3jn_book": {
+      "fullName": "Nadezhda/ru_rost_3jn_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rost",
+        "bookId": "3jn",
+        "percentCompleted": 1,
+        "completedVerses": 15,
+        "totalVerses": 15,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rost",
+        "bookId": "3jn",
+        "time_created": "2023-02-22T09:37:44.833Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30",
+            "gl_check_version": "v71_unfoldingWord"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 21,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 63,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-02-22T16:52:56Z"
+    },
+    "richmahn/ru_1ti_text_reg": {
+      "fullName": "richmahn/ru_1ti_text_reg",
+      "wA": {
+        "langId": "ru",
+        "projectId": "1ti",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "text",
+        "bookId": "1ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-02-22T00:35:25Z"
+    },
+    "TimYancev/ru_rlob_1jn_book": {
+      "fullName": "TimYancev/ru_rlob_1jn_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "1jn",
+        "percentCompleted": 1,
+        "completedVerses": 105,
+        "totalVerses": 105,
+        "unalignedOrig": 1,
+        "unalignedTarget": 6
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "1jn",
+        "time_created": "2021-01-08T14:00:47.006Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30",
+            "gl_check_version": "v66_Door43-Catalog"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 582,
+          "totalChecks": 582,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 555,
+          "totalChecks": 555,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-11-28T07:08:10Z"
+    },
+    "Pro/ru_rlob_1ti_book": {
+      "fullName": "Pro/ru_rlob_1ti_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "1ti",
+        "percentCompleted": 1,
+        "completedVerses": 113,
+        "totalVerses": 113,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rlob",
+        "bookId": "1ti",
+        "time_created": "2021-01-26T22:44:29.131Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.25",
+            "gl_check_version": "v61_Door43-Catalog"
+          },
+          "percentCompleted": 0.8614864864864865,
+          "completedChecks": 255,
+          "totalChecks": 296,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.24"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 485,
+          "totalChecks": 485,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.26"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-11-21T09:18:13Z"
+    },
+    "Samuel_Kim/ru_rsob_exo_book": {
+      "fullName": "Samuel_Kim/ru_rsob_exo_book",
+      "wA": {
+        "langId": "ru",
+        "projectId": "rsob",
+        "bookId": "exo",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 1213,
+        "unalignedOrig": 16713,
+        "unalignedTarget": 29135
+      },
+      "checks": {
+        "langId": "ru",
+        "projectId": "rsob",
+        "bookId": "exo",
+        "time_created": "2022-10-28T01:20:42.301Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.29",
+            "gl_check_version": "v65_Door43-Catalog"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1748,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 5438,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.29"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-10-28T06:32:05Z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "processedProjects": 33,
+  "processedProjects": 2,
   "totalProjects": 33,
   "projects": {
     "shojojohn/yeu_yent_2jn_book": {
@@ -1382,6 +1382,54 @@
       },
       "checkMigration": true,
       "modified": "2019-06-25T08:54:02Z"
+    },
+    "vipinbhadran_BCS/yeu_yent_2jn_book": {
+      "fullName": "vipinbhadran_BCS/yeu_yent_2jn_book",
+      "wA": {
+        "langId": "yeu",
+        "projectId": "yent",
+        "bookId": "2jn",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 13,
+        "unalignedOrig": 245,
+        "unalignedTarget": 200
+      },
+      "checks": {
+        "langId": "yeu",
+        "projectId": "yent",
+        "bookId": "2jn",
+        "time_created": "2021-10-14T12:06:03.060Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 12
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 65,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-11-09T06:29:34Z"
     }
   }
 }

@@ -1,106 +1,148 @@
 Project	Modified	wA % Done	wA GL	wA Orig Lang Check Version	tW % Done	tW GL	tW Orig Lang Check Version	tN % Done	tN GL	tN GL Check Version	tN Orig Lang Check Version	Time Created	tC Edit Version	tC Format Version	Project warnings	Project Error	
 HJ/vi_vilt_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.13	100	en	v0.13	100	en	v32	v0.13	2020-10-12T13:46:47.881Z	3.0.0	7	unmatched tn checks found, 		
+HJ/vi_vlt_1co_book		100	en	v0.32	0			0				2022-08-22T01:18:37.888Z	3.0.1	7			
 HJ/vi_vlt_1jn_book		100	en	v0.27	0			0				2022-07-22T08:43:30.414Z	3.0.1	7			
-HJ/vi_vlt_1pe_book		100	en	v0.27	0			0				2022-07-22T08:48:14.669Z	3.0.1	7			
+HJ/vi_vlt_1pe_book		100	en	v0.30	0			0				2022-07-22T08:48:14.669Z	3.0.1	7			
 HJ/vi_vlt_1th_book		100	en	v0.27	0			0				2022-07-25T04:21:02.200Z	3.0.1	7			
+HJ/vi_vlt_1ti_book		100	en	v0.30	0			0				2022-07-25T04:19:20.984Z	3.0.1	7			
+HJ/vi_vlt_2co_book		100	en	v0.30	0			0				2023-02-15T02:02:47.273Z	3.0.1	7			
 HJ/vi_vlt_2jn_book		100	en	v0.27	0			0				2022-07-22T08:43:00.947Z	3.0.1	7			
 HJ/vi_vlt_2pe_book		100	en	v0.27	0			0				2022-07-22T08:47:13.596Z	3.0.1	7			
 HJ/vi_vlt_2th_book		100	en	v0.27	0			0	hi	v28.2	v0.27	2022-08-09T08:24:55.471Z	3.0.1	7			
-HJ/vi_vlt_3jn_book		100	en	v0.27	0			0				2022-07-22T08:42:11.645Z	3.0.1	7			
-HJ/vi_vlt_col_book		100	en	v0.27	0			0				2022-07-25T04:21:42.412Z	3.0.1	7			
-HJ/vi_vlt_eph_book		100	en	v0.27	0			0				2022-07-25T04:23:22.244Z	3.0.1	7			
+HJ/vi_vlt_2ti_book		100	en	v0.30	0			0				2022-07-25T04:18:34.960Z	3.0.1	7			
+HJ/vi_vlt_3jn_book		100	en	v0.30	0			0				2022-07-22T08:42:11.645Z	3.0.1	7			
+HJ/vi_vlt_act_book																Could not download HJ/vi_vlt_act_book: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received null	
+HJ/vi_vlt_col_book		100	en	v0.30	0			0				2022-07-25T04:21:42.412Z	3.0.1	7			
+HJ/vi_vlt_eph_book		100	en	v0.30	0			0				2022-07-25T04:23:22.244Z	3.0.1	7			
+HJ/vi_vlt_gal_book		100	en	v0.30	0			0				2023-01-30T08:57:07.595Z	3.0.1	7			
+HJ/vi_vlt_heb_book		100	en	v0.31	0			0				2023-01-30T08:55:55.984Z	3.0.1	7			
 HJ/vi_vlt_jas_book		100	en	v0.27	0			0				2022-07-22T08:50:34.126Z	3.0.1	7			
-HJ/vi_vlt_jhn_book		100	en	v0.15	0			0				2022-07-25T04:24:23.556Z	3.0.1	7			
+HJ/vi_vlt_jhn_book		100	en	v0.30	0			0				2022-07-25T04:24:23.556Z	3.0.1	7			
 HJ/vi_vlt_jud_book		100	en	v0.27	0			0				2022-07-22T08:18:23.675Z	3.0.1	7			
-HJ/vi_vlt_luk_book		30	en	v0.15	0			0				2022-07-25T04:25:08.962Z	3.0.1	7			
+HJ/vi_vlt_luk_book		100	en	v0.32	0			0				2022-07-25T04:25:08.962Z	3.0.1	7			
+HJ/vi_vlt_mat_book		100	en	v0.30	0			0				2023-02-15T01:57:33.232Z	3.0.1	7			
+HJ/vi_vlt_mrk_book		100	en	v0.30	0			0				2022-11-10T09:46:13.010Z	3.0.1	7			
 HJ/vi_vlt_phm_book		100	en	v0.27	0			0				2022-07-22T08:52:08.768Z	3.0.1	7			
-HJ/vi_vlt_php_book		100	en	v0.27	0			0				2022-07-25T04:22:26.138Z	3.0.1	7			
+HJ/vi_vlt_php_book		100	en	v0.31	0			0				2022-07-25T04:22:26.138Z	3.0.1	7			
+HJ/vi_vlt_rev_book		100	en	v0.30	0			0				2023-01-30T08:53:45.984Z	3.0.1	7			
+HJ/vi_vlt_rom_book		99	en	v0.32	0			0				2022-12-26T01:32:52.493Z	3.0.1	7			
 HJ/vi_vlt_tit_book		100	en	v0.27	0			0				2022-07-22T08:52:59.850Z	3.0.1	7			
 HJ/vi_vst_tit_book	2022-01-10T14:37:20.312Z	100	en	v0.13	100	en	v0.13	100	en	v32	v0.13	2020-09-19T01:38:22.017Z	3.0.0	7	unmatched tn checks found, 		
 Joy18/avi_reg_tit_book		2			0			0				2018-12-10T21:50:28.423Z		7			
-laithienthao/vi_ulba_tit_book	2022-09-10T11:55:28.919Z	0	en		0	en	v0.13	100	en	v32	v0.13	2020-08-23T14:27:48.444Z	3.0.0	7	unmatched tn checks found, 		
-laithienthao/vi_ulbc_tit_book	2022-09-10T11:55:28.919Z	0	en		0			52	en	v33	v0.14	2020-08-23T14:27:48.444Z	3.0.0	7	unmatched tn checks found, 		
-laithienthao/vi_ulbt_tit_book	2022-09-10T11:55:28.919Z	0	en		0			54	en	v32	v0.13	2020-08-23T14:27:48.444Z	3.0.0	7	unmatched tn checks found, 		
-laithienthao/vi_vst_tit_book	2022-09-10T11:55:28.919Z	0	en	v0.13	99	en	v0.13	100	en	v32	v0.13	2020-09-19T01:38:22.017Z	3.0.0	7	unmatched tn checks found, 		
+kiemtra/vi_vlt_1ki_book		100	en	v2.1.30	0			0				2023-01-04T09:06:23.575Z	3.0.1	7			
+kiemtra/vi_vlt_2ki_book		85	en	v2.1.30	0			0				2023-01-04T09:07:06.617Z	3.0.1	7			
+kiemtra/vi_vlt_amo_book		100	en		0			0				2023-01-04T09:13:51.684Z	3.0.1	7			
+kiemtra/vi_vlt_dan_book		100	en	v2.1.30	0			0				2023-01-04T09:12:32.354Z	3.0.1	7			
+kiemtra/vi_vlt_deu_book		99	en	v2.1.30	0			0				2023-01-16T04:24:32.253Z	3.0.1	7			
+kiemtra/vi_vlt_est_book		100	en	v2.1.29	0			0	en	v66	v2.1.30	2023-01-04T09:09:39.242Z	3.0.1	7			
+kiemtra/vi_vlt_exo_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T08:56:19.777Z	3.0.1	7			
+kiemtra/vi_vlt_ezk_book		100	en	v2.1.30	0			0				2023-01-04T09:11:42.955Z	3.0.1	7			
+kiemtra/vi_vlt_ezr_book		100	en	v2.1.29	0			0	en	v66	v2.1.30	2023-01-04T09:07:50.146Z	3.0.1	7			
+kiemtra/vi_vlt_gen_book		100	en	v2.1.30	0			0				2023-06-17T08:25:52.478Z	3.0.1	7			
+kiemtra/vi_vlt_hab_book		100	en		0			0				2023-01-04T09:16:30.430Z	3.0.1	7			
+kiemtra/vi_vlt_hag_book		100	en	v2.1.30	0			0				2023-01-04T09:17:49.044Z	3.0.1	7			
+kiemtra/vi_vlt_jdg_book		100	en	v2.1.30	0			0				2023-01-04T09:03:59.140Z	3.0.1	7			
+kiemtra/vi_vlt_job_book		100	en		0			0				2023-01-04T09:10:20.587Z	3.0.1	7			
+kiemtra/vi_vlt_jol_book		100	en		0			0	en	v66	v2.1.30	2023-01-04T09:13:12.890Z	3.0.1	7			
+kiemtra/vi_vlt_jon_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T09:15:21.977Z	3.0.1	7			
+kiemtra/vi_vlt_jos_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T09:02:41.723Z	3.0.1	7			
+kiemtra/vi_vlt_lev_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T08:57:30.379Z	3.0.1	7			
+kiemtra/vi_vlt_mal_book		100	en		0			0				2023-01-04T09:18:24.957Z	3.0.1	7			
+kiemtra/vi_vlt_nam_book		100	en		0			0				2023-01-04T09:15:54.382Z	3.0.1	7			
+kiemtra/vi_vlt_neh_book		99	en	v2.1.29	0			0	en	v36	v2.1.15	2020-12-07T03:25:23.631Z	3.0.1	7			
+kiemtra/vi_vlt_num_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T08:59:15.871Z	3.0.1	7			
+kiemtra/vi_vlt_oba_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T09:14:35.495Z	3.0.1	7			
+kiemtra/vi_vlt_pro_book		100	en		0			0				2023-01-04T09:11:02.641Z	3.0.1	7			
+kiemtra/vi_vlt_rut_book		100	en	v2.1.29	0			0	en	v66	v2.1.30	2023-01-04T09:04:42.232Z	3.0.1	7			
+kiemtra/vi_vlt_zep_book		100	en		0			0				2023-01-04T09:17:09.450Z	3.0.1	7			
+laithienthao/vi_ulba_tit_book	2023-09-19T17:18:08.123Z	0	en		0	en	v0.13	100	en	v32	v0.13	2020-08-23T14:27:48.444Z	3.0.0	7	unmatched tn checks found, 		
+laithienthao/vi_ulbc_tit_book	2023-09-19T17:18:08.123Z	0	en		0			52	en	v33	v0.14	2020-08-23T14:27:48.444Z	3.0.0	7	unmatched tn checks found, 		
+laithienthao/vi_ulbt_tit_book	2023-09-19T17:18:08.123Z	0	en		0			54	en	v32	v0.13	2020-08-23T14:27:48.444Z	3.0.0	7	unmatched tn checks found, 		
+laithienthao/vi_vst_tit_book	2023-09-19T17:18:08.123Z	0	en	v0.13	99	en	v0.13	100	en	v32	v0.13	2020-09-19T01:38:22.017Z	3.0.0	7	unmatched tn checks found, 		
 man_vgm/vi_ult_2jn_book	2022-01-10T14:37:20.312Z	100	en	v0.13	0			0				2020-09-19T16:10:35.162Z	3.0.1	7			
-man_vgm/vi_vlt_1co_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:24:06.727Z	3.0.1	7			
-man_vgm/vi_vlt_1jn_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T16:09:05.613Z	3.0.1	7			
-man_vgm/vi_vlt_1pe_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T16:05:44.762Z	3.0.1	7			
-man_vgm/vi_vlt_1th_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:49:11.318Z	3.0.1	7			
-man_vgm/vi_vlt_1ti_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:52:31.927Z	3.0.1	7			
-man_vgm/vi_vlt_2co_book	2022-09-10T11:55:28.919Z	99	en	v0.15	0			0				2020-09-19T15:30:32.885Z	3.0.1	7			
-man_vgm/vi_vlt_2jn_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0	en	v32	v0.13	2020-09-19T16:10:35.162Z	3.0.1	7			
-man_vgm/vi_vlt_2pe_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T16:07:41.042Z	3.0.1	7			
-man_vgm/vi_vlt_2th_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:51:06.094Z	3.0.1	7			
-man_vgm/vi_vlt_2ti_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:55:11.285Z	3.0.1	7			
-man_vgm/vi_vlt_3jn_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T16:11:59.537Z	3.0.1	7			
-man_vgm/vi_vlt_act_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:12:31.052Z	3.0.1	7			
-man_vgm/vi_vlt_col_book	2022-09-10T11:55:28.919Z	100	en	v0.21	0			0				2020-09-19T15:47:37.065Z	3.0.1	7			
-man_vgm/vi_vlt_eph_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:44:11.448Z	3.0.1	7			
-man_vgm/vi_vlt_gal_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:35:16.312Z	3.0.1	7			
-man_vgm/vi_vlt_heb_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T16:00:19.711Z	3.0.1	7			
-man_vgm/vi_vlt_jas_book	2022-09-10T11:55:28.919Z	100	en	v0.21	0			0				2020-09-19T16:02:44.332Z	3.0.1	7			
+man_vgm/vi_vlt_1co_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:24:06.727Z	3.0.1	7			
+man_vgm/vi_vlt_1jn_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T16:09:05.613Z	3.0.1	7			
+man_vgm/vi_vlt_1pe_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T16:05:44.762Z	3.0.1	7			
+man_vgm/vi_vlt_1th_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:49:11.318Z	3.0.1	7			
+man_vgm/vi_vlt_1ti_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:52:31.927Z	3.0.1	7			
+man_vgm/vi_vlt_2co_book	2023-09-19T17:18:08.123Z	99	en	v0.15	0			0				2020-09-19T15:30:32.885Z	3.0.1	7			
+man_vgm/vi_vlt_2jn_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0	en	v32	v0.13	2020-09-19T16:10:35.162Z	3.0.1	7			
+man_vgm/vi_vlt_2pe_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T16:07:41.042Z	3.0.1	7			
+man_vgm/vi_vlt_2th_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:51:06.094Z	3.0.1	7			
+man_vgm/vi_vlt_2ti_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:55:11.285Z	3.0.1	7			
+man_vgm/vi_vlt_3jn_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T16:11:59.537Z	3.0.1	7			
+man_vgm/vi_vlt_act_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:12:31.052Z	3.0.1	7			
+man_vgm/vi_vlt_col_book	2023-09-19T17:18:08.123Z	100	en	v0.21	0			0				2020-09-19T15:47:37.065Z	3.0.1	7			
+man_vgm/vi_vlt_dan_book		100	en	v2.1.30	0			0				2023-01-04T09:12:32.354Z	3.0.1	7			
+man_vgm/vi_vlt_eph_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:44:11.448Z	3.0.1	7			
+man_vgm/vi_vlt_ezr_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T09:07:50.146Z	3.0.1	7			
+man_vgm/vi_vlt_gal_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:35:16.312Z	3.0.1	7			
+man_vgm/vi_vlt_hag_book		100	en	v2.1.30	0			0				2023-01-04T09:17:49.044Z	3.0.1	7			
+man_vgm/vi_vlt_heb_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T16:00:19.711Z	3.0.1	7			
+man_vgm/vi_vlt_jas_book	2023-09-19T17:18:08.123Z	100	en	v0.21	0			0				2020-09-19T16:02:44.332Z	3.0.1	7			
 man_vgm/vi_vlt_jdg_book		100	en	v2.1.15	0			0				2022-07-07T07:17:16.597Z	3.0.1	7			
-man_vgm/vi_vlt_jhn_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-18T08:39:52.228Z	3.0.1	7			
-man_vgm/vi_vlt_jon_book		100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-11-26T04:57:30.521Z	3.0.1	7			
+man_vgm/vi_vlt_jhn_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-18T08:39:52.228Z	3.0.1	7			
+man_vgm/vi_vlt_jon_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T09:15:21.977Z	3.0.1	7			
 man_vgm/vi_vlt_jos_book		100	en	v2.1.25	0			0	en	v36	v2.1.15	2022-06-15T03:19:23.308Z	3.0.1	7			
-man_vgm/vi_vlt_jud_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T16:13:42.150Z	3.0.1	7			
-man_vgm/vi_vlt_luk_book	2022-09-10T11:55:28.919Z	100	en	v0.21	0			0				2020-09-19T05:57:20.706Z	3.0.1	7			
-man_vgm/vi_vlt_mat_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0	en		0	en	v28	v0.12	2020-09-17T01:14:20.307Z	3.0.1	7			
-man_vgm/vi_vlt_mrk_book	2022-09-10T11:55:28.919Z	100	en	v0.21	0			0				2020-09-19T05:09:03.600Z	3.0.1	7			
-man_vgm/vi_vlt_phm_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:58:35.878Z	3.0.1	7			
-man_vgm/vi_vlt_php_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T15:45:46.278Z	3.0.1	7			
-man_vgm/vi_vlt_rev_book	2022-09-10T11:55:28.919Z	100	en	v0.15	0			0				2020-09-19T16:15:08.957Z	3.0.1	7			
-man_vgm/vi_vlt_rom_book	2022-09-10T11:55:28.919Z	100	en	v0.21	0	en		0	en	v32	v0.13	2020-09-18T08:48:24.968Z	3.0.1	7			
+man_vgm/vi_vlt_jud_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T16:13:42.150Z	3.0.1	7			
+man_vgm/vi_vlt_luk_book	2023-09-19T17:18:08.123Z	100	en	v0.21	0			0				2020-09-19T05:57:20.706Z	3.0.1	7			
+man_vgm/vi_vlt_mat_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0	en		0	en	v28	v0.12	2020-09-17T01:14:20.307Z	3.0.1	7			
+man_vgm/vi_vlt_mrk_book	2023-09-19T17:18:08.123Z	100	en	v0.21	0			0				2020-09-19T05:09:03.600Z	3.0.1	7			
+man_vgm/vi_vlt_oba_book		100	en	v2.1.30	0			0	en	v66	v2.1.30	2023-01-04T09:14:35.495Z	3.0.1	7			
+man_vgm/vi_vlt_phm_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:58:35.878Z	3.0.1	7			
+man_vgm/vi_vlt_php_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T15:45:46.278Z	3.0.1	7			
+man_vgm/vi_vlt_rev_book	2023-09-19T17:18:08.123Z	100	en	v0.15	0			0				2020-09-19T16:15:08.957Z	3.0.1	7			
+man_vgm/vi_vlt_rom_book	2023-09-19T17:18:08.123Z	100	en	v0.21	0	en		0	en	v32	v0.13	2020-09-18T08:48:24.968Z	3.0.1	7			
 man_vgm/vi_vlt_rut_book		100	en	v2.1.15	0			0	en	v36	v2.1.15	2022-06-10T07:45:22.647Z	3.0.1	7			
-man_vgm/vi_vlt_tit_book	2022-09-10T11:55:28.919Z	100	en	v0.21	94	en	v0.21	78	en	v52	v0.21	2020-10-12T13:46:47.881Z	3.0.1	7			
+man_vgm/vi_vlt_tit_book	2023-09-19T17:18:08.123Z	100	en	v0.21	94	en	v0.21	78	en	v52	v0.21	2020-10-12T13:46:47.881Z	3.0.1	7			
 man_vgm/vi_volt_1ch_book		97	en	v2.1.23	0	hi		0				2020-12-16T08:28:47.558Z	3.1.0	7			
-man_vgm/vi_volt_1ki_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0			0				2020-12-24T09:35:57.350Z	3.0.1	7			
-man_vgm/vi_volt_1sa_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:10:28.260Z	3.0.1	7			
-man_vgm/vi_volt_2ch_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-16T08:29:28.365Z	3.0.1	7			
-man_vgm/vi_volt_2ki_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0			0				2020-12-24T09:36:28.933Z	3.0.1	7			
-man_vgm/vi_volt_2sa_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:11:15.977Z	3.0.1	7			
-man_vgm/vi_volt_amo_book	2022-09-10T11:55:28.919Z	1	en	v2.1.15	0	hi		0				2020-12-15T10:18:57.143Z	3.0.1	7			
-man_vgm/vi_volt_dan_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:17:45.384Z	3.0.1	7			
-man_vgm/vi_volt_deu_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-24T09:35:11.762Z	3.0.1	7			
-man_vgm/vi_volt_ecc_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:14:28.660Z	3.0.1	7			
-man_vgm/vi_volt_est_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:26:05.331Z	3.0.1	7			
-man_vgm/vi_volt_exo_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0	hi	v2.1.15	0				2020-11-25T02:28:42.415Z	3.0.1	7			
-man_vgm/vi_volt_ezk_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:16:59.864Z	3.0.1	7			
-man_vgm/vi_volt_ezr_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:24:27.975Z	3.0.1	7			
-man_vgm/vi_volt_gen_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:08:53.842Z	3.0.1	7			
-man_vgm/vi_volt_hab_book	2022-09-10T11:55:28.919Z	0	en		0	hi		0				2020-12-24T09:38:13.145Z	3.0.1	7			
-man_vgm/vi_volt_hag_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:20:06.271Z	3.0.1	7			
-man_vgm/vi_volt_hos_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:18:19.502Z	3.0.1	7			
-man_vgm/vi_volt_isa_book	2022-09-10T11:55:28.919Z	99	en	v2.1.15	0	hi	v2.1.15	0				2020-12-15T10:15:37.806Z	3.0.1	7			
-man_vgm/vi_volt_jdg_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0				2020-12-07T03:23:16.831Z	3.0.1	7			
+man_vgm/vi_volt_1ki_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0			0				2020-12-24T09:35:57.350Z	3.0.1	7			
+man_vgm/vi_volt_1sa_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:10:28.260Z	3.0.1	7			
+man_vgm/vi_volt_2ch_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-16T08:29:28.365Z	3.0.1	7			
+man_vgm/vi_volt_2ki_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0			0				2020-12-24T09:36:28.933Z	3.0.1	7			
+man_vgm/vi_volt_2sa_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:11:15.977Z	3.0.1	7			
+man_vgm/vi_volt_amo_book	2023-09-19T17:18:08.123Z	1	en	v2.1.15	0	hi		0				2020-12-15T10:18:57.143Z	3.0.1	7			
+man_vgm/vi_volt_dan_book	2022-01-10T14:37:20.312Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:17:45.384Z	3.0.1	7			
+man_vgm/vi_volt_deu_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-24T09:35:11.762Z	3.0.1	7			
+man_vgm/vi_volt_ecc_book	2022-01-10T14:37:20.312Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:14:28.660Z	3.0.1	7			
+man_vgm/vi_volt_est_book	2022-01-10T14:37:20.312Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:26:05.331Z	3.0.1	7			
+man_vgm/vi_volt_exo_book	2023-09-19T17:18:08.123Z	100	en	v2.1.15	0	hi	v2.1.15	0				2020-11-25T02:28:42.415Z	3.0.1	7			
+man_vgm/vi_volt_ezk_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:16:59.864Z	3.0.1	7			
+man_vgm/vi_volt_ezr_book	2022-01-10T14:37:20.312Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:24:27.975Z	3.0.1	7			
+man_vgm/vi_volt_gen_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:08:53.842Z	3.0.1	7			
+man_vgm/vi_volt_hab_book	2023-09-19T17:18:08.123Z	0	en		0	hi		0				2020-12-24T09:38:13.145Z	3.0.1	7			
+man_vgm/vi_volt_hag_book	2022-01-10T14:37:20.312Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:20:06.271Z	3.0.1	7			
+man_vgm/vi_volt_hos_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:18:19.502Z	3.0.1	7			
+man_vgm/vi_volt_isa_book	2023-09-19T17:18:08.123Z	99	en	v2.1.15	0	hi	v2.1.15	0				2020-12-15T10:15:37.806Z	3.0.1	7			
+man_vgm/vi_volt_jdg_book	2022-01-10T14:37:20.312Z	100	en	v2.1.15	0			0				2020-12-07T03:23:16.831Z	3.0.1	7			
 man_vgm/vi_volt_jer_book		98	en	v2.1.15	0	hi		0				2020-12-24T09:37:01.463Z	3.0.1	7			
-man_vgm/vi_volt_job_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:11:55.438Z	3.0.1	7			
-man_vgm/vi_volt_jol_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:26:44.830Z	3.0.1	7			
+man_vgm/vi_volt_job_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:11:55.438Z	3.0.1	7			
+man_vgm/vi_volt_jol_book	2023-09-19T17:18:08.123Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:26:44.830Z	3.0.1	7			
 man_vgm/vi_volt_jon_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-11-26T04:57:30.521Z	3.0.1	7			
-man_vgm/vi_volt_jos_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:21:53.492Z	3.0.1	7			
-man_vgm/vi_volt_lam_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:16:27.121Z	3.0.1	7			
-man_vgm/vi_volt_lev_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0			0				2020-12-15T10:38:10.440Z	3.0.1	7			
-man_vgm/vi_volt_mal_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:21:16.247Z	3.0.1	7			
+man_vgm/vi_volt_jos_book	2022-01-10T14:37:20.312Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:21:53.492Z	3.0.1	7			
+man_vgm/vi_volt_lam_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:16:27.121Z	3.0.1	7			
+man_vgm/vi_volt_lev_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0			0				2020-12-15T10:38:10.440Z	3.0.1	7			
+man_vgm/vi_volt_mal_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:21:16.247Z	3.0.1	7			
 man_vgm/vi_volt_mic_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi	v2.1.15	0				2020-12-24T09:37:43.030Z	3.0.1	7			
-man_vgm/vi_volt_nam_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0				2020-12-07T03:29:43.088Z	3.0.1	7			
-man_vgm/vi_volt_neh_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:25:23.631Z	3.0.1	7			
-man_vgm/vi_volt_num_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0			0				2020-12-24T09:33:54.194Z	3.0.1	7			
-man_vgm/vi_volt_oba_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:28:27.634Z	3.0.1	7			
-man_vgm/vi_volt_pro_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:13:45.312Z	3.0.1	7			
+man_vgm/vi_volt_nam_book	2023-09-19T17:18:08.123Z	100	en	v2.1.15	0			0				2020-12-07T03:29:43.088Z	3.0.1	7			
+man_vgm/vi_volt_neh_book	2023-09-19T17:18:08.123Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:25:23.631Z	3.0.1	7			
+man_vgm/vi_volt_num_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0			0				2020-12-24T09:33:54.194Z	3.0.1	7			
+man_vgm/vi_volt_oba_book	2022-01-10T14:37:20.312Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:28:27.634Z	3.0.1	7			
+man_vgm/vi_volt_pro_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:13:45.312Z	3.0.1	7			
 man_vgm/vi_volt_psa_book		99	en	v2.1.15	0	hi	v2.1.15	0				2020-12-15T10:12:38.410Z	3.0.1	7			
-man_vgm/vi_volt_rut_book	2022-09-10T11:55:28.919Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:23:54.696Z	3.0.1	7			
-man_vgm/vi_volt_sng_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:15:01.567Z	3.0.1	7			
-man_vgm/vi_volt_zec_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:39:09.247Z	3.0.1	7			
-man_vgm/vi_volt_zep_book	2022-09-10T11:55:28.919Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:19:32.180Z	3.0.1	7			
-man_vgm/vi_vts_col_book	2022-09-10T11:55:28.919Z	14	en	v0.15	0			0				2020-09-19T15:47:37.065Z	3.0.1	7			
+man_vgm/vi_volt_rut_book	2022-01-10T14:37:20.312Z	100	en	v2.1.15	0			0	en	v36	v2.1.15	2020-12-07T03:23:54.696Z	3.0.1	7			
+man_vgm/vi_volt_sng_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:15:01.567Z	3.0.1	7			
+man_vgm/vi_volt_zec_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:39:09.247Z	3.0.1	7			
+man_vgm/vi_volt_zep_book	2023-09-19T17:18:08.123Z	0	en	v2.1.15	0	hi		0				2020-12-15T10:19:32.180Z	3.0.1	7			
+man_vgm/vi_vts_col_book	2022-01-10T14:37:20.312Z	14	en	v0.15	0			0				2020-09-19T15:47:37.065Z	3.0.1	7			
 man_vgm/vi_vts_exo_book	2022-09-10T11:55:28.919Z	90	en	v2.1.15	0	hi		0				2020-11-25T02:28:42.415Z	3.0.1	7			
-man_vgm/vi_vts_jon_book	2022-09-10T11:55:28.919Z	92	en	v2.1.15	0			0	en	v36	v2.1.15	2020-11-26T04:57:30.521Z	3.0.1	7			
-richmahn/vi_reg_mat_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-16T13:38:53.940Z	3.0.0	7			
-richmahn/vi_ult_tit_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-15T18:21:21.213Z		7			
+man_vgm/vi_vts_jon_book	2022-01-10T14:37:20.312Z	92	en	v2.1.15	0			0	en	v36	v2.1.15	2020-11-26T04:57:30.521Z	3.0.1	7			
+richmahn/vi_reg_mat_book	2022-01-10T14:37:20.312Z	1	en		0			0				2020-09-16T13:38:53.940Z	3.0.0	7			
+richmahn/vi_ult_tit_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-15T18:21:21.213Z		7			
 RichUser2/vi_tit_text_reg		0			0			0									
-tc01/vi_ulb_tit_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0	en	v0.13	0	en	v32	v0.13	2020-08-20T13:10:11.344Z	3.0.0	7			
-uW_test_001/vi_vgst_tit_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-10-05T01:11:08.309Z	3.0.0	7			
+tc01/vi_ulb_tit_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0	en	v0.13	0	en	v32	v0.13	2020-08-20T13:10:11.344Z	3.0.0	7			
+tran-kha/vi_vlt_jas_book		20	en	v0.16	0	en	v0.16	0				2022-09-12T08:31:48.330Z	3.0.1	7			
+uW_test_001/vi_vgst_tit_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-10-05T01:11:08.309Z	3.0.0	7			
 VGM/vi_1ki_text_reg		0			0			0									
 VGM/vi_1sa_text_reg		0			0			0									
 VGM/vi_2ki_text_reg		0			0			0									
@@ -116,97 +158,97 @@ VGM/vi_lam_text_reg		0			0			0
 VGM/vi_lev_text_reg		0			0			0									
 VGM/vi_mal_text_reg		0			0			0									
 VGM/vi_num_text_reg		0			0			0									
-VGM/vi_reg_1pe_book	2022-09-10T11:55:28.919Z	0	en		0	en		2	en	v32	v0.13	2020-09-18T04:47:53.675Z	3.0.0	7			
-VGM/vi_reg_1th_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-18T09:11:49.307Z		7			
-VGM/vi_reg_act_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-18T08:46:37.170Z		7			
-VGM/vi_reg_eph_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-18T09:02:41.209Z		7			
-VGM/vi_reg_jud_book	2022-09-10T11:55:28.919Z	0	en	v0.12	0	en	v0.12	0				2020-06-29T03:35:15.803Z	2.1.2	7			
-VGM/vi_reg_lam_book	2022-09-10T11:55:28.919Z	0			0			0				2020-05-18T09:11:24.556Z		7			
-VGM/vi_reg_php_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-18T09:06:19.822Z		7			
+VGM/vi_reg_1pe_book	2023-09-19T17:18:08.123Z	0	en		0	en		2	en	v32	v0.13	2020-09-18T04:47:53.675Z	3.0.0	7			
+VGM/vi_reg_1th_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-18T09:11:49.307Z		7			
+VGM/vi_reg_act_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-18T08:46:37.170Z		7			
+VGM/vi_reg_eph_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-18T09:02:41.209Z		7			
+VGM/vi_reg_jud_book	2023-09-19T17:18:08.123Z	0	en	v0.12	0	en	v0.12	0				2020-06-29T03:35:15.803Z	2.1.2	7			
+VGM/vi_reg_lam_book	2023-09-19T17:18:08.123Z	0			0			0				2020-05-18T09:11:24.556Z		7			
+VGM/vi_reg_php_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-18T09:06:19.822Z		7			
 VGM/vi_rom_text_reg		0			0			0									
-VGM/vi_ulb_act_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-18T10:31:26.517Z		7			
-VGM/vi_ulb_gen_book	2022-09-10T11:55:28.919Z	0	en	v2.1.12	0			0				2020-05-18T09:31:30.071Z	2.1.2	7			
-VGM/vi_ult_1co_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0			0				2020-09-19T15:24:06.727Z	3.0.0	7			
-VGM/vi_ult_1jn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:09:05.613Z	3.0.0	7			
-VGM/vi_ult_1pe_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:05:44.762Z	3.0.0	7			
-VGM/vi_ult_1th_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:49:11.318Z	3.0.0	7			
-VGM/vi_ult_1ti_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:52:31.927Z	3.0.0	7			
-VGM/vi_ult_2co_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0			0				2020-09-19T15:30:32.885Z	3.0.0	7			
-VGM/vi_ult_2jn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:10:35.162Z	3.0.0	7			
-VGM/vi_ult_2pe_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:07:41.042Z	3.0.0	7			
-VGM/vi_ult_2th_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:51:06.094Z	3.0.0	7			
-VGM/vi_ult_2ti_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0			0				2020-09-19T15:55:11.285Z	3.0.0	7			
-VGM/vi_ult_3jn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:11:59.537Z	3.0.0	7			
-VGM/vi_ult_act_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0			0				2020-09-19T15:12:31.052Z	3.0.0	7			
-VGM/vi_ult_col_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0			0				2020-09-19T15:47:37.065Z	3.0.0	7			
-VGM/vi_ult_eph_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:44:11.448Z	3.0.0	7			
-VGM/vi_ult_gal_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:35:16.312Z	3.0.0	7			
-VGM/vi_ult_heb_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0			0				2020-09-19T16:00:19.711Z	3.0.0	7			
-VGM/vi_ult_jas_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:02:44.332Z	3.0.0	7			
-VGM/vi_ult_jhn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-18T08:39:52.228Z	3.0.0	7			
-VGM/vi_ult_jud_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:13:42.150Z	3.0.0	7			
-VGM/vi_ult_luk_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0			0				2020-09-19T05:57:20.706Z	3.0.0	7			
-VGM/vi_ult_mat_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0	en	v0.13	0	en	v32	v0.13	2020-09-17T01:14:20.307Z	3.0.0	7			
-VGM/vi_ult_mrk_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-19T05:09:03.600Z	3.0.0	7			
-VGM/vi_ult_phm_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:58:35.878Z	3.0.0	7			
-VGM/vi_ult_php_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:45:46.278Z	3.0.0	7			
-VGM/vi_ult_rev_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T16:15:08.957Z	3.0.0	7			
-VGM/vi_ult_rom_book	2022-09-10T11:55:28.919Z	0	en		0	en		0	en	v32	v0.13	2020-09-18T08:48:24.968Z	3.0.0	7			
-VGM/vi_ult_tit_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0	en		0	en	v32	v0.13	2020-09-17T01:22:16.482Z	3.0.0	7			
-VGM/vi_ust_1co_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:26:52.350Z	3.0.0	7			
-VGM/vi_ust_1jn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:17:07.141Z	3.0.0	7			
-VGM/vi_ust_1pe_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:13:15.694Z	3.0.0	7			
-VGM/vi_ust_1th_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-20T14:59:06.956Z	3.0.0	7			
-VGM/vi_ust_1ti_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-20T15:02:40.408Z	3.0.0	7			
-VGM/vi_ust_2co_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T15:32:12.330Z	3.0.0	7			
-VGM/vi_ust_2jn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:18:54.431Z	3.0.0	7			
-VGM/vi_ust_2pe_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:15:17.122Z	3.0.0	7			
-VGM/vi_ust_2th_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:01:05.178Z	3.0.0	7			
-VGM/vi_ust_2ti_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:05:50.878Z	3.0.0	7			
-VGM/vi_ust_3jn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:21:00.312Z	3.0.0	7			
-VGM/vi_ust_act_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-19T15:15:21.093Z	3.0.0	7			
-VGM/vi_ust_col_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T14:56:44.977Z	3.0.0	7			
-VGM/vi_ust_eph_book	2022-09-10T11:55:28.919Z	2	en		0			0				2020-09-20T14:50:56.353Z	3.0.0	7			
-VGM/vi_ust_gal_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-19T15:38:13.535Z	3.0.0	7			
-VGM/vi_ust_heb_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-20T15:09:29.591Z	3.0.0	7			
-VGM/vi_ust_jas_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:11:31.063Z	3.0.0	7			
-VGM/vi_ust_jhn_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-19T06:19:17.081Z	3.0.0	7			
-VGM/vi_ust_jud_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:22:36.360Z	3.0.0	7			
-VGM/vi_ust_luk_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-19T06:00:07.358Z	3.0.0	7			
-VGM/vi_ust_mat_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-19T05:54:41.874Z	3.0.0	7			
-VGM/vi_ust_mrk_book	2022-09-10T11:55:28.919Z	2	en		0	en		0	en	v32	v0.13	2020-09-19T05:11:30.745Z	3.0.0	7			
-VGM/vi_ust_phm_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T15:07:54.300Z	3.0.0	7			
-VGM/vi_ust_php_book	2022-09-10T11:55:28.919Z	0	en		0			0				2020-09-20T14:54:46.528Z	3.0.0	7			
-VGM/vi_ust_rom_book	2022-09-10T11:55:28.919Z	0	en		0	en		0	en	v32	v0.13	2020-09-19T15:21:01.253Z	3.0.0	7			
-VGM/vi_vlt_tit_book	2022-09-10T11:55:28.919Z	100	en	v0.13	100	en	v0.13	100	en	v32	v0.13	2020-10-12T13:46:47.881Z	3.0.0	7	unmatched tn checks found, 		
-VGM/vi_vst_tit_book	2022-09-10T11:55:28.919Z	100	en	v0.13	100	en	v0.13	100	en	v32	v0.13	2020-09-19T01:38:22.017Z	3.0.0	7	unmatched tn checks found, 		
+VGM/vi_ulb_act_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-18T10:31:26.517Z		7			
+VGM/vi_ulb_gen_book	2023-09-19T17:18:08.123Z	0	en	v2.1.12	0			0				2020-05-18T09:31:30.071Z	2.1.2	7			
+VGM/vi_ult_1co_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0			0				2020-09-19T15:24:06.727Z	3.0.0	7			
+VGM/vi_ult_1jn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:09:05.613Z	3.0.0	7			
+VGM/vi_ult_1pe_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:05:44.762Z	3.0.0	7			
+VGM/vi_ult_1th_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:49:11.318Z	3.0.0	7			
+VGM/vi_ult_1ti_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:52:31.927Z	3.0.0	7			
+VGM/vi_ult_2co_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0			0				2020-09-19T15:30:32.885Z	3.0.0	7			
+VGM/vi_ult_2jn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:10:35.162Z	3.0.0	7			
+VGM/vi_ult_2pe_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:07:41.042Z	3.0.0	7			
+VGM/vi_ult_2th_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:51:06.094Z	3.0.0	7			
+VGM/vi_ult_2ti_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0			0				2020-09-19T15:55:11.285Z	3.0.0	7			
+VGM/vi_ult_3jn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:11:59.537Z	3.0.0	7			
+VGM/vi_ult_act_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0			0				2020-09-19T15:12:31.052Z	3.0.0	7			
+VGM/vi_ult_col_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0			0				2020-09-19T15:47:37.065Z	3.0.0	7			
+VGM/vi_ult_eph_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:44:11.448Z	3.0.0	7			
+VGM/vi_ult_gal_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:35:16.312Z	3.0.0	7			
+VGM/vi_ult_heb_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0			0				2020-09-19T16:00:19.711Z	3.0.0	7			
+VGM/vi_ult_jas_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:02:44.332Z	3.0.0	7			
+VGM/vi_ult_jhn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-18T08:39:52.228Z	3.0.0	7			
+VGM/vi_ult_jud_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:13:42.150Z	3.0.0	7			
+VGM/vi_ult_luk_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0			0				2020-09-19T05:57:20.706Z	3.0.0	7			
+VGM/vi_ult_mat_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0	en	v0.13	0	en	v32	v0.13	2020-09-17T01:14:20.307Z	3.0.0	7			
+VGM/vi_ult_mrk_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-19T05:09:03.600Z	3.0.0	7			
+VGM/vi_ult_phm_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:58:35.878Z	3.0.0	7			
+VGM/vi_ult_php_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:45:46.278Z	3.0.0	7			
+VGM/vi_ult_rev_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T16:15:08.957Z	3.0.0	7			
+VGM/vi_ult_rom_book	2023-09-19T17:18:08.123Z	0	en		0	en		0	en	v32	v0.13	2020-09-18T08:48:24.968Z	3.0.0	7			
+VGM/vi_ult_tit_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0	en		0	en	v32	v0.13	2020-09-17T01:22:16.482Z	3.0.0	7			
+VGM/vi_ust_1co_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:26:52.350Z	3.0.0	7			
+VGM/vi_ust_1jn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:17:07.141Z	3.0.0	7			
+VGM/vi_ust_1pe_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:13:15.694Z	3.0.0	7			
+VGM/vi_ust_1th_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-20T14:59:06.956Z	3.0.0	7			
+VGM/vi_ust_1ti_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-20T15:02:40.408Z	3.0.0	7			
+VGM/vi_ust_2co_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T15:32:12.330Z	3.0.0	7			
+VGM/vi_ust_2jn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:18:54.431Z	3.0.0	7			
+VGM/vi_ust_2pe_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:15:17.122Z	3.0.0	7			
+VGM/vi_ust_2th_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:01:05.178Z	3.0.0	7			
+VGM/vi_ust_2ti_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:05:50.878Z	3.0.0	7			
+VGM/vi_ust_3jn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:21:00.312Z	3.0.0	7			
+VGM/vi_ust_act_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-19T15:15:21.093Z	3.0.0	7			
+VGM/vi_ust_col_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T14:56:44.977Z	3.0.0	7			
+VGM/vi_ust_eph_book	2023-09-19T17:18:08.123Z	2	en		0			0				2020-09-20T14:50:56.353Z	3.0.0	7			
+VGM/vi_ust_gal_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-19T15:38:13.535Z	3.0.0	7			
+VGM/vi_ust_heb_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-20T15:09:29.591Z	3.0.0	7			
+VGM/vi_ust_jas_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:11:31.063Z	3.0.0	7			
+VGM/vi_ust_jhn_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-19T06:19:17.081Z	3.0.0	7			
+VGM/vi_ust_jud_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:22:36.360Z	3.0.0	7			
+VGM/vi_ust_luk_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-19T06:00:07.358Z	3.0.0	7			
+VGM/vi_ust_mat_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-19T05:54:41.874Z	3.0.0	7			
+VGM/vi_ust_mrk_book	2023-09-19T17:18:08.123Z	2	en		0	en		0	en	v32	v0.13	2020-09-19T05:11:30.745Z	3.0.0	7			
+VGM/vi_ust_phm_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T15:07:54.300Z	3.0.0	7			
+VGM/vi_ust_php_book	2023-09-19T17:18:08.123Z	0	en		0			0				2020-09-20T14:54:46.528Z	3.0.0	7			
+VGM/vi_ust_rom_book	2023-09-19T17:18:08.123Z	0	en		0	en		0	en	v32	v0.13	2020-09-19T15:21:01.253Z	3.0.0	7			
+VGM/vi_vlt_tit_book	2023-09-19T17:18:08.123Z	100	en	v0.13	100	en	v0.13	100	en	v32	v0.13	2020-10-12T13:46:47.881Z	3.0.0	7	unmatched tn checks found, 		
+VGM/vi_vst_tit_book	2023-09-19T17:18:08.123Z	100	en	v0.13	100	en	v0.13	100	en	v32	v0.13	2020-09-19T01:38:22.017Z	3.0.0	7	unmatched tn checks found, 		
 vi_gl/vi_ult_1co_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_1jn_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_1pe_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_1jn_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_1pe_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_1th_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_1ti_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_2co_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_2jn_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_2pe_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_2pe_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_2th_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_2ti_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_3jn_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_3jn_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_act_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_col_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_eph_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_gal_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_heb_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_jas_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_heb_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_jas_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_jhn_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_jud_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_jud_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_luk_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_mat_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_mrk_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_phm_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_php_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ult_rev_book	2022-09-10T11:55:28.919Z	0			0			0				2020-09-16:37:37.983Z					
+vi_gl/vi_ult_rev_book	2023-09-19T17:18:08.123Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_rom_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
 vi_gl/vi_ult_tit_book	2022-01-10T14:37:20.312Z	0			0			0				2020-09-16:37:37.983Z					
-vi_gl/vi_ust_rev_book	2022-09-10T11:55:28.919Z	1	en		0			0				2020-09-20T15:24:28.248Z	3.0.0	7			
-vinhvd749/vi_vlt_tit_book	2022-09-10T11:55:28.919Z	4	en	v0.13	6	en	v0.13	5	en	v32	v0.13	2020-10-12T13:46:47.881Z	3.0.0	7			
-vinhvd749/vi_vst_tit_book	2022-09-10T11:55:28.919Z	0	en	v0.13	0	en	v0.13	2	en	v32	v0.13	2020-09-19T01:38:22.017Z	3.0.0	7			
+vi_gl/vi_ust_rev_book	2023-09-19T17:18:08.123Z	1	en		0			0				2020-09-20T15:24:28.248Z	3.0.0	7			
+vinhvd749/vi_vlt_tit_book	2023-09-19T17:18:08.123Z	4	en	v0.13	6	en	v0.13	5	en	v32	v0.13	2020-10-12T13:46:47.881Z	3.0.0	7			
+vinhvd749/vi_vst_tit_book	2023-09-19T17:18:08.123Z	0	en	v0.13	0	en	v0.13	2	en	v32	v0.13	2020-09-19T01:38:22.017Z	3.0.0	7			

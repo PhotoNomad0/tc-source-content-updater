@@ -1,6 +1,6 @@
 {
-  "processedProjects": 27,
-  "totalProjects": 27,
+  "processedProjects": 2,
+  "totalProjects": 28,
   "projects": {
     "ibibleru/el-x-koine_sttr_tit_book": {
       "fullName": "ibibleru/el-x-koine_sttr_tit_book",
@@ -1251,6 +1251,71 @@
         }
       },
       "checkMigration": true
+    },
+    "photonomad1/el-x-koine_srz_mat_book": {
+      "fullName": "photonomad1/el-x-koine_srz_mat_book",
+      "wA": {
+        "langId": "el-x-koine",
+        "projectId": "srz",
+        "bookId": "mat",
+        "percentCompleted": 0.003734827264239029,
+        "completedVerses": 4,
+        "totalVerses": 1071,
+        "unalignedOrig": 18357,
+        "unalignedTarget": 18313
+      },
+      "checks": {
+        "langId": "el-x-koine",
+        "projectId": "srz",
+        "bookId": "mat",
+        "time_created": "2023-07-20T17:26:15.409Z",
+        "tc_edit_version": "3.4.0-search",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30",
+            "gl_check_version": "v66_Door43-Catalog"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1551,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3933,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-07-20T17:36:16Z"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "processedProjects": 42,
-  "totalProjects": 147,
+  "processedProjects": 61,
+  "totalProjects": 166,
   "projects": {
     "birch/es-419_ulb_jud_book": {
       "fullName": "birch/es-419_ulb_jud_book",
@@ -45,7 +45,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "miguelcordero/es-419_tpl_rut_book": {
       "fullName": "miguelcordero/es-419_tpl_rut_book",
@@ -130,7 +130,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "abelper8/es-419_tps_tit_book": {
       "fullName": "abelper8/es-419_tps_tit_book",
@@ -199,7 +199,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "miguelcordero/es-419_tps_rut_book": {
       "fullName": "miguelcordero/es-419_tps_rut_book",
@@ -285,7 +285,7 @@
       },
       "checkMigration": true,
       "projectWarnings": "warnings: WA: , TN: writing-background_4_7__1 - Missing 1 selections\t\n, TW: ",
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "AngelicaReyes/es-419_tpl_rut_book": {
       "fullName": "AngelicaReyes/es-419_tpl_rut_book",
@@ -369,7 +369,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "LarryPinero/es-419_tpl_rut_book": {
       "fullName": "LarryPinero/es-419_tpl_rut_book",
@@ -453,7 +453,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "birch/es-419_ulbb_tit_book": {
       "fullName": "birch/es-419_ulbb_tit_book",
@@ -498,7 +498,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "abelper8/es-419_ulb_phm_book": {
       "fullName": "abelper8/es-419_ulb_phm_book",
@@ -567,7 +567,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "birch/es-419_uld_tit_book": {
       "fullName": "birch/es-419_uld_tit_book",
@@ -612,7 +612,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "abelper8/es-419_ulb_tit_book": {
       "fullName": "abelper8/es-419_ulb_tit_book",
@@ -657,7 +657,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "birch/es-419_ulb_tit_book": {
       "fullName": "birch/es-419_ulb_tit_book",
@@ -702,7 +702,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "LarryPinero/es-419_ulb_rut_book": {
       "fullName": "LarryPinero/es-419_ulb_rut_book",
@@ -747,7 +747,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "abelper8/es-419_tpl_phm_book": {
       "fullName": "abelper8/es-419_tpl_phm_book",
@@ -823,7 +823,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "pjoakes/es-419_tps_3jn_book": {
       "fullName": "pjoakes/es-419_tps_3jn_book",
@@ -898,7 +898,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "pjoakes/es-419_tpl_3jn_book": {
       "fullName": "pjoakes/es-419_tpl_3jn_book",
@@ -973,7 +973,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "LarryPinero/es-419_tps_3jn_book": {
       "fullName": "LarryPinero/es-419_tps_3jn_book",
@@ -1048,7 +1048,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "LarryPinero/es-419_tpl_3jn_book": {
       "fullName": "LarryPinero/es-419_tpl_3jn_book",
@@ -1117,7 +1117,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "Connie/es-419_ulb_tit_book": {
       "fullName": "Connie/es-419_ulb_tit_book",
@@ -1160,7 +1160,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "abelper8/es-419_tpl_tit_book": {
       "fullName": "abelper8/es-419_tpl_tit_book",
@@ -1229,7 +1229,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "AngelicaReyes/es-419_udb_tit_book": {
       "fullName": "AngelicaReyes/es-419_udb_tit_book",
@@ -1274,7 +1274,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "LarryPinero/es-419_tpl_tit_book": {
       "fullName": "LarryPinero/es-419_tpl_tit_book",
@@ -1414,7 +1414,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "LarryPinero/es-419_tps_tit_book": {
       "fullName": "LarryPinero/es-419_tps_tit_book",
@@ -1554,7 +1554,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "LarryPinero/es-419_udb_tit_book": {
       "fullName": "LarryPinero/es-419_udb_tit_book",
@@ -1625,7 +1625,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "tc01/es-419_ulb_eph_book": {
       "fullName": "tc01/es-419_ulb_eph_book",
@@ -1670,7 +1670,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "tc0.8.1/es-419_abcd_tit_book": {
       "fullName": "tc0.8.1/es-419_abcd_tit_book",
@@ -1730,7 +1730,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "tc0.8.1/es-419_eigh_tit_book": {
       "fullName": "tc0.8.1/es-419_eigh_tit_book",
@@ -6772,6 +6772,838 @@
       },
       "checkMigration": true,
       "modified": "2016-05-12T14:17:38Z"
+    },
+    "bismarck/es-419_eph_text_reg": {
+      "fullName": "bismarck/es-419_eph_text_reg",
+      "ERROR": "Empty Repo: bismarck/es-419_eph_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/bismarck/es-419_eph_text_reg/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2023-07-26T01:55:38Z"
+    },
+    "EliasPinero/es-419_est_text_reg": {
+      "fullName": "EliasPinero/es-419_est_text_reg",
+      "ERROR": "Empty Repo: EliasPinero/es-419_est_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/EliasPinero/es-419_est_text_reg/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2023-07-14T18:26:56Z"
+    },
+    "abelper8/es-419_eph_text_reg": {
+      "fullName": "abelper8/es-419_eph_text_reg",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "eph",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "text",
+        "bookId": "eph",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-07-14T18:25:27Z"
+    },
+    "EliasPinero/es-419_eph_text_reg": {
+      "fullName": "EliasPinero/es-419_eph_text_reg",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "eph",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "text",
+        "bookId": "eph",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-09-19T22:14:01Z"
+    },
+    "Sudely/es-419_est_text_reg": {
+      "fullName": "Sudely/es-419_est_text_reg",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "est",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "text",
+        "bookId": "est",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-07-11T23:21:15Z"
+    },
+    "abelper8/es-419_est_text_reg": {
+      "fullName": "abelper8/es-419_est_text_reg",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "est",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "text",
+        "bookId": "est",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-27T23:19:43Z"
+    },
+    "politajohnson/es-419_eph_text_reg": {
+      "fullName": "politajohnson/es-419_eph_text_reg",
+      "ERROR": "Empty Repo: politajohnson/es-419_eph_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/politajohnson/es-419_eph_text_reg/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2023-05-16T23:21:45Z"
+    },
+    "abelper8/es-419_ulb_jon_book": {
+      "fullName": "abelper8/es-419_ulb_jon_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "ulb",
+        "bookId": "jon",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "ulb",
+        "bookId": "jon",
+        "time_created": "2022-11-30T04:44:22.259Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-11-30T04:46:48Z"
+    },
+    "abelper8/es-419_ulb_2pe_book": {
+      "fullName": "abelper8/es-419_ulb_2pe_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "ulb",
+        "bookId": "2pe",
+        "percentCompleted": 1,
+        "completedVerses": 61,
+        "totalVerses": 61,
+        "unalignedOrig": 1100,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "ulb",
+        "bookId": "2pe",
+        "time_created": "2022-07-23T18:56:25.133Z",
+        "tc_edit_version": "3.2.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 404
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 315,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-07-23T18:58:41Z"
+    },
+    "es-419_lab/es-419_tpl_tit_book": {
+      "fullName": "es-419_lab/es-419_tpl_tit_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "tpl",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "tpl",
+        "bookId": "tit",
+        "time_created": "2020-04-08T16:54:51.090Z",
+        "tc_edit_version": "3.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v54"
+          },
+          "percentCompleted": 0.22093023255813954,
+          "completedChecks": 19,
+          "totalChecks": 86,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 0.47058823529411764,
+          "completedChecks": 104,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": "corrupt_1_15__1 - Missing 1 selections\t\ngood_3_8__1 - Missing 1 selections\t\nstrife_3_9__1 - Missing 1 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: , TW: corrupt_1_15__1 - Missing 1 selections\t\ngood_3_8__1 - Missing 1 selections\t\nstrife_3_9__1 - Missing 1 selections\t\n",
+      "modified": "2022-07-23T16:54:36Z"
+    },
+    "Fpacione/es-419_reg_jon_book": {
+      "fullName": "Fpacione/es-419_reg_jon_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "reg",
+        "bookId": "jon",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "reg",
+        "bookId": "jon",
+        "time_created": "2022-07-12T09:09:39.621Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-07-12T09:10:24Z"
+    },
+    "miguelcordero/es-419_tps_jon_book": {
+      "fullName": "miguelcordero/es-419_tps_jon_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "tps",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 48,
+        "totalVerses": 48,
+        "unalignedOrig": 11,
+        "unalignedTarget": 25
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "tps",
+        "bookId": "jon",
+        "time_created": "2022-06-02T23:44:55.270Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.17",
+            "gl_check_version": "v44"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 87,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-metonymy_1_2__1",
+                  "selections": "y proclama a la gente allí que estoy planeando castigarlos por sus pecados-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.17"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 188,
+          "totalChecks": 188,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.17"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-08-10T23:47:55Z"
+    },
+    "miguelcordero/es-419_tpl_jon_book": {
+      "fullName": "miguelcordero/es-419_tpl_jon_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "tpl",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 48,
+        "totalVerses": 48,
+        "unalignedOrig": 0,
+        "unalignedTarget": 3
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "tpl",
+        "bookId": "jon",
+        "time_created": "2022-05-24T23:30:05.854Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.17",
+            "gl_check_version": "v44"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 87,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [
+                {
+                  "key": "figs-metonymy_1_2__1",
+                  "selections": "y proclama contra ella-1",
+                  "resourcePartialMatches": 2
+                }
+              ],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.17"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 188,
+          "totalChecks": 188,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.17"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-07-18T23:08:38Z"
+    },
+    "Jesuscastro/es-419_jon_text_reg": {
+      "fullName": "Jesuscastro/es-419_jon_text_reg",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-04-07T21:04:30Z"
+    },
+    "abelper8/es-419_tpl_jon_book": {
+      "fullName": "abelper8/es-419_tpl_jon_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "tpl",
+        "bookId": "jon",
+        "percentCompleted": 0.020833333333333332,
+        "completedVerses": 1,
+        "totalVerses": 48,
+        "unalignedOrig": 680,
+        "unalignedTarget": 1251
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "tpl",
+        "bookId": "jon",
+        "time_created": "2022-04-02T13:56:13.793Z",
+        "tc_edit_version": "3.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23",
+            "gl_check_version": "v57"
+          },
+          "percentCompleted": 0.011494252873563218,
+          "completedChecks": 1,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          },
+          "percentCompleted": 0.005235602094240838,
+          "completedChecks": 1,
+          "totalChecks": 191,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-04-02T14:14:07Z"
+    },
+    "Fpacione/es-419_jon_text_reg": {
+      "fullName": "Fpacione/es-419_jon_text_reg",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-04-05T03:02:14Z"
+    },
+    "chuck/es-419_ulb_1co_book": {
+      "fullName": "chuck/es-419_ulb_1co_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "ulb",
+        "bookId": "1co",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "ulb",
+        "bookId": "1co",
+        "time_created": "2022-03-08T18:53:30.252Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-03-08T18:54:29Z"
+    },
+    "abelper8/es-419_glt_phm_book": {
+      "fullName": "abelper8/es-419_glt_phm_book",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "glt",
+        "bookId": "phm",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "glt",
+        "bookId": "phm",
+        "time_created": "2022-02-23T00:45:45.482Z",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-02-23T00:50:48Z"
+    },
+    "abelper8/es-419_tpl_phm_book2": {
+      "fullName": "abelper8/es-419_tpl_phm_book2",
+      "wA": {
+        "langId": "es-419",
+        "projectId": "tpl",
+        "bookId": "phm",
+        "percentCompleted": 0.04,
+        "completedVerses": 1,
+        "totalVerses": 25,
+        "unalignedOrig": 324,
+        "unalignedTarget": 433
+      },
+      "checks": {
+        "langId": "es-419",
+        "projectId": "phm",
+        "bookId": "tpl",
+        "time_created": "2020-09-21T15:18:20.284Z",
+        "tc_edit_version": "3.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-07-24T20:52:48Z"
     }
   }
 }

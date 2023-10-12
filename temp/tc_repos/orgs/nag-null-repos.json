@@ -46,8 +46,7 @@
           }
         }
       },
-      "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "checkMigration": true
     },
     "shojojohn/nag_irv_1ti_book": {
       "fullName": "shojojohn/nag_irv_1ti_book",
@@ -95,8 +94,7 @@
           }
         }
       },
-      "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "checkMigration": true
     },
     "India_BCS/nag_irv_rev_book": {
       "fullName": "India_BCS/nag_irv_rev_book",
@@ -145,7 +143,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_jud_book": {
       "fullName": "India_BCS/nag_irv_jud_book",
@@ -194,7 +192,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_3jn_book": {
       "fullName": "India_BCS/nag_irv_3jn_book",
@@ -243,7 +241,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_2jn_book": {
       "fullName": "India_BCS/nag_irv_2jn_book",
@@ -292,7 +290,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_1jn_book": {
       "fullName": "India_BCS/nag_irv_1jn_book",
@@ -341,7 +339,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_2pe_book": {
       "fullName": "India_BCS/nag_irv_2pe_book",
@@ -390,7 +388,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_1pe_book": {
       "fullName": "India_BCS/nag_irv_1pe_book",
@@ -439,7 +437,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_jas_book": {
       "fullName": "India_BCS/nag_irv_jas_book",
@@ -488,7 +486,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_heb_book": {
       "fullName": "India_BCS/nag_irv_heb_book",
@@ -537,7 +535,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_phm_book": {
       "fullName": "India_BCS/nag_irv_phm_book",
@@ -586,7 +584,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_tit_book": {
       "fullName": "India_BCS/nag_irv_tit_book",
@@ -635,7 +633,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_2th_book": {
       "fullName": "India_BCS/nag_irv_2th_book",
@@ -684,7 +682,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_1th_book": {
       "fullName": "India_BCS/nag_irv_1th_book",
@@ -733,7 +731,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_col_book": {
       "fullName": "India_BCS/nag_irv_col_book",
@@ -782,7 +780,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_php_book": {
       "fullName": "India_BCS/nag_irv_php_book",
@@ -831,7 +829,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_eph_book": {
       "fullName": "India_BCS/nag_irv_eph_book",
@@ -880,7 +878,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_gal_book": {
       "fullName": "India_BCS/nag_irv_gal_book",
@@ -929,7 +927,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_2co_book": {
       "fullName": "India_BCS/nag_irv_2co_book",
@@ -978,7 +976,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_1co_book": {
       "fullName": "India_BCS/nag_irv_1co_book",
@@ -1027,7 +1025,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_rom_book": {
       "fullName": "India_BCS/nag_irv_rom_book",
@@ -1095,7 +1093,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_act_book": {
       "fullName": "India_BCS/nag_irv_act_book",
@@ -1144,7 +1142,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_jhn_book": {
       "fullName": "India_BCS/nag_irv_jhn_book",
@@ -1193,7 +1191,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_luk_book": {
       "fullName": "India_BCS/nag_irv_luk_book",
@@ -1242,7 +1240,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "India_BCS/nag_irv_mrk_book": {
       "fullName": "India_BCS/nag_irv_mrk_book",
@@ -1291,7 +1289,105 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
+    },
+    "vipinbhadran_BCS/nag_irv_2ti_book": {
+      "fullName": "vipinbhadran_BCS/nag_irv_2ti_book",
+      "wA": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "percentCompleted": 1,
+        "completedVerses": 87,
+        "totalVerses": 87,
+        "unalignedOrig": 304,
+        "unalignedTarget": 632
+      },
+      "checks": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "time_created": "2021-01-04T05:08:17.651Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 119
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 371,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-01-04T05:25:20Z"
+    },
+    "vipinbhadran_BCS/nag_irv_1ti_book": {
+      "fullName": "vipinbhadran_BCS/nag_irv_1ti_book",
+      "wA": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "percentCompleted": 1,
+        "completedVerses": 119,
+        "totalVerses": 119,
+        "unalignedOrig": 291,
+        "unalignedTarget": 917
+      },
+      "checks": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "time_created": "2021-01-04T04:59:10.323Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 148
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 511,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-01-04T05:07:05Z"
     }
   },
   "goodProjects": {
@@ -1342,8 +1438,7 @@
             }
           }
         },
-        "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "checkMigration": true
       },
       "shojojohn/nag_irv_1ti_book": {
         "fullName": "shojojohn/nag_irv_1ti_book",
@@ -1391,8 +1486,105 @@
             }
           }
         },
+        "checkMigration": true
+      },
+      "vipinbhadran_BCS/nag_irv_2ti_book": {
+        "fullName": "vipinbhadran_BCS/nag_irv_2ti_book",
+        "wA": {
+          "langId": "nag",
+          "projectId": "irv",
+          "bookId": "2ti",
+          "percentCompleted": 1,
+          "completedVerses": 87,
+          "totalVerses": 87,
+          "unalignedOrig": 304,
+          "unalignedTarget": 632
+        },
+        "checks": {
+          "langId": "nag",
+          "projectId": "irv",
+          "bookId": "2ti",
+          "time_created": "2021-01-04T05:08:17.651Z",
+          "tc_edit_version": "3.0.0",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 119
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 371,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.13"
+            }
+          }
+        },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "modified": "2021-01-04T05:25:20Z"
+      },
+      "vipinbhadran_BCS/nag_irv_1ti_book": {
+        "fullName": "vipinbhadran_BCS/nag_irv_1ti_book",
+        "wA": {
+          "langId": "nag",
+          "projectId": "irv",
+          "bookId": "1ti",
+          "percentCompleted": 1,
+          "completedVerses": 119,
+          "totalVerses": 119,
+          "unalignedOrig": 291,
+          "unalignedTarget": 917
+        },
+        "checks": {
+          "langId": "nag",
+          "projectId": "irv",
+          "bookId": "1ti",
+          "time_created": "2021-01-04T04:59:10.323Z",
+          "tc_edit_version": "3.0.0",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 148
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 511,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.13"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2021-01-04T05:07:05Z"
       }
     },
     "waNearlyFinished": {},

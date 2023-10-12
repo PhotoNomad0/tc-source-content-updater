@@ -1,6 +1,6 @@
 {
-  "processedProjects": 32,
-  "totalProjects": 32,
+  "processedProjects": 27,
+  "totalProjects": 27,
   "projects": {
     "BCS_India/ta_irv_col_book": {
       "fullName": "BCS_India/ta_irv_col_book",
@@ -48,7 +48,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_php_book": {
       "fullName": "BCS_India/ta_irv_php_book",
@@ -96,7 +97,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_phm_book": {
       "fullName": "BCS_India/ta_irv_phm_book",
@@ -144,7 +146,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_2pe_book": {
       "fullName": "BCS_India/ta_irv_2pe_book",
@@ -192,7 +195,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_2co_book": {
       "fullName": "BCS_India/ta_irv_2co_book",
@@ -240,7 +244,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_1jn_book": {
       "fullName": "BCS_India/ta_irv_1jn_book",
@@ -288,7 +293,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_gal_book": {
       "fullName": "BCS_India/ta_irv_gal_book",
@@ -336,7 +342,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_eph_book": {
       "fullName": "BCS_India/ta_irv_eph_book",
@@ -384,7 +391,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_2jn_book": {
       "fullName": "BCS_India/ta_irv_2jn_book",
@@ -432,7 +440,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_2th_book": {
       "fullName": "BCS_India/ta_irv_2th_book",
@@ -480,7 +489,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_2ti_book": {
       "fullName": "BCS_India/ta_irv_2ti_book",
@@ -528,7 +538,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_3jn_book": {
       "fullName": "BCS_India/ta_irv_3jn_book",
@@ -576,7 +587,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_jas_book": {
       "fullName": "BCS_India/ta_irv_jas_book",
@@ -624,7 +636,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "BCS_India/ta_irv_tit_book": {
       "fullName": "BCS_India/ta_irv_tit_book",
@@ -672,7 +685,8 @@
           }
         }
       },
-      "checkMigration": true
+      "checkMigration": true,
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "shojojohn/ta_irv_1ti_book": {
       "fullName": "shojojohn/ta_irv_1ti_book",
@@ -1590,6 +1604,750 @@
         }
       },
       "checkMigration": true
+    },
+    "vipinbhadran_BCS/ta_irv_1ti_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_1ti_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "percentCompleted": 0.12605042016806722,
+        "completedVerses": 15,
+        "totalVerses": 119,
+        "unalignedOrig": 552,
+        "unalignedTarget": 354
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "time_created": "2019-12-30T11:41:06.350Z",
+        "tc_edit_version": "2.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 148,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 518,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-30T11:42:29Z"
+    },
+    "vipinbhadran_BCS/ta_irv_act_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_act_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "act",
+        "percentCompleted": 0.09178743961352658,
+        "completedVerses": 95,
+        "totalVerses": 1035,
+        "unalignedOrig": 5510,
+        "unalignedTarget": 2760
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "act",
+        "time_created": "2019-12-30T10:57:43.432Z",
+        "tc_edit_version": "2.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1117,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4390,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-30T11:12:19Z"
+    },
+    "vipinbhadran_BCS/ta_irv_1pe_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_1pe_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "percentCompleted": 0.09090909090909091,
+        "completedVerses": 10,
+        "totalVerses": 110,
+        "unalignedOrig": 664,
+        "unalignedTarget": 368
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "1pe",
+        "time_created": "2019-12-30T10:47:16.628Z",
+        "tc_edit_version": "2.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 164
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 635,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-30T10:49:17Z"
+    },
+    "vipinbhadran_BCS/ta_irv_jud_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_jud_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "jud",
+        "percentCompleted": 1,
+        "completedVerses": 26,
+        "totalVerses": 26,
+        "unalignedOrig": 161,
+        "unalignedTarget": 97
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "jud",
+        "time_created": "2019-12-30T09:48:51.864Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 25
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 155,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-30T10:41:05Z"
+    },
+    "vipinbhadran_BCS/ta_irv_rom_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_rom_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "rom",
+        "percentCompleted": 0.9665924276169265,
+        "completedVerses": 434,
+        "totalVerses": 449,
+        "unalignedOrig": 3331,
+        "unalignedTarget": 1448
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "rom",
+        "time_created": "2019-11-12T10:13:37.291Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 630,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2184,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:57:08Z"
+    },
+    "vipinbhadran_BCS/ta_irv_rev_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_rev_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "rev",
+        "percentCompleted": 0.9859484777517564,
+        "completedVerses": 421,
+        "totalVerses": 427,
+        "unalignedOrig": 3374,
+        "unalignedTarget": 1015
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "rev",
+        "time_created": "2019-11-13T11:31:17.504Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 593,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2347,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:54:49Z"
+    },
+    "vipinbhadran_BCS/ta_irv_mrk_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_mrk_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "percentCompleted": 0.99,
+        "completedVerses": 691,
+        "totalVerses": 694,
+        "unalignedOrig": 3070,
+        "unalignedTarget": 1596
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "mrk",
+        "time_created": "2019-11-11T10:39:06.249Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 665,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 2234,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:52:44Z"
+    },
+    "vipinbhadran_BCS/ta_irv_mat_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_mat_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "mat",
+        "percentCompleted": 0.99,
+        "completedVerses": 1095,
+        "totalVerses": 1098,
+        "unalignedOrig": 5482,
+        "unalignedTarget": 2579
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "mat",
+        "time_created": "2019-10-31T10:54:31.021Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1289,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4093,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:50:54Z"
+    },
+    "vipinbhadran_BCS/ta_irv_luk_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_luk_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "luk",
+        "percentCompleted": 0.99,
+        "completedVerses": 1167,
+        "totalVerses": 1173,
+        "unalignedOrig": 6149,
+        "unalignedTarget": 3251
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "luk",
+        "time_created": "2019-11-04T10:51:13.361Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1287,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 4128,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:48:10Z"
+    },
+    "vipinbhadran_BCS/ta_irv_jhn_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_jhn_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "percentCompleted": 0.99,
+        "completedVerses": 895,
+        "totalVerses": 900,
+        "unalignedOrig": 3898,
+        "unalignedTarget": 1626
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "jhn",
+        "time_created": "2019-11-07T05:45:21.397Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 778,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 3399,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:44:28Z"
+    },
+    "vipinbhadran_BCS/ta_irv_heb_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_heb_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "heb",
+        "percentCompleted": 0.9778481012658228,
+        "completedVerses": 309,
+        "totalVerses": 316,
+        "unalignedOrig": 1681,
+        "unalignedTarget": 858
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "heb",
+        "time_created": "2019-11-15T06:18:03.257Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 499,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 1416,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:42:12Z"
+    },
+    "vipinbhadran_BCS/ta_irv_1th_book": {
+      "fullName": "vipinbhadran_BCS/ta_irv_1th_book",
+      "wA": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "1th",
+        "percentCompleted": 0.925531914893617,
+        "completedVerses": 87,
+        "totalVerses": 94,
+        "unalignedOrig": 703,
+        "unalignedTarget": 264
+      },
+      "checks": {
+        "langId": "ta",
+        "projectId": "irv",
+        "bookId": "1th",
+        "time_created": "2019-11-14T09:42:37.156Z",
+        "tc_edit_version": "2.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 96,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 450,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2019-12-05T05:37:01Z"
     }
   }
 }

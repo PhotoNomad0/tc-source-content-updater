@@ -1,5 +1,5 @@
 {
-  "processedProjects": 27,
+  "processedProjects": 3,
   "totalProjects": 27,
   "projects": {
     "shojojohn/nag_irv_2ti_book": {
@@ -1268,6 +1268,104 @@
         }
       },
       "checkMigration": true
+    },
+    "vipinbhadran_BCS/nag_irv_2ti_book": {
+      "fullName": "vipinbhadran_BCS/nag_irv_2ti_book",
+      "wA": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "percentCompleted": 1,
+        "completedVerses": 87,
+        "totalVerses": 87,
+        "unalignedOrig": 304,
+        "unalignedTarget": 632
+      },
+      "checks": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "2ti",
+        "time_created": "2021-01-04T05:08:17.651Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 119
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 371,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-01-04T05:25:20Z"
+    },
+    "vipinbhadran_BCS/nag_irv_1ti_book": {
+      "fullName": "vipinbhadran_BCS/nag_irv_1ti_book",
+      "wA": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "percentCompleted": 1,
+        "completedVerses": 119,
+        "totalVerses": 119,
+        "unalignedOrig": 291,
+        "unalignedTarget": 917
+      },
+      "checks": {
+        "langId": "nag",
+        "projectId": "irv",
+        "bookId": "1ti",
+        "time_created": "2021-01-04T04:59:10.323Z",
+        "tc_edit_version": "3.0.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 148
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 511,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.13"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2021-01-04T05:07:05Z"
     }
   }
 }

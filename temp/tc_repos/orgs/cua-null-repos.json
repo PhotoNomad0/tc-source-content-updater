@@ -67,7 +67,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_mrk_book": {
       "fullName": "cor_2020/cua_clt_mrk_book",
@@ -116,7 +116,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_mat_book": {
       "fullName": "cor_2020/cua_clt_mat_book",
@@ -127,8 +127,8 @@
         "percentCompleted": 1,
         "completedVerses": 1071,
         "totalVerses": 1071,
-        "unalignedOrig": 3692,
-        "unalignedTarget": 816
+        "unalignedOrig": 3712,
+        "unalignedTarget": 834
       },
       "checks": {
         "langId": "cua",
@@ -153,7 +153,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v57"
+                "glVersion": "v66_Door43-Catalog"
               }
             },
             "toolWarnings": ""
@@ -185,7 +185,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T10:00:58Z"
+      "modified": "2022-07-14T01:49:08Z"
     },
     "cor_2020/cua_clt_luk_book": {
       "fullName": "cor_2020/cua_clt_luk_book",
@@ -234,7 +234,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_jhn_book": {
       "fullName": "cor_2020/cua_clt_jhn_book",
@@ -242,11 +242,11 @@
         "langId": "cua",
         "projectId": "clt",
         "bookId": "jhn",
-        "percentCompleted": 1,
-        "completedVerses": 879,
+        "percentCompleted": 0.99,
+        "completedVerses": 877,
         "totalVerses": 879,
-        "unalignedOrig": 3364,
-        "unalignedTarget": 244
+        "unalignedOrig": 3086,
+        "unalignedTarget": 187
       },
       "checks": {
         "langId": "cua",
@@ -261,7 +261,9 @@
           "totalChecks": 778
         },
         "translationWords": {
-          "toolData": {},
+          "toolData": {
+            "SelectedGL": "en"
+          },
           "percentCompleted": 0,
           "completedChecks": 0,
           "totalChecks": 3352,
@@ -278,12 +280,12 @@
         "wordAlignment": {
           "toolData": {
             "SelectedGL": "en",
-            "orig_lang_check_version": "0.16"
+            "orig_lang_check_version": "0.30"
           }
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T03:59:39Z"
+      "modified": "2023-09-18T10:00:37Z"
     },
     "cor_2020/cua_clt_tit_book": {
       "fullName": "cor_2020/cua_clt_tit_book",
@@ -295,7 +297,7 @@
         "completedVerses": 46,
         "totalVerses": 46,
         "unalignedOrig": 56,
-        "unalignedTarget": 19
+        "unalignedTarget": 26
       },
       "checks": {
         "langId": "cua",
@@ -312,7 +314,7 @@
           },
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 84,
+          "totalChecks": 97,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -320,7 +322,7 @@
               "duplicateMigrations": [],
               "unmatched": [],
               "data": {
-                "glVersion": "v54"
+                "glVersion": "v66_Door43-Catalog"
               }
             },
             "toolWarnings": ""
@@ -347,12 +349,12 @@
         "wordAlignment": {
           "toolData": {
             "SelectedGL": "en",
-            "orig_lang_check_version": "0.16"
+            "orig_lang_check_version": "0.30"
           }
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-12T09:26:00Z"
+      "modified": "2023-09-12T06:52:42Z"
     },
     "cor_2020/cua_clt_rev_book": {
       "fullName": "cor_2020/cua_clt_rev_book",
@@ -363,8 +365,8 @@
         "percentCompleted": 1,
         "completedVerses": 405,
         "totalVerses": 405,
-        "unalignedOrig": 2322,
-        "unalignedTarget": 315
+        "unalignedOrig": 2104,
+        "unalignedTarget": 97
       },
       "checks": {
         "langId": "cua",
@@ -376,13 +378,13 @@
         "translationNotes": {
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 593
+          "totalChecks": 646
         },
         "translationWords": {
           "toolData": {},
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 2320,
+          "totalChecks": 2322,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -396,12 +398,12 @@
         "wordAlignment": {
           "toolData": {
             "SelectedGL": "en",
-            "orig_lang_check_version": "0.16"
+            "orig_lang_check_version": "0.30"
           }
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T10:06:13Z"
+      "modified": "2023-08-30T02:21:59Z"
     },
     "cor_2020/cua_clt_php_book": {
       "fullName": "cor_2020/cua_clt_php_book",
@@ -450,7 +452,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_phm_book": {
       "fullName": "cor_2020/cua_clt_phm_book",
@@ -499,7 +501,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_jud_book": {
       "fullName": "cor_2020/cua_clt_jud_book",
@@ -548,7 +550,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_jas_book": {
       "fullName": "cor_2020/cua_clt_jas_book",
@@ -597,7 +599,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_heb_book": {
       "fullName": "cor_2020/cua_clt_heb_book",
@@ -646,7 +648,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_gal_book": {
       "fullName": "cor_2020/cua_clt_gal_book",
@@ -695,7 +697,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_eph_book": {
       "fullName": "cor_2020/cua_clt_eph_book",
@@ -744,7 +746,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_col_book": {
       "fullName": "cor_2020/cua_clt_col_book",
@@ -755,8 +757,8 @@
         "percentCompleted": 1,
         "completedVerses": 95,
         "totalVerses": 95,
-        "unalignedOrig": 275,
-        "unalignedTarget": 56
+        "unalignedOrig": 276,
+        "unalignedTarget": 36
       },
       "checks": {
         "langId": "cua",
@@ -768,13 +770,13 @@
         "translationNotes": {
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 121
+          "totalChecks": 544
         },
         "translationWords": {
           "toolData": {},
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 446,
+          "totalChecks": 437,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -788,61 +790,18 @@
         "wordAlignment": {
           "toolData": {
             "SelectedGL": "en",
-            "orig_lang_check_version": "0.16"
+            "orig_lang_check_version": "0.30"
           }
         }
       },
       "checkMigration": true,
-      "modified": "2021-12-28T10:06:04Z"
+      "modified": "2023-07-19T01:46:35Z"
     },
     "cor_2020/cua_clt_act_book": {
       "fullName": "cor_2020/cua_clt_act_book",
-      "wA": {
-        "langId": "cua",
-        "projectId": "clt",
-        "bookId": "act",
-        "percentCompleted": 0.9116186693147964,
-        "completedVerses": 918,
-        "totalVerses": 1007,
-        "unalignedOrig": 3940,
-        "unalignedTarget": 192
-      },
-      "checks": {
-        "langId": "cua",
-        "projectId": "clt",
-        "bookId": "act",
-        "time_created": "2020-09-19T15:12:31.052Z",
-        "tc_edit_version": "3.0.1",
-        "tc_version": 7,
-        "translationNotes": {
-          "percentCompleted": 0,
-          "completedChecks": 0,
-          "totalChecks": 1124
-        },
-        "translationWords": {
-          "toolData": {},
-          "percentCompleted": 0,
-          "completedChecks": 0,
-          "totalChecks": 4264,
-          "stats": {
-            "dupes": {},
-            "migrations": {
-              "data": {
-                "glVersion": "v0"
-              }
-            },
-            "toolWarnings": ""
-          }
-        },
-        "wordAlignment": {
-          "toolData": {
-            "SelectedGL": "en",
-            "orig_lang_check_version": "0.16"
-          }
-        }
-      },
+      "ERROR": "Could not download cor_2020/cua_clt_act_book: TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string. Received null",
       "checkMigration": true,
-      "modified": "2022-01-13T10:04:09Z"
+      "modified": "2023-09-21T10:03:24Z"
     },
     "cor_2020/cua_clt_3jn_book": {
       "fullName": "cor_2020/cua_clt_3jn_book",
@@ -891,7 +850,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_2ti_book": {
       "fullName": "cor_2020/cua_clt_2ti_book",
@@ -940,7 +899,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_2th_book": {
       "fullName": "cor_2020/cua_clt_2th_book",
@@ -989,7 +948,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_2pe_book": {
       "fullName": "cor_2020/cua_clt_2pe_book",
@@ -1000,8 +959,8 @@
         "percentCompleted": 1,
         "completedVerses": 61,
         "totalVerses": 61,
-        "unalignedOrig": 119,
-        "unalignedTarget": 21
+        "unalignedOrig": 131,
+        "unalignedTarget": 26
       },
       "checks": {
         "langId": "cua",
@@ -1013,13 +972,13 @@
         "translationNotes": {
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 96
+          "totalChecks": 258
         },
         "translationWords": {
           "toolData": {},
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 326,
+          "totalChecks": 328,
           "stats": {
             "dupes": {},
             "migrations": {
@@ -1033,12 +992,12 @@
         "wordAlignment": {
           "toolData": {
             "SelectedGL": "en",
-            "orig_lang_check_version": "0.16"
+            "orig_lang_check_version": "0.30"
           }
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "modified": "2023-09-21T06:39:05Z"
     },
     "cor_2020/cua_clt_2jn_book": {
       "fullName": "cor_2020/cua_clt_2jn_book",
@@ -1104,7 +1063,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_2co_book": {
       "fullName": "cor_2020/cua_clt_2co_book",
@@ -1115,8 +1074,8 @@
         "percentCompleted": 1,
         "completedVerses": 256,
         "totalVerses": 256,
-        "unalignedOrig": 893,
-        "unalignedTarget": 218
+        "unalignedOrig": 852,
+        "unalignedTarget": 226
       },
       "checks": {
         "langId": "cua",
@@ -1153,7 +1112,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-13T04:01:23Z"
+      "modified": "2022-09-12T08:20:35Z"
     },
     "cor_2020/cua_clt_1ti_book": {
       "fullName": "cor_2020/cua_clt_1ti_book",
@@ -1161,11 +1120,11 @@
         "langId": "cua",
         "projectId": "clt",
         "bookId": "1ti",
-        "percentCompleted": 0.99,
-        "completedVerses": 112,
+        "percentCompleted": 1,
+        "completedVerses": 113,
         "totalVerses": 113,
-        "unalignedOrig": 184,
-        "unalignedTarget": 76
+        "unalignedOrig": 141,
+        "unalignedTarget": 45
       },
       "checks": {
         "langId": "cua",
@@ -1177,7 +1136,7 @@
         "translationNotes": {
           "percentCompleted": 0,
           "completedChecks": 0,
-          "totalChecks": 304
+          "totalChecks": 307
         },
         "translationWords": {
           "toolData": {},
@@ -1197,12 +1156,12 @@
         "wordAlignment": {
           "toolData": {
             "SelectedGL": "en",
-            "orig_lang_check_version": "0.16"
+            "orig_lang_check_version": "0.30"
           }
         }
       },
       "checkMigration": true,
-      "modified": "2022-01-03T09:01:55Z"
+      "modified": "2023-09-04T10:02:39Z"
     },
     "cor_2020/cua_clt_1th_book": {
       "fullName": "cor_2020/cua_clt_1th_book",
@@ -1251,7 +1210,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_1pe_book": {
       "fullName": "cor_2020/cua_clt_1pe_book",
@@ -1300,7 +1259,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     },
     "cor_2020/cua_clt_1jn_book": {
       "fullName": "cor_2020/cua_clt_1jn_book",
@@ -1349,7 +1308,7 @@
         }
       },
       "checkMigration": true,
-      "updated_at": "2022-01-11T15:15:19.768Z"
+      "updated_at": "2023-09-19T17:18:08.123Z"
     }
   },
   "goodProjects": {
@@ -1401,7 +1360,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_mat_book": {
         "fullName": "cor_2020/cua_clt_mat_book",
@@ -1412,8 +1371,8 @@
           "percentCompleted": 1,
           "completedVerses": 1071,
           "totalVerses": 1071,
-          "unalignedOrig": 3692,
-          "unalignedTarget": 816
+          "unalignedOrig": 3712,
+          "unalignedTarget": 834
         },
         "checks": {
           "langId": "cua",
@@ -1438,7 +1397,7 @@
                 "duplicateMigrations": [],
                 "unmatched": [],
                 "data": {
-                  "glVersion": "v57"
+                  "glVersion": "v66_Door43-Catalog"
                 }
               },
               "toolWarnings": ""
@@ -1470,56 +1429,7 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-13T10:00:58Z"
-      },
-      "cor_2020/cua_clt_jhn_book": {
-        "fullName": "cor_2020/cua_clt_jhn_book",
-        "wA": {
-          "langId": "cua",
-          "projectId": "clt",
-          "bookId": "jhn",
-          "percentCompleted": 1,
-          "completedVerses": 879,
-          "totalVerses": 879,
-          "unalignedOrig": 3364,
-          "unalignedTarget": 244
-        },
-        "checks": {
-          "langId": "cua",
-          "projectId": "clt",
-          "bookId": "jhn",
-          "time_created": "2020-09-18T08:39:52.228Z",
-          "tc_edit_version": "3.0.1",
-          "tc_version": 7,
-          "translationNotes": {
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 778
-          },
-          "translationWords": {
-            "toolData": {},
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 3352,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "data": {
-                  "glVersion": "v0"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "wordAlignment": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
-            }
-          }
-        },
-        "checkMigration": true,
-        "modified": "2022-01-12T03:59:39Z"
+        "modified": "2022-07-14T01:49:08Z"
       },
       "cor_2020/cua_clt_tit_book": {
         "fullName": "cor_2020/cua_clt_tit_book",
@@ -1531,7 +1441,7 @@
           "completedVerses": 46,
           "totalVerses": 46,
           "unalignedOrig": 56,
-          "unalignedTarget": 19
+          "unalignedTarget": 26
         },
         "checks": {
           "langId": "cua",
@@ -1548,7 +1458,7 @@
             },
             "percentCompleted": 0,
             "completedChecks": 0,
-            "totalChecks": 84,
+            "totalChecks": 97,
             "stats": {
               "dupes": {},
               "migrations": {
@@ -1556,7 +1466,7 @@
                 "duplicateMigrations": [],
                 "unmatched": [],
                 "data": {
-                  "glVersion": "v54"
+                  "glVersion": "v66_Door43-Catalog"
                 }
               },
               "toolWarnings": ""
@@ -1583,12 +1493,12 @@
           "wordAlignment": {
             "toolData": {
               "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
+              "orig_lang_check_version": "0.30"
             }
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-12T09:26:00Z"
+        "modified": "2023-09-12T06:52:42Z"
       },
       "cor_2020/cua_clt_rev_book": {
         "fullName": "cor_2020/cua_clt_rev_book",
@@ -1599,8 +1509,8 @@
           "percentCompleted": 1,
           "completedVerses": 405,
           "totalVerses": 405,
-          "unalignedOrig": 2322,
-          "unalignedTarget": 315
+          "unalignedOrig": 2104,
+          "unalignedTarget": 97
         },
         "checks": {
           "langId": "cua",
@@ -1612,13 +1522,13 @@
           "translationNotes": {
             "percentCompleted": 0,
             "completedChecks": 0,
-            "totalChecks": 593
+            "totalChecks": 646
           },
           "translationWords": {
             "toolData": {},
             "percentCompleted": 0,
             "completedChecks": 0,
-            "totalChecks": 2320,
+            "totalChecks": 2322,
             "stats": {
               "dupes": {},
               "migrations": {
@@ -1632,12 +1542,12 @@
           "wordAlignment": {
             "toolData": {
               "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
+              "orig_lang_check_version": "0.30"
             }
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-13T10:06:13Z"
+        "modified": "2023-08-30T02:21:59Z"
       },
       "cor_2020/cua_clt_php_book": {
         "fullName": "cor_2020/cua_clt_php_book",
@@ -1686,7 +1596,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_phm_book": {
         "fullName": "cor_2020/cua_clt_phm_book",
@@ -1735,7 +1645,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_jud_book": {
         "fullName": "cor_2020/cua_clt_jud_book",
@@ -1784,7 +1694,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_jas_book": {
         "fullName": "cor_2020/cua_clt_jas_book",
@@ -1833,7 +1743,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_eph_book": {
         "fullName": "cor_2020/cua_clt_eph_book",
@@ -1882,7 +1792,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_col_book": {
         "fullName": "cor_2020/cua_clt_col_book",
@@ -1893,8 +1803,8 @@
           "percentCompleted": 1,
           "completedVerses": 95,
           "totalVerses": 95,
-          "unalignedOrig": 275,
-          "unalignedTarget": 56
+          "unalignedOrig": 276,
+          "unalignedTarget": 36
         },
         "checks": {
           "langId": "cua",
@@ -1906,13 +1816,13 @@
           "translationNotes": {
             "percentCompleted": 0,
             "completedChecks": 0,
-            "totalChecks": 121
+            "totalChecks": 544
           },
           "translationWords": {
             "toolData": {},
             "percentCompleted": 0,
             "completedChecks": 0,
-            "totalChecks": 446,
+            "totalChecks": 437,
             "stats": {
               "dupes": {},
               "migrations": {
@@ -1926,12 +1836,12 @@
           "wordAlignment": {
             "toolData": {
               "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
+              "orig_lang_check_version": "0.30"
             }
           }
         },
         "checkMigration": true,
-        "modified": "2021-12-28T10:06:04Z"
+        "modified": "2023-07-19T01:46:35Z"
       },
       "cor_2020/cua_clt_3jn_book": {
         "fullName": "cor_2020/cua_clt_3jn_book",
@@ -1980,7 +1890,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_2ti_book": {
         "fullName": "cor_2020/cua_clt_2ti_book",
@@ -2029,7 +1939,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_2th_book": {
         "fullName": "cor_2020/cua_clt_2th_book",
@@ -2078,7 +1988,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_2pe_book": {
         "fullName": "cor_2020/cua_clt_2pe_book",
@@ -2089,8 +1999,8 @@
           "percentCompleted": 1,
           "completedVerses": 61,
           "totalVerses": 61,
-          "unalignedOrig": 119,
-          "unalignedTarget": 21
+          "unalignedOrig": 131,
+          "unalignedTarget": 26
         },
         "checks": {
           "langId": "cua",
@@ -2102,13 +2012,13 @@
           "translationNotes": {
             "percentCompleted": 0,
             "completedChecks": 0,
-            "totalChecks": 96
+            "totalChecks": 258
           },
           "translationWords": {
             "toolData": {},
             "percentCompleted": 0,
             "completedChecks": 0,
-            "totalChecks": 326,
+            "totalChecks": 328,
             "stats": {
               "dupes": {},
               "migrations": {
@@ -2122,12 +2032,12 @@
           "wordAlignment": {
             "toolData": {
               "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
+              "orig_lang_check_version": "0.30"
             }
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "modified": "2023-09-21T06:39:05Z"
       },
       "cor_2020/cua_clt_2jn_book": {
         "fullName": "cor_2020/cua_clt_2jn_book",
@@ -2193,7 +2103,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_2co_book": {
         "fullName": "cor_2020/cua_clt_2co_book",
@@ -2204,8 +2114,8 @@
           "percentCompleted": 1,
           "completedVerses": 256,
           "totalVerses": 256,
-          "unalignedOrig": 893,
-          "unalignedTarget": 218
+          "unalignedOrig": 852,
+          "unalignedTarget": 226
         },
         "checks": {
           "langId": "cua",
@@ -2242,7 +2152,56 @@
           }
         },
         "checkMigration": true,
-        "modified": "2022-01-13T04:01:23Z"
+        "modified": "2022-09-12T08:20:35Z"
+      },
+      "cor_2020/cua_clt_1ti_book": {
+        "fullName": "cor_2020/cua_clt_1ti_book",
+        "wA": {
+          "langId": "cua",
+          "projectId": "clt",
+          "bookId": "1ti",
+          "percentCompleted": 1,
+          "completedVerses": 113,
+          "totalVerses": 113,
+          "unalignedOrig": 141,
+          "unalignedTarget": 45
+        },
+        "checks": {
+          "langId": "cua",
+          "projectId": "clt",
+          "bookId": "1ti",
+          "time_created": "2020-09-19T15:52:31.927Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 307
+          },
+          "translationWords": {
+            "toolData": {},
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 485,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.30"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2023-09-04T10:02:39Z"
       },
       "cor_2020/cua_clt_1th_book": {
         "fullName": "cor_2020/cua_clt_1th_book",
@@ -2291,7 +2250,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_1pe_book": {
         "fullName": "cor_2020/cua_clt_1pe_book",
@@ -2340,7 +2299,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       },
       "cor_2020/cua_clt_1jn_book": {
         "fullName": "cor_2020/cua_clt_1jn_book",
@@ -2389,10 +2348,61 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       }
     },
     "waNearlyFinished": {
+      "cor_2020/cua_clt_jhn_book": {
+        "fullName": "cor_2020/cua_clt_jhn_book",
+        "wA": {
+          "langId": "cua",
+          "projectId": "clt",
+          "bookId": "jhn",
+          "percentCompleted": 0.99,
+          "completedVerses": 877,
+          "totalVerses": 879,
+          "unalignedOrig": 3086,
+          "unalignedTarget": 187
+        },
+        "checks": {
+          "langId": "cua",
+          "projectId": "clt",
+          "bookId": "jhn",
+          "time_created": "2020-09-18T08:39:52.228Z",
+          "tc_edit_version": "3.0.1",
+          "tc_version": 7,
+          "translationNotes": {
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 778
+          },
+          "translationWords": {
+            "toolData": {
+              "SelectedGL": "en"
+            },
+            "percentCompleted": 0,
+            "completedChecks": 0,
+            "totalChecks": 3352,
+            "stats": {
+              "dupes": {},
+              "migrations": {
+                "data": {
+                  "glVersion": "v0"
+                }
+              },
+              "toolWarnings": ""
+            }
+          },
+          "wordAlignment": {
+            "toolData": {
+              "SelectedGL": "en",
+              "orig_lang_check_version": "0.30"
+            }
+          }
+        },
+        "checkMigration": true,
+        "modified": "2023-09-18T10:00:37Z"
+      },
       "cor_2020/cua_clt_heb_book": {
         "fullName": "cor_2020/cua_clt_heb_book",
         "wA": {
@@ -2440,105 +2450,7 @@
           }
         },
         "checkMigration": true,
-        "updated_at": "2022-01-11T15:15:19.768Z"
-      },
-      "cor_2020/cua_clt_act_book": {
-        "fullName": "cor_2020/cua_clt_act_book",
-        "wA": {
-          "langId": "cua",
-          "projectId": "clt",
-          "bookId": "act",
-          "percentCompleted": 0.9116186693147964,
-          "completedVerses": 918,
-          "totalVerses": 1007,
-          "unalignedOrig": 3940,
-          "unalignedTarget": 192
-        },
-        "checks": {
-          "langId": "cua",
-          "projectId": "clt",
-          "bookId": "act",
-          "time_created": "2020-09-19T15:12:31.052Z",
-          "tc_edit_version": "3.0.1",
-          "tc_version": 7,
-          "translationNotes": {
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 1124
-          },
-          "translationWords": {
-            "toolData": {},
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 4264,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "data": {
-                  "glVersion": "v0"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "wordAlignment": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
-            }
-          }
-        },
-        "checkMigration": true,
-        "modified": "2022-01-13T10:04:09Z"
-      },
-      "cor_2020/cua_clt_1ti_book": {
-        "fullName": "cor_2020/cua_clt_1ti_book",
-        "wA": {
-          "langId": "cua",
-          "projectId": "clt",
-          "bookId": "1ti",
-          "percentCompleted": 0.99,
-          "completedVerses": 112,
-          "totalVerses": 113,
-          "unalignedOrig": 184,
-          "unalignedTarget": 76
-        },
-        "checks": {
-          "langId": "cua",
-          "projectId": "clt",
-          "bookId": "1ti",
-          "time_created": "2020-09-19T15:52:31.927Z",
-          "tc_edit_version": "3.0.1",
-          "tc_version": 7,
-          "translationNotes": {
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 304
-          },
-          "translationWords": {
-            "toolData": {},
-            "percentCompleted": 0,
-            "completedChecks": 0,
-            "totalChecks": 485,
-            "stats": {
-              "dupes": {},
-              "migrations": {
-                "data": {
-                  "glVersion": "v0"
-                }
-              },
-              "toolWarnings": ""
-            }
-          },
-          "wordAlignment": {
-            "toolData": {
-              "SelectedGL": "en",
-              "orig_lang_check_version": "0.16"
-            }
-          }
-        },
-        "checkMigration": true,
-        "modified": "2022-01-03T09:01:55Z"
+        "updated_at": "2023-09-19T17:18:08.123Z"
       }
     },
     "allFinished": {},

@@ -1,6 +1,6 @@
 {
-  "processedProjects": 132,
-  "totalProjects": 159,
+  "processedProjects": 126,
+  "totalProjects": 153,
   "projects": {
     "pjoakes/en-x-demo1_udbx_tit_book": {
       "fullName": "pjoakes/en-x-demo1_udbx_tit_book",
@@ -4538,19 +4538,19 @@
     },
     "qa555/en-x-demo1_php_text_reg": {
       "fullName": "qa555/en-x-demo1_php_text_reg",
-      "ERROR": "Could not download qa555/en-x-demo1_php_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/qa555/en-x-demo1_php_text_reg/archive/master.zip: Download did not succeed, code 500",
+      "ERROR": "Empty Repo: qa555/en-x-demo1_php_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/qa555/en-x-demo1_php_text_reg/archive/master.zip: Download did not succeed, code 404",
       "checkMigration": true,
       "modified": "2016-12-08T22:01:45Z"
     },
     "qa55/en-x-demo1_jud_text_reg": {
       "fullName": "qa55/en-x-demo1_jud_text_reg",
-      "ERROR": "Could not download qa55/en-x-demo1_jud_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/qa55/en-x-demo1_jud_text_reg/archive/master.zip: Download did not succeed, code 500",
+      "ERROR": "Empty Repo: qa55/en-x-demo1_jud_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/qa55/en-x-demo1_jud_text_reg/archive/master.zip: Download did not succeed, code 404",
       "checkMigration": true,
       "modified": "2016-12-08T22:00:35Z"
     },
     "qa5/en-x-demo1_psa_text_reg": {
       "fullName": "qa5/en-x-demo1_psa_text_reg",
-      "ERROR": "Could not download qa5/en-x-demo1_psa_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/qa5/en-x-demo1_psa_text_reg/archive/master.zip: Download did not succeed, code 500",
+      "ERROR": "Empty Repo: qa5/en-x-demo1_psa_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/qa5/en-x-demo1_psa_text_reg/archive/master.zip: Download did not succeed, code 404",
       "checkMigration": true,
       "modified": "2016-12-08T20:35:14Z"
     },

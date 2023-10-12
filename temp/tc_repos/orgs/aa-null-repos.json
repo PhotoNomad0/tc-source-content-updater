@@ -3999,6 +3999,55 @@
       },
       "checkMigration": true,
       "modified": "2016-04-18T17:12:54Z"
+    },
+    "mXaln/aa_mat_text_reg": {
+      "fullName": "mXaln/aa_mat_text_reg",
+      "wA": {
+        "langId": "aa",
+        "projectId": "mat",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "aa",
+        "projectId": "text",
+        "bookId": "mat",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-09-08T13:14:36Z"
+    },
+    "j_aleksandrovich/aa_mrk_text_reg": {
+      "fullName": "j_aleksandrovich/aa_mrk_text_reg",
+      "ERROR": "Empty Repo: j_aleksandrovich/aa_mrk_text_reg: Error: UNABLE_TO_DOWNLOAD_RESOURCES for https://git.door43.org/j_aleksandrovich/aa_mrk_text_reg/archive/master.zip: Download did not succeed, code 404",
+      "checkMigration": true,
+      "modified": "2022-07-06T14:05:32Z"
     }
   },
   "goodProjects": {

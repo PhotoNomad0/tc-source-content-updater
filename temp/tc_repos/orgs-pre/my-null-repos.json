@@ -1,6 +1,6 @@
 {
-  "processedProjects": 8,
-  "totalProjects": 12,
+  "processedProjects": 14,
+  "totalProjects": 18,
   "projects": {
     "photonomad0/my_ulb_1co_book": {
       "fullName": "photonomad0/my_ulb_1co_book",
@@ -495,6 +495,394 @@
       },
       "checkMigration": true,
       "modified": "2019-03-25T12:41:43Z"
+    },
+    "richmahn/my_jud_tit_book": {
+      "fullName": "richmahn/my_jud_tit_book",
+      "wA": {
+        "langId": "my",
+        "projectId": "jud",
+        "bookId": "tit",
+        "percentCompleted": 0.13043478260869565,
+        "completedVerses": 6,
+        "totalVerses": 46,
+        "unalignedOrig": 658,
+        "unalignedTarget": 431
+      },
+      "checks": {
+        "langId": "my",
+        "projectId": "jud",
+        "bookId": "tit",
+        "time_created": "2020-05-11T18:30:04.779Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 86
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-01-27T14:54:10Z"
+    },
+    "photonomad1/my_test_tit_book": {
+      "fullName": "photonomad1/my_test_tit_book",
+      "wA": {
+        "langId": "my",
+        "projectId": "test",
+        "bookId": "tit",
+        "percentCompleted": 0.13043478260869565,
+        "completedVerses": 6,
+        "totalVerses": 46,
+        "unalignedOrig": 659,
+        "unalignedTarget": 431
+      },
+      "checks": {
+        "langId": "my",
+        "projectId": "test",
+        "bookId": "tit",
+        "time_created": "2022-11-05T19:01:56.743Z",
+        "tc_edit_version": "3.4.1-print",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30",
+            "gl_check_version": "v66_Door43-Catalog"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 86,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-11-16T10:21:03Z"
+    },
+    "photonomad0/my_test_tit_book": {
+      "fullName": "photonomad0/my_test_tit_book",
+      "wA": {
+        "langId": "my",
+        "projectId": "test",
+        "bookId": "tit",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 46,
+        "unalignedOrig": 659,
+        "unalignedTarget": 439
+      },
+      "checks": {
+        "langId": "my",
+        "projectId": "test",
+        "bookId": "tit",
+        "time_created": "2022-11-02T17:57:09.131Z",
+        "tc_edit_version": "3.4.1-print",
+        "tc_version": 8,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.29",
+            "gl_check_version": "v65_Door43-Catalog"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 86,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-11-10T16:29:31Z"
+    },
+    "DMS/my_mlt_tit_book": {
+      "fullName": "DMS/my_mlt_tit_book",
+      "wA": {
+        "langId": "my",
+        "projectId": "mlt",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 247,
+        "unalignedTarget": 242
+      },
+      "checks": {
+        "langId": "my",
+        "projectId": "mlt",
+        "bookId": "tit",
+        "time_created": "2021-10-04T14:14:33.858Z",
+        "tc_edit_version": "3.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22",
+            "gl_check_version": "v57"
+          },
+          "percentCompleted": 0.8488372093023255,
+          "completedChecks": 73,
+          "totalChecks": 86,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 221,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.22"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-04-18T09:25:39Z"
+    },
+    "DMS/my_tit_tit_book": {
+      "fullName": "DMS/my_tit_tit_book",
+      "wA": {
+        "langId": "my",
+        "projectId": "tit",
+        "bookId": "tit",
+        "percentCompleted": 0.125,
+        "completedVerses": 6,
+        "totalVerses": 48,
+        "unalignedOrig": 445,
+        "unalignedTarget": 300
+      },
+      "checks": {
+        "langId": "my",
+        "projectId": "tit",
+        "bookId": "tit",
+        "time_created": "2022-01-31T04:28:28.178Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 84,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-01-31T04:41:47Z"
+    },
+    "DMS/my_reg_tit_book": {
+      "fullName": "DMS/my_reg_tit_book",
+      "wA": {
+        "langId": "my",
+        "projectId": "reg",
+        "bookId": "tit",
+        "percentCompleted": 1,
+        "completedVerses": 46,
+        "totalVerses": 46,
+        "unalignedOrig": 247,
+        "unalignedTarget": 239
+      },
+      "checks": {
+        "langId": "my",
+        "projectId": "reg",
+        "bookId": "tit",
+        "time_created": "2021-10-04T14:14:33.858Z",
+        "tc_edit_version": "3.0.1",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14",
+            "gl_check_version": "v33"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 84,
+          "totalChecks": 84,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          },
+          "percentCompleted": 0.99,
+          "completedChecks": 220,
+          "totalChecks": 221,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.14"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2022-02-03T13:08:10Z"
     }
   }
 }

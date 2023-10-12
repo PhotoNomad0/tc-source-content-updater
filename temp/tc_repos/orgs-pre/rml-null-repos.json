@@ -1,6 +1,6 @@
 {
-  "processedProjects": 26,
-  "totalProjects": 37,
+  "processedProjects": 36,
+  "totalProjects": 38,
   "projects": {
     "rm_ol/rml_ling_rut_book": {
       "fullName": "rm_ol/rml_ling_rut_book",
@@ -67,7 +67,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-07-28T11:09:42Z"
+      "modified": "2023-06-20T00:23:27Z"
     },
     "Samuel_Kim/rml_rut_text_reg_all": {
       "fullName": "Samuel_Kim/rml_rut_text_reg_all",
@@ -454,7 +454,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-05-25T20:50:45Z"
+      "modified": "2023-06-20T00:22:00Z"
     },
     "Samuel_Kim/rml_tit_text_reg_L1": {
       "fullName": "Samuel_Kim/rml_tit_text_reg_L1",
@@ -1105,7 +1105,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-04-09T06:17:19Z"
+      "modified": "2023-06-20T00:21:41Z"
     },
     "rm_ol/rml_3jn_text_reg_M_L1": {
       "fullName": "rm_ol/rml_3jn_text_reg_M_L1",
@@ -1320,7 +1320,7 @@
         }
       },
       "checkMigration": true,
-      "modified": "2021-04-27T08:40:06Z"
+      "modified": "2023-06-20T00:12:45Z"
     },
     "DevleskoM/rml_3jn_text_reg_L1": {
       "fullName": "DevleskoM/rml_3jn_text_reg_L1",
@@ -1407,6 +1407,981 @@
       },
       "checkMigration": true,
       "modified": "2021-04-27T08:55:03Z"
+    },
+    "AndreyParf/rml_rhba_1ti_book": {
+      "fullName": "AndreyParf/rml_rhba_1ti_book",
+      "ERROR": "Could not download AndreyParf/rml_rhba_1ti_book: TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string. Received null",
+      "checkMigration": true,
+      "modified": "2023-08-06T14:32:36Z"
+    },
+    "rm_ol/rml_ezr_text_reg_L1": {
+      "fullName": "rm_ol/rml_ezr_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "ezr",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "ezr",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:23:13Z"
+    },
+    "rm_ol/rml_est_text_reg_L1": {
+      "fullName": "rm_ol/rml_est_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "est",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "est",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:23:03Z"
+    },
+    "rm_ol/rml_oba_text_reg_L1": {
+      "fullName": "rm_ol/rml_oba_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "oba",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "oba",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:22:49Z"
+    },
+    "rm_ol/rml_jon_text_reg_L1": {
+      "fullName": "rm_ol/rml_jon_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:22:40Z"
+    },
+    "rm_ol/rml_1ti_text_reg_L1": {
+      "fullName": "rm_ol/rml_1ti_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "1ti",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "1ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:22:21Z"
+    },
+    "rm_ol/rml_2ti_text_reg_L1": {
+      "fullName": "rm_ol/rml_2ti_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "2ti",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "2ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:22:10Z"
+    },
+    "rm_ol/rml_2jn_text_reg_L1": {
+      "fullName": "rm_ol/rml_2jn_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "2jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "2jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:21:46Z"
+    },
+    "DevleskoY/rml_2jn_text_reg_L1": {
+      "fullName": "DevleskoY/rml_2jn_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "2jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "2jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:38Z"
+    },
+    "DevleskoY/rml_tit_text_reg_L1": {
+      "fullName": "DevleskoY/rml_tit_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:33Z"
+    },
+    "DevleskoY/rml_2ti_text_reg_L1": {
+      "fullName": "DevleskoY/rml_2ti_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "2ti",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "2ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:28Z"
+    },
+    "DevleskoY/rml_1ti_text_reg_L1": {
+      "fullName": "DevleskoY/rml_1ti_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "1ti",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "1ti",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:24Z"
+    },
+    "DevleskoY/rml_jon_text_reg_L1": {
+      "fullName": "DevleskoY/rml_jon_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:19Z"
+    },
+    "DevleskoY/rml_oba_text_reg_L1": {
+      "fullName": "DevleskoY/rml_oba_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "oba",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "oba",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:15Z"
+    },
+    "DevleskoY/rml_est_text_reg_L1": {
+      "fullName": "DevleskoY/rml_est_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "est",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "est",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:11Z"
+    },
+    "DevleskoY/rml_ezr_text_reg_L1": {
+      "fullName": "DevleskoY/rml_ezr_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "ezr",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "ezr",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:07Z"
+    },
+    "DevleskoY/rml_rut_text_reg_L1": {
+      "fullName": "DevleskoY/rml_rut_text_reg_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "rut",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "rut",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:12:03Z"
+    },
+    "AndreyParf/rml_rhb_1ti_book_old": {
+      "fullName": "AndreyParf/rml_rhb_1ti_book_old",
+      "wA": {
+        "langId": "rml",
+        "projectId": "rhb",
+        "bookId": "1ti",
+        "percentCompleted": 0.017699115044247787,
+        "completedVerses": 2,
+        "totalVerses": 113,
+        "unalignedOrig": 1290,
+        "unalignedTarget": 1649
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "1ti",
+        "bookId": "rhb",
+        "time_created": "2023-04-23T11:30:47.128Z",
+        "tc_edit_version": "3.4.0",
+        "tc_version": 8,
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "0.30"
+          }
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-08-11T11:56:01Z"
+    },
+    "elman/rml_rhb_jon_book": {
+      "fullName": "elman/rml_rhb_jon_book",
+      "wA": {
+        "langId": "rml",
+        "projectId": "rhb",
+        "bookId": "jon",
+        "percentCompleted": 1,
+        "completedVerses": 48,
+        "totalVerses": 48,
+        "unalignedOrig": 9,
+        "unalignedTarget": 3
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "rhb",
+        "bookId": "jon",
+        "time_created": "2022-04-07T02:19:31.592Z",
+        "tc_edit_version": "3.1.0",
+        "tc_version": 7,
+        "translationNotes": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23",
+            "gl_check_version": "v58"
+          },
+          "percentCompleted": 0.9885057471264368,
+          "completedChecks": 86,
+          "totalChecks": 87,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "migrations": {},
+              "duplicateMigrations": [],
+              "unmatched": [],
+              "data": {
+                "glVersion": "v66_Door43-Catalog"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "translationWords": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          },
+          "percentCompleted": 1,
+          "completedChecks": 191,
+          "totalChecks": 191,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": "god_3_10__1 - Missing 1 selections\t\n"
+          }
+        },
+        "wordAlignment": {
+          "toolData": {
+            "SelectedGL": "en",
+            "orig_lang_check_version": "2.1.23"
+          }
+        }
+      },
+      "checkMigration": true,
+      "projectWarnings": "warnings: WA: , TN: , TW: god_3_10__1 - Missing 1 selections\t\n",
+      "modified": "2022-05-03T16:56:04Z"
+    },
+    "DevleskoY/rml_tit_text_reg_Y_L1": {
+      "fullName": "DevleskoY/rml_tit_text_reg_Y_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "tit",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "tit",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:02:19Z"
+    },
+    "DevleskoY/rml_jon_text_reg_": {
+      "fullName": "DevleskoY/rml_jon_text_reg_",
+      "wA": {
+        "langId": "rml",
+        "projectId": "jon",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "jon",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:01:08Z"
+    },
+    "DevleskoY/rml_rut_text_reg_Y_L1": {
+      "fullName": "DevleskoY/rml_rut_text_reg_Y_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "rut",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "rut",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v2.1"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:01:52Z"
+    },
+    "DevleskoY/rml_3jn_text_reg_Y_L1": {
+      "fullName": "DevleskoY/rml_3jn_text_reg_Y_L1",
+      "wA": {
+        "langId": "rml",
+        "projectId": "3jn",
+        "bookId": "text",
+        "percentCompleted": 0,
+        "completedVerses": 0,
+        "totalVerses": 0,
+        "unalignedOrig": 0,
+        "unalignedTarget": 0
+      },
+      "checks": {
+        "langId": "rml",
+        "projectId": "text",
+        "bookId": "3jn",
+        "translationNotes": {
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0
+        },
+        "translationWords": {
+          "toolData": {},
+          "percentCompleted": 0,
+          "completedChecks": 0,
+          "totalChecks": 0,
+          "stats": {
+            "dupes": {},
+            "migrations": {
+              "data": {
+                "glVersion": "v0"
+              }
+            },
+            "toolWarnings": ""
+          }
+        },
+        "wordAlignment": {
+          "toolData": {}
+        }
+      },
+      "checkMigration": true,
+      "modified": "2023-06-20T00:00:02Z"
     }
   }
 }
